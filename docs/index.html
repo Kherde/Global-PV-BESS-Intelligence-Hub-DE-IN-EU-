@@ -2,135 +2,124 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>PV + BESS Intelligence Hub (DE · IN · EU)</title>
-  <!-- React + Recharts via CDN (no build needed) -->
-  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
-  <script src="https://unpkg.com/recharts/umd/Recharts.min.js"></script>
+  <link rel="preconnect" href="https://cdn.tailwindcss.com">
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { background:#f1f5f9; }
+    .card { background:#fff; border-radius:16px; box-shadow:0 2px 12px rgba(0,0,0,.06); }
+    .tbl th, .tbl td { padding:.5rem .75rem; font-size:14px; }
+    .tbl thead { background:#e2e8f0; color:#334155; }
+    .badge { background:#f8fafc; border-radius:12px; padding:.25rem .5rem; }
+  </style>
 </head>
-<body class="bg-slate-50">
-  <div id="root" class="p-4 md:p-8"></div>
+<body class="p-4 md:p-8">
+  <div class="max-w-7xl mx-auto">
+    <header class="mb-6">
+      <h1 class="text-2xl md:text-3xl font-bold">PV + BESS Intelligence Hub</h1>
+      <p class="text-sm text-slate-600">Germany · India · Europe · Global context</p>
+      <p id="updated" class="text-xs text-slate-500 mt-1"></p>
+      <div id="err" class="text-sm text-red-600 mt-2"></div>
+    </header>
 
-  <script type="text/babel">
-    const { useEffect, useMemo, useState } = React;
-    const { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } = Recharts;
+    <!-- Controls -->
+    <section class="card p-4 mb-6 grid md:grid-cols-6 gap-3">
+      <input id="q" class="border rounded-xl px-3 py-2 md:col-span-2" placeholder="Search headlines, tags, entities…">
+      <select id="region" class="border rounded-xl px-3 py-2">
+        <option>All</option><option>Germany</option><option>India</option><option>Europe</option><option>Global</option>
+      </select>
+      <select id="country" class="border rounded-xl px-3 py-2">
+        <option>All</option><option>DE</option><option>IN</option><option>EU</option><option>UK</option><option>FR</option><option>IT</option><option>ES</option><option>PL</option><option>NL</option>
+      </select>
+      <select id="category" class="border rounded-xl px-3 py-2">
+        <option>All</option><option>policy</option><option>tender</option><option>project</option><option>grid</option><option>price</option><option>tech</option><option>finance</option><option>oem</option><option>market</option>
+      </select>
+      <label class="flex items-center gap-2 text-sm"><input id="hybridOnly" type="checkbox"> Hybrid only</label>
+      <label class="flex items-center gap-2 text-sm"><input id="utilityOnly" type="checkbox" checked> Utility-scale</label>
 
-    function App(){
-      const [items, setItems] = useState([]);
-      const [query, setQuery] = useState("");
-      const [region, setRegion] = useState("All");
-      const [country, setCountry] = useState("All");
-      const [category, setCategory] = useState("All");
-      const [hybridOnly, setHybridOnly] = useState(false);
-      const [utilityOnly, setUtilityOnly] = useState(true);
-      const [sortKey, setSortKey] = useState("impact_score_1to5");
-      const [sortDir, setSortDir] = useState("desc");
-      const [lastUpdated, setLastUpdated] = useState(null);
+      <div class="flex items-center gap-2">
+        <label class="text-sm">Sort by</label>
+        <select id="sortKey" class="border rounded-xl px-3 py-2">
+          <option>impact_score_1to5</option><option>date_utc</option><option>category</option>
+          <option>country</option><option>capacity_MW</option><option>tariff_or_price_usd</option>
+        </select>
+        <button id="sortDir" class="border rounded-xl px-3 py-2">DESC</button>
+      </div>
+    </section>
 
-      // Load dataset.json that your Action updates daily
-      useEffect(()=>{
-        fetch("dataset.json?_=" + Date.now())
-          .then(r=>r.json())
-          .then(d=>{ setItems(Array.isArray(d)?d:[]); setLastUpdated(new Date().toISOString()); })
-          .catch(err=> console.warn("dataset.json not found or invalid JSON:", err));
-      },[]);
+    <!-- KPIs -->
+    <section class="grid md:grid-cols-3 gap-4 mb-6">
+      <div class="card p-4">
+        <div class="text-sm text-slate-500">rolling dataset</div>
+        <div class="text-lg font-semibold">Items in store</div>
+        <div id="kpiCount" class="text-4xl font-semibold mt-3">—</div>
+      </div>
+      <div class="card p-4">
+        <div class="text-sm text-slate-500">DE / IN / EU / Global</div>
+        <div class="text-lg font-semibold">Region split</div>
+        <div id="kpiRegions" class="grid grid-cols-2 gap-2 mt-3 text-sm"></div>
+      </div>
+      <div class="card p-4">
+        <div class="text-sm text-slate-500">Tip</div>
+        <div class="text-lg font-semibold">Hard refresh</div>
+        <div class="mt-3 text-sm text-slate-600">Press <span class="badge">Ctrl/Cmd + Shift + R</span> to force latest data.</div>
+      </div>
+    </section>
 
-      const filtered = useMemo(()=>{
-        let data = [...items];
-        const q = query.trim().toLowerCase();
-        if (q) data = data.filter(d => ([
-          d.headline, d.summary_80w, (d.tags||[]).join(" "), (d.entities||[]).join(" ")
-        ].join(" ").toLowerCase().includes(q)));
-        if (region!=="All") data = data.filter(d=>d.region===region);
-        if (country!=="All") data = data.filter(d=>d.country===country);
-        if (category!=="All") data = data.filter(d=>d.category===category);
-        if (hybridOnly) data = data.filter(d =>
-          (d.tags||[]).some(t=>/hybrid|pv\+bess/i.test(t)) || /hybrid/i.test(d.subtopic||"")
-        );
-        if (utilityOnly) data = data.filter(d => (d.tags||[]).includes("utility-scale") || (d.capacity_MW||0) >= 10);
-        data.sort((a,b)=>{
-          const av=a[sortKey]??"", bv=b[sortKey]??"";
-          if (["date_utc","effective_date"].includes(sortKey)){
-            return sortDir==="asc" ? new Date(av)-new Date(bv) : new Date(bv)-new Date(av);
-          }
-          if (typeof av==="number" && typeof bv==="number"){
-            return sortDir==="asc" ? av-bv : bv-av;
-          }
-          return sortDir==="asc" ? String(av).localeCompare(String(bv)) : String(bv).localeCompare(String(av));
-        });
-        return data;
-      },[items,query,region,country,category,hybridOnly,utilityOnly,sortKey,sortDir]);
+    <!-- Top 10 -->
+    <section class="card overflow-auto">
+      <table class="tbl min-w-full">
+        <thead>
+          <tr>
+            <th class="text-left">Date</th>
+            <th class="text-left">Headline</th>
+            <th class="text-left">Region</th>
+            <th class="text-left">Country</th>
+            <th class="text-left">Cat</th>
+            <th class="text-right">Impact</th>
+            <th class="text-right">MW</th>
+            <th class="text-right">MWh</th>
+            <th class="text-left">Source</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </section>
+  </div>
 
-      const top10 = filtered.slice(0,10);
+  <script>
+    const el = id => document.getElementById(id);
+    const state = {
+      items: [],
+      sortKey: 'impact_score_1to5',
+      sortDir: 'desc'
+    };
 
-      const kpiSeries = useMemo(()=>{
-        const byDate = {};
-        (items||[]).forEach(d => byDate[d.date_utc] = (byDate[d.date_utc]||0) + (d.capacity_MW||0));
-        return Object.keys(byDate).sort().map(k=>({date:k, capacity_MW: byDate[k]}));
-      },[items]);
+    function showError(msg){
+      el('err').textContent = msg;
+    }
 
-      return (
-        <div className="max-w-7xl mx-auto">
-          <header className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 mb-6">
-            <div>
-              <h1 className="text-2xl md:text-3xl font-bold">PV + BESS Intelligence Hub</h1>
-              <p className="text-sm text-slate-600">Germany · India · Europe · Global context</p>
-              <p className="text-xs text-slate-500 mt-1">
-                Data auto-updates via GitHub Actions — Last updated: {lastUpdated ? new Date(lastUpdated).toLocaleString() : "—"}
-              </p>
-            </div>
-          </header>
+    async function loadData(){
+      try{
+        // If dataset.json is missing or invalid, show a friendly message
+        const r = await fetch('dataset.json?_=' + Date.now());
+        if(!r.ok){ throw new Error('dataset.json not found ('+r.status+')'); }
+        const data = await r.json();
+        if(!Array.isArray(data)) throw new Error('dataset.json did not contain an array');
+        state.items = data;
+        el('updated').textContent = 'Data auto-updates via GitHub Actions — loaded ' + new Date().toLocaleString();
+        el('kpiCount').textContent = state.items.length;
+        renderRegionSplit();
+        render();
+      }catch(err){
+        showError('Could not load dataset.json. Open docs/dataset.json in your repo and confirm it exists. Error: ' + err.message);
+        console.error(err);
+      }
+    }
 
-          {/* Controls */}
-          <section className="bg-white rounded-2xl shadow p-4 mb-6 grid md:grid-cols-6 gap-3">
-            <input className="border rounded-xl px-3 py-2 md:col-span-2" placeholder="Search headlines, tags, entities…" value={query} onChange={e=>setQuery(e.target.value)} />
-            <select className="border rounded-xl px-3 py-2" value={region} onChange={e=>setRegion(e.target.value)}>
-              {["All","Germany","India","Europe","Global"].map(r=><option key={r} value={r}>{r}</option>)}
-            </select>
-            <select className="border rounded-xl px-3 py-2" value={country} onChange={e=>setCountry(e.target.value)}>
-              {["All","DE","IN","EU","UK","FR","IT","ES","PL","NL"].map(c=><option key={c} value={c}>{c}</option>)}
-            </select>
-            <select className="border rounded-xl px-3 py-2" value={category} onChange={e=>setCategory(e.target.value)}>
-              {["All","policy","tender","project","grid","price","tech","finance","oem","market"].map(c=><option key={c} value={c}>{c}</option>)}
-            </select>
-            <div className="flex items-center gap-4 md:col-span-2">
-              <label className="flex items-center gap-2 text-sm"><input type="checkbox" checked={hybridOnly} onChange={e=>setHybridOnly(e.target.checked)} /> Hybrid only</label>
-              <label className="flex items-center gap-2 text-sm"><input type="checkbox" checked={utilityOnly} onChange={e=>setUtilityOnly(e.target.checked)} /> Utility-scale</label>
-            </div>
-            <div className="flex items-center gap-2">
-              <label className="text-sm">Sort by</label>
-              <select className="border rounded-xl px-3 py-2" value={sortKey} onChange={e=>setSortKey(e.target.value)}>
-                {["impact_score_1to5","date_utc","category","country","capacity_MW","tariff_or_price_usd"].map(s=><option key={s} value={s}>{s}</option>)}
-              </select>
-              <button className="border rounded-xl px-3 py-2" onClick={()=>setSortDir(d=>d==="asc"?"desc":"asc")}>{sortDir.toUpperCase()}</button>
-            </div>
-          </section>
-
-          {/* KPI cards */}
-          <section className="grid md:grid-cols-3 gap-4 mb-6">
-            <div className="bg-white rounded-2xl shadow p-4">
-              <div className="text-sm text-slate-500">sum MW per day</div>
-              <div className="text-lg font-semibold">Capacity Announced (by date)</div>
-              <div className="h-60 mt-2">
-                <ResponsiveContainer width="100%" height="100%">
-                  <LineChart data={kpiSeries}>
-                    <CartesianGrid strokeDasharray="3 3" />
-                    <XAxis dataKey="date" />
-                    <YAxis />
-                    <Tooltip />
-                    <Line type="monotone" dataKey="capacity_MW" strokeWidth={2} dot={false} />
-                  </LineChart>
-                </ResponsiveContainer>
-              </div>
-            </div>
-            <div className="bg-white rounded-2xl shadow p-4">
-              <div className="text-sm text-slate-500">rolling dataset</div>
-              <div className="text-lg font-semibold">Items in store</div>
-              <div className="text-4xl font-semibold mt-3">{items.length}</div>
-            </div>
-            <div className="bg-white rounded-2xl shadow p-4">
-              <div className="text-sm text-slate-500">DE / IN / EU / Global</div>
-              <div className="text-lg font-semibold">Region split</div>
+    function renderRegionSplit(){
+      const regions = ['Germany','India','Europe','Global'];
+      const counts = {};
+      state.items.forEach(d => counts[d.region] = (counts[d.region]||0)+1);
+      el('kpiRegions').innerHTML = regions.map(
