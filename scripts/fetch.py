@@ -5,7 +5,6 @@ from urllib.parse import urlparse
 import feedparser
 import pandas as pd
 
-# --- Feeds you can extend later ---
 FEEDS = [
     ("PV-Tech", "https://www.pv-tech.org/feed/"),
     ("Energy Storage News", "https://www.energy-storage.news/feed/"),
@@ -50,13 +49,16 @@ def guess_category(text):
 
 def score_impact(text):
     score = 3
-    if re.search(r"\b(GW|[1-9]\d{2}\s*MW)\b", text, re.I): score = 4
-    if re.search(r"\b(>?\s*1000\s*MW|gigawatt)\b", text, re.I): score = 5
-    if re.search(r"\bpolicy|auction result|capacity market|state-aid\b", text, re.I): score = max(score,4)
+    if re.search(r"\b(GW|[3-9]\d{2}\s*MW)\b", text, re.I):  # >=300 MW
+        score = 4
+    if re.search(r"\b(>?\s*1000\s*MW|gigawatt)\b", text, re.I):
+        score = 5
+    if re.search(r"\bpolicy|auction result|capacity market|state-aid\b", text, re.I):
+        score = max(score, 4)
     return score
 
 def normalize(src_name, e):
-    title = e.get("title","").strip()
+    title = (e.get("title") or "").strip()
     summary = (e.get("summary") or e.get("subtitle") or "").strip()
     link = e.get("link","")
     dt = e.get("published_parsed") or e.get("updated_parsed")
@@ -65,9 +67,10 @@ def normalize(src_name, e):
     else:
         date_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    region, country = infer_region_country(title + " " + summary + " " + link)
-    category = guess_category(title + " " + summary)
-    impact = score_impact(title + " " + summary)
+    text = f"{title} {summary}"
+    region, country = infer_region_country(text + " " + link)
+    category = guess_category(text)
+    impact = score_impact(text)
 
     item = {
         "date_utc": date_utc,
@@ -92,34 +95,31 @@ def normalize(src_name, e):
         "reliability": "official" if src_name in ("Bundesnetzagentur","IEA","IRENA","EU Energy") else "trade",
         "notes": ""
     }
-    if re.search(r"\bhybrid|PV\+BESS|RTC\b", title+summary, re.I): item["tags"].append("PV+BESS")
-    if re.search(r"\bwind\b", title+summary, re.I): item["tags"].append("wind")
-    if re.search(r"\bPV|solar\b", title+summary, re.I): item["tags"].append("PV")
-    if re.search(r"\bbattery|BESS|storage\b", title+summary, re.I): item["tags"].append("storage")
+    if re.search(r"\bhybrid|PV\+BESS|RTC\b", text, re.I): item["tags"].append("PV+BESS")
+    if re.search(r"\bwind\b", text, re.I): item["tags"].append("wind")
+    if re.search(r"\bPV|solar\b", text, re.I): item["tags"].append("PV")
+    if re.search(r"\bbattery|BESS|storage\b", text, re.I): item["tags"].append("storage")
     return item
 
 def main():
     items=[]
     for name,url in FEEDS:
-        feed=feedparser.parse(url)
-        for e in feed.entries[:50]:
-            items.append(normalize(name,e))
+        try:
+            feed=feedparser.parse(url)
+            for e in feed.entries[:50]:
+                items.append(normalize(name,e))
+        except Exception as ex:
+            print("Feed failed:", name, url, ex)
 
-    # simple de-dup
     seen=set(); dedup=[]
     for it in items:
         k=(it["headline"], it["source_url"])
         if k in seen: continue
         seen.add(k); dedup.append(it)
 
-    # write outputs
-    df = pd.DataFrame(dedup)
-    df = df.sort_values(["date_utc","impact_score_1to5"], ascending=[False, False])
+    df = pd.DataFrame(dedup).sort_values(["date_utc","impact_score_1to5"], ascending=[False, False])
     df.to_csv("docs/dataset.csv", index=False)
     df.to_json("docs/dataset.json", orient="records", indent=2)
 
 if __name__ == "__main__":
     main()
-
-Update fetch.py with daily PV+BESS fetch logic
-
