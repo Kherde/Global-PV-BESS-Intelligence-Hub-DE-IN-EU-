@@ -35,7 +35,7 @@
         fetch("dataset.json?_=" + Date.now())
           .then(r=>r.json())
           .then(d=>{ setItems(Array.isArray(d)?d:[]); setLastUpdated(new Date().toISOString()); })
-          .catch(()=> console.warn("dataset.json not found"));
+          .catch(err=> console.warn("dataset.json not found or invalid JSON:", err));
       },[]);
 
       const filtered = useMemo(()=>{
@@ -84,7 +84,7 @@
             </div>
           </header>
 
-          <!-- Controls -->
+          {/* Controls */}
           <section className="bg-white rounded-2xl shadow p-4 mb-6 grid md:grid-cols-6 gap-3">
             <input className="border rounded-xl px-3 py-2 md:col-span-2" placeholder="Search headlines, tags, entities…" value={query} onChange={e=>setQuery(e.target.value)} />
             <select className="border rounded-xl px-3 py-2" value={region} onChange={e=>setRegion(e.target.value)}>
@@ -109,7 +109,7 @@
             </div>
           </section>
 
-          <!-- KPI cards -->
+          {/* KPI cards */}
           <section className="grid md:grid-cols-3 gap-4 mb-6">
             <div className="bg-white rounded-2xl shadow p-4">
               <div className="text-sm text-slate-500">sum MW per day</div>
@@ -134,7 +134,3 @@
             <div className="bg-white rounded-2xl shadow p-4">
               <div className="text-sm text-slate-500">DE / IN / EU / Global</div>
               <div className="text-lg font-semibold">Region split</div>
-              <div className="grid grid-cols-2 gap-2 mt-3 text-sm">
-                {["Germany","India","Europe","Global"].map(r=>{
-                  const count = (items||[]).filter(d=>d.region===r).length;
-                  return <div key={r} className="flex items-center justify-between bg-slate-50 rounded-xl px-3 py-2"><span>{r}</span><span className="font-semibold">{count}</span></div>
