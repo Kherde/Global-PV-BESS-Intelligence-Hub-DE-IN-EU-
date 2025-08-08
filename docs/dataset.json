@@ -1,0 +1,106 @@
+[
+  {
+    "date_utc": "2025-08-07",
+    "headline": "DE August PV auction clears at \u20ac53/MWh; BESS co-location pilot noted",
+    "summary_80w": "BNetzA's latest utility-scale PV round saw moderate undersubscription; select sites trial co-location rules, paving way for PV+BESS revenue stacking.",
+    "region": "Germany",
+    "country": "DE",
+    "category": "tender",
+    "subtopic": "auction",
+    "capacity_MW": 1200,
+    "storage_MWh": 0,
+    "project_stage": "Awarded",
+    "tariff_or_price_local": "\u20ac53/MWh avg",
+    "tariff_or_price_usd": "$58/MWh",
+    "entities": [
+      "BNetzA"
+    ],
+    "location": {
+      "state_or_l\u00e4nder": "BY",
+      "city": "-",
+      "grid_zone": "TenneT"
+    },
+    "effective_date": "2025-08-07",
+    "impact_score_1to5": 5,
+    "tags": [
+      "utility-scale",
+      "DE",
+      "PV",
+      "auction"
+    ],
+    "source_name": "BNetzA",
+    "source_url": "https://www.bundesnetzagentur.de/",
+    "reliability": "official",
+    "notes": "Seed example"
+  },
+  {
+    "date_utc": "2025-08-06",
+    "headline": "India SECI issues 1.5 GW PV + 3 GWh BESS hybrid RfS across multiple states",
+    "summary_80w": "RfS targets round-the-clock supply windows with storage minimums; viability gap vs. ALMM/BCD mitigations under review.",
+    "region": "India",
+    "country": "IN",
+    "category": "tender",
+    "subtopic": "hybrid",
+    "capacity_MW": 1500,
+    "storage_MWh": 3000,
+    "project_stage": "RfS",
+    "tariff_or_price_local": "-",
+    "tariff_or_price_usd": "-",
+    "entities": [
+      "SECI",
+      "MNRE"
+    ],
+    "location": {
+      "state_or_l\u00e4nder": "Multiple",
+      "city": "-",
+      "grid_zone": "-"
+    },
+    "effective_date": "2025-08-06",
+    "impact_score_1to5": 5,
+    "tags": [
+      "utility-scale",
+      "PV+BESS",
+      "RfS",
+      "IN"
+    ],
+    "source_name": "SECI",
+    "source_url": "https://www.seci.co.in/",
+    "reliability": "official",
+    "notes": "Seed example"
+  },
+  {
+    "date_utc": "2025-08-05",
+    "headline": "EU consults on storage in capacity mechanisms; state-aid clarity for hybrids",
+    "summary_80w": "Commission draft expands technology-neutral design; hybrid PV+Wind+BESS eligible with locational caps tied to grid constraints.",
+    "region": "Europe",
+    "country": "EU",
+    "category": "policy",
+    "subtopic": "state-aid",
+    "capacity_MW": 0,
+    "storage_MWh": 0,
+    "project_stage": "NA",
+    "tariff_or_price_local": "-",
+    "tariff_or_price_usd": "-",
+    "entities": [
+      "European Commission",
+      "ACER"
+    ],
+    "location": {
+      "state_or_l\u00e4nder": "-",
+      "city": "Brussels",
+      "grid_zone": "-"
+    },
+    "effective_date": "2025-08-05",
+    "impact_score_1to5": 4,
+    "tags": [
+      "policy",
+      "EU",
+      "storage",
+      "capacity"
+    ],
+    "source_name": "EC",
+    "source_url": "https://ec.europa.eu/",
+    "reliability": "official",
+    "notes": "Seed example"
+  }
+]
