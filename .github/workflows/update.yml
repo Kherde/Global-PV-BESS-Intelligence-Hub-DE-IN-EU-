@@ -1,0 +1,39 @@
+name: Update PV+BESS dataset daily
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # runs 05:30 UTC (~07:30 Berlin during DST)
+  workflow_dispatch: {}     # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser pandas python-dateutil
+
+      - name: Fetch & build dataset
+        run: |
+          python scripts/fetch.py
+
+      - name: Commit updated dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/dataset.json docs/dataset.csv
+          git commit -m "chore: daily dataset update" || echo "No changes to commit"
+          git push
