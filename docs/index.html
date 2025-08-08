@@ -1,1 +1,140 @@
-<html><body><h1>PV+BESS Dashboard Placeholder</h1></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>PV + BESS Intelligence Hub (DE · IN · EU)</title>
+  <!-- React + Recharts via CDN (no build needed) -->
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <script src="https://unpkg.com/recharts/umd/Recharts.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50">
+  <div id="root" class="p-4 md:p-8"></div>
+
+  <script type="text/babel">
+    const { useEffect, useMemo, useState } = React;
+    const { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } = Recharts;
+
+    function App(){
+      const [items, setItems] = useState([]);
+      const [query, setQuery] = useState("");
+      const [region, setRegion] = useState("All");
+      const [country, setCountry] = useState("All");
+      const [category, setCategory] = useState("All");
+      const [hybridOnly, setHybridOnly] = useState(false);
+      const [utilityOnly, setUtilityOnly] = useState(true);
+      const [sortKey, setSortKey] = useState("impact_score_1to5");
+      const [sortDir, setSortDir] = useState("desc");
+      const [lastUpdated, setLastUpdated] = useState(null);
+
+      // Load dataset.json that your Action updates daily
+      useEffect(()=>{
+        fetch("dataset.json?_=" + Date.now())
+          .then(r=>r.json())
+          .then(d=>{ setItems(Array.isArray(d)?d:[]); setLastUpdated(new Date().toISOString()); })
+          .catch(()=> console.warn("dataset.json not found"));
+      },[]);
+
+      const filtered = useMemo(()=>{
+        let data = [...items];
+        const q = query.trim().toLowerCase();
+        if (q) data = data.filter(d => ([
+          d.headline, d.summary_80w, (d.tags||[]).join(" "), (d.entities||[]).join(" ")
+        ].join(" ").toLowerCase().includes(q)));
+        if (region!=="All") data = data.filter(d=>d.region===region);
+        if (country!=="All") data = data.filter(d=>d.country===country);
+        if (category!=="All") data = data.filter(d=>d.category===category);
+        if (hybridOnly) data = data.filter(d =>
+          (d.tags||[]).some(t=>/hybrid|pv\+bess/i.test(t)) || /hybrid/i.test(d.subtopic||"")
+        );
+        if (utilityOnly) data = data.filter(d => (d.tags||[]).includes("utility-scale") || (d.capacity_MW||0) >= 10);
+        data.sort((a,b)=>{
+          const av=a[sortKey]??"", bv=b[sortKey]??"";
+          if (["date_utc","effective_date"].includes(sortKey)){
+            return sortDir==="asc" ? new Date(av)-new Date(bv) : new Date(bv)-new Date(av);
+          }
+          if (typeof av==="number" && typeof bv==="number"){
+            return sortDir==="asc" ? av-bv : bv-av;
+          }
+          return sortDir==="asc" ? String(av).localeCompare(String(bv)) : String(bv).localeCompare(String(av));
+        });
+        return data;
+      },[items,query,region,country,category,hybridOnly,utilityOnly,sortKey,sortDir]);
+
+      const top10 = filtered.slice(0,10);
+
+      const kpiSeries = useMemo(()=>{
+        const byDate = {};
+        (items||[]).forEach(d => byDate[d.date_utc] = (byDate[d.date_utc]||0) + (d.capacity_MW||0));
+        return Object.keys(byDate).sort().map(k=>({date:k, capacity_MW: byDate[k]}));
+      },[items]);
+
+      return (
+        <div className="max-w-7xl mx-auto">
+          <header className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 mb-6">
+            <div>
+              <h1 className="text-2xl md:text-3xl font-bold">PV + BESS Intelligence Hub</h1>
+              <p className="text-sm text-slate-600">Germany · India · Europe · Global context</p>
+              <p className="text-xs text-slate-500 mt-1">
+                Data auto-updates via GitHub Actions — Last updated: {lastUpdated ? new Date(lastUpdated).toLocaleString() : "—"}
+              </p>
+            </div>
+          </header>
+
+          <!-- Controls -->
+          <section className="bg-white rounded-2xl shadow p-4 mb-6 grid md:grid-cols-6 gap-3">
+            <input className="border rounded-xl px-3 py-2 md:col-span-2" placeholder="Search headlines, tags, entities…" value={query} onChange={e=>setQuery(e.target.value)} />
+            <select className="border rounded-xl px-3 py-2" value={region} onChange={e=>setRegion(e.target.value)}>
+              {["All","Germany","India","Europe","Global"].map(r=><option key={r} value={r}>{r}</option>)}
+            </select>
+            <select className="border rounded-xl px-3 py-2" value={country} onChange={e=>setCountry(e.target.value)}>
+              {["All","DE","IN","EU","UK","FR","IT","ES","PL","NL"].map(c=><option key={c} value={c}>{c}</option>)}
+            </select>
+            <select className="border rounded-xl px-3 py-2" value={category} onChange={e=>setCategory(e.target.value)}>
+              {["All","policy","tender","project","grid","price","tech","finance","oem","market"].map(c=><option key={c} value={c}>{c}</option>)}
+            </select>
+            <div className="flex items-center gap-4 md:col-span-2">
+              <label className="flex items-center gap-2 text-sm"><input type="checkbox" checked={hybridOnly} onChange={e=>setHybridOnly(e.target.checked)} /> Hybrid only</label>
+              <label className="flex items-center gap-2 text-sm"><input type="checkbox" checked={utilityOnly} onChange={e=>setUtilityOnly(e.target.checked)} /> Utility-scale</label>
+            </div>
+            <div className="flex items-center gap-2">
+              <label className="text-sm">Sort by</label>
+              <select className="border rounded-xl px-3 py-2" value={sortKey} onChange={e=>setSortKey(e.target.value)}>
+                {["impact_score_1to5","date_utc","category","country","capacity_MW","tariff_or_price_usd"].map(s=><option key={s} value={s}>{s}</option>)}
+              </select>
+              <button className="border rounded-xl px-3 py-2" onClick={()=>setSortDir(d=>d==="asc"?"desc":"asc")}>{sortDir.toUpperCase()}</button>
+            </div>
+          </section>
+
+          <!-- KPI cards -->
+          <section className="grid md:grid-cols-3 gap-4 mb-6">
+            <div className="bg-white rounded-2xl shadow p-4">
+              <div className="text-sm text-slate-500">sum MW per day</div>
+              <div className="text-lg font-semibold">Capacity Announced (by date)</div>
+              <div className="h-60 mt-2">
+                <ResponsiveContainer width="100%" height="100%">
+                  <LineChart data={kpiSeries}>
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="date" />
+                    <YAxis />
+                    <Tooltip />
+                    <Line type="monotone" dataKey="capacity_MW" strokeWidth={2} dot={false} />
+                  </LineChart>
+                </ResponsiveContainer>
+              </div>
+            </div>
+            <div className="bg-white rounded-2xl shadow p-4">
+              <div className="text-sm text-slate-500">rolling dataset</div>
+              <div className="text-lg font-semibold">Items in store</div>
+              <div className="text-4xl font-semibold mt-3">{items.length}</div>
+            </div>
+            <div className="bg-white rounded-2xl shadow p-4">
+              <div className="text-sm text-slate-500">DE / IN / EU / Global</div>
+              <div className="text-lg font-semibold">Region split</div>
+              <div className="grid grid-cols-2 gap-2 mt-3 text-sm">
+                {["Germany","India","Europe","Global"].map(r=>{
+                  const count = (items||[]).filter(d=>d.region===r).length;
+                  return <div key={r} className="flex items-center justify-between bg-slate-50 rounded-xl px-3 py-2"><span>{r}</span><span className="font-semibold">{count}</span></div>
