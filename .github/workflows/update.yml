@@ -1,17 +1,12 @@
 name: Update PV+BESS dataset daily
 
-name: Update PV+BESS dataset daily
-
 on:
-  # Run automatically at these UTC times
+  # Run automatically at these UTC times so it lands ~07:30 Berlin year-round
   schedule:
-    # 05:30 UTC ≈ 07:30 in Berlin during summer (CEST)
-    - cron: "30 5 * * *"
-    # 06:30 UTC ≈ 07:30 in Berlin during winter (CET)
-    - cron: "30 6 * * *"
-  # Let you run it manually any time
+    - cron: "30 5 * * *"   # ~07:30 CEST (summer)
+    - cron: "30 6 * * *"   # ~07:30 CET (winter)
+  # Let you trigger it manually from the Actions tab
   workflow_dispatch: {}
-
 
 permissions:
   contents: write
@@ -42,6 +37,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/dataset.json docs/dataset.csv
+          git add docs/dataset.json docs/dataset.csv || true
           git commit -m "chore: daily dataset update" || echo "No changes to commit"
           git push
