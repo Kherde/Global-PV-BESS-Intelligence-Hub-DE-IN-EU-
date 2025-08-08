@@ -1,106 +1,644 @@
 [
   {
-    "date_utc": "2025-08-07",
-    "headline": "DE August PV auction clears at \u20ac53/MWh; BESS co-location pilot noted",
-    "summary_80w": "BNetzA's latest utility-scale PV round saw moderate undersubscription; select sites trial co-location rules, paving way for PV+BESS revenue stacking.",
-    "region": "Germany",
-    "country": "DE",
-    "category": "tender",
-    "subtopic": "auction",
-    "capacity_MW": 1200,
-    "storage_MWh": 0,
-    "project_stage": "Awarded",
-    "tariff_or_price_local": "\u20ac53/MWh avg",
-    "tariff_or_price_usd": "$58/MWh",
-    "entities": [
-      "BNetzA"
+    "date_utc":"2025-08-08",
+    "headline":"Caterpillar signs deal for CHP plant with 1.1GWh integrated BESS at data centre campus in Utah",
+    "summary_80w":"Caterpillar has agreed to deploy a CHP plant featuring more than a gigawatt-hour of batteries for a new data centre complex in Utah, US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
     ],
-    "location": {
-      "state_or_l\u00e4nder": "BY",
-      "city": "-",
-      "grid_zone": "TenneT"
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
     },
-    "effective_date": "2025-08-07",
-    "impact_score_1to5": 5,
-    "tags": [
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":5,
+    "tags":[
       "utility-scale",
-      "DE",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/caterpillar-signs-deal-for-chp-plant-with-1-1gwh-integrated-bess-at-data-centre-campus-in-utah\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"Ampyr Australia starts construction on 600MWh BESS in New South Wales",
+    "summary_80w":"Ampyr Australia has officially started construction on its 300MW\/600MWh Wellington Stage 1 BESS in New South Wales.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ampyr-australia-starts-construction-on-600mwh-bess-in-new-south-wales\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"FINANCING ROUND-UP: CREC, BRUC, Qair and Greenalia secure funds for projects",
+    "summary_80w":"This week several solar developers have raised funds for projects around the world, including BRUC in Europe, Greenalia in the US, Qair in Mauritius and CREC in Philippines.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/financing-round-up-crec-bruc-qair-and-greenalia-secure-funds-for-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"US market, slow residential demand impact SMA Solar H1 2025 results",
+    "summary_80w":"German solar inverter manufacturer SMA Solar posted losses in the first half of 2025, as demand in the residential and corporate &#038; industrial (C&#038;I) solar sectors 'remains weak'.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-market-slow-residential-demand-impact-sma-solar-h1-2025-results\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"Array Technologies posts revenue of US$362.2 million in Q2 2025",
+    "summary_80w":"US solar tracker manufacturer Array Technologies has posted revenue of US$362.2 million in the second quarter of this year.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/array-technologies-revenue-us362-2-million-q2-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"\u2018One Big Beautiful Bill\u2019 Act brings changes, some clarity to US energy storage development",
+    "summary_80w":"Energy storage escaped much of the pain inflicted on solar, but foreign entity restrictions may create some supply-chain challenges.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
       "PV",
-      "auction"
+      "storage"
     ],
-    "source_name": "BNetzA",
-    "source_url": "https://www.bundesnetzagentur.de/",
-    "reliability": "official",
-    "notes": "Seed example"
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/one-big-beautiful-bill-act-brings-changes-clarity-us-energy-storage-development\/",
+    "reliability":"trade",
+    "notes":""
   },
   {
-    "date_utc": "2025-08-06",
-    "headline": "India SECI issues 1.5 GW PV + 3 GWh BESS hybrid RfS across multiple states",
-    "summary_80w": "RfS targets round-the-clock supply windows with storage minimums; viability gap vs. ALMM/BCD mitigations under review.",
-    "region": "India",
-    "country": "IN",
-    "category": "tender",
-    "subtopic": "hybrid",
-    "capacity_MW": 1500,
-    "storage_MWh": 3000,
-    "project_stage": "RfS",
-    "tariff_or_price_local": "-",
-    "tariff_or_price_usd": "-",
-    "entities": [
-      "SECI",
-      "MNRE"
+    "date_utc":"2025-08-08",
+    "headline":"US to kill US$7 billion Solar For All support for low-income households",
+    "summary_80w":"Solar PV is likely to become less accessible to low-income Americans after the Environmental Protection Agency (EPA) cancels the US$7 billion Solar For All scheme.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
     ],
-    "location": {
-      "state_or_l\u00e4nder": "Multiple",
-      "city": "-",
-      "grid_zone": "-"
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
     },
-    "effective_date": "2025-08-06",
-    "impact_score_1to5": 5,
-    "tags": [
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
       "utility-scale",
-      "PV+BESS",
-      "RfS",
-      "IN"
+      "PV"
     ],
-    "source_name": "SECI",
-    "source_url": "https://www.seci.co.in/",
-    "reliability": "official",
-    "notes": "Seed example"
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-to-kill-us7-billion-solar-for-all-support-for-low-income-households\/",
+    "reliability":"trade",
+    "notes":""
   },
   {
-    "date_utc": "2025-08-05",
-    "headline": "EU consults on storage in capacity mechanisms; state-aid clarity for hybrids",
-    "summary_80w": "Commission draft expands technology-neutral design; hybrid PV+Wind+BESS eligible with locational caps tied to grid constraints.",
-    "region": "Europe",
-    "country": "EU",
-    "category": "policy",
-    "subtopic": "state-aid",
-    "capacity_MW": 0,
-    "storage_MWh": 0,
-    "project_stage": "NA",
-    "tariff_or_price_local": "-",
-    "tariff_or_price_usd": "-",
-    "entities": [
-      "European Commission",
-      "ACER"
+    "date_utc":"2025-08-08",
+    "headline":"Genneia commissions 180MW solar PV in Argentina",
+    "summary_80w":"Argentinian renewables developer Genneia has reached commercial operations at its 180MW Parque Solar Anchoris in Argentina.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
     ],
-    "location": {
-      "state_or_l\u00e4nder": "-",
-      "city": "Brussels",
-      "grid_zone": "-"
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
     },
-    "effective_date": "2025-08-05",
-    "impact_score_1to5": 4,
-    "tags": [
-      "policy",
-      "EU",
-      "storage",
-      "capacity"
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
     ],
-    "source_name": "EC",
-    "source_url": "https://ec.europa.eu/",
-    "reliability": "official",
-    "notes": "Seed example"
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/genneia-commissions-180mw-solar-pv-in-argentina\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"SolarEdge ships more than 1GW of inverters for second consecutive quarter",
+    "summary_80w":"SolarEdge posted inverter shipments of 1.19GW in the second quarter of this year, alongside BESS sales of 247MWh.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solaredge-ships-more-than-1gw-inverters-second-consecutive-quarter\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"Ib vogt breaks ground on 99MWp solar PV plant in the Philippines",
+    "summary_80w":"German renewable energy developer ib vogt has officially broken ground on a 99MWp solar PV power plant in South Cotabato, the Philippines.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ib-vogt-breaks-ground-on-99mwp-solar-pv-plant-in-the-philippines\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"\u2018A win for Transatlantic relations\u2019 but a \u2018big loss\u2019 for creditors: Lyten\u2019s Northvolt deal",
+    "summary_80w":"Lyten's deal to acquire and recommence operations of European battery firm Northvolt out of bankruptcy has winners and losers, but some of the challenges that led to its demise have already been solved.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/a-win-for-transatlantic-relations-but-a-big-loss-for-creditors-lytens-northvolt-deal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"Indiana county officials reject 800MWh LFP BESS proposal, despite MISO capacity warnings",
+    "summary_80w":"Officials at the Zoning Board of Appeals for Hamilton County, Indiana, have rejected an application for a lithium iron phosphate BESS from developer Aypa Power.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/indiana-county-officials-reject-800mwh-lfp-bess-proposal-despite-miso-capacity-warnings\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"Portland General Electric completes over 1.9GWh of BESS projects in Oregon",
+    "summary_80w":"Utility Portland General Electric (PGE) announced the completion of three battery energy storage systems (BESS) totalling more than 1.9GWh in Portland, Oregon, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/portland-general-electric-completes-over-1-9gwh-of-bess-projects-in-oregon\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-08",
+    "headline":"Transformers arrive at AGL\u2019s 1,000MWh BESS in New South Wales, Australia",
+    "summary_80w":"Australian energy major AGL Energy has confirmed that two transformers for the 1,000MWh Liddell battery energy storage system (BESS) in New South Wales have been delivered.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/transformers-arrive-at-agls-1000mwh-bess-in-new-south-wales-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-07",
+    "headline":"Arevon powers 758MW\/1.2GWh solar-plus-storage plant in California",
+    "summary_80w":"Independent power producer Arevon Energy has powered the second phase of the Eland solar-plus-storage Center in Los Angeles, California.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-07",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/arevon-powers-758mw-1-2gwh-solar-plus-storage-plant-in-california\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-07",
+    "headline":"D3Energy breaks ground on 6MW floating solar farm in Ohio",
+    "summary_80w":"US-based floating solar (FPV) developer D3Energy is constructing a 6MW floating solar system in Monroeville \u2013 a village in Huron County, Ohio.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/d3energy-breaks-ground-on-6mw-floating-solar-farm-in-ohio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-07",
+    "headline":"Texas: Ascend Analytics optimises 50MWh for Adapture, SolarMax to build 430MWh project",
+    "summary_80w":"Optimisation platform provider Ascend Analytics and EPC firm SolarMax Technologies have announced battery storage projects by clients and partners in Texas\u2019 ERCOT market.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/texas-ascend-analytics-optimises-50mwh-for-adapture-solarmax-to-build-430mwh-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-07",
+    "headline":"Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market",
+    "summary_80w":"Energy storage developer and system integrator Energy Vault has received approval to pursue market-based participation in the California Independent System Operator (CAISO) with the Calistoga Resiliency Centre (CRC).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-vault-receives-approval-for-green-hydrogen-bess-microgrid-to-participate-in-california-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-07",
+    "headline":"Calibrant begins operating three distributed front-of-the-meter BESS in New York",
+    "summary_80w":"Calibrant, a joint venture between Green Investment Group and German engineering company Siemens, has energised and begun generating Value of Distributed Energy Resources (VDER) credits from three front-of-the-meter battery energy storage systems (BESS) in New York, US.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/calibrant-begins-operating-three-distributed-front-of-the-meter-bess-in-new-york\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-07",
+    "headline":"US bankruptcy court approves FlexGen acquisition of Powin assets, including all IP",
+    "summary_80w":"Software-focused energy storage system integrator FlexGen\u2019s bid to acquire assets from bankrupt rival Powin has been approved in court.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-bankruptcy-court-approves-flexgen-acquisition-of-powin-assets-including-all-ip\/",
+    "reliability":"trade",
+    "notes":""
   }
 ]
