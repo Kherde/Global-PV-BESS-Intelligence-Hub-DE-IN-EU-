@@ -1,9 +1,17 @@
 name: Update PV+BESS dataset daily
 
+name: Update PV+BESS dataset daily
+
 on:
+  # Run automatically at these UTC times
   schedule:
-    - cron: "30 5 * * *"   # runs 05:30 UTC (~07:30 Berlin during DST)
-  workflow_dispatch: {}     # lets you run it manually from the Actions tab
+    # 05:30 UTC ≈ 07:30 in Berlin during summer (CEST)
+    - cron: "30 5 * * *"
+    # 06:30 UTC ≈ 07:30 in Berlin during winter (CET)
+    - cron: "30 6 * * *"
+  # Let you run it manually any time
+  workflow_dispatch: {}
+
 
 permissions:
   contents: write
