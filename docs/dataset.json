@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2025-08-11",
+    "headline":"Energy Vault acquires 1GWh BESS in Australia as Q2 2025 revenue increases by 125% year-on-year",
+    "summary_80w":"Energy storage developer and system integrator Energy Vault has acquired the 125MW\/1,000MWh Stoney Creek BESS in New South Wales, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-vault-acquires-1gwh-bess-in-australia-as-q2-2025-revenue-increases-by-125-year-on-year\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-11",
+    "headline":"Capacity Investment Scheme Tender 6 to \u2018open soon\u2019, seeking 2.4GWh of energy storage in Western Australia",
+    "summary_80w":"Australia\u2019s AusEnergy Services (ASL), formerly AEMO Services, has released the Capacity Investment Scheme (CIS) Tender 6 parameters, seeking an initial 2,400MWh of dispatchable capacity in Western Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/capacity-investment-scheme-tender-6-to-open-soon-seeking-2-4gwh-of-energy-storage-in-western-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-08-08",
     "headline":"Caterpillar signs deal for CHP plant with 1.1GWh integrated BESS at data centre campus in Utah",
     "summary_80w":"Caterpillar has agreed to deploy a CHP plant featuring more than a gigawatt-hour of batteries for a new data centre complex in Utah, US.",
@@ -574,70 +638,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/energy-vault-receives-approval-for-green-hydrogen-bess-microgrid-to-participate-in-california-market\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-07",
-    "headline":"Calibrant begins operating three distributed front-of-the-meter BESS in New York",
-    "summary_80w":"Calibrant, a joint venture between Green Investment Group and German engineering company Siemens, has energised and begun generating Value of Distributed Energy Resources (VDER) credits from three front-of-the-meter battery energy storage systems (BESS) in New York, US.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/calibrant-begins-operating-three-distributed-front-of-the-meter-bess-in-new-york\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-07",
-    "headline":"US bankruptcy court approves FlexGen acquisition of Powin assets, including all IP",
-    "summary_80w":"Software-focused energy storage system integrator FlexGen\u2019s bid to acquire assets from bankrupt rival Powin has been approved in court.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-bankruptcy-court-approves-flexgen-acquisition-of-powin-assets-including-all-ip\/",
     "reliability":"trade",
     "notes":""
   }
