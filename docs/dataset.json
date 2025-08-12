@@ -1,5 +1,101 @@
 [
   {
+    "date_utc":"2025-08-12",
+    "headline":"Australia\u2019s New South Wales sets 16GW of renewables by 2030 target",
+    "summary_80w":"Australia\u2019s New South Wales has increased its renewable energy targets to 16GW of new clean power generation by 2030 and 42GWh of long-duration energy storage (LDES) by 2034.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-new-south-wales-sets-16gw-of-renewables-by-2030-target\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-12",
+    "headline":"OptiGrid: BESS in Australia\u2019s NEM \u2018rarely go fully contracted\u2019",
+    "summary_80w":"Sahand Karimi, CEO of OptiGrid, tells ESN Premium that the majority of BESS projects in the NEM \u201crarely go fully contracted\u201d.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/optigrid-bess-in-australias-nem-rarely-go-fully-contracted\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-12",
+    "headline":"Stor-Energy submits 730MWh BESS to Australia\u2019s EPBC Act",
+    "summary_80w":"Stor-Energy has submitted plans for a 730MWh battery storage project in New South Wales to Australia's EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/stor-energy-submits-730mwh-bess-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-08-11",
     "headline":"Tesla, Sunrun hail \u2018win-win for the household and the grid\u2019 with California virtual power plant test",
     "summary_80w":"A 535MW fleet of aggregated household battery storage systems, including Tesla Powerwalls, effectively reduced net load on the California grid in a recent test event.",
@@ -355,70 +451,6 @@
   },
   {
     "date_utc":"2025-08-08",
-    "headline":"Caterpillar signs deal for CHP plant with 1.1GWh integrated BESS at data centre campus in Utah",
-    "summary_80w":"Caterpillar has agreed to deploy a CHP plant featuring more than a gigawatt-hour of batteries for a new data centre complex in Utah, US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-08",
-    "impact_score_1to5":5,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/caterpillar-signs-deal-for-chp-plant-with-1-1gwh-integrated-bess-at-data-centre-campus-in-utah\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-08",
-    "headline":"Ampyr Australia starts construction on 600MWh BESS in New South Wales",
-    "summary_80w":"Ampyr Australia has officially started construction on its 300MW\/600MWh Wellington Stage 1 BESS in New South Wales.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-08",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ampyr-australia-starts-construction-on-600mwh-bess-in-new-south-wales\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-08",
     "headline":"FINANCING ROUND-UP: CREC, BRUC, Qair and Greenalia secure funds for projects",
     "summary_80w":"This week several solar developers have raised funds for projects around the world, including BRUC in Europe, Greenalia in the US, Qair in Mauritius and CREC in Philippines.",
     "region":"Europe",
@@ -510,39 +542,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/array-technologies-revenue-us362-2-million-q2-2025\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-08",
-    "headline":"\u2018One Big Beautiful Bill\u2019 Act brings changes, some clarity to US energy storage development",
-    "summary_80w":"Energy storage escaped much of the pain inflicted on solar, but foreign entity restrictions may create some supply-chain challenges.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/one-big-beautiful-bill-act-brings-changes-clarity-us-energy-storage-development\/",
     "reliability":"trade",
     "notes":""
   },
