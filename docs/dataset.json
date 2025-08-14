@@ -1,5 +1,485 @@
 [
   {
+    "date_utc":"2025-08-14",
+    "headline":"India\u2019s battery storage boom: Getting the execution right",
+    "summary_80w":"India's ambitious drive for renewable energy has accelerated the need for energy storage, but there are many factors to success, writes Charith Konda of the Institute for Energy Economics and Financial Analysis (IEEFA).",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-14",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/indias-battery-storage-boom-getting-the-execution-right\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Acen Australia seeks federal green tick for 1,760MWh BESS in Queensland",
+    "summary_80w":"Acen Australia has submitted plans for a 440MW\/1,760MWh BESS in Queensland to the Australian government's EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/acen-australia-seeks-federal-green-tick-for-1760mwh-bess-in-queensland\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Elawan Energy inks PPA for 150MW Spain solar portfolio",
+    "summary_80w":"Madrid-headquartered renewables developer Elawan has signed a 10-year power purchase agreement (PPA) to support a 150MW solar PV portfolio in northern Spain.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/elawan-energy-inks-ppa-for-150mw-spain-solar-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"IPP Juniper Green Energy secures debt financing for renewables build-out",
+    "summary_80w":"Juniper Green Energy has secured INR17.39 billion (US$197 million) in debt financing from government-backed Indian Renewable Energy Development Agency (IREDA).",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ipp-juniper-green-energy-secures-debt-financing-for-renewables-build-out\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Study reveals broad origins of key cost-cutting PV innovations",
+    "summary_80w":"A new MIT study has shown how many of the dramatic reductions in PV costs in the past 50 years were the result of innovations originating outside the solar industry.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/study-reveals-broad-origins-of-key-cost-cutting-pv-innovations\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Report: Gaps in PV industry\u2019s \u2018fragmented\u2019 approach to sustainability",
+    "summary_80w":"The PV industry\u2019s progress in meeting sustainability goals is patchy, with notable gaps in the end-of-life management of PV products, according to a review by IEA-PVPS.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/report-gaps-in-pv-industrys-fragmented-approach-to-sustainability\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"US solar could lose 60GW by 2030 due to executive order",
+    "summary_80w":"CEA said the US could lose 60GW of planned solar capacity if strict \"start of construction\" rules come into force.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-solar-market-60gw-decline-donald-trump-executive-order\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Green Genius secures US$75 million for Lithuanian solar-plus-storage portfolio",
+    "summary_80w":"Green Genius has secured \u20ac64 million (US$75 million) in finance to support the development of a solar-plus-storage portfolio in Lithuania.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/green-genius-secures-us75-million-lithuanian-solar-plus-storage-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"141MWdc solar PV power plant in New South Wales submitted to Australia\u2019s EPBC Act",
+    "summary_80w":"ACE Power and Osaka Gas Energy Australia have joined forces to develop the 141MWdc Forbes Solar Farm in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/141mwdc-solar-pv-power-plant-in-new-south-wales-submitted-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Polaris Renewable Energy submits plans for Puerto Rico BESS",
+    "summary_80w":"Polaris Renewable Energy, on behalf of the Puerto Rico Electric Power Authority (PREPA), has submitted a battery energy storage system (BESS) standard offer (SO1) agreement to the Puerto Rico Energy Bureau (PREB).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/polaris-renewable-energy-submits-plans-for-puerto-rico-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"\u2018We will be good for the distant future\u2019: Enphase on domestic content and the value of residential storage",
+    "summary_80w":"Energy-Storage.news Premium speaks with the Co-founder and Chief Products Officer of microinverter and home energy storage system supplier Enphase Energy, Raghu Belur, to discuss the domestic content of its systems and the company\u2019s latest earnings report.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/we-will-be-good-for-the-distant-future-enphase-on-domestic-content-and-the-value-of-residential-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Bangladesh seeks bidders for 160MW\/640MWh renewables-shifting BESS projects",
+    "summary_80w":"Ceylon Electricity Board (CEB), the main electricity company in Bangladesh, has issued an RFP for large-scale BESS.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bangladesh-seeks-bidders-for-160mw-640mwh-renewables-shifting-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"FlexGen wants to uphold Powin\u2019s \u2018important and significant\u2019 legacy, CEO says",
+    "summary_80w":"FlexGen \u201cfelt compelled to step up\u201d and ensure the continuity of operation of the more than 11GWh of assets deployed by acquisition target Powin.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/flexgen-wants-to-uphold-powins-important-and-significant-legacy-ceo-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"Ingeteam to supply 70MWh of battery storage projects across Victoria, Australia",
+    "summary_80w":"Ingeteam will deliver inverter solutions for seven battery energy storage system (BESS) projects in Victoria, Australia, totalling 70MWh.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ingeteam-to-supply-70mwh-of-battery-storage-projects-across-victoria-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-13",
+    "headline":"\u2018West Africa\u2019s first\u2019 co-located BESS dedicated to frequency regulation commissioned in Senegal",
+    "summary_80w":"Independent power producer (IPP) Africa REN has commissioned a solar and storage project in Senegal, which it claimed as the first of its kind in West Africa.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/west-africas-first-co-located-bess-dedicated-to-frequency-regulation-commissioned-in-senegal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-08-12",
     "headline":"Kentucky utilities shelve 1.6GWh BESS project, doubling down on fossil fuel expansion",
     "summary_80w":"Louisville Gas and Electric Company (LG&#038;E) and Kentucky Utilities Company (KU) have withdrawn plans to deploy a new 400MW\/1,600MWh BESS.",
@@ -28,38 +508,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/kentucky-utilities-shelve-1-6gwh-bess-project-doubling-down-on-fossil-fuel-expansion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"Massachusetts issues RFP seeking 1,500MW of BESS",
-    "summary_80w":"Massachusetts\u2019s electric distribution companies (EDCs) and the state\u2019s Department of Energy Resources (DOER) have launched a request for proposals (RFP) for approximately 1,500MW of mid-duration energy storage systems.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/massachusetts-issues-rfp-seeking-1500mw-of-bess\/",
     "reliability":"trade",
     "notes":""
   },
@@ -161,168 +609,6 @@
   },
   {
     "date_utc":"2025-08-12",
-    "headline":"AFSIA: Solar is the \u2018ideal\u2019 power source as Africa exceeds 20GW of operational capacity",
-    "summary_80w":"AFSIA CEO John van Zuylen told PV Tech Premium that solar power is the \u201cideal\u201d technology type to improve electricity access in Africa.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/afsia-solar-ideal-power-source-africa-exceeds-20gw-operational-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"Uganda greenlights EA Astrovolt\u2019s 100MW solar plus 250MWh BESS project",
-    "summary_80w":"The Government of Uganda has authorised EA Astrovolt to develop a 100MWp solar PV power plant, integrated with a 250MWh storage system.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/uganda-greenlights-ea-astrovolts-100mw-solar-plus-250mwh-bess-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"Indonesia new programme targets 100GW solar PV, 320GWh BESS",
-    "summary_80w":"The government of Indonesia has launched a programme that aims to build 100GW of solar PV in the coming years, mostly distributed across smaller projects in rural areas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/indonesia-targets-100gw-solar-pv-320gwh-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"PVH launches solar trackers with movement range of two degrees",
-    "summary_80w":"PV Hardware's latest generation of trackers can move up to two degrees post-to-post, more than the current industry standard of 1.75 degrees.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pvh-launches-solar-trackers-movement-range-two-degrees\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"Australia\u2019s New South Wales sets 16GW of renewables by 2030 target",
-    "summary_80w":"Australia\u2019s New South Wales has increased its renewable energy targets to 16GW of new clean power generation by 2030 and 42GWh of long-duration energy storage (LDES) by 2034.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-new-south-wales-sets-16gw-of-renewables-by-2030-target\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
     "headline":"Fluence to hit lower end of 2025 guidance due to \u2018typical\u2019 ramping delays at US factories",
     "summary_80w":"Fluence expects to hit the lower end of its previously issued revenue guidance for the 2025 financial year due to delays in ramping up at US production sites.",
     "region":"Global",
@@ -349,295 +635,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/fluence-lower-end-of-2025-guidance-typical-ramping-delays-at-us-factories\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"Chinese firms increase global BESS market share, except in North America: Tesla retains top spot",
-    "summary_80w":"Wood Mackenzie's BESS supply rankings list shows 'intensifying regional competition and shifting dynamics' as Tesla remains number one.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/chinese-firms-increase-global-bess-market-share-except-in-north-america-tesla-retains-top-spot\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"UK ROUNDUP: Project commissioning and deals for W\u00e4rtsil\u00e4, Canadian Solar, Gresham House and Eku Energy",
-    "summary_80w":"Another edition of news in brief, focusing on the UK market with W\u00e4rtsil\u00e4, Canadian Solar, Gresham House and Eku Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/uk-roundup-project-commissioning-and-deals-for-wartsila-canadian-solar-gresham-house-and-eku-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"OptiGrid: Lately, BESS in Australia\u2019s NEM \u2018rarely go fully contracted\u2019",
-    "summary_80w":"Sahand Karimi, CEO of OptiGrid, tells ESN Premium that the majority of BESS projects in the NEM \u201crarely go fully contracted\u201d.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/optigrid-bess-in-australias-nem-rarely-go-fully-contracted\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-12",
-    "headline":"Stor-Energy submits 730MWh BESS to Australia\u2019s EPBC Act",
-    "summary_80w":"Stor-Energy has submitted plans for a 730MWh battery storage project in New South Wales to Australia's EPBC Act.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/stor-energy-submits-730mwh-bess-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-11",
-    "headline":"Tesla, Sunrun hail \u2018win-win for the household and the grid\u2019 with California virtual power plant test",
-    "summary_80w":"A 535MW fleet of aggregated household battery storage systems, including Tesla Powerwalls, effectively reduced net load on the California grid in a recent test event.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-11",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/tesla-sunrun-hail-win-win-for-the-household-and-the-grid-with-california-virtual-power-plant-test\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-11",
-    "headline":"Illuminate USA to acquire US-made solar glass from Solarcycle",
-    "summary_80w":"Illuminate USA has signed a five-year deal with US panel recycling firm Solarcycle to acquire solar glass manufactured in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/illuminate-usa-acquire-us-made-solar-glass-solarcycle\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-11",
-    "headline":"UVID is \u2018particularly concerning\u2019 for TOPCon cells \u2013 UNSW",
-    "summary_80w":"Greater awareness of UV light used to test solar cells could result in faster, more efficient assessments of long-term performance.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/uvid-is-particularly-concerning-for-topcon-cells-unsw\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-11",
-    "headline":"Winda Energy building 30MW\/60MWh BESS in Finland with European suppliers",
-    "summary_80w":"Developer Winda Energy will put a 30MW\/60MWh BESS in Finland into operation next year, built with technology supplied by European companies.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/winda-energy-building-30mw-60mwh-bess-in-finland-with-european-suppliers\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-11",
-    "headline":"Risen Energy: Reliable, efficient energy storage from a trusted global name",
-    "summary_80w":"One of the world\u2019s major players in solar PV is also becoming a well-known name in the energy storage system (ESS) space.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/risen-energy-reliable-efficient-energy-storage-from-a-trusted-global-name\/",
     "reliability":"trade",
     "notes":""
   }
