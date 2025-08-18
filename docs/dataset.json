@@ -1,5 +1,101 @@
 [
   {
+    "date_utc":"2025-08-18",
+    "headline":"Australia to develop national solar module reuse and recycling scheme",
+    "summary_80w":"Australia\u2019s federal, state and territory governments have agreed to develop a national solar module reuse and recycling scheme.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-to-develop-national-solar-module-reuse-and-recycling-scheme\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-18",
+    "headline":"India\u2019s NTPC tenders EPC contracts for 4GWh battery storage at thermal power plants",
+    "summary_80w":"State-owned power producer NTPC has issued a tender for battery energy storage system (BESS) projects at thermal power plants in Uttar Pradesh, India.",
+    "region":"India",
+    "country":"IN",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/indias-ntpc-tenders-epc-contracts-for-4gwh-battery-storage-at-thermal-power-plants\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-18",
+    "headline":"Ausgrid commissions 5MW community battery in New South Wales, Australia",
+    "summary_80w":"Australian network company Ausgrid has commissioned its largest community battery to date, a 5MW system in Cooranbong in the Central Coast region of New South Wales.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ausgrid-commissions-5mw-community-battery-in-new-south-wales-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-08-15",
     "headline":"Spearmint Energy gets greenlight for Texas City BESS, as a further 860MW+ of capacity withdrawn from ERCOT queue",
     "summary_80w":"Miami, Florida-based developer Spearmint Energy has been given the go-ahead to develop a 300MW\/600MWh lithium-ion BESS destined for Texas City in the Lone Star State.",
@@ -357,38 +453,6 @@
   },
   {
     "date_utc":"2025-08-14",
-    "headline":"Poland\u2019s PGE launches tender for 400MW\/800MWh BESS",
-    "summary_80w":"State-owned power generator and distributor PGE has launched a tender for the construction of a 2-hour BESS project in Poland.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-14",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/poland-pge-launches-tender-for-400mw-800mwh-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-14",
     "headline":"SolMicroGrid launches energy-as-a-service partner program for developers and EPCs",
     "summary_80w":"SolMicroGrid has launched an Energy-as-a-Service (EaaS) partner program for project developers, engineering, procurement, and construction (EPC) companies and original equipment manufacturers (OEMs).",
     "region":"Global",
@@ -478,38 +542,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/germany-awards-2271mw-of-pv-in-oversubscribed-auction\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-14",
-    "headline":"World Bank loans US$250 million to United Solar Oman polysilicon plant",
-    "summary_80w":"The World Bank has approved a loan and investment worth up to US$250 million for United Solar\u2019s planned polysilicon production plant in Oman.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/world-bank-loans-us250-million-to-united-solar-oman-polysilicon-plant\/",
     "reliability":"trade",
     "notes":""
   },
@@ -607,38 +639,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/indonesian-government-targets-320gwh-bess-in-new-scheme\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-14",
-    "headline":"Maryland governor announces US$2 million programme for residential and commercial BESS",
-    "summary_80w":"Governor of Maryland, US, Wes Moore, has announced a US$2 million initiative to make battery storage more accessible for residents and business owners in the state.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/maryland-governor-announces-us2-million-programme-for-residential-and-commercial-bess\/",
     "reliability":"trade",
     "notes":""
   }
