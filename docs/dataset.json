@@ -1,5 +1,420 @@
 [
   {
+    "date_utc":"2025-08-20",
+    "headline":"Transgrid: New South Wales\u2019 energy transition now enters the next phase",
+    "summary_80w":"New South Wales, Australia's most coal-dependent state, will transition from 40% to 90% renewable energy by 2035, according to grid operator Transgrid's latest planning report.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/transgrid-new-south-wales-energy-transition-now-enters-the-next-phase\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-20",
+    "headline":"The evolution of BESS offtake deals in Europe",
+    "summary_80w":"Long-term BESS offtake and PPA deals are clearly on the rise in Europe, but how are they evolving vi-a-vis structures, tenors and regional differences?",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/the-evolution-of-bess-offtake-deals-in-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-20",
+    "headline":"Australia opens AU$500 million Battery Breakthrough Initiative",
+    "summary_80w":"The Australian government has officially launched the AU$500 million Battery Breakthrough Initiative (BBI).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-opens-au500-million-battery-breakthrough-initiative\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-20",
+    "headline":"Blueleaf Energy, Chemsain Sustainability pen MoU to deliver 3GW of solar and energy storage in Malaysia",
+    "summary_80w":"Singaporean renewable energy developer Blueleaf Energy has signed a memorandum of understanding (MoU) with Chemsain Sustainability to jointly explore developing a portfolio of up to 3GW of solar PV and battery energy storage systems (BESS) in Malaysia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/blueleaf-energy-chemsain-sustainability-pen-mou-to-deliver-3gw-of-solar-and-energy-storage-in-malaysia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"SAEL signs 880MW solar PPAs in Gujarat and Punjab",
+    "summary_80w":"Indian renewable energy company SAEL Industries has signed two 880MW power purchase agreements (PPAs) with the Indian states of Gujarat and Punjab.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sael-signs-880mw-solar-ppas-in-gujarat-and-punjab\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"Third Pillar Solar looks to build 500MW of floating PV on Texas reservoirs",
+    "summary_80w":"Specialist floating solar (FPV) developer Third Pillar Solar will examine the potential to develop 500MW of assets on Texas reservoirs.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/third-pillar-solar-looks-to-build-500mw-of-floating-pv-on-texas-reservoirs\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"Scatec revenues hold steady at US$220 million in Q2 2025",
+    "summary_80w":"Scatec has reported stable financial results in the second quarter of 2025, with revenue holding steady at NOK2.3 billion (US$220 million).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/scatec-revenues-hold-steady-220-million-q2-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"Geronimo Power breaks ground on 125MW solar PV plant in Michigan",
+    "summary_80w":"Independent power producer Geronimo Power has started construction on a 125MW solar PV plant in the Midwest US state of Michigan.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/geronimo-power-breaks-ground-on-125mw-solar-pv-plant-in-michigan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"Australia\u2019s Clean Energy Council appoints new CEO",
+    "summary_80w":"Australia\u2019s Clean Energy Council has appointed Jackie Trad as its new chief executive officer, following the departure of Kane Thornton.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-clean-energy-council-appoints-new-ceo\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"SolAmerica secures US$100 million through revolving credit facility",
+    "summary_80w":"Solar and energy storage developer SolAmerica Energy has raised US$100 million through a revolving credit facility with Deutsche Bank.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solamerica-secures-us100-million-through-revolving-credit-facility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"California county adopts \u2018balanced\u2019 BESS zoning, hopes to stop developers seeking state-level approvals",
+    "summary_80w":"After imposing a moratorium on the development of new battery storage projects in January 2024, officials in Solano County, California, have adopted new zoning standards for the technology.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/california-county-adopts-balanced-bess-zoning-hopes-to-stop-developers-seeking-state-level-approvals\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"Duke Energy applies to extend operation of pumped hydro energy storage project in South Carolina",
+    "summary_80w":"Major US utility company Duke Energy has submitted its final license application to the Federal Energy Regulatory Commission (FERC) to extend operation at the Bad Creek Pumped Storage Hydroelectric Station for an additional 50 years.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/duke-energy-applies-to-extend-operation-of-pumped-hydro-energy-storage-project-in-south-carolina\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-19",
+    "headline":"Minnesota Public Utilities Commission approves state\u2019s first standalone BESS project",
+    "summary_80w":"The Minnesota Public Utilities Commission (PUC) has approved a site permit for Spearmint Energy\u2019s 150MW\/600MWh battery energy storage system (BESS) in Kalmar Township.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/minnesota-public-utilities-commission-approves-states-first-standalone-bess-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-08-19",
     "headline":"Hithium signs 1GWh residential and C&I BESS distribution agreement in Pakistan",
     "summary_80w":"Hithium has partnered with The Imperial Electric Company to deliver 1GWh of energy storage across Pakistan's residential and C&#038;I sectors.",
@@ -217,422 +632,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/new-stonepeak-middle-east-renewables-vehicle-to-be-led-by-ex-jinko-executive\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"Tindo launches new Australia-made TOPCon PV modules",
-    "summary_80w":"Australia\u2019s sole PV producer Tindo Solar has launched a new range of n-type TOPCon modules aimed at rooftop applications.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/tindo-launches-new-australia-made-topcon-pv-modules\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"US solar industry attacks tightened safe harbour rules for ITC qualification",
-    "summary_80w":"US solar industry representatives have voiced concern at the US Treasury Department\u2019s new \u201cstart of construction\u201d rules for large projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-treasury-start-of-construction-guidance-undermines-congress-donald-trump-solar-power\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"LONGi unveils new lightweight BC module for rooftop C&I",
-    "summary_80w":"Chinese module manufacturer LONGI has launched a new back-contact (BC) lightweight module for commercial and industrial (C&#038;I) rooftop applications.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/longi-unveils-new-lightweight-bc-module-for-rooftop-ci\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"Maxeon\u2019s module shipments fall by 90% over two years amid border dispute",
-    "summary_80w":"Maxeon shipped just 153.2MW of modules in the first half of this year, just 15% of the capacity sold in the first half of 2024.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/maxeons-module-shipments-fall-by-90-over-two-years-amid-border-dispute\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"Australia to develop national solar module reuse and recycling scheme",
-    "summary_80w":"Australia\u2019s federal, state and territory governments have agreed to develop a national solar module reuse and recycling scheme.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-to-develop-national-solar-module-reuse-and-recycling-scheme\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"Copenhagen Infrastructure Partners acquires 1GWh BESS project from EDF Renewables North America",
-    "summary_80w":"Copenhagen Infrastructure Partners (CIP) has acquired full ownership of the 1GWh Beehive battery energy storage system (BESS) in Arizona, US, from EDF Renewables North America.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/copenhagen-infrastructure-partners-acquires-1gwh-bess-from-edf-renewables-north-america\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"Iron flow battery maker ESS Inc warns of survival battle through \u2018operational reset\u2019 period",
-    "summary_80w":"Iron flow battery company ESS Tech Inc (ESS Inc) has warned of substantial doubts about its ability to survive another year.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/iron-flow-battery-maker-ess-inc-warns-of-survival-battle-through-operational-reset-period\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"India\u2019s NTPC tenders EPC contracts for 4GWh battery storage at thermal power plants",
-    "summary_80w":"State-owned power producer NTPC has issued a tender for battery energy storage system (BESS) projects at thermal power plants in Uttar Pradesh, India.",
-    "region":"India",
-    "country":"IN",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/indias-ntpc-tenders-epc-contracts-for-4gwh-battery-storage-at-thermal-power-plants\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-18",
-    "headline":"Ausgrid commissions 5MW community battery in New South Wales, Australia",
-    "summary_80w":"Australian network company Ausgrid has commissioned its largest community battery to date, a 5MW system in Cooranbong in the Central Coast region of New South Wales.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ausgrid-commissions-5mw-community-battery-in-new-south-wales-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-15",
-    "headline":"Spearmint Energy gets greenlight for Texas City BESS, as a further 860MW+ of capacity withdrawn from ERCOT queue",
-    "summary_80w":"Miami, Florida-based developer Spearmint Energy has been given the go-ahead to develop a 300MW\/600MWh lithium-ion BESS destined for Texas City in the Lone Star State.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-15",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/spearmint-energy-gets-greenlight-for-texas-city-bess-as-a-further-860mw-of-capacity-withdrawn-from-ercot-queue\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-15",
-    "headline":"Australia\u2019s HumeLink opens for renewable power and storage project connections",
-    "summary_80w":"Australia\u2019s transmission line infrastructure project HumeLink is now open for connection to solar, wind, and energy storage facilities.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-humelink-opens-for-renewable-power-and-storage-project-connections\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-15",
-    "headline":"T1 Energy, Corning sign \u2018landmark\u2019 US-made solar poly, wafer, cell supply deal",
-    "summary_80w":"US solar manufacturer T1 Energy has signed a deal to buy US-made polysilicon and wafers from ceramics and glass producer Corning.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/t1-energy-corning-landmark-us-made-solar-poly-wafer-cell-supply-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-15",
-    "headline":"Viridi claims its BESS products meet the One Big Beautiful Bill\u2019s FEOC requirements",
-    "summary_80w":"Viridi Parente has announced its battery energy storage systems (BESS) products meet the current Foreign Entity of Concern (FEOC) requirements as expanded under the One Big Beautiful Bill Act (OBBB).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/viridi-claims-its-bess-products-meet-the-one-big-beautiful-bills-feoc-requirements\/",
     "reliability":"trade",
     "notes":""
   }
