@@ -32,6 +32,38 @@
   },
   {
     "date_utc":"2025-08-20",
+    "headline":"Modular design architecture with smart protection can mitigate C&I battery storage safety concerns",
+    "summary_80w":"Commercial and industrial (C&#038;I) energy storage can significantly lower electricity costs, increase efficiency, and aid decarbonisation, but customers\u2019 safety concerns must be addressed.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/modular-design-architecture-with-smart-protection-can-mitigate-ci-battery-storage-safety-concerns\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-20",
     "headline":"The evolution of BESS offtake deals in Europe",
     "summary_80w":"Long-term BESS offtake and PPA deals are clearly on the rise in Europe, but how are they evolving vi-a-vis structures, tenors and regional differences?",
     "region":"Europe",
@@ -507,38 +539,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-agl-energy-dedicates-au900-million-to-battery-storage-as-net-profit-dips-21-year-on-year\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-19",
-    "headline":"Australia to introduce Developer Rating Scheme for renewables and energy storage",
-    "summary_80w":"The Australian government has appointed multinational consumer credit agency Equifax Australasia Credit Ratings to design, develop, implement, and operate a new Developer Rating Scheme.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-developer-rating-scheme-renewables-energy-storage\/",
     "reliability":"trade",
     "notes":""
   },
