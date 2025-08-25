@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2025-08-25",
+    "headline":"New community batteries launch in Queensland and Victoria, Australia",
+    "summary_80w":"Several new community batteries have been launched in Victoria and Queensland, Australia, to soak up distributed solar PV.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/new-community-batteries-launch-in-queensland-and-victoria-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-25",
+    "headline":"AEMO: BESS secures the highest reliability amongst clean energy technologies in Australia",
+    "summary_80w":"The Australian Energy Market Operator (AEMO) has found battery energy storage systems (BESS) are the most reliable clean energy technology in the National Electricity Market (NEM).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/aemo-bess-secures-the-highest-reliability-amongst-clean-energy-technologies-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-08-22",
     "headline":"China drives global BESS deployments in July, technology nears pumped hydro GW capacity",
     "summary_80w":"China continued to drive global grid-scale BESS commissioning activity in July, as the technology approaches the global installed gigawatt (GW) capacity of pumped hydro.",
@@ -573,70 +637,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/statera-brings-online-uks-biggest-battery-storage-project-to-date\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-21",
-    "headline":"ACE Power finalises the sale of \u2018ready-to-build\u2019 206MWh grid-forming BESS in Australia",
-    "summary_80w":"ACE Power has confirmed the sale of the 103MW\/206MWh Kerang grid-forming BESS in the Loddon Valley region of Victoria, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ace-power-finalises-the-sale-of-ready-to-build-206mwh-grid-forming-bess-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-21",
-    "headline":"Akaysha Energy: Developing the \u2018world\u2019s most powerful battery storage system\u2019",
-    "summary_80w":"\u201cIt\u2019s the most powerful BESS in the world,\u201d Nick Carter of Akaysha Energy, tells ESN Premium after switching on the Waratah Super Battery in New South Wales, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-developing-the-worlds-most-powerful-battery-storage-system\/",
     "reliability":"trade",
     "notes":""
   }
