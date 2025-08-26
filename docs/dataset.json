@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2025-08-26",
+    "headline":"Gigawatt-hour-scale \u2018Energy Parks\u2019 BESS developer Pacific Green raises AU$77 million for Australia projects",
+    "summary_80w":"BESS developer Pacific Green Technologies has secured a AU$77 million (US$49.9 million) debt facility for projects in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-26",
+    "impact_score_1to5":5,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/gigawatt-hour-scale-energy-parks-bess-developer-pacific-green-raises-au77-million-for-australia-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-26",
     "headline":"Australia: Capacity Investment Scheme results for 16GWh tender expected \u2018in the coming weeks\u2019",
     "summary_80w":"\u201cWe\u2019re expecting the results of the Capacity Investment Scheme (CIS) Tender 3 in the coming weeks,\u201d Thimo Mueller, general manager, commercial at ASL, said in the opening keynote of the Battery Asset Management Summit Australia 2025 this morning.",
     "region":"Global",
@@ -477,37 +509,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/iberdrola-hires-ingeteam-for-100mw-200mwh-bess-hybridisation-of-pv-plants-in-spain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-22",
-    "headline":"State-owned utility commissions five new community batteries in Western Australia",
-    "summary_80w":"State-owned utility Western Power has commissioned five new community batteries in Perth suburbs as part of a federally funded initiative in Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/state-owned-utility-commissions-five-new-community-batteries-in-western-australia\/",
     "reliability":"trade",
     "notes":""
   },
