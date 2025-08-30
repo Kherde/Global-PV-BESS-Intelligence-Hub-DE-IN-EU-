@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2025-08-29",
+    "headline":"Meridian, Nova break ground on 400MW New Zealand solar plant",
+    "summary_80w":"Meridian Energy and Nova Energy have established a JV to build and operate a 400MW solar plant in Rangitaiki near Taupo in New Zealand.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/meridian-nova-break-ground-on-400mw-new-zealand-solar-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
     "headline":"Neoen switches on 2.2GWh BESS in Western Australia",
     "summary_80w":"French independent power producer (IPP) Neoen, which is now fully owned by Canadian investment firm Brookfield, has switched on the second phase of its 560MW\/2,240MWh Collie BESS in Western Australia.",
     "region":"Global",
@@ -28,6 +60,230 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/neoen-switches-on-2-2gwh-bess-in-western-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
+    "headline":"JA Solar launches DesertBlue module for desert and semi-arid markets",
+    "summary_80w":"Chinese module maker JA Solar has launched DesertBlue, a PV module designed for desert and semi-arid regions.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ja-solar-launches-desertblue-module-for-desert-and-semi-arid-markets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
+    "headline":"Verano Energy secures financing for 83MW\/660MWh solar-plus-storage project in Chile",
+    "summary_80w":"Independent power producer (IPP) Verano Energy has closed a US$204 financing for a 83MW\/660MWh solar-plus-storage project in Chile.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
+    "headline":"UK solar generation hits record 9.91TWh in the first six months of 2025",
+    "summary_80w":"The first half of 2025 has been the strongest year for UK solar energy generation on record, according to a new report think tank Ember.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/uk-solar-generation-hits-record-9-91twh-first-six-months-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
+    "headline":"kWh Analytics launches new renewable energy insurance cover for severe storms",
+    "summary_80w":"US-based climate insurance provider kWh Analytics has launched a new renewable energy insurance cover for extreme weather events.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/kwh-analytics-launches-new-renewable-energy-insurance-cover-for-severe-storms\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
+    "headline":"US grid reforms have boosted project agreement rates \u2013 Wood Mackenzie",
+    "summary_80w":"US grid interconnection agreements grew by 33% in 2024, reaching 75GW, with three-quarters signed for solar PV and battery energy storage system (BESS) projects, according to a new report from energy market analyst Wood Mackenzie.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-grid-reforms-have-boosted-project-agreement-rates-wood-mackenzie\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
+    "headline":"\u2018A material shift\u2019: US solar developers respond to stricter \u2018start of construction\u2019 rules",
+    "summary_80w":"PV Tech Premium hears from Renewable Properties and Silicon Ranch about the new 'start of construction' rules for US solar projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/a-material-shift-us-solar-developers-respond-stricter-start-of-construction-rules\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-08-29",
+    "headline":"Hitachi Energy acquires Powin\u2019s remaining stake in power conversion system maker Eks Energy",
+    "summary_80w":"Hitachi Energy has been successful in its bid to acquire full ownership of Eks Energy, a manufacturer of power conversion systems (PCS).",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-08-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hitachi-energy-acquires-powin-stake-eks-energy\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2670,229 +2926,6 @@
   },
   {
     "date_utc":"2025-08-20",
-    "headline":"Consortium behind 2GW Saudi PV project reaches financial close",
-    "summary_80w":"The consortium building the Al Sadawi PV power plant in Saudi Arabia has reached financial close on the 2GW project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/consortium-behind-2gw-saudi-pv-project-reaches-financial-close\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-20",
-    "headline":"Silicon Ranch, Central Electric to build 100MW solar project for Meta",
-    "summary_80w":"Silicon Ranch is building a 100MW solar plant in South Carolina that will supply power to Meta's first data centre in the state.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/silicon-ranch-central-electric-to-build-100mw-solar-project-for-meta\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-20",
-    "headline":"Enphase signs US$50 million microinverter ITC safe harbour deal",
-    "summary_80w":"US microinverter manufacturer Enphase Energy has signed a safe harbour deal to secure residential solar tax credits, the second such deal the company has made this month.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/enphase-signs-us50-million-microinverter-itc-safe-harbour-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-20",
-    "headline":"CHINA ROUND-UP: 60GW racking procurement; Aiko, LONGi shortlisted in offshore PV project; QW Solar offshoot in EPC win",
-    "summary_80w":"A round-up of breaking solar industry news from China.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/china-round-up-60gw-racking-procurement-aiko-longi-shortlisted-in-offshore-pv-project-qw-solar-offshoot-in-epc-win\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-20",
-    "headline":"Italy exceeds 40GW cumulative solar PV installations",
-    "summary_80w":"Italy\u2019s cumulative solar installations have exceeded 40GW, with more than two million solar systems now in operation in the country.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/italy-exceeds-40gw-cumulative-solar-pv-installations\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-20",
-    "headline":"Econergy starts operations at 87MW Oradea solar project in Romania",
-    "summary_80w":"Israel-headquartered independent power producer (IPP) Econergy has started commercial operations at its 87MW Oradea solar project in Romania.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/econergy-starts-operations-87m-oradea-solar-project-romania\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-20",
-    "headline":"Transgrid: New South Wales\u2019 energy transition now enters the next phase",
-    "summary_80w":"New South Wales, Australia's most coal-dependent state, will transition from 40% to 90% renewable energy by 2035, according to grid operator Transgrid's latest planning report.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/transgrid-new-south-wales-energy-transition-now-enters-the-next-phase\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-20",
     "headline":"New Mexico solar-plus-storage project for Jicarilla Apache Nation begins operations",
     "summary_80w":"US-based renewable energy developer National Renewable Solutions (NRS) announced its 140MWac solar energy and 50MW battery storage Shallow Basket Energy project is now operational.",
     "region":"Global",
@@ -3178,38 +3211,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/california-county-adopts-balanced-bess-zoning-hopes-to-stop-developers-seeking-state-level-approvals\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-19",
-    "headline":"Duke Energy applies to extend operation of pumped hydro energy storage project in South Carolina",
-    "summary_80w":"Major US utility company Duke Energy has submitted its final license application to the Federal Energy Regulatory Commission (FERC) to extend operation at the Bad Creek Pumped Storage Hydroelectric Station for an additional 50 years.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/duke-energy-applies-to-extend-operation-of-pumped-hydro-energy-storage-project-in-south-carolina\/",
     "reliability":"trade",
     "notes":""
   }
