@@ -1,6 +1,392 @@
 [
   {
     "date_utc":"2025-09-03",
+    "headline":"UK BESS operators complete 427MW of grid-scale capacity in August",
+    "summary_80w":"The UK had one of its best months of the year for large-scale BESS projects being completed in August.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/uk-bess-operators-complete-427mw-of-grid-scale-capacity-in-august\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Alight and Neoen power up 100MW PV plant in Sweden",
+    "summary_80w":"Developers Alight Neoen have commissioned the 100MWp Hultsfred Solar Farm in Sm\u00e5land, southern Sweden.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/alight-and-neoen-power-up-100mw-pv-plant-in-sweden\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"US residential PV prices remain stable but industry confidence falters \u2013 EnergySage",
+    "summary_80w":"US residential solar prices have remained at historic lows in the first half of the year despite market uncertainty and continued high interest rates.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-residential-pv-prices-remain-stable-but-industry-confidence-falters-energysage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Trinasolar, Holosolis ink TOPCon patent licence agreement in Europe",
+    "summary_80w":"Chinese solar manufacturer Trinasolar has signed a patent licence agreement with French module manufacturing startup Holosolis to use its TOPCon solar cell technology.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/trinasolar-holosolis-ink-topcon-patent-licence-agreement-in-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"India adds 2.8GW rooftop solar in H1 2025, up 158% year-on-year",
+    "summary_80w":"India has added 2.8GW of rooftop solar in H1 2025, a 158% year-on-year surge from just 1.1GW in the same period last year.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/india-adds-2-8gw-rooftop-solar-in-h1-2025-up-158-year-on-year\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Huasun claims 34.02% efficiency on HJT-perovskite tandem cell",
+    "summary_80w":"Huasun claims it has set new record efficiencies for HJT-perovskite tandem solar cells at both laboratory and commercial scales.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/huasun-claims-34-02-efficiency-on-hjt-perovskite-tandem-cell\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Peak Energy breaks ground on 65MWp solar project in Philippines",
+    "summary_80w":"Singapore-headquartered independent power producer Peak Energy has broken ground on a 65MWp solar project in Isabela, in the Cagayan Valley region of northeast Luzon, Philippines.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/peak-energy-breaks-ground-on-65mwp-solar-project-in-philippines\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"China\u2019s top four solar manufacturers suffer US$1.54 billion in losses in H1 2025",
+    "summary_80w":"LONGi, Jinko Solar, Trina Solar and JA Solar posted combined net losses of nearly RMB11 billion (US$1.54 billion) in H1 2025.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/chinas-top-four-solar-manufacturers-suffer-1-54-billion-losses-h1-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Michigan utilities\u2019 US$800 million case over \u2018defective\u2019 pumped hydro upgrade goes to trial",
+    "summary_80w":"Consumers Energy and DTE Energy\u2019s case against contractor TAES over work on a pumped hydro energy storage plant will go to court.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/michigan-utilities-us800-million-case-over-defective-pumped-hydro-upgrade-goes-to-trial\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Fire at Arevon Energy\u2019s California solar-plus-storage facility",
+    "summary_80w":"During the morning of 30 August 2025, the California Department of Forestry and Fire Protection (CAL FIRE) responded to a possible vegetation fire in the area of independent power producer (IPP) Arevon Energy\u2019s California Flats solar-plus-storage project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/fire-at-arevon-energys-california-solar-plus-storage-facility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Tips from an EPC to navigate complex BESS codes, constructability and safety, Pt. 2",
+    "summary_80w":"Andrew Early and Ben Echeverria of EPC Burns &#038; McDonnell continue their list of tips for navigating the choppy waters of battery storage project delivery.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/tips-from-an-epc-to-navigate-complex-bess-codes-constructability-and-safety-pt-2\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
+    "headline":"Chile: Big renewables-plus-storage project progress from Grenergy, AES and Verano",
+    "summary_80w":"Chile is leading Latin America\u2019s wave of energy storage adoption, closely linked to its embrace of solar PV.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/chile-big-renewables-plus-storage-project-progress-from-grenergy-aes-and-verano\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-03",
     "headline":"910MWh of BESS from Quinbrook, Akaysha Energy nears commissioning in Queensland, Australia",
     "summary_80w":"910MWh of BESS in Queensland, Australia, has been added to AEMO\u2019s Market Management System, signalling readiness for commissioning.",
     "region":"Global",
@@ -1933,38 +2319,6 @@
   },
   {
     "date_utc":"2025-08-27",
-    "headline":"\u2018US solar manufacturing is at a crossroads\u2019",
-    "summary_80w":"American Clean Power Association\u2019s MJ Shiao assesses the state of US PV manufacturing in the wake of recent policy developments.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-27",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-solar-manufacturing-is-at-a-crossroads\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-27",
     "headline":"RP Global breaks ground on 50MWp solar project at former German lignite mine",
     "summary_80w":"Independent power producer RP Global is building a 50MWp solar project in Harbke, Germany.",
     "region":"Germany",
@@ -2152,70 +2506,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/us-solar-market-must-think-in-years-and-decades\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-27",
-    "headline":"FTC Solar, Levona Renewables sign 1GW PV tracker supply agreement",
-    "summary_80w":"Tracker manufacturer FTC Solar has signed a 1GW solar PV tracker and software supply agreement with engineering firm Levona Renewables.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ftc-solar-levona-renewables-sign-1gw-pv-tracker-supply-agreement\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-27",
-    "headline":"Ferrovial to build 250MW solar PV facility in Texas",
-    "summary_80w":"Spanish infrastructure provider Ferrovial Energy will build a 250MW solar photovoltaic facility in Milam County, Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ferrovial-to-build-250mw-solar-pv-facility-in-texas\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2473,135 +2763,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/neoen-and-nhoa-partner-on-bess-with-capacity-market-contract-in-north-italy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-26",
-    "headline":"ABO Energy closes US$279.8 million loan to fund renewable projects",
-    "summary_80w":"ABO Energy has closed its first syndicated loan agreement worth \u20ac240 million (US$279.8 million) to develop and construct more wind, solar and storage project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/abo-energy-closes-us-279-8-million-to-fund-renewable-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-26",
-    "headline":"Daqo losses stabilise as polysilicon production exceeds sales for the first time this year",
-    "summary_80w":"Daqo New Energy has posted gross losses of US$81.4 million in Q2 2025, up from losses of US$81.5 million in Q1.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/daqo-losses-stabilise-polysilicon-production-exceeds-sales-first-time-this-year\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-26",
-    "headline":"Utility-scale PV investment drops and small-scale soars in first half of 2025 \u2013 BloombergNEF",
-    "summary_80w":"Investment in utility-scale solar fell by 19% in the first half of 2025, as global investment in all renewable energy projects grew by 10%.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/utility-scale-pv-investment-drops-and-small-scale-soars-in-first-half-of-2025-bloombergnef\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-26",
-    "headline":"Jakson Engineers invests US$912.5 million in 6GW integrated PV manufacturing plant",
-    "summary_80w":"Jakson Engineers is investing over INR80 billion (US$912.5 million) to set up a 6GW integrated solar module, cell, and wafer plant.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/jakson-engineers-invests-us912-5-million-in-6gw-integrated-pv-manufacturing-plant\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3054,166 +3215,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/threshold-projects-scrapped-higher-ppa-prices-feoc-uncertainty-life-us-developer-operator-post-tax-reconciliation-bill-obbb\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-21",
-    "headline":"North America energy storage acquisitions: FlexGen acquires Powin, Glencore acquires Li-Cycle",
-    "summary_80w":"Two North American companies, Powin and Li-Cycle, were recently acquired by FlexGen and Glencore, respectively, after announcing bankruptcy.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/north-america-energy-storage-acquisitions-flexgen-acquires-powin-glencore-acquires-li-cycle\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-21",
-    "headline":"Ultra-low cost battery storage launch provokes price war discussion at Shanghai trade show",
-    "summary_80w":"A product launch at this year's EESA Energy Storage Exhibition in China drew attention, discussion and even disbelief, reports Carrie Xiao.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ultra-low-cost-battery-storage-launch-provokes-price-war-discussion-at-shanghai-trade-show\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-21",
-    "headline":"Statera brings online UK\u2019s biggest battery storage project to date",
-    "summary_80w":"Statera Energy has begun operating the biggest BESS project in the UK, connected to a National Grid substation that formerly supported two coal power plants.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/statera-brings-online-uks-biggest-battery-storage-project-to-date\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-21",
-    "headline":"ACE Power finalises the sale of \u2018ready-to-build\u2019 206MWh grid-forming BESS in Australia",
-    "summary_80w":"ACE Power has confirmed the sale of the 103MW\/206MWh Kerang grid-forming BESS in the Loddon Valley region of Victoria, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ace-power-finalises-the-sale-of-ready-to-build-206mwh-grid-forming-bess-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-21",
-    "headline":"Akaysha Energy: Developing the \u2018world\u2019s most powerful battery storage system\u2019",
-    "summary_80w":"\u201cIt\u2019s the most powerful BESS in the world,\u201d Nick Carter of Akaysha Energy, tells ESN Premium after switching on the Waratah Super Battery in New South Wales, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-developing-the-worlds-most-powerful-battery-storage-system\/",
     "reliability":"trade",
     "notes":""
   }
