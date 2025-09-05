@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2025-09-05",
+    "headline":"Australia: Queensland utility-scale solar PV plants dominate best-performing list for August",
+    "summary_80w":"Research firm Rystad Energy has found that Queensland\u2019s utility-scale solar PV power plants have dominated the best-performing assets, in terms of AC capacity factor, rankings for August 2025.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-queensland-utility-scale-solar-pv-plants-dominate-best-performing-list-for-august\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"SOC errors in LFP batteries are draining revenue \u2013 here\u2019s how to fix it",
+    "summary_80w":"Last summer, a Texas energy storage operator watched in frustration as their battery system missed a golden trading opportunity during a peak demand window.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/soc-errors-in-lfp-batteries-are-draining-revenue-heres-how-to-fix-it\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
     "headline":"Fluence deploys first full product ecosystem at Tilt Renewables\u2019 200MWh BESS in Victoria, Australia",
     "summary_80w":"Australian renewable energy company Tilt Renewables has officially inaugurated its 100MW\/200MWh Latrobe Valley battery energy storage system (BESS) near Morwell, Victoria.",
     "region":"Global",
@@ -2470,38 +2534,6 @@
   },
   {
     "date_utc":"2025-08-28",
-    "headline":"Boviet Solar completes exterior construction of 3GW PV cell plant in North Carolina",
-    "summary_80w":"Boviet Solar has completed exterior construction work on its 3GW PV cell manufacturing facility in Greenville, Pitt County, North Carolina.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/boviet-solar-completes-exterior-construction-of-3gw-pv-cell-plant-in-north-carolina\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-28",
     "headline":"CAISO monitoring for \u2018detrimental market behaviour\u2019 in BESS Bid Cost Recovery process",
     "summary_80w":"Energy-Storage.news Premium speaks with Sergio Melendez, storage sector manager at CAISO, and Ali Karimian, market optimisation director at GridBeyond, about regulating Bid Cost Recovery Payments in the California Independent System Operator market.",
     "region":"Global",
@@ -3173,38 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-25",
-    "headline":"NextEra Energy Resources receives approval for 200MW Utah BESS",
-    "summary_80w":"Independent power producer (IPP) NextEra Energy Resources (NEER) has received approval from the Utah Inland Port Authority (UIPA) for its 200MW battery energy storage system (BESS) in Salt Lake City, Utah, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/nextera-energy-resources-receives-approval-for-200mw-utah-bess\/",
     "reliability":"trade",
     "notes":""
   }
