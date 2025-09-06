@@ -1,6 +1,198 @@
 [
   {
     "date_utc":"2025-09-05",
+    "headline":"US ROUND-UP: ContourGlobal powers its first US solar plant, Arevon closes financing on 430MW PV in Missouri",
+    "summary_80w":"During a week of major US clean energy developments, ContourGlobal, PSE, Arevon, and Ameren Missouri advanced solar projects across four states in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-round-up-contourglobal-powers-its-first-us-solar-plant-arevon-closes-financing-on-430mw-pv-in-missouri\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"US policy-driven turbulence \u2018changes but doesn\u2019t eliminate the opportunity\u2019 for battery storage",
+    "summary_80w":"ESN Premium speaks with Chris McKissack, CEO of developer Fullmark Energy, on issues affecting the US market today and the company\u2019s transition from its legacy business model.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-policy-driven-turbulence-changes-but-doesnt-eliminate-the-opportunity-for-battery-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"Nextracker launches new eBOS trunk connector, NX PowerMerge",
+    "summary_80w":"US solar tracker manufacturer Nextracker has launched a new electrical balance of systems (eBOS) trunk connector.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextracker-launches-new-ebos-trunk-connector-nx-powermerge\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"Fraunhofer ISE, KAUST advance perovskite tandem cell passivation in \u2018crucial step for industrialisation\u2019",
+    "summary_80w":"Scientists from Germany and Saudi Arabia have discovered that perovskite thin-film cells are compatible with current industry standard silicon solar cells, which they claim is a \u201ccrucial step toward the industrialisation of perovskite silicon tandem solar cells\u201d.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/fraunhofer-ise-kaust-advance-perovskite-tandem-cell-passivation-in-crucial-step-for-industrialisation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"Sale of Sunnova assets and business confirmed",
+    "summary_80w":"Newly formed firm Solaris Assets has acquired the business operations and assets of Texas-based residential solar installer Sunnova.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sale-of-sunnova-assets-and-business-confirmed\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"Array Technologies\u2019 trackers certified as compatible with 2,000V systems",
+    "summary_80w":"US solar tracker manufacturer Array Technologies has announced that two of its tracking systems are compatible with 2,000V solar systems.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/array-technologies-trackers-certified-compatible-2000v-systems\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
     "headline":"Australia: Queensland utility-scale solar PV plants dominate best-performing list for August",
     "summary_80w":"Research firm Rystad Energy has found that Queensland\u2019s utility-scale solar PV power plants have dominated the best-performing assets, in terms of AC capacity factor, rankings for August 2025.",
     "region":"Global",
@@ -28,6 +220,70 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australia-queensland-utility-scale-solar-pv-plants-dominate-best-performing-list-for-august\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development",
+    "summary_80w":"South Korean company SK On has entered the US BESS market with LFP batteries, securing a supply contract with Flatiron Energy Development.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sk-on-signs-7-2gwh-deal-to-supply-us-made-lfp-batteries-to-flatiron-energy-development\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-05",
+    "headline":"VIDEO: Model and maximise C&I battery storage profits with Qcells + Geli",
+    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with Qcells + Geli, on modelling and realising maximum profits from commercial &#038; industrial (C&#038;I) battery storage systems.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-model-and-maximise-ci-battery-storage-profits-with-qcells-geli\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2373,167 +2629,6 @@
   },
   {
     "date_utc":"2025-08-28",
-    "headline":"Thailand launches 280MW floating PV tender",
-    "summary_80w":"State-owned firm Electricity Generating Authority of Thailand (EGAT) has launched a tender for the construction of a 280MW floating PV (FPV) project.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/thailand-launches-280mw-floating-pv-tender\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-28",
-    "headline":"Egypt to build 4GW solar, 1GWh battery storage manufacturing facility",
-    "summary_80w":"Bahraini, Chinese, Egyptian and Emirati groups have agreed to develop a new solar and storage manufacturing facility in Egypt",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/egypt-to-build-4gw-solar-1gwh-storage-manufacturing-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-28",
-    "headline":"\u2018Latin American solar sector stands at a pivotal moment\u2019 \u2013 SolarPower Europe",
-    "summary_80w":"Latin America has the potential to unlock billions in clean energy investment if it aligns national policies with global sustainability goals and investor expectations.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/latin-american-solar-sector-stands-at-a-pivotal-moment-solarpower-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-28",
-    "headline":"INA Solar breaks ground on 4.5GW solar cell plant in Madhya Pradesh",
-    "summary_80w":"Indian solar manufacturing firm INA Solar has broken ground on its fourth 4.5GW cell production plant in Narmadapuram, Madhya Pradesh.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ina-breaks-ground-on-4-5gw-solar-cell-plant-in-mp\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-28",
-    "headline":"US solar could pay \u2018tens of billions\u2019 in duties after Biden\u2019s AD\/CVD moratorium ruled illegal",
-    "summary_80w":"US solar companies could potentially pay \u201ctens of billions\u201d of dollars in retroactive duties on products imported from Southeast Asia between June 2022 and June 2024, following a decision from the US Court of International Trade (CIT).",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-solar-could-pay-tens-of-billions-in-duties-after-bidens-ad-cvd-moratorium-ruled-illegal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-28",
     "headline":"CAISO monitoring for \u2018detrimental market behaviour\u2019 in BESS Bid Cost Recovery process",
     "summary_80w":"Energy-Storage.news Premium speaks with Sergio Melendez, storage sector manager at CAISO, and Ali Karimian, market optimisation director at GridBeyond, about regulating Bid Cost Recovery Payments in the California Independent System Operator market.",
     "region":"Global",
@@ -2985,38 +3080,6 @@
   },
   {
     "date_utc":"2025-08-26",
-    "headline":"Gigawatt-hour-scale \u2018Energy Parks\u2019 BESS developer Pacific Green raises AU$77 million for Australia projects",
-    "summary_80w":"BESS developer Pacific Green Technologies has secured a AU$77 million (US$49.9 million) debt facility for projects in Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-26",
-    "impact_score_1to5":5,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/gigawatt-hour-scale-energy-parks-bess-developer-pacific-green-raises-au77-million-for-australia-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-26",
     "headline":"Neoen and NHOA partner on BESS with capacity market contract in North Italy",
     "summary_80w":"IPP Neoen has enlisted BESS supplier NHOA Energy for its first energy storage project in Italy.",
     "region":"Global",
@@ -3141,70 +3204,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/new-eu-end-of-life-battery-regulations-create-legal-and-commercial-complexities-for-suppliers\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-26",
-    "headline":"Australia: Capacity Investment Scheme results for 16GWh tender expected \u2018in the coming weeks\u2019",
-    "summary_80w":"\u201cWe\u2019re expecting the results of the Capacity Investment Scheme (CIS) Tender 3 in the coming weeks,\u201d Thimo Mueller, general manager, commercial at ASL, said in the opening keynote of the Battery Asset Management Summit Australia 2025 this morning.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-capacity-investment-scheme-results-for-16gwh-tender-expected-in-the-coming-weeks\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-25",
-    "headline":"Fullmark Energy\u2019s 20MW\/40MWh California BESS reaches commercial operation",
-    "summary_80w":"Independent power producer (IPP) Fullmark Energy has announced the commercial operation of its 20MW\/40MWh Ortega energy storage project in Lake Elsinore, California, US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation\/",
     "reliability":"trade",
     "notes":""
   }
