@@ -1,5 +1,518 @@
 [
   {
+    "date_utc":"2025-09-11",
+    "headline":"US cell producer presses on with expansion plans despite policy uncertainty",
+    "summary_80w":"US cell manufacturer ES Foundry is proceeding with expansion plans despite a six-month delay due to recent trade and tax credit policy uncertainties.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-cell-producer-presses-on-with-expansion-plans-despite-policy-uncertainty\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"How US solar manufacturing is weathering the policy storm",
+    "summary_80w":"PV CellTech USA: US cell manufacturer ES Foundry\u2019s CEO Alex Zhu discusses his company's rapid ascent, strategic technology choices and the challenges of operating in a shifting policy environment.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-us-solar-manufacturing-is-weathering-the-policy-storm\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Founder Group secures EPC contract for 30MW Malaysian solar plant",
+    "summary_80w":"Founder Group has won a RM10 million (US$2.3 million) engineering, procurement, construction and commissioning contract for a 30MW solar plant in Malaysia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/founder-group-secures-epc-contract-for-30mw-malaysian-solar-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Ib vogt inks 70MW solar vPPA in Romania",
+    "summary_80w":"German renewable energy developer ib vogt has signed a 70MW solar PV virtual power purchase agreement (vPPA) in Romania.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ib-vogt-inks-70mw-solar-vppa-romania\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Madison Energy secures US$800 million to expand US clean energy portfolio",
+    "summary_80w":"Madison Energy Infrastructure has raised US$800 million to accelerate the deployment of clean energy assets across the US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/madison-energy-secures-us800-million-to-expand-us-clean-energy-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"European PEARL project develops flexible perovskite cell with 21.6% conversion efficiency",
+    "summary_80w":"The PEARL Consortium has developed perovskite solar cells with carbon electrodes with a conversion efficiency of 21.6%.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/pearl-consortium-halfway-point-perovskites-21-6-conversion-efficiency\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Renewable energy among targets of US$634m EBRD climate finance package",
+    "summary_80w":"The EBRD has launched a new programme to improve access to green financing and support energy investments such as renewable power projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ebrd-launches-new-programme-renewable-energy-green-financing-access\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Constant Energy secures US$9.4 million for renewable energy expansion",
+    "summary_80w":"Constant Energy has secured THB300 million (US$9.4 million) in green financing from HSBC to expand large-scale solar and battery storage projects in Thailand.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/constant-energy-secures-us9-4-million-for-renewable-energy-expansion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Italy: \u2018Right now, it doesn\u2019t make sense to invest in co-located storage\u2019",
+    "summary_80w":"The absence of negative pricing in Italy undermines the case for co-located solar storage, the co-founder of Italian IPP Terrawatt has said.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/italy-right-now-it-doesnt-make-sense-to-invest-in-co-located-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Solar growth in Central European countries outstrips EU average as coal declines",
+    "summary_80w":"Solar power generation in Central Europe has grown at more than twice the EU average rate since 2019, according to new figures.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-growth-in-central-european-countries-outstrips-eu-average-as-coal-declines\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Hithium, Storion announce non-lithium BESS advances in US",
+    "summary_80w":"Hithium has announced its lithium-ion and sodium-ion battery energy storage system (BESS) for supporting data centres, while Storion Energy has secured its first vanadium electrolyte customer.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hithium-storion-announce-non-lithium-bess-advances-in-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Primergy, Gridstor, Sunraycer and Plus Power progress large-scale US BESS projects",
+    "summary_80w":"A flurry of large-scale BESS project news in the US from four major developer-operators, coinciding with the country's largest clean energy trade show RE+.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/primergy-gridstor-sunraycer-and-plus-power-progress-large-scale-us-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Grenergy secures US$270 million financing for 3.5GWh BESS in Oasis de Atacama Phase 6",
+    "summary_80w":"Grenergy has secured a senior non-recourse financing agreement worth US$270 million for Phase 6 of its flagship Chilean solar-plus-storage project, Oasis de Atacama.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/grenergy-secures-us270-million-financing-for-3-5gwh-bess-in-oasis-de-atacama-phase-6\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"\u2018The bar is going up and up\u2019: Sodium-ion firm Natron Energy\u2019s closure highlights alternative chemistry challenges",
+    "summary_80w":"US sodium-ion battery firm Natron Energy has ceased trading, putting an end to its two domestic gigafactories. The news points to the challenges for battery chemistries hoping to compete with LFP, analysts told Energy-Storage.news.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/the-bar-is-going-up-and-up-sodium-ion-firm-natron-energys-closure-highlights-alternative-chemistry-challenges\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"Still too early to see Trump tariffs\u2019 impact on BESS industry finances",
+    "summary_80w":"It's still to early to see the financial impact on energy storage suppliers in the wake of Trump's tariffs and legislation, writes Solar Media analyst Charlotte Gisbourne, analysing their H1 revenues.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/still-too-early-to-see-trump-tariffs-impact-on-bess-industry-finances\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-11",
+    "headline":"\u2018Storage as fundamental as generation\u2019: DTEK and Fluence turn on 200MW Ukraine BESS",
+    "summary_80w":"IPP DTEK Group and system integrator Fluence have together put a 200MW\/400MWh BESS portfolio in Ukraine into commercial operation, a milestone praised by the country's energy minister Svitlana Grinchuk.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/storage-as-fundamental-as-generation-dtek-and-fluence-turn-on-200mw-ukraine-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-10",
     "headline":"Navigating Italy\u2019s PV project development maze",
     "summary_80w":"PV Talk: Italy\u2019s new CfD policy offers clear support for solar developers in an otherwise uncertain legislative landscape, says Terrawatt's Patrizio Donati.",
@@ -1886,38 +2399,6 @@
   },
   {
     "date_utc":"2025-09-04",
-    "headline":"Biden tariff moratorium \u2018single worst policy\u2019 for US solar supply chain",
-    "summary_80w":"Analysis: A Biden-era policy to suspend the payment of duties on Southeast Asian module imports looks set to backfire badly on an already under-pressure US solar industry.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/biden-tariff-moratorium-single-worst-policy-for-us-solar-supply-chain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
     "headline":"Argentina awards 667MW in first energy storage tender",
     "summary_80w":"Argentina has awarded 667MW of battery energy storage system (BESS) in its first tender under the AlmaGBA scheme.",
     "region":"Global",
@@ -2101,134 +2582,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/highland-materials-to-begin-polysilicon-plant-construction-in-h2-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"Waaree Energies acquires 64% stake in transformer maker Kotsons",
-    "summary_80w":"Indian solar manufacturer Waaree Energies has acquired a 64% equity stake in power transformer manufacturing company Kotsons.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/waaree-energies-acquires-64-stake-in-transformer-maker-kotsons\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"\u2018Innovation allows us to compete straight up against China on polysilicon\u2019",
-    "summary_80w":"PV Talk: Highland Materials' CEO Richard Rast explains how the company aims to compete in the polysilicon landscape through US innovation.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/innovation-allows-us-to-compete-straight-up-against-china-on-polysilicon\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"FTC Solar launches automated 80 degree hail stow angle for 1P Pioneer tracker",
-    "summary_80w":"US tracker manufacturer FTC Solar has launched an automated 80 degree hail stow angle for its flagship 1P Pioneer tracker.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ftc-solar-launches-80-degree-hail-stow-angle-1p-pioneer-tracker\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"ARENA launches AU$150 million second round of Solar Sunshot programme in Australia",
-    "summary_80w":"ARENA has launched the second funding round of its AU$1 billion Solar Sunshot programme, making AU$150 million available.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/arena-launches-au150-million-second-round-of-solar-sunshot-programme-in-australia\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2453,166 +2806,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/uk-bess-operators-complete-427mw-of-grid-scale-capacity-in-august\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-03",
-    "headline":"Alight and Neoen power up 100MW PV plant in Sweden",
-    "summary_80w":"Developers Alight Neoen have commissioned the 100MWp Hultsfred Solar Farm in Sm\u00e5land, southern Sweden.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/alight-and-neoen-power-up-100mw-pv-plant-in-sweden\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-03",
-    "headline":"US residential PV prices remain stable but industry confidence falters \u2013 EnergySage",
-    "summary_80w":"US residential solar prices have remained at historic lows in the first half of the year despite market uncertainty and continued high interest rates.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-residential-pv-prices-remain-stable-but-industry-confidence-falters-energysage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-03",
-    "headline":"Trinasolar, Holosolis ink TOPCon patent licence agreement in Europe",
-    "summary_80w":"Chinese solar manufacturer Trinasolar has signed a patent licence agreement with French module manufacturing startup Holosolis to use its TOPCon solar cell technology.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/trinasolar-holosolis-ink-topcon-patent-licence-agreement-in-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-03",
-    "headline":"India adds 2.8GW rooftop solar in H1 2025, up 158% year-on-year",
-    "summary_80w":"India has added 2.8GW of rooftop solar in H1 2025, a 158% year-on-year surge from just 1.1GW in the same period last year.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-adds-2-8gw-rooftop-solar-in-h1-2025-up-158-year-on-year\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-03",
-    "headline":"Huasun claims 34.02% efficiency on HJT-perovskite tandem cell",
-    "summary_80w":"Huasun claims it has set new record efficiencies for HJT-perovskite tandem solar cells at both laboratory and commercial scales.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/huasun-claims-34-02-efficiency-on-hjt-perovskite-tandem-cell\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2999,198 +3192,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/securing-the-future-of-energy-storage-navigating-the-cybersecurity-landscape\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-01",
-    "headline":"Chinese battery manufacturer Hithium ships first units from Texas BESS assembly plant",
-    "summary_80w":"Hithium has shipped the first battery energy storage systems (BESS) manufactured at its new plant in Texas, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/chinese-battery-manufacturer-hithium-ships-first-units-from-texas-bess-assembly-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-01",
-    "headline":"Multinational consortium agrees to invest US$220 million in solar PV, BESS factory in Egypt",
-    "summary_80w":"Bahraini, Chinese, Egyptian and Emirati groups have agreed to develop a new manufacturing facility in Egypt.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/multinational-consortium-agrees-to-invest-us220-million-in-solar-pv-bess-factory-in-egypt\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-01",
-    "headline":"India\u2019s Sunsure signs 500MWh fixed tariff BESS contract to supply Uttar Pradesh during peaks",
-    "summary_80w":"Renewable energy solutions provider Sunsure Energy claims to have signed India\u2019s first-ever fixed tariff battery storage offtake contract.",
-    "region":"India",
-    "country":"IN",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/indias-sunsure-signs-500mwh-fixed-tariff-bess-contract-to-supply-uttar-pradesh-during-peaks\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-29",
-    "headline":"Hitachi Energy acquires Powin\u2019s remaining stake in power conversion system maker Eks Energy",
-    "summary_80w":"Hitachi Energy has been successful in its bid to acquire full ownership of Eks Energy, a manufacturer of power conversion systems (PCS).",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hitachi-energy-acquires-powin-stake-eks-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-29",
-    "headline":"Capacity Investment Scheme Tenders open, targeting 2.4GWh of energy storage in Western Australia",
-    "summary_80w":"The Australian government has opened two CIS tenders in Western Australia, targeting 2.4GWh of energy storage and 1.6GW of renewables.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/capacity-investment-scheme-tenders-open-targeting-2-4gwh-of-energy-storage-in-western-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-08-29",
-    "headline":"Potentia\u2019s 900MWh BESS site the first to be approved under South Australia\u2019s HRE Act",
-    "summary_80w":"Potentia Energy, a joint venture co-owned by Enel Green Power and INPEX, has secured the first environmental approval for a grid-scale battery energy storage system (BESS) under South Australia's new Hydrogen and Renewable Energy (HRE) Act.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-08-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/potentias-900mwh-bess-site-the-first-to-be-approved-under-south-australias-hre-act\/",
     "reliability":"trade",
     "notes":""
   }
