@@ -1,5 +1,233 @@
 [
   {
+    "date_utc":"2025-09-12",
+    "headline":"ACME secures US$43 million financing for 400MW project in Rajasthan",
+    "summary_80w":"ACME Venus Urja has secured INR3.8 billion (US$43 million) to develop and construct a solar-plus-storage project in Barmer, Rajasthan.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-12",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/acme-secures-us43-million-financing-for-400mw-project-in-rajasthan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-12",
+    "headline":"Celsia seeks US$1.2 billion investment for 1.2GW solar and wind portfolio",
+    "summary_80w":"Colombian energy supplier Celsia is seeking more than US$1.2 billion in investment to build wind and solar generation projects in Peru.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/celsia-seeks-us1-2-billion-investment-1-2gw-solar-wind-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-12",
+    "headline":"BSW-Solar calls for simplified grid access for German solar and storage projects",
+    "summary_80w":"German trade association BSW-Solar has called the German government for a simplified, standardised and more digitalised grid access for solar PV and energy storage operators.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/bsw-solar-calls-for-simplified-grid-access-for-german-solar-and-storage-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-12",
+    "headline":"Risk aversion and market pressures: inside Georgia Power\u2019s latest IRP",
+    "summary_80w":"Vote Solar's Sean Garren tells PV Tech Premium that Georgia Power's latest IRP is 'skewed so heavily towards fossil fuels'.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/risk-aversion-market-pressures-inside-georgia-powers-latest-irp\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-12",
+    "headline":"NY local town officials call on moratorium to suspend 1GWh BESS, State representatives issue support for project",
+    "summary_80w":"The Town of Ulster in New York has received a request from local officials of the neighbouring town of Hurley to temporarily suspend the permitting process of a 250MW\/1,000MWh BESS project under development by independent power producer (IPP) Terra-Gen.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ny-local-town-officials-call-on-moratorium-to-suspend-1gwh-bess-state-representatives-issue-support-for-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-12",
+    "headline":"From stability to volatility: rethinking  performance management in today\u2019s changing electricity markets",
+    "summary_80w":"As hybridisation and changing grid and market conditions redefine the scope of asset performance management, renewables project services provider E3's Anouk Hut looks at the growing importance of physics-based modelling and integrated digital infrastructure.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/from-stability-to-volatility-rethinking-performance-management-in-todays-changing-electricity-markets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-12",
+    "headline":"Return, N2OFF embark on Germany BESS projects",
+    "summary_80w":"Dutch BESS operator Return has acquired four ready-to-build (RTB) projects in Germany, while agrifood tech and renewables investor N2OFF has added BESS to a solar project it is developing there.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/return-n2off-embark-on-germany-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-11",
     "headline":"US cell producer presses on with expansion plans despite policy uncertainty",
     "summary_80w":"US cell manufacturer ES Foundry is proceeding with expansion plans despite a six-month delay due to recent trade and tax credit policy uncertainties.",
@@ -2462,131 +2690,6 @@
   },
   {
     "date_utc":"2025-09-04",
-    "headline":"Fraunhofer ISE completes testing on grid-forming inverters, to publish results next month",
-    "summary_80w":"Fraunhofer ISE has completed testing work of grid-forming inverters currently available in the energy industry.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/fraunhofer-ise-completes-testing-grid-forming-inverters-publish-results-next-month\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"Governor Newsom signs executive order to accelerate projects at risk of losing IRA support",
-    "summary_80w":"Gavin Newsom has signed an executive order to accelerate the permitting of energy generation projects that could be set to lose IRA support.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/governor-newsom-signs-executive-order-accelerate-projects-at-risk-losing-ira-support\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"Czech Republic warns of cybersecurity threat from Chinese solar inverters",
-    "summary_80w":"The Czech national cybersecurity agency has warned that Chinese solar inverters represent a threat to the country\u2019s data security.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/czech-republic-warns-of-cybersecurity-threat-from-chinese-solar-inverters\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"Highland Materials to begin polysilicon plant construction in H2 2026",
-    "summary_80w":"US polysilicon company Highland Materials has aimed to begin construction at its polysilicon plant in the second half of 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/highland-materials-to-begin-polysilicon-plant-construction-in-h2-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
     "headline":"Washington governor delays approval of hybrid BESS proposal from Cypress Creek Renewables",
     "summary_80w":"The Governor of Washington State has delayed issuing final approval of a hybrid BESS facility under development by Cypress Creek Renewables.",
     "region":"Global",
@@ -3096,102 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/heit-sale-proved-us-right-about-private-capital-and-bess-harmony-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-02",
-    "headline":"Vertically integrated cell-BESS suppliers lose market share as competition increases",
-    "summary_80w":"The market share of vertically integrated battery cell and BESS companies has fallen since 2023, market intelligence firm Rho Motion said.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/vertically-integrated-cell-bess-suppliers-lose-market-share-as-competition-increases\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-02",
-    "headline":"Grid-forming battery storage: \u2018Standby consumption will be higher\u2019 says Australia\u2019s AGL",
-    "summary_80w":"\u201cThe speed at which the grid-forming inverters are operating means that standby consumption will be higher,\u201d said Dave Bowly of AGL.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/grid-forming-battery-storage-standby-consumption-will-be-higher-says-australias-agl\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-02",
-    "headline":"Securing the future of energy storage: Navigating the cybersecurity landscape",
-    "summary_80w":"Katherine Hutton, product manager of cybersecurity at Fluence, discusses why cybersecurity is critical for battery storage systems and how to navigate this increasingly complex area.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/securing-the-future-of-energy-storage-navigating-the-cybersecurity-landscape\/",
     "reliability":"trade",
     "notes":""
   }
