@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2025-09-15",
+    "headline":"Hithium, Fotowatio Renewable Ventures partner for first time with 500MWh grid-forming BESS in Australia",
+    "summary_80w":"Hithium will supply battery storage and SMA the power conversion systems for a 500MWh grid-forming project in Australia for Fotowatio Renewable Ventures (FRV).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hithium-fotowatio-renewable-ventures-partner-for-first-time-with-500mwh-grid-forming-bess-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-12",
     "headline":"ACME secures US$43 million financing for 400MW project in Rajasthan",
     "summary_80w":"ACME Venus Urja has secured INR3.8 billion (US$43 million) to develop and construct a solar-plus-storage project in Barmer, Rajasthan.",
@@ -3167,38 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/bess-codes-constructability-and-safety-require-technical-regulatory-insight-10-tips-from-an-epc\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-02",
-    "headline":"HEIT sale \u2018proved us right\u2019 about private capital and BESS, Harmony says",
-    "summary_80w":"The sale of the UK BESS-holding Harmony Energy Income Trust (HEIT) proved private capital's greater patience and valuation around the asset class, the CEO of its former investment advisor told Energy-Storage.news.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/heit-sale-proved-us-right-about-private-capital-and-bess-harmony-says\/",
     "reliability":"trade",
     "notes":""
   }
