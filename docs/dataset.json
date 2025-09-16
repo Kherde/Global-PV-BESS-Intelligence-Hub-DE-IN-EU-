@@ -1,5 +1,357 @@
 [
   {
+    "date_utc":"2025-09-16",
+    "headline":"\u2018Power even without the sun\u2019: President Marcos Jr inaugurates first \u2018solar baseload\u2019 power plant in Philippines",
+    "summary_80w":"President of the Philippines, Ferdinand Marcos Jr., was in attendance as the country\u2019s first 'baseload' power plant to combine solar PV and battery storage officially went into action.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/power-even-without-the-sun-president-marcos-jr-inaugurates-first-solar-baseload-power-plant-in-philippines\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Fixing the renewable energy data mess",
+    "summary_80w":"Advances in edge-based artificial intelligence are helping make solar and storage interoperable by tackling the data challenge, writes Andrew Foster.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/fixing-the-renewable-energy-data-mess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Italy receives 10GW of solar PV bids in FER X auction, opens second auction",
+    "summary_80w":"Italy\u2019s latest renewable energy tender has received 12GW of bids, of which the majority, 10GW, came from solar PV.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/italy-receives-10gw-of-solar-pv-bids-in-fer-x-auction-opens-second-auction\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Sunrun raises US$510 million in securitisation",
+    "summary_80w":"Sunrun has priced a securitisation of leases and power purchase agreements, taking its non-recourse debt capital raised in Q3 above US$1.5 billion.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sunrun-raises-us510-million-in-securitisation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Statkraft to sell 1.5GW Indian renewables portfolio to Serentica",
+    "summary_80w":"Norwegian energy firm Statkraft has agreed to divest a portion of its renewable energy portfolio to Serentica Renewables.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/statkraft-to-sell-1-5gw-indian-renewables-portfolio-to-serentica\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Australian start-up wins funding to commercialise daylight solar inspection technology",
+    "summary_80w":"UNSW spin-out company Lab360 Solar has been awarded funding from ARENA to bring its drone-based PV inspection technology to market.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australian-start-up-wins-funding-to-commercialise-daylight-solar-inspection-technology\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"UK charts path to trebling solar by 2030",
+    "summary_80w":"The UK government and solar industry have jointly published a long-anticipated roadmap detailing how to maximise the country\u2019s solar potential. Chris Hewett, CEO of Solar Energy UK takes a closer look at the details.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/uk-charts-path-to-trebling-solar-by-2030\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Australia: installed rooftop solar reaches 26.8GW in H1 2025",
+    "summary_80w":"Australia has reached 26.8GW of installed rooftop solar at the end of the first half of 2025, according to a report from the Clean Energy Council (CIC).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-installed-rooftop-solar-reaches-26-8gw-in-h1-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Vikram Solar, AB Energia ink 200MW TOPCon module supply deal",
+    "summary_80w":"Vikram Solar has secured a contract to supply 200MW of modules to AB Energia, a domestic solar engineering, procurement, and construction (EPC) solutions provider.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/vikram-solar-bags-200mw-supply-deal-with-ab-energia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"Axpo, energieUri and Fluence building 58.6MW of Swiss BESS",
+    "summary_80w":"Utility and power firms Axpo and energieUri will together deploy two BESS projects in Switzerland with technology provided by system integrator Fluence.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/axpo-energieuri-and-fluence-building-58-6mw-of-swiss-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-15",
+    "headline":"12.5GWh of grid-scale BESS commissioned in August, including largest single-phase LFP project ever",
+    "summary_80w":"China again dominated global battery storage deployments in August, accounting for two-thirds of what came online, but Europe, North America and Oceania\/Australia had good months too.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/12-5gwh-of-grid-scale-bess-commissioned-in-august-including-largest-single-phase-lfp-project-ever\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-15",
     "headline":"Hithium, Fotowatio Renewable Ventures partner for first time with 500MWh grid-forming BESS in Australia",
     "summary_80w":"Hithium will supply battery storage and SMA the power conversion systems for a 500MWh grid-forming project in Australia for Fotowatio Renewable Ventures (FRV).",
@@ -2147,37 +2499,6 @@
   },
   {
     "date_utc":"2025-09-08",
-    "headline":"Philippines auction attracts 9.4GW in renewable energy bids",
-    "summary_80w":"A green energy auction in the Philippines has secured 9.4GW of renewable energy capacity subscriptions, of a target of 10.65GW.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/philippines-auction-attracts-9-4gw-in-renewable-energy-bids\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-08",
     "headline":"12GWh PHES and 1.2GWh BESS added to Australia\u2019s EPBC Act",
     "summary_80w":"A 12GWh pumped hydro project and a 1,200MWh battery energy storage system in New South Wales (NSW) have been submitted to Australia\u2019s Environment Protection and Biodiversity Conservation (EPBC) Act.",
     "region":"Global",
@@ -2307,38 +2628,6 @@
   },
   {
     "date_utc":"2025-09-05",
-    "headline":"US ROUND-UP: ContourGlobal powers its first US solar plant, Arevon closes financing on 430MW PV in Missouri",
-    "summary_80w":"During a week of major US clean energy developments, ContourGlobal, PSE, Arevon, and Ameren Missouri advanced solar projects across four states in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-05",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-round-up-contourglobal-powers-its-first-us-solar-plant-arevon-closes-financing-on-430mw-pv-in-missouri\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-05",
     "headline":"US policy-driven turbulence \u2018changes but doesn\u2019t eliminate the opportunity\u2019 for battery storage",
     "summary_80w":"ESN Premium speaks with Chris McKissack, CEO of developer Fullmark Energy, on issues affecting the US market today and the company\u2019s transition from its legacy business model.",
     "region":"Global",
@@ -2366,166 +2655,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-policy-driven-turbulence-changes-but-doesnt-eliminate-the-opportunity-for-battery-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-05",
-    "headline":"Nextracker launches new eBOS trunk connector, NX PowerMerge",
-    "summary_80w":"US solar tracker manufacturer Nextracker has launched a new electrical balance of systems (eBOS) trunk connector.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nextracker-launches-new-ebos-trunk-connector-nx-powermerge\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-05",
-    "headline":"Fraunhofer ISE, KAUST advance perovskite tandem cell passivation in \u2018crucial step for industrialisation\u2019",
-    "summary_80w":"Scientists from Germany and Saudi Arabia have discovered that perovskite thin-film cells are compatible with current industry standard silicon solar cells, which they claim is a \u201ccrucial step toward the industrialisation of perovskite silicon tandem solar cells\u201d.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/fraunhofer-ise-kaust-advance-perovskite-tandem-cell-passivation-in-crucial-step-for-industrialisation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-05",
-    "headline":"Sale of Sunnova assets and business confirmed",
-    "summary_80w":"Newly formed firm Solaris Assets has acquired the business operations and assets of Texas-based residential solar installer Sunnova.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sale-of-sunnova-assets-and-business-confirmed\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-05",
-    "headline":"Array Technologies\u2019 trackers certified as compatible with 2,000V systems",
-    "summary_80w":"US solar tracker manufacturer Array Technologies has announced that two of its tracking systems are compatible with 2,000V solar systems.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/array-technologies-trackers-certified-compatible-2000v-systems\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-05",
-    "headline":"Australia: Queensland utility-scale solar PV plants dominate best-performing list for August",
-    "summary_80w":"Research firm Rystad Energy has found that Queensland\u2019s utility-scale solar PV power plants have dominated the best-performing assets, in terms of AC capacity factor, rankings for August 2025.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-queensland-utility-scale-solar-pv-plants-dominate-best-performing-list-for-august\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2686,37 +2815,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/argentina-awards-667mw-in-first-energy-storage-tender\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-04",
-    "headline":"India cuts GST on renewable energy components from 12% to 5%",
-    "summary_80w":"India\u2019s Goods and Services Tax (GST) Council, the joint forum of the Centre and States, has reduced the GST rate on renewable energy components from 12% to 5%.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-cuts-gst-on-renewable-energy-components-from-12-to-5\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3103,102 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/910mwh-of-bess-from-quinbrook-akaysha-energy-nears-commissioning-in-queensland-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-02",
-    "headline":"How PAE Engineers is incorporating microgrids into sustainable building designs",
-    "summary_80w":"Energy-Storage.news speaks with Karina Hershberg, Associate Principal at engineering firm PAE Engineers, on integrating microgrids with sustainable building design.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/how-pae-engineers-is-incorporating-microgrids-into-sustainable-building-designs\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-02",
-    "headline":"Maryland county officials deny rezoning request for East Point Energy\u2019s 600MWh BESS project",
-    "summary_80w":"East Point Energy has been dealt a blow in its pursuit to construct a 150MW\/600MWh BESS in Maryland.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/maryland-county-officials-deny-rezoning-request-for-east-point-energys-600mwh-bess-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-02",
-    "headline":"BESS codes, constructability and safety require technical, regulatory insight: 10 tips from an EPC",
-    "summary_80w":"Andrew Early and Ben Echeverria of EPC Burns &#038; McDonnell offer their strategies for navigating the complexities of large-scale battery storage.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bess-codes-constructability-and-safety-require-technical-regulatory-insight-10-tips-from-an-epc\/",
     "reliability":"trade",
     "notes":""
   }
