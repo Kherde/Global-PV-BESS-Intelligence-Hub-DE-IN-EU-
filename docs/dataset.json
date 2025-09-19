@@ -1,5 +1,70 @@
 [
   {
+    "date_utc":"2025-09-19",
+    "headline":"Soaring energy storage orders, robust financial performance drive up Chinese ESS cell prices",
+    "summary_80w":"Several Chinese companies active in the energy storage space have recently released their financial reports for H1 2025, with the majority posting strong growth. Their energy storage business segments have been a key driver of that growth. Of 55 listed Chinese companies in the energy storage sector, 47 were profitable, with 31 reporting year-on-year growth [&#8230;]",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/soaring-energy-storage-orders-robust-financial-performance-drive-up-chinese-ess-cell-prices\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-19",
+    "headline":"Lightsource bp kicks off construction on CIS contract-winning solar-plus-storage plant in Australia",
+    "summary_80w":"Developer Lightsource bp has commenced construction on a 49MW\/562MWh BESS co-located at the 585MWdc Goulburn River solar plant in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/lightsource-bp-kicks-off-construction-on-cis-contract-winning-solar-plus-storage-plant-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-18",
     "headline":"CERC to finalise virtual PPA guidelines to boost 40GW of renewable capacity",
     "summary_80w":"CERC is finalising guidelines for virtual power purchase agreements (vPPAs) to unlock financing for over 40GW of uncontracted renewable capacity.",
@@ -3136,71 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/re-2025-product-launches-showcases-and-news-ahead-of-the-biggest-clean-energy-trade-show-in-the-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-08",
-    "headline":"Sungrow deploys first C&I community batteries to undergo CSIP-AUS testing in South Australia",
-    "summary_80w":"Chinese solar PV inverter and energy storage provider Sungrow has deployed two C&#038;I community batteries, marking the first in South Australia to undergo Common Smart Inverter Profile for Australia (CSIP-AUS) testing.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sungrow-deploys-first-ci-community-batteries-to-undergo-csip-aus-testing-in-south-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-08",
-    "headline":"Neoen Australia energises Western Downs BESS Stage 2 six weeks ahead of schedule",
-    "summary_80w":"Neoen Australia has announced the successful energisation of the second stage of its 540MWh Western Downs battery energy storage system (BESS) in Queensland, completing the milestone six weeks ahead of schedule.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/neoen-australia-energises-western-downs-bess-stage-2-six-weeks-ahead-of-schedule\/",
     "reliability":"trade",
     "notes":""
   }
