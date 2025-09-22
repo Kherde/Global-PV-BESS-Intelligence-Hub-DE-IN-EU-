@@ -1,5 +1,103 @@
 [
   {
+    "date_utc":"2025-09-22",
+    "headline":"Startup Green Gravity to trial gravitational energy storage at a former coal mine in Australia",
+    "summary_80w":"Green Gravity has signed an agreement with mining company Wollongong Resources to trial its gravitational energy storage in NSW, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/startup-green-gravity-to-trial-gravitational-energy-storage-at-a-former-coal-mine-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-22",
+    "headline":"AGL, Someva receive approval for 2GWh wind-plus-storage site in New South Wales, Australia",
+    "summary_80w":"Someva Renewables and AGL Energy have received the federal greenlight to develop a 2GWh wind-plus-storage project in NSW, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/agl-someva-receive-approval-for-2gwh-wind-plus-storage-site-in-new-south-wales-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-21",
+    "headline":"Lightsource bp begins work on co-located BESS at 585MWdc solar PV plant in Australia",
+    "summary_80w":"Lightsource bp has commenced work on a co-located battery energy storage system (BESS) at a 585MWdc solar PV plant in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/lightsource-bp-begins-work-on-co-located-bess-at-585mwdc-solar-pv-plant-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-19",
     "headline":"Avathon launches autonomous AI managing platform for renewables",
     "summary_80w":"Artificial intelligence (AI) company Avathon has launched its AI-powered Autonomy Platform to boost profitability in a market that is facing tax and policy challenges.",
@@ -2499,38 +2597,6 @@
   },
   {
     "date_utc":"2025-09-11",
-    "headline":"Solar growth in Central European countries outstrips EU average as coal declines",
-    "summary_80w":"Solar power generation in Central Europe has grown at more than twice the EU average rate since 2019, according to new figures.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-growth-in-central-european-countries-outstrips-eu-average-as-coal-declines\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-11",
     "headline":"Hithium, Storion announce non-lithium BESS advances in US",
     "summary_80w":"Hithium has announced its lithium-ion and sodium-ion battery energy storage system (BESS) for supporting data centres, while Storion Energy has secured its first vanadium electrolyte customer.",
     "region":"Global",
@@ -3136,70 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/optimising-bess-performance-requires-long-term-perspective-says-fluence\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-08",
-    "headline":"US energy storage market \u2018getting used to policy uncertainty\u2019",
-    "summary_80w":"The US energy storage industry is becoming better equipped to handle the policy uncertainty which has characterised the year so far, Energy-Storage.news has heard.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-08",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-energy-storage-market-getting-used-to-policy-uncertainty\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-08",
-    "headline":"12GWh PHES and 1.2GWh BESS added to Australia\u2019s EPBC Act",
-    "summary_80w":"A 12GWh pumped hydro project and a 1,200MWh battery energy storage system in New South Wales (NSW) have been submitted to Australia\u2019s Environment Protection and Biodiversity Conservation (EPBC) Act.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/12gwh-phes-and-1-2gwh-bess-added-to-australias-epbc-act\/",
     "reliability":"trade",
     "notes":""
   }
