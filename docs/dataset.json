@@ -1,5 +1,228 @@
 [
   {
+    "date_utc":"2025-09-26",
+    "headline":"New South Wales government invests AU$28 million in Western Sydney renewables manufacturing hub",
+    "summary_80w":"The New South Wales (NSW) government has committed AU$28 million (US$18.3 million) to establish a new Renewables Manufacturing Hub in Blacktown, Western Sydney, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-26",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/new-south-wales-government-invests-au28-million-in-western-sydney-renewables-manufacturing-hub\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"NCPA and\u00a0Aypa\u00a0Power negotiate offtake for 400MW San Bernardino BESS, includes \u2018attractive\u2019 US$12.71\/kW-month pricing",
+    "summary_80w":"Northern California Power Agency (NCPA) has negotiated the terms of an energy storage services agreement (ESSA) with Aypa Power, relating to offtake from a 400MW standalone BESS destined for the County of San Bernardino.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ncpa-and-aypa-power-negotiate-offtake-for-400mw-san-bernardino-bess-includes-attractive-us12-71-kw-month-pricing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"The transatlantic opportunities for European PV equipment producers",
+    "summary_80w":"An anticipated uptick in US cell manufacturing presents opportunities for European PV tool producers, says RENA Technologies\u2019 Michael Vees.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/the-transatlantic-opportunities-for-european-pv-equipment-producers\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"Enel issues US$4.5 billion bond, says it \u2018no longer needs\u2019 sustainability financing",
+    "summary_80w":"Italian energy utility Enel has issued a US$4.5 billion (\u20ac3.8 billion) bond seeking investment from \u201cUS and international\u201d investors.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enel-issues-us4-5-billion-bond-says-it-no-longer-needs-sustainability-financing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"Inox Solar starts 1.2GW first phase of Indian TOPCon module manufacturing plant",
+    "summary_80w":"Inox Solar has started the first phase of commercial operations at a module manufacturing plant in Bavla, India.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/inox-solar-1-2gw-first-phase-indian-topcon-module-manufacturing-factory\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"X-Elio commissions its first US solar-plus-storage project, supplying BASF\u2019s Texas operations",
+    "summary_80w":"Spanish renewables developer X-Elio has commissioned its first solar-plus-storage project in the US, which comprises of 72MW solar PV.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/x-elio-commissions-its-first-us-solar-plus-storage-project-supplying-basfs-texas-operations\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"Study says EU 30GW solar module manufacturing target is achievable",
+    "summary_80w":"A Fraunhofer and SolarPower Europe study has concluded that reaching the EU's annual solar module manufacturing target of 30GW is achievable.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/study-says-eu-30gw-solar-module-manufacturing-target-is-achievable\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-25",
     "headline":"100MW solar-plus-storage site submitted to Australia\u2019s EPBC Act",
     "summary_80w":"Developer ACE Power and Osaka Gas Energy Australia have submitted plans for a 100MW solar-plus-storage project to Australia\u2019s EPBC Act.",
@@ -61,6 +284,133 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/tindo-solar-supplies-solar-pv-modules-to-micronesia-submarine-cable-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"Microsoft among members of Schneider Electric-led US resilient community energy initiative",
+    "summary_80w":"Microsoft, Sunrock, Zurich, and AlphaStruxure are among 20 participants joining Schneider Electric to deploy community-based energy systems across the US, supporting public and private sector organisations with \u201cinnovative solutions\u201d and financing.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/microsoft-among-members-of-schneider-electric-led-us-resilient-community-energy-initiative\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"Poland \u2018lacks precise development regulations and a clear long-term plan for energy storage\u2019",
+    "summary_80w":"Although the government in Poland has taken steps to open up its energy storage market, regulatory challenges remain.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/poland-lacks-precise-development-regulations-and-a-clear-long-term-plan-for-energy-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"Eni joint venture kicks off LFP battery cell factory development in Italy",
+    "summary_80w":"Italian multinational energy company Eni intends to become a player in battery cell manufacturing for stationary energy storage systems.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/eni-joint-venture-kicks-off-lfp-battery-cell-factory-development-in-italy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-25",
+    "headline":"Vietnam\u2019s path from zero BESS deployments to meeting ambitious 2030 energy storage targets",
+    "summary_80w":"Climate and energy transition consultant Sunita Dubey reflects on the work done to put Vietnam on the global energy storage industry map and the ambitious pathway forward.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/vietnams-path-from-zero-bess-deployments-to-meeting-ambitious-2030-energy-storage-targets\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2592,38 +2942,6 @@
   },
   {
     "date_utc":"2025-09-16",
-    "headline":"European solar leaders ask EU policymakers for more manufacturing support",
-    "summary_80w":"Two of the major European solar trade associations, the European Solar Manufacturing Council (ESMC) and SolarPower Europe (SPE), have called for EU policymakers to take measures supporting European solar manufacturing.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-16",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/european-solar-leaders-ask-eu-policymakers-for-more-manufacturing-support\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-16",
     "headline":"Chinese BESS players still hope to supply US in FEOC policy environment",
     "summary_80w":"Chinese energy storage companies active in the US face an uncertain future as federal policies encourage moves to reduce their supply chain involvement.",
     "region":"Global",
@@ -2784,70 +3102,6 @@
   },
   {
     "date_utc":"2025-09-16",
-    "headline":"Philippines commissions country\u2019s first agriPV-plus-storage project",
-    "summary_80w":"The Philippines has commissioned the Batangas 1 project, the country's first to combine agriPV with a battery energy storage system (BESS).",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/philippines-commissions-countrys-first-agripv-plus-storage-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-16",
-    "headline":"Wisconsin Republicans propose bill to improve access to community solar projects",
-    "summary_80w":"Two Wisconsin Republicans have introduced legislation to open access to community solar projects in the US state.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/wisconsin-republicans-propose-bill-improve-access-community-solar-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-16",
     "headline":"Turbo Energy secures 336MWh C&I battery storage order in Spain",
     "summary_80w":"Residential and C&#038;I energy storage provider Turbo Energy has secured a major order from an unnamed industrial group in the construction industry in Spain.",
     "region":"Global",
@@ -2939,263 +3193,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ignitis-orders-582mwh-from-rolls-royce-olana-takes-fid-on-lithuania-bess-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-16",
-    "headline":"\u2018Power even without the sun\u2019: President Marcos Jr inaugurates first \u2018solar baseload\u2019 power plant in Philippines",
-    "summary_80w":"President of the Philippines, Ferdinand Marcos Jr., was in attendance as the country\u2019s first 'baseload' power plant to combine solar PV and battery storage officially went into action.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/power-even-without-the-sun-president-marcos-jr-inaugurates-first-solar-baseload-power-plant-in-philippines\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-15",
-    "headline":"Fixing the renewable energy data mess",
-    "summary_80w":"Advances in edge-based artificial intelligence are helping make solar and storage interoperable by tackling the data challenge, writes Andrew Foster.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/fixing-the-renewable-energy-data-mess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-15",
-    "headline":"Italy receives 10GW of solar PV bids in FER X auction, opens second auction",
-    "summary_80w":"Italy\u2019s latest renewable energy tender has received 12GW of bids, of which the majority, 10GW, came from solar PV.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/italy-receives-10gw-of-solar-pv-bids-in-fer-x-auction-opens-second-auction\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-15",
-    "headline":"Sunrun raises US$510 million in securitisation",
-    "summary_80w":"Sunrun has priced a securitisation of leases and power purchase agreements, taking its non-recourse debt capital raised in Q3 above US$1.5 billion.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sunrun-raises-us510-million-in-securitisation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-15",
-    "headline":"Axpo, energieUri and Fluence building 58.6MW of Swiss BESS",
-    "summary_80w":"Utility and power firms Axpo and energieUri will together deploy two BESS projects in Switzerland with technology provided by system integrator Fluence.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/axpo-energieuri-and-fluence-building-58-6mw-of-swiss-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-15",
-    "headline":"12.5GWh of grid-scale BESS commissioned in August, including largest single-phase LFP project ever",
-    "summary_80w":"China again dominated global battery storage deployments in August, accounting for two-thirds of what came online, but Europe, North America and Oceania\/Australia had good months too.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/12-5gwh-of-grid-scale-bess-commissioned-in-august-including-largest-single-phase-lfp-project-ever\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-15",
-    "headline":"Hithium, Fotowatio Renewable Ventures partner for first time with 500MWh grid-forming BESS in Australia",
-    "summary_80w":"Hithium will supply battery storage and SMA the power conversion systems for a 500MWh grid-forming project in Australia for Fotowatio Renewable Ventures (FRV).",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hithium-fotowatio-renewable-ventures-partner-for-first-time-with-500mwh-grid-forming-bess-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-12",
-    "headline":"NY local town officials call on moratorium to suspend 1GWh BESS, State representatives issue support for project",
-    "summary_80w":"The Town of Ulster in New York has received a request from local officials of the neighbouring town of Hurley to temporarily suspend the permitting process of a 250MW\/1,000MWh BESS project under development by independent power producer (IPP) Terra-Gen.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ny-local-town-officials-call-on-moratorium-to-suspend-1gwh-bess-state-representatives-issue-support-for-project\/",
     "reliability":"trade",
     "notes":""
   }
