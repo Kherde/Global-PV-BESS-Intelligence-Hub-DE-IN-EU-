@@ -1,5 +1,103 @@
 [
   {
+    "date_utc":"2025-09-29",
+    "headline":"Fortescue signs solar module supply agreement with China\u2019s LONGi",
+    "summary_80w":"Fortescue has established a strategic partnership with Chinese solar manufacturing giant LONGi to supply solar PV modules as part of its \u2018Real Zero\u2019 emissions by 2030 strategy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/fortescue-signs-solar-module-supply-agreement-with-chinas-longi\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Solar and wind lead Australia\u2019s 1.5GW renewables approval boom in Q2 2025",
+    "summary_80w":"Australia's CER has disclosed that 1.5GW of new renewable energy capacity in the NEM received authorisation in the second quarter of 2025.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-and-wind-lead-australias-1-5gw-renewables-approval-boom-in-q2-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Samsung C&T submits 300MWh solar-plus-storage site to Australia\u2019s EPBC Act",
+    "summary_80w":"Samsung C&#038;T Renewable Energy Australia has submitted plans for a 300MWh solar-plus-storage project in Queensland to Australia\u2019s EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/samsung-ct-submits-300mwh-solar-plus-storage-site-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-26",
     "headline":"\u2018100-year-old grids\u2019 are \u2018bottleneck\u2019 to solar-plus-storage growth, Global Solar Council says",
     "summary_80w":"Global grids have failed to keep pace with renewable energy technologies and have become the \u201cbottleneck of the energy transition\u201d, according to a new policy report from the Global Solar Council (GSC).",
@@ -2981,69 +3079,6 @@
   },
   {
     "date_utc":"2025-09-17",
-    "headline":"California passes bills to reduce energy prices, \u2018applauded\u2019 by SEIA and CEBA",
-    "summary_80w":"The California State Legislature has passed two bills that aim to reduce energy prices in the state, AB 825 and SB 302.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/california-passes-bills-reduce-energy-prices-applauded-seia-ceba\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"QatarEnergy, Samsung C&T ink EPC contract for 2GW solar PV project in Qatar",
-    "summary_80w":"QatarEnergy has signed an EPC agreement with Samsung C&#038;T for its 2GW Dukhan project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/qatarenergy-samsung-ct-ink-epc-contract-for-2gw-solar-pv-project-in-qatar\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
     "headline":"Samsung SDI to start US BESS manufacturing from 2026",
     "summary_80w":"South Korean battery and electronics materials manufacturer Samsung SDI debuted its new battery energy storage system (BESS) products at the RE+ trade show in Las Vegas, US.",
     "region":"Global",
@@ -3168,38 +3203,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/china-aims-for-energy-storage-installations-equivalent-to-todays-global-capacity-by-2027\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Over 15GWh of energy storage successful in Australia\u2019s Capacity Investment Scheme Tender 3",
-    "summary_80w":"Australia's Capacity Investment Scheme (CIS) has awarded 4.13GW\/15.37GWh of battery storage capacity in its third tender round, exceeding initial targets and attracting 135GWh of bids.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/over-15gwh-of-energy-storage-successful-in-australias-capacity-investment-scheme-tender-3\/",
     "reliability":"trade",
     "notes":""
   }
