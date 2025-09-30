@@ -1,5 +1,294 @@
 [
   {
+    "date_utc":"2025-09-30",
+    "headline":"State-owned Stanwell reaches halfway mark on 1,200MWh BESS project in Queensland, Australia",
+    "summary_80w":"The 300MW\/1,200MWh Stanwell battery energy storage system (BESS) in Queensland, Australia, has reached its halfway construction milestone with the final Tesla Megapack units now delivered to the site.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/state-owned-stanwell-reaches-halfway-mark-on-1200mwh-bess-project-in-queensland-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-30",
+    "headline":"Synergy submits development application for 2GW solar-wind-BESS in Western Australia",
+    "summary_80w":"SynergyRED, a wholly owned subsidiary of Synergy, has submitted a development application for a 2GW hybrid renewable energy project in Western Australia's Mid-West Region.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "wind",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/synergy-submits-development-application-for-2gw-solar-wind-bess-in-western-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-30",
+    "headline":"Australia\u2019s NEM battery storage surpasses 6.5GWh milestone in weekend of records",
+    "summary_80w":"Australia's National Electricity Market (NEM) achieved multiple battery energy storage records during the weekend of 27-28 September 2025, highlighted by total storage capacity reaching 6,591.5MWh for the first time.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-nem-battery-storage-surpasses-6-5gwh-milestone-in-weekend-of-records\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Is the outlook still bullish for US renewables?",
+    "summary_80w":"Burns &#038; McDonnell examines the outlook of the utility-scale solar sector amidst the latest policy and tariff changes.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/is-the-outlook-still-bullish-for-us-renewables\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"ABO Energy considers move to IPP model and public share offering",
+    "summary_80w":"German renewables developer ABO Energy is looking to begin owning and operating its energy projects in a transition from a \u201cpure play\u201d developer to an independent power producer (IPP) model.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/abo-energy-considers-move-to-ipp-model-and-public-share-offering\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"SunPower continues revival with Sunder acquisition",
+    "summary_80w":"US solar installer SunPower has taken the next step in its rehabilitation with the acquisition of residential installer Sunder.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sunpower-continues-revival-with-sunder-acquisition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Waaree dismisses US tariff evasion allegations, \u2018actively working\u2019 with CBP",
+    "summary_80w":"Indian solar manufacturer Waaree has said it does not expect to pay additional duties on its solar cell imports to the US, following the start of an antidumping and countervailing duty (AD\/CVD) investigation by the US Customs and Border Patrol (CBP).",
+    "region":"India",
+    "country":"IN",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/waaree-ad-cvd-tariff-solar-cells-us-customs\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"New York state issues US$5 billion renewables request for proposals",
+    "summary_80w":"The New York State Energy Research and Development Authority has launched a new request for proposals (RfP) seeking new renewable energy capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/new-york-state-issues-us5-billion-renewables-request-for-proposals\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Voltage Energy Group unveils IBEX PLUS and new LYNX at RE+ 2025: dual innovations redefining PV EBOS solutions",
+    "summary_80w":"Voltage Energy has launched two new wiring solutions, IBEX PLUS and new LYNX, for different current capacity ranges in utility-scale solar.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/voltage-energy-group-ibex-plus-new-lynx-re-2025-dual-innovations-pv-ebos-solutions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-09-29",
     "headline":"Fortescue signs solar module supply agreement with China\u2019s LONGi",
     "summary_80w":"Fortescue has established a strategic partnership with Chinese solar manufacturing giant LONGi to supply solar PV modules as part of its \u2018Real Zero\u2019 emissions by 2030 strategy.",
@@ -61,6 +350,134 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/solar-and-wind-lead-australias-1-5gw-renewables-approval-boom-in-q2-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Peak Energy, Phenogy deploy sodium-ion BESS projects in US and Europe",
+    "summary_80w":"Advances in sodium-ion battery energy storage systems come from Peak Energy in the US, deploying its sodium-ion system in Colorado, and Phenogy, deploying Europe\u2019s largest sodium-ion system in Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/peak-energy-phenogy-deploy-sodium-ion-bess-projects-in-us-and-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Rept Battero signs agreement in US to supply 3GWh of BESS to Energy Vault",
+    "summary_80w":"Chinese battery manufacturer Rept Battero and Energy Vault have signed a 2026 supply agreement in the United States.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rept-battero-signs-agreement-in-us-to-supply-3gwh-of-bess-to-energy-vault\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"Legal ambiguity in South Dakota, regulator finds state permit\u00a0required\u00a0for NextEra 120MW BESS",
+    "summary_80w":"A recent decision from South Dakota\u2019s Public Utilities Commission (PUC) has highlighted a legal permitting ambiguity in the way energy storage facilities are treated in the Mount Rushmore State.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/legal-ambiguity-in-south-dakota-regulator-finds-state-permit-required-for-nextera-120mw-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-09-29",
+    "headline":"VIDEO: Exploring C&I ESS technologies for flexibility and resilience with Honeywell",
+    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with Honeywell, on adapting to the grid with flexible and resilient commercial and industrial (C&#038;)) energy storage technologies.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-exploring-ci-ess-technologies-for-flexibility-and-resilience-with-honeywell\/",
     "reliability":"trade",
     "notes":""
   },
@@ -262,7 +679,7 @@
   },
   {
     "date_utc":"2025-09-26",
-    "headline":"Breaking 100GW in three years: the disruptive logic behind Tongwei\u2019s rapid rise",
+    "headline":"Higher, faster, stronger: how Tongwei reached 100GW module shipments in three years",
     "summary_80w":"Over the past three years, Tongwei has made a remarkable leap in the solar sector, shipping over 100GW of modules at record-breaking speed.",
     "region":"Global",
     "country":"",
@@ -2565,38 +2982,6 @@
   },
   {
     "date_utc":"2025-09-18",
-    "headline":"India\u2019s solar manufacturers applaud ALMM proposal to boost domestic wafer production",
-    "summary_80w":"Indian PV makers have welcomed the government\u2019s plan to add solar wafers to its ALMM List-III from June 2028.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/indias-solar-manufacturers-applaud-almm-proposal-boost-domestic-wafer-production\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-18",
     "headline":"How Canada is driving 8-12GW of storage deployments by 2035 \u2013 ESC report",
     "summary_80w":"In a recent report from trade association Energy Storage Canada (ESC), energy storage was cited as \u201ca critical component of future electricity grids\u201d for the country.",
     "region":"Global",
@@ -2816,393 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/south-korea-companies-have-no-model-to-recover-their-investment-in-dc-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-18",
-    "headline":"Advanced compressed air energy storage: Hydrostor secures US$55 million for 1.6GWh Australia project",
-    "summary_80w":"Hydrostor has secured US$55 million in funding from Export Development Canada (EDC) to advance development activities for its 200MW\/1,600MWh Silver City Energy Storage Centre project in Broken Hill, New South Wales, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/advanced-compressed-air-energy-storage-hydrostor-secures-us55-million-for-1-6gwh-australia-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Longroad reaches financial close for 400MW Texas solar project",
-    "summary_80w":"US renewables developer Longroad Energy has reached financial close for its 400MW 1000 Mile solar project in the US state of Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/longroad-reaches-financial-close-for-400mw-texas-solar-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Trina Solar sees 1GWh BESS fast-tracked in Australia\u2019s Victoria",
-    "summary_80w":"Chinese PV module manufacturer Trina Solar has received the green light from the Victoria government in Australia to build a 500MW\/1,000MWh battery energy storage system (BESS).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/trina-solar-sees-1gwh-bess-fast-tracked-in-australias-victoria\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Acciona Energia commissions 412MWp PV plant in India",
-    "summary_80w":"Spanish renewables developer and operator Acciona Energ\u00eda has commissioned its 412MWp Juna solar PV plant in Kawani village in the western state of Rajasthan.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/acciona-energia-commissions-412mwp-pv-plant-in-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Velto acquires 260MW operational solar portfolio in Spain",
-    "summary_80w":"Spanish IPP Velto Renewables has acquired a portfolio of 53 operational solar assets in Spain with a combined capacity of 260MW.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/velto-acquires-260mw-operational-solar-portfolio-spain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Meyer Burger unlikely to survive under provisional debt moratorium",
-    "summary_80w":"Struggling Swiss solar manufacturer Meyer Burger has formally entered into a debt moratorium, with the possibility of rescuing the entire group now looking unlikely.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/meyer-burger-unlikely-to-survive-under-provisional-debt-moratorium\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Nexamp secures US$350 million financing from Macquarie",
-    "summary_80w":"Nexamp has secured US$350 million through a long-term financing facility to expand its 6GW utility-scale solar and battery storage pipeline in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nexamp-secures-us350-million-financing-from-macquarie\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"DAS Solar plans 5GW XBC cell plant as technology shifts to TOPCon\/back contact combination",
-    "summary_80w":"Chinese module producer DAS Solar is planning a 5GW manufacturing facility focused on producing high-efficiency back contact cells.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/das-solar-plans-5gw-xbc-cell-plant-as-technology-shifts-to-topcon-back-contact-combination\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Samsung SDI to start US BESS manufacturing from 2026",
-    "summary_80w":"South Korean battery and electronics materials manufacturer Samsung SDI debuted its new battery energy storage system (BESS) products at the RE+ trade show in Las Vegas, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/samsung-sdi-to-start-us-bess-manufacturing-from-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Arkansas utility seeks approval of 1.4GWh hybrid BESS, with financial support from Google as part of data\u00a0centre\u00a0deal",
-    "summary_80w":"Investor-owned utility (IOU) Entergy is seeking regulatory approval from the Arkansas Public Service Commission (PSC) to construct what could become the largest BESS in the southern US State. It will support a data centre from Google.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/arkansas-utility-seeks-approval-of-1-4gwh-hybrid-bess-with-financial-support-from-google-as-part-of-data-centre-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"Sympower and Suena raise combined \u20ac27 million for European BESS optimisation, international expansion",
-    "summary_80w":"Europe-based BESS optimisation and flexibility providers Sympower and Suena have completed Series B1 and A fundraisings respectively.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sympower-and-suena-raise-combined-e27-million-for-european-bess-optimisation-international-expansion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-17",
-    "headline":"China aims for energy storage installations equivalent to today\u2019s global capacity by 2027",
-    "summary_80w":"China has published a national plan to promote large-scale energy storage facilities, encouraging investment and broader participation in the electricity market.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/china-aims-for-energy-storage-installations-equivalent-to-todays-global-capacity-by-2027\/",
     "reliability":"trade",
     "notes":""
   }
