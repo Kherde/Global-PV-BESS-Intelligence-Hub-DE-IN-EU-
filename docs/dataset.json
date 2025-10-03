@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2025-10-03",
+    "headline":"WaterNSW picks pumped hydro sites with potential to support Australian state\u2019s renewable energy objectives",
+    "summary_80w":"WaterNSW, the state-owned water supplier to New South Wales, Australia, has selected three dams as suitable sites for pumped hydro energy storage (PHES) developments.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/waternsw-picks-pumped-hydro-sites-with-potential-to-support-australian-states-renewable-energy-objectives\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-02",
     "headline":"FRV Australia brings 300MW solar PV power plant with Microsoft PPA to full operation",
     "summary_80w":"FRV Australia has announced the completion of its largest solar project to date, the 300MW Walla Walla Solar Farm in New South Wales.",
@@ -3174,37 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/polands-pge-starts-building-981mwh-bess-with-locally-manufactured-lg-batteries\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-23",
-    "headline":"Australia raises 2035 emissions reduction target to 62-70%",
-    "summary_80w":"Australia\u2019s Prime Minister, Anthony Albanese, has increased the country\u2019s emissions reduction target for 2035 to a range of 62% to 70%.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-raises-2035-emissions-reduction-target-to-62-70\/",
     "reliability":"trade",
     "notes":""
   }
