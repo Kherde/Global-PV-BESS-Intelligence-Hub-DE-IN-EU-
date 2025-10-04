@@ -1,6 +1,265 @@
 [
   {
     "date_utc":"2025-10-03",
+    "headline":"US solar manufacturing under the microscope at PV CellTech 2025",
+    "summary_80w":"The US solar manufacturing industry is feeling bullish, despite the policy whiplash inflicted over the summer and the increased pressure on US solar supply chains.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-solar-manufacturing-under-the-microscope-at-pv-celltech-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
+    "headline":"Sungrow and Engie complete first half of 200MW\/800MW Belgium BESS",
+    "summary_80w":"BESS provider Sungrow and power firm Engie have connected the first phase of a 400MW\/800MWh project, one of the largest in Europe, to the grid in Belgium.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sungrow-and-engie-complete-first-half-of-200mw-800mw-belgium-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
+    "headline":"Madison Energy Infrastructure buys NextEra Energy Resources\u2019 distributed PV business",
+    "summary_80w":"Renewables developer Madison Energy Infrastructure has bought the US distributed generation assets of NextEra Energy Resources.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/madison-energy-infrastructure-buys-nextera-energy-resources-distributed-pv-business\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
+    "headline":"EDF and Enlight advance solar-plus-storage projects in the US",
+    "summary_80w":"EDF Renewables and Enlight Renewable Energy have advanced solar-plus-storage projects in New Mexico and Arizona.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/edf-enlight-advance-solar-plus-storage-projects-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
+    "headline":"SunStrong raises US$900 million to refinance SunPower residential portfolio",
+    "summary_80w":"SunStrong Management has raised US$900 million to refinance a 'large portfolio' of residential solar assets developed by SunPower.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sunstrong-raises-900-million-refinance-sunpower-residential-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
+    "headline":"Chinese government policies and production cuts to drive up module prices\u2014Wood Mackenzie",
+    "summary_80w":"Chinese government policies and supply-side production cuts will drive a significant increase in solar and storage component costs.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/chinese-government-policies-production-cuts-drive-up-module-prices-wood-mackenzie\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
+    "headline":"EDF, Enlight advance solar-plus-storage projects in Southwestern US",
+    "summary_80w":"EDF Renewables has brought its 300MWh Milagro project online in New Mexico, while Enlight Renewable Energy has secured US$340 million in tax equity financing for its 940MWh Roadrunner project in Arizona.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/edf-enlight-advance-solar-plus-storage-projects-in-southwestern-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
+    "headline":"Tesla, LG ES Vertech join US Energy Storage Coalition to represent industry",
+    "summary_80w":"More than 30 stakeholder organisations in the US energy storage value chain have formed a new association to represent common interests.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/tesla-lg-es-vertech-join-us-energy-storage-coalition-to-represent-industry\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-03",
     "headline":"WaterNSW picks pumped hydro sites with potential to support Australian state\u2019s renewable energy objectives",
     "summary_80w":"WaterNSW, the state-owned water supplier to New South Wales, Australia, has selected three dams as suitable sites for pumped hydro energy storage (PHES) developments.",
     "region":"Global",
@@ -2635,102 +2894,6 @@
   },
   {
     "date_utc":"2025-09-24",
-    "headline":"Grid constraints threatening India\u2019s renewable energy targets \u2013 report",
-    "summary_80w":"The development of India\u2019s power transmission network is lagging behind the country\u2019s rapid growth in renewable energy, leading to project delays and cost increases",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/grid-constraints-threatening-indias-renewable-energy-targets-report\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-24",
-    "headline":"Solar PV and energy storage can deliver \u2018quick wins\u2019 for Europe\u2019s vulnerable grids",
-    "summary_80w":"European geopolitical tensions have exploited weaknesses in grid systems, leaving 55% of Europe\u2019s grids vulnerable, according to Ember.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-and-storage-can-deliver-quick-wins-europes-vulnerable-grids\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-24",
-    "headline":"Sonnedix acquires 226MW Italian solar portfolio",
-    "summary_80w":"Spanish IPP Sonnedix has acquired five solar projects in Sicily and Lazio, Italy, with a combined capacity of 226MW.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sonnedix-acquires-226mw-italian-solar-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-24",
     "headline":"BESS in Trump 2.0: Does the administration\u2019s rhetoric have to become the industry\u2019s?",
     "summary_80w":"During a 10 September panel on communicating renewables through a Conservative lens at the RE+ trade show in Las Vegas, US, participants discussed how to gain support from Republicans for battery energy storage systems (BESS), solar, and more in the wake of the \u2018One Big Beautiful Bill\u2019 Act",
     "region":"Global",
@@ -2987,70 +3150,6 @@
   },
   {
     "date_utc":"2025-09-23",
-    "headline":"Boviet Solar expands North Carolina module manufacturing capacity to 3GW",
-    "summary_80w":"Boviet Solar has added an additional 1GW of manufacturing capacity to its module manufacturing plant in North Carolina.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/boviet-solar-expands-north-carolina-module-manufacturing-capacity-3gw\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-23",
-    "headline":"European PPA prices fall 0.6% to August, solar remains cornerstone of renewable offtake deals",
-    "summary_80w":"European power purchase agreement (PPA) prices fell 0.6% between July and August this year, according to Swiss consultancy Pexpark.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/european-ppa-prices-fall-0-6-august-solar-cornerstone-renewable-offtake-deals\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-23",
     "headline":"Capstone, Eurowind file 3.2GWh long-duration BESS project application with California Energy Commission",
     "summary_80w":"Capstone-Eurowind 3.2GWh BESS project is the latest to reach the final stage of the California Energy Commission opt-in process.",
     "region":"Global",
@@ -3110,102 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/capital-powers-first-two-bess-projects-come-online-in-ontario\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-23",
-    "headline":"The majority of utility-scale batteries were used for arbitrage in 2024 \u2013 US EIA survey finds",
-    "summary_80w":"The US Energy Information Administration (US EIA) annual survey of power plant activity found that in 2024, utility-scale batteries were more commonly used for price arbitrage.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/the-majority-of-utility-scale-batteries-were-used-for-arbitrage-in-2024-us-eia-survey-finds\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-23",
-    "headline":"BYD launches 14.5MWh BESS as energy density race continues",
-    "summary_80w":"BYD has presented its latest grid-scale BESS product, pushing energy density even further to its limits, while Eve and Sunwoda have progressed commercialisation of high capacity battery cells.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/byd-launches-14-5mwh-bess-as-energy-density-race-continues\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-23",
-    "headline":"Poland\u2019s PGE starts building 981MWh BESS with locally manufactured LG batteries",
-    "summary_80w":"Power firm PGE has started building a 262MW\/981MWh BESS in Poland with LG batteries, coinciding with Solar Media's Energy Storage Summit CEE, which kicked off today (23 September).",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/polands-pge-starts-building-981mwh-bess-with-locally-manufactured-lg-batteries\/",
     "reliability":"trade",
     "notes":""
   }
