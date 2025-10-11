@@ -1,6 +1,166 @@
 [
   {
     "date_utc":"2025-10-10",
+    "headline":"Germany: Federal Network Agency picks 490MW of solar-plus-storage from oversubscribed tender",
+    "summary_80w":"Germany has awarded contracts to 490MW of solar-plus-storage projects in its latest \u201cinnovation\u201d auction for co-located renewables.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/germany-federal-network-agency-picks-490mw-of-solar-plus-storage-from-oversubscribed-tender\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"\u2018The industry is producing more than it can install,\u2019 says Ga\u00ebtan Masson as world exceeds 2.2TW of solar",
+    "summary_80w":"Ga\u00ebtan Masson of IEA PVPS warns of overcapacity, collapsing prices and slipping module quality in the new Trends in PV Applications report.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/the-industry-is-producing-more-than-it-can-install-gaetan-masson-world-exceeds-2-2tw-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"European solar module market reaches supply and price \u2018equilibrium\u2019",
+    "summary_80w":"The European solar module market has reached a \u201cstate of equilibrium\u201d in recent weeks, with stable prices and regular demand.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/european-solar-module-market-reaches-supply-and-price-equilibrium\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"Solar recycling firm OnePlanet awarded R2v3 traceability standard",
+    "summary_80w":"US solar recycling firm OnePlanet has achieved the R2v3 certification from electronics sustainability non-profit SERI, which represents the \u201chighest standards of traceability\u201d.",
+    "region":"India",
+    "country":"IN",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-recycling-firm-oneplanet-awarded-r2v3-traceability-standard\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"NTPC Green signs MoU with Gujarat government to develop 15GW renewable energy projects",
+    "summary_80w":"NTPC Renewable Energy Limited has signed an MoU with the Government of Gujarat to develop 15GW renewable energy projects in Gujarat.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ntpc-green-signs-mou-with-gujarat-government-to-develop-15gw-renewable-energy-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
     "headline":"Australia\u2019s renewable energy project additions slow to 5.8GW in September, says Rystad Energy",
     "summary_80w":"Australia's renewable energy sector recorded its slowest month of the year for additions in September, with 5.8GW of new projects added to development pipelines, according to data from Rystad Energy.",
     "region":"Global",
@@ -27,6 +187,134 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-renewable-energy-project-additions-slow-to-5-8gw-in-september-says-rystad-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"US ROUNDUP: Cross-industry collaborations target energy storage growth and accessibility",
+    "summary_80w":"Honeywell, LS Electric, esVolta, Sitetracker, PairedPower, PHNXX, and Energy Toolbase are collaborating on new initiatives to advance energy storage installations across the US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-cross-industry-collaborations-target-energy-storage-growth-and-accessibility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"UK BESS asset management has moved to \u2018disciplined, systems-level approach\u2019",
+    "summary_80w":"BESS asset management in the UK has moved beyond the rudimentary 'project delivery and basic O&#038;M' approach, a speaker at the upcoming Battery Asset Management Summit UK &#038; Ireland explained in a Q&#038;A.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/uk-bess-asset-management-has-moved-to-disciplined-systems-level-approach\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"India\u2019s H1 energy storage\u00a0installations plunge 74% year-on-year to 49MWh: Mercom",
+    "summary_80w":"According to the latest report by clean energy market research firm Mercom India, India achieved a cumulative energy storage capacity of 490MWh by the end of June 2025.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/indias-h1-energy-storage-installations-plunge-74-year-on-year-to-49mwh-mercom\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-10",
+    "headline":"Texas utility signs 200MWh BESS offtake agreement with Jupiter Power to combat ERCOT duck curve",
+    "summary_80w":"Community-owned public power utility Denton Municipal Electric (DME) has signed a power purchase agreement (PPA) with Jupiter Power covering offtake from one of the developer-operator's standalone BESS projects destined for Robertson County in Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/texas-utility-signs-200mwh-bess-offtake-agreement-with-jupiter-power-to-combat-ercot-duck-curve\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2188,38 +2476,6 @@
   },
   {
     "date_utc":"2025-10-02",
-    "headline":"FRV Australia brings 300MW solar PV power plant with Microsoft PPA to full operation",
-    "summary_80w":"FRV Australia has announced the completion of its largest solar project to date, the 300MW Walla Walla Solar Farm in New South Wales.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-02",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/frv-australia-brings-300mw-solar-pv-power-plant-with-microsoft-ppa-to-full-operation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-02",
     "headline":"US utility Duke Energy files Carolinas Resource Plan, including 5.6GWh of energy storage",
     "summary_80w":"Major US utility company Duke Energy has filed its biennial long-range energy modernisation plan for North and South Carolina, US. The plan includes a 5,600MW battery storage target.",
     "region":"Global",
@@ -2439,38 +2695,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/india-launches-antidumping-investigation-on-solar-encapsulants-from-south-korea-vietnam-and-thailand\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-02",
-    "headline":"Keeping the faith in US solar manufacturing",
-    "summary_80w":"PV Talk: Qcells\u2019 CTO Danielle Merfeld discusses the imminent opening of America\u2019s first integrated c-Si ingot-to-module factory and her belief in solar\u2019s long-term strengths.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/keeping-the-faith-in-us-solar-manufacturing\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2701,68 +2925,6 @@
   },
   {
     "date_utc":"2025-10-01",
-    "headline":"Insurance \u2018protection gap\u2019 from new risks leaves renewables exposed \u2013 report",
-    "summary_80w":"The insurance industry must adapt to evolving risks to head off a 'protection gap' that could undermine the global green energy transition.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/insurance-protection-gap-from-new-risks-leaves-renewables-exposed-report\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-01",
-    "headline":"Blue Ridge Power to lay off over 500 employees in North Carolina",
-    "summary_80w":"North Carolina-based engineering, procurement and construction (EPC) company Blue Ridge Power has laid off more than 500 of its employees at two locations.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/blue-ridge-power-to-lay-off-over-500-employees-in-north-carolina\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-01",
     "headline":"The \u2018One, Big, Beautiful Bill Act\u2019 brought changes, some clarity to US energy storage development",
     "summary_80w":"Energy storage escaped much of the pain inflicted on solar in recent legislative changes in the US, but foreign entity restrictions may create some supply chain challenges, writes April Bonner.",
     "region":"Global",
@@ -2924,38 +3086,6 @@
   },
   {
     "date_utc":"2025-09-30",
-    "headline":"State-owned Stanwell reaches halfway mark on 1,200MWh BESS project in Queensland, Australia",
-    "summary_80w":"The 300MW\/1,200MWh Stanwell battery energy storage system (BESS) in Queensland, Australia, has reached its halfway construction milestone with the final Tesla Megapack units now delivered to the site.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-30",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/state-owned-stanwell-reaches-halfway-mark-on-1200mwh-bess-project-in-queensland-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-30",
     "headline":"Investor and system integrator discuss deploying both new and second life BESS in Germany",
     "summary_80w":"We catch up with executives from second life specialist BESS integrator Voltfang and investor Palladio Partners to discuss their recent \u20ac250 million (US$293 million) partnership to deploy projects in Germany.",
     "region":"Germany",
@@ -3079,135 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/video-extract-more-value-from-bess-assets-in-gb-ireland-from-advanced-analytics-to-the-full-stack\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-30",
-    "headline":"Consortium sign agreements for Malaysia\u2019s first battery-backed \u2018firm\u2019 solar power facility",
-    "summary_80w":"A renewable energy subsidiary of oil &#038; gas company Reservoir Link has agreed to jointly develop the first dispatchable solar PV power plant in Malaysia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/consortium-sign-agreements-for-malaysias-first-battery-backed-firm-solar-power-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-30",
-    "headline":"Australia\u2019s NEM battery storage surpasses 6.5GWh milestone in weekend of records",
-    "summary_80w":"Australia's National Electricity Market (NEM) achieved multiple battery energy storage records during the weekend of 27-28 September 2025, highlighted by total storage capacity reaching 6,591.5MWh for the first time.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-nem-battery-storage-surpasses-6-5gwh-milestone-in-weekend-of-records\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-29",
-    "headline":"Peak Energy, Phenogy deploy sodium-ion BESS projects in US and Europe",
-    "summary_80w":"Advances in sodium-ion battery energy storage systems come from Peak Energy in the US, deploying its sodium-ion system in Colorado, and Phenogy, deploying Europe\u2019s largest sodium-ion system in Germany.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/peak-energy-phenogy-deploy-sodium-ion-bess-projects-in-us-and-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-29",
-    "headline":"Rept Battero signs agreement in US to supply 3GWh of BESS to Energy Vault",
-    "summary_80w":"Chinese battery manufacturer Rept Battero and Energy Vault have signed a 2026 supply agreement in the United States.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/rept-battero-signs-agreement-in-us-to-supply-3gwh-of-bess-to-energy-vault\/",
     "reliability":"trade",
     "notes":""
   }
