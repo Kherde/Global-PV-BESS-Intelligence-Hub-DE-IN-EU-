@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2025-10-13",
+    "headline":"Akaysha Energy\u2019s Waratah Super Battery discharges its first full output to Australia\u2019s NEM",
+    "summary_80w":"Australia\u2019s most powerful BESS, the 850MW Waratah Super Battery, achieved its first full discharge to the NEM last week.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-13",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energys-waratah-super-battery-discharges-its-first-full-output-to-australias-nem\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-13",
     "headline":"Queensland\u2019s Energy Roadmap: 4.3GW of short-duration energy storage by 2030, pumped hydro plans revised",
     "summary_80w":"Queensland's Energy Roadmap 2025 suggests that by 2030, up to 4.3GW of short-duration energy storage could be operational.",
     "region":"Global",
@@ -3177,38 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/investor-and-system-integrator-discuss-deploying-both-new-and-second-life-bess-in-germany\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-30",
-    "headline":"US annual battery storage installations \u2018will not reach 2025 levels again until 2029\u2019: Wood Mac",
-    "summary_80w":"According to the Q3 2025 US Energy Storage Monitor from Wood Mackenzie Power &#038; Renewables and the American Clean Power Association (ACP), annual installations will not reach 2025 levels again until 2029.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-annual-battery-storage-installations-will-not-reach-2025-levels-again-until-2029-wood-mac\/",
     "reliability":"trade",
     "notes":""
   }
