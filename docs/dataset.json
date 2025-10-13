@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2025-10-13",
+    "headline":"Queensland\u2019s Energy Roadmap: 4.3GW of short-duration energy storage by 2030, pumped hydro plans revised",
+    "summary_80w":"Queensland's Energy Roadmap 2025 suggests that by 2030, up to 4.3GW of short-duration energy storage could be operational.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/queenslands-energy-roadmap-4-3gw-of-short-duration-energy-storage-by-2030-pumped-hydro-plans-revised\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-13",
+    "headline":"New South Wales electricity prices hit AU$20,300\/MWh cap as battery storage captures volatility",
+    "summary_80w":"On 10 October, electricity prices in New South Wales, Australia, reached the Market Price Cap of AU$20,300\/MWh (US$13,307\/MWh).",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/new-south-wales-electricity-prices-hit-au20300-mwh-cap-as-battery-storage-captures-volatility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-10",
     "headline":"Germany: Federal Network Agency picks 490MW of solar-plus-storage from oversubscribed tender",
     "summary_80w":"Germany has awarded contracts to 490MW of solar-plus-storage projects in its latest \u201cinnovation\u201d auction for co-located renewables.",
@@ -3145,70 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-annual-battery-storage-installations-will-not-reach-2025-levels-again-until-2029-wood-mac\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-30",
-    "headline":"Europe continues move to 15-minute power market settlement, increasing value of flexibility",
-    "summary_80w":"The power markets of Europe continue their shift to 15-minute settlement periods today (30 September), a reform which could increase the revenue opportunities for energy storage and other flexibility resources.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/europe-continues-move-to-15-minute-power-market-settlement-increasing-value-of-flexibility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-09-30",
-    "headline":"VIDEO: Extract more value from BESS assets in GB & Ireland, from advanced analytics to the full stack",
-    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with GridBeyond, on extracting the maximum value from battery storage assets in Great Britain (GB) and Ireland.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-09-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-extract-more-value-from-bess-assets-in-gb-ireland-from-advanced-analytics-to-the-full-stack\/",
     "reliability":"trade",
     "notes":""
   }
