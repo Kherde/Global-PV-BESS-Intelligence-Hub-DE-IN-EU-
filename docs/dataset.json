@@ -1,5 +1,70 @@
 [
   {
+    "date_utc":"2025-10-17",
+    "headline":"Powerlink Queensland seeks federal approval for AGL\u2019s 2GWh Tuckeroo battery transmission connection",
+    "summary_80w":"Powerlink Queensland is seeking federal approval for transmission infrastructure connecting AGL Energy's 2,000MWh Tuckeroo battery energy storage system (BESS) to the Western Downs Substation in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/powerlink-queensland-seeks-federal-approval-for-agls-2gwh-tuckeroo-battery-transmission-connection\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-17",
+    "headline":"Ark Energy bags state approval for 3.1GWh Richmond Valley solar-plus-storage site in Australia",
+    "summary_80w":"The New South Wales Independent Planning Commission has approved Ark Energy's 3,148MWh Richmond Valley solar-plus-storage project in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ark-energy-bags-state-approval-for-3-1gwh-richmond-valley-solar-plus-storage-site-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-16",
     "headline":"Masdar, Turkey near US$1 billion deal for 1.1GW hybrid\u00a0project",
     "summary_80w":"Masdar and Turkey have entered the final stage of US$1 billion agreement to develop the 1.1GW plant in Bor, Ni\u011fde Province, central Turkey.",
@@ -3145,70 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eolian-and-utility-cps-energy-begin-operating-100mwh-texas-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-07",
-    "headline":"Philippines regulator\u2019s ESS market rules will be \u2018a watershed moment\u2019",
-    "summary_80w":"The Philippines needs to establish clearly defined rules for the market participation of energy storage systems (ESS), the chair of the country\u2019s regulator has said.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/philippines-regulators-ess-market-rules-will-be-a-watershed-moment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-07",
-    "headline":"Virtual battery tolls explained: Revenue certainty in a volatile market",
-    "summary_80w":"Matt Szwec, an energy trading analyst at Fluence, discusses virtual battery toll agreements and how they operate in Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/virtual-battery-tolls-explained-revenue-certainty-in-a-volatile-market\/",
     "reliability":"trade",
     "notes":""
   }
