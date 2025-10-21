@@ -129,6 +129,38 @@
     "notes":""
   },
   {
+    "date_utc":"2025-10-21",
+    "headline":"VIDEO: Taking on the UK\u2019s LT2029 tender and the future of grid stability services, with Envision",
+    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with Envision, on the UK's LT2029 procurement and the future of grid stability services.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-taking-on-the-uks-lt2029-tender-and-the-future-of-grid-stability-services-with-envision\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-20",
     "headline":"Atlas Renewable Energy secures US$475 million for 357MW\/320MW solar-plus-storage project in Chile",
     "summary_80w":"Independent power producer (IPP) Atlas Renewable Energy has secured up to US$475 million in financing for a 357MW solar-plus-storage project in Chile.",
@@ -3173,39 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/battery-storage-revenues-fall-61-as-australias-nem-navigates-market-volatility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-08",
-    "headline":"Longroad\u00a0Energy signs Utah BESS offtake deal, tariff-related price adjustments could increase cost by 4.7%",
-    "summary_80w":"Utah Associated Municipal Power Systems (UAMPS) has negotiated the terms of a solar and BESS power purchase agreement (PPA) with Boston, Massachusetts-based developer Longroad Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/longroad-energy-signs-utah-bess-offtake-deal-tariff-related-price-adjustments-could-increase-cost-by-4-7\/",
     "reliability":"trade",
     "notes":""
   }
