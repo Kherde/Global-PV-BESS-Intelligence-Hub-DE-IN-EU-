@@ -1,5 +1,68 @@
 [
   {
+    "date_utc":"2025-10-22",
+    "headline":"South Australia launches first capacity tender for 700MW of long-duration energy storage",
+    "summary_80w":"South Australia has officially opened its inaugural Firm Energy Reliability Mechanism (FERM) tender round, seeking up to 700MW of long-duration energy storage (LDES) capacity to enhance grid reliability and support the state's renewable energy transition.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-22",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/south-australia-launches-first-capacity-tender-for-700mw-of-long-duration-energy-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-22",
+    "headline":"Australia: Queensland councils receive new toolkit for navigating renewable energy project assessments",
+    "summary_80w":"The Queensland government has launched the Social Licence in Renewable Energy Toolkit, providing local councils in Australia with resources to navigate renewable energy project engagement and community consultation processes.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-queensland-councils-receive-new-toolkit-for-navigating-renewable-energy-project-assessments\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-21",
     "headline":"725MW of Australian solar-plus-storage projects advance in NSW and Queensland",
     "summary_80w":"Australia's solar-plus-storage sector gained momentum with 725MW of solar PV approvals advancing across New South Wales and Queensland.",
@@ -34,6 +97,38 @@
   },
   {
     "date_utc":"2025-10-21",
+    "headline":"Global energy storage deployments on track for record year in 2025, BNEF says",
+    "summary_80w":"Despite lowering its forecasts due to US-led tariff and policy disruptions, BNEF says 2025 will be a record-breaking year for energy storage.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/global-energy-storage-deployments-on-track-for-record-year-in-2025-bnef-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
     "headline":"Eku Energy lodges 1,600MWh Monduran BESS for environmental assessment in Australia",
     "summary_80w":"Developer Eku Energy has submitted its 400MW\/1,600MWh Monduran battery energy storage system (BESS) project for environmental assessment under Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
     "region":"Global",
@@ -61,6 +156,103 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eku-energy-lodges-1600mwh-monduran-bess-for-environmental-assessment-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"Trinasolar to supply Mestron Energy with 50MW of Vertex N solar modules",
+    "summary_80w":"Leading Chinese solar manufacturer Trinasolar has signed a module supply agreement with Malaysian renewable energy developer Mestron Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/trinasolar-supply-mestron-energy-50mw-vertex-n-solar-modules\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"Is Europe ready to tackle solar cybersecurity risks?",
+    "summary_80w":"PV Tech Premium spoke with academic and industry experts about the rising tide of cybersecurity concerns in Europe's solar energy sector.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/is-europe-ready-to-tackle-solar-cybersecurity-risks\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"Cypress Creek Renewables reaches financial close on Colorado solar-plus-storage project",
+    "summary_80w":"Cypress Creek Renewables has achieved financial close on its 75MW Sundance solar-plus-storage project in Elbert County, Colorado.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/cypress-creek-renewables-financial-close-colorado-solar-plus-storage-project\/",
     "reliability":"trade",
     "notes":""
   },
@@ -125,6 +317,166 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/new-zealand-179mwdc-glorit-solar-farm-clears-regulatory-hurdle-with-epa-consent\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"Ameresco, Alliant Energy, begin operating record-breaking BESS projects in Arizona, Wisconsin",
+    "summary_80w":"Ameresco has put Arizona's largest behind-the-meter battery energy storage system (BESS) into operation, meanwhile Alliant Energy has begun operating Wisconsin's largest BESS to-date.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"Boralex progresses 500MWh Ontario BESS, prepares another 1.6GWh project for upcoming IESO LT2 RFP",
+    "summary_80w":"Quebec-based IPP Boralex has received the green light from local authorities to move forward with a 125MWh\/500MWh BESS located in Oxford County, Ontario.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/boralex-progresses-500mwh-ontario-bess-prepares-another-1-6gwh-project-for-upcoming-ieso-lt2-rfp\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"Energy Storage Awards 2025: Shortlists revealed for celebration of industry\u2019s best and brightest",
+    "summary_80w":"Leading energy storage technology companies, developers, operators and outstanding individuals are featured on the shortlists for this year\u2019s Energy Storage Awards (ESAs).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-awards-2025-shortlists-revealed-for-celebration-of-industrys-best-and-brightest\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"Germany and Netherlands BESS action from cross-border operators Eneco, Giga and Return",
+    "summary_80w":"A flurry of BESS news from companies operating across Germany and the Netherlands, with utility Lichtblick launching construction on a 470MWh project in Saxony, Giga Storage inaugurating a project in Amsterdam, and cross-border BESS platform Return raising \u20ac300 million.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/germany-and-netherlands-bess-action-from-cross-border-operators-eneco-giga-and-return\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-21",
+    "headline":"W\u00e4rtsil\u00e4 opts for in-house control over battery storage data analytics",
+    "summary_80w":"W\u00e4rtsil\u00e4 Energy Storage\u2019s new battery data analytics software platform aims to bring in-house what has until now been the domain of third-party providers.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/wartsila-opts-for-in-house-control-over-battery-storage-data-analytics\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2697,37 +3049,6 @@
   },
   {
     "date_utc":"2025-10-10",
-    "headline":"Australia\u2019s renewable energy project additions slow to 5.8GW in September, says Rystad Energy",
-    "summary_80w":"Australia's renewable energy sector recorded its slowest month of the year for additions in September, with 5.8GW of new projects added to development pipelines, according to data from Rystad Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-renewable-energy-project-additions-slow-to-5-8gw-in-september-says-rystad-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-10",
     "headline":"US ROUNDUP: Cross-industry collaborations target energy storage growth and accessibility",
     "summary_80w":"Honeywell, LS Electric, esVolta, Sitetracker, PairedPower, PHNXX, and Energy Toolbase are collaborating on new initiatives to advance energy storage installations across the US.",
     "region":"Global",
@@ -2883,328 +3204,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/nsw-independent-planning-commission-approves-acenergys-1100mwh-battery-storage-system-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Entergy to build 600MW solar-plus-storage project in Arkansas to power Google data centre",
-    "summary_80w":"Entergy Arkansas has announced plans to build a 600MW solar-plus-storage project to support a new data centre to be built by Google.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/entergy-600mw-solar-plus-storage-project-arkansas-power-google-data-centre\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Greenflash Infrastructure secures financing for Texas\u2019s largest standalone BESS",
-    "summary_80w":"H.I.G. Capital-backed energy platform, Greenflash Infrastructure, has closed a hybrid tax capital and debt financing for Project Soho, a 400MW\/800MWh standalone battery storage project in Brazoria County, Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/greenflash-infrastructure-secures-financing-for-texass-largest-standalone-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Sungrow files Hong Kong IPO prospectus; strong financials but \u2018global trade policy\u2019 risk looms",
-    "summary_80w":"China-based inverter and BESS firm Sungrow has submitted its application for a Hong Kong Stock Exchange IPO, after a period of strong revenue growth.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sungrow-files-hong-kong-ipo-prospectus-strong-financials-but-global-trade-policy-risk-looms\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"South Australia prepares its first 700MW tender for long-duration energy storage",
-    "summary_80w":"South Australia is set to open a tender seeking 700MW of long-duration energy storage to bolster grid reliability.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/south-australia-prepares-its-first-700mw-tender-for-long-duration-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Australia\u2019s Capacity Investment Scheme Tender 4 sees 6.6GW of renewables awarded",
-    "summary_80w":"The Australian government has announced the results of the fourth Capacity Investment Scheme (CIS) tender, with 6.6GW of renewables awarded long-term contracts.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-capacity-investment-scheme-tender-4-sees-6-6gw-of-renewables-awarded\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Solar is the world\u2019s cheapest source of electricity, research shows",
-    "summary_80w":"Solar PV is the world\u2019s cheapest technology to generate electricity, according to a study from the University of Surrey, in the UK.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-is-the-worlds-cheapest-source-of-electricity-research-shows\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Lithuania expands energy storage support scheme, aims for speedy turnaround",
-    "summary_80w":"Lithuania\u2019s government will publish a call for applications tomorrow (10 October) for a scheme to support energy storage, which is deemed crucial to the country's energy security.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/lithuania-expands-energy-storage-support-scheme-aims-for-speedy-turnaround\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Huawei signs MoU with GoldenPeaks for 500MWh of European grid-forming BESS",
-    "summary_80w":"GoldenPeaks Capital (GPC) and Huawei Polska have signed a Memorandum of Understanding (MoU) on a Battery Energy Storage System (BESS) cooperation focusing on 500MWh grid-forming BESS in Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/huawei-signs-mou-with-goldenpeaks-for-500mwh-of-european-grid-forming-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Australia\u2019s Capacity Investment Scheme Tender 4 sees 11.4GWh of solar-plus-storage awarded",
-    "summary_80w":"Australia has announced the results of the fourth Capacity Investment Scheme tender, with 11.4GWh of solar-plus-storage contracts awarded.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-capacity-investment-scheme-tender-4-sees-11-4gwh-of-solar-plus-storage-awarded\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-09",
-    "headline":"Battery storage revenues fall 61% as Australia\u2019s NEM navigates market volatility",
-    "summary_80w":"Battery energy storage revenues in Australia's National Electricity Market (NEM) fell 61% in September 2025 to AU$85,000\/MW (US$56,712\/MW) as price volatility eased across the grid, according to new research from Modo Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-revenues-fall-61-as-australias-nem-navigates-market-volatility\/",
     "reliability":"trade",
     "notes":""
   }
