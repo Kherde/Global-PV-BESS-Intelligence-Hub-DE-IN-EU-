@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2025-10-24",
+    "headline":"VIDEO: Demystifying the BESS metrics that matter most, from SoC and SoH to cell imbalance and RTE",
+    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with W\u00e4rtsil\u00e4, demystifying the BESS metrics that matter most.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-demystifying-the-bess-metrics-that-matter-most-from-soc-and-soh-to-cell-imbalance-and-rte\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
     "headline":"Samsung C&T proposes 200MW grid-scale battery storage system in Queensland, Australia",
     "summary_80w":"Samsung C&#038;T Renewable Energy Australia is seeking federal approval for a 200MW battery energy storage system (BESS) project located near Townsville, Queensland.",
     "region":"Global",
@@ -3169,38 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/epic-energy-brings-200mwh-mannum-battery-storage-system-online-in-south-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"\u2018NEM-specific battery optimisers\u2019 capture more revenue during the market volatility around AU$20,300\/MWh NSW price spike",
-    "summary_80w":"Battery storage equipped with optimisation platforms not specifically designed for Australia's NEM missed revenue opportunities during the 10 October price spike, according to Sahand Karimi, co-founder and CEO of OptiGrid.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/nem-specific-battery-optimisers-capture-more-revenue-during-au20300-mwh-nsw-price-spike\/",
     "reliability":"trade",
     "notes":""
   }
