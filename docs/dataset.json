@@ -1,6 +1,264 @@
 [
   {
     "date_utc":"2025-10-24",
+    "headline":"From energy yield to real-time performance: a new metric for PV project success",
+    "summary_80w":"Marcel Suri explores the datasets that will help improve the accuracy of PV output estimation and drive better performance.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/from-energy-yield-real-time-performance-new-metric-pv-project-success\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
+    "headline":"Nextracker forms JV in Saudi Arabia, raises FY guidance",
+    "summary_80w":"US solar tracker manufacturer Nextracker and Saudi-based energy company Abunayyan Holding have formed a joint venture (JV) in Saudi Arabia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextracker-forms-jv-in-saudi-arabia-raises-fy-guidance\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
+    "headline":"Masdar breaks ground on \u2018world\u2019s largest\u2019 5.2GW\/19GWh solar-plus-storage project",
+    "summary_80w":"The Saudi state-owned renewables developer Masdar has begun construction on a giant solar-plus-storage project in Abu Dhabi.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/masdar-breaks-ground-on-worlds-largest-5-2gw-19gwh-solar-plus-storage-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
+    "headline":"Energy Vault, Jupiter Power, advance projects in ERCOT BESS market",
+    "summary_80w":"Energy Vault has acquired a 150MW battery energy storage system (BESS) in Texas. Meanwhile, Jupiter Power has entered an agreement with Austin Energy to provide 100MW of electricity from a BESS facility.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-vault-jupiter-power-advance-projects-in-ercot-bess-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
+    "headline":"US battery materials and BESS firm Redwood raises US$350 million Series E",
+    "summary_80w":"Redwood Materials has closed a US$350 million Series E funding round to scale up its critical battery materials and energy storage businesses.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-battery-materials-and-bess-firm-redwood-raises-us350-million-series-e\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
+    "headline":"California utility renegotiates purchase agreement with RWE for 476MWh BESS after regulator rejects initial proposal",
+    "summary_80w":"San Diego Gas &#038; Electric (SDG&#038;E) is seeking regulatory approval to acquire an operational portion of a BESS facility located in Imperial County, California, from the US development arm of German multinational energy company RWE.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/california-utility-renegotiates-purchase-agreement-with-rwe-for-476mwh-bess-after-regulator-rejects-initial-proposal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
+    "headline":"Price falls have enabled \u2018zero-capex\u2019 co-located BESS business model in Spain, company says",
+    "summary_80w":"New company Lunas Energy has launched an offer for solar PV plant operators in Spain to deploy BESS on their land, as the sector struggles with curtailment and negative pricing.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/price-falls-have-enabled-zero-capex-co-located-bess-business-model-in-spain-company-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
+    "headline":"South Korean government investment in US BESS developer \u2018reflects shared commitment to reliable, affordable power\u2019",
+    "summary_80w":"Peregrine Energy Solutions has secured US$130 million from investors including the South Korean Ministry of Environment.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/south-korean-government-investment-in-us-bess-developer-reflects-shared-commitment-to-reliable-affordable-power\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-24",
     "headline":"VIDEO: Demystifying the BESS metrics that matter most, from SoC and SoH to cell imbalance and RTE",
     "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with W\u00e4rtsil\u00e4, demystifying the BESS metrics that matter most.",
     "region":"Global",
@@ -2883,72 +3141,6 @@
   },
   {
     "date_utc":"2025-10-14",
-    "headline":"Eolian secures US$463 million for 1.7GWh Texas BESS complex",
-    "summary_80w":"IPP Eolian has closed a US$463 million financing package to support the continued construction of Padua 2 and Padua 3, two battery energy storage systems (BESS) totalling 350MW\/1.7GWh in Bexar County, Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eolian-secures-us463-million-for-1-7gwh-texas-bess-complex\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"Chile: Grenergy breaks ground on newest solar-plus-storage hybrid in 1.1GW\/3.8GWh portfolio",
-    "summary_80w":"Spanish IPP Grenergy has begun construction on a 340MW solar project with 960MWh of energy storage in El Cabrero, located in Chile\u2019s Biob\u00edo region.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/chile-grenergy-breaks-ground-on-newest-solar-plus-storage-hybrid-in-1-1gw-3-8gwh-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
     "headline":"Solar PV curtailment in Chile keeps growing in 2025 \u2013 ACERA",
     "summary_80w":"The curtailment of solar PV and wind capacity in Chile has reached 3.2TWh as of August 2025, a slight increase from the same period in 2024.",
     "region":"Global",
@@ -2982,102 +3174,6 @@
   },
   {
     "date_utc":"2025-10-14",
-    "headline":"OCI Holdings Vietnam wafer play exposes critical US solar supply bottleneck",
-    "summary_80w":"OCI Holdings\u2019 decision this week to buy a Vietnamese solar wafer facility to supply the US solar cell manufacturing industry makes clear the biggest vulnerability facing the sector today.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/oci-holdings-solar-wafer-vietnam-big-beautiful-bill-supply-chain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"PV CellTech USA takeaways: Perovskite, manufacturing bottlenecks and tariffs dominate discussions",
-    "summary_80w":"Perovskite, tariffs, Section 232 and FEOC were among the key topics discussed at PV CellTech USA this year in San Francisco.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pv-celltech-usa-takeaways-perovskite-manufacturing-bottlenecks-tariffs-dominate-discussions\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"German IPP wpd starts construction at 140MW French solar project",
-    "summary_80w":"German IPP wpd has started construction at its 140.6MW Marcy solar park in the Ni\u00e8vre department of central France.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/german-ipp-wpd-starts-construction-140mw-french-solar-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
     "headline":"PJM area faces urgent energy storage need, US Energy Storage Coalition reports",
     "summary_80w":"According to a new report from the US Energy Storage Coalition (ESC), PJM faces an urgent near-term requirement for affordable capacity to accommodate large loads expected through 2032.",
     "region":"Global",
@@ -3105,102 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/pjm-area-faces-urgent-energy-storage-need-us-energy-storage-coalition-reports\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"Germany BESS platform Terra One: \u2018The delta between merchant and tolling is big\u2019",
-    "summary_80w":"We catch up with the CFO and co-founder of German BESS own-operate platform Terra One, after its \u20ac150 million (US$173 million) mezzanine financing to scale up in Europe's hottest energy storage market.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/germany-bess-platform-terra-one-the-delta-between-merchant-and-tolling-is-big\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"Kyoto Group\u2019s 56MWh thermal energy storage system replaces natural gas at corn processing plant in Hungary",
-    "summary_80w":"Thermal energy storage (TES) technology company Kyoto Group\u2019s latest project will displace the use of natural gas at a corn processing plant in Hungary, Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/kyoto-groups-56mwh-thermal-energy-storage-system-replaces-natural-gas-at-corn-processing-plant-in-hungary\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"Epic Energy brings 200MWh Mannum battery storage system online in South Australia",
-    "summary_80w":"Developer Epic Energy has commenced commercial operations at its 100MW\/200MWh Mannum battery energy storage system (BESS) in South Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/epic-energy-brings-200mwh-mannum-battery-storage-system-online-in-south-australia\/",
     "reliability":"trade",
     "notes":""
   }
