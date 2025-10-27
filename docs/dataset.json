@@ -1,5 +1,101 @@
 [
   {
+    "date_utc":"2025-10-27",
+    "headline":"BNRG Leeson advances 440MWdc solar-plus-storage project in Victoria, Australia",
+    "summary_80w":"Australian solar developer, BNRG Leeson, has submitted plans for a 440MW solar PV facility in Victoria's Campaspe Shire to Australia\u2019s Environment Protection and Biodiversity Conservation (EPBC) Act.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/bnrg-leeson-advances-440mwdc-solar-plus-storage-project-in-victoria-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"\u2018Significantly more complex than expected\u2019: Redearth\u2019s Australian vehicle-to-grid launch",
+    "summary_80w":"RedEarth's Marc Sheldon admits that the company decided to push back the launch of Australia\u2019s first locally manufactured V2G charger.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/significantly-more-complex-than-expected-redearths-australian-vehicle-to-grid-launch\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Australia\u2019s Cheaper Home Batteries Program reaches 2GWh of storage capacity",
+    "summary_80w":"Australia's Cheaper Home Batteries Program has surpassed 100,000 installations, with households and small businesses now benefiting from subsidised battery installations totalling 2GWh of distributed energy storage capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-cheaper-home-batteries-program-reaches-2gwh-of-storage-capacity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-24",
     "headline":"From energy yield to real-time performance: a new metric for PV project success",
     "summary_80w":"Marcel Suri explores the datasets that will help improve the accuracy of PV output estimation and drive better performance.",
@@ -3104,103 +3200,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/chile-to-hit-2030-energy-storage-target-early-argentina-entices-investors-energy-storage-summit-latin-america-day-1\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"CleanCo Queensland\u2019s 500MWh Tesla Megapack BESS at former coal site enters commissioning in Australia",
-    "summary_80w":"Publicly-owned energy company CleanCo Queensland's 250MW\/500MWh Swanbank battery energy storage system (BESS) has officially registered with AEMO and commenced its testing and commissioning phase.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/cleanco-queenslands-500mwh-tesla-megapack-bess-at-former-coal-site-enters-commissioning-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"Solar PV curtailment in Chile keeps growing in 2025 \u2013 ACERA",
-    "summary_80w":"The curtailment of solar PV and wind capacity in Chile has reached 3.2TWh as of August 2025, a slight increase from the same period in 2024.",
-    "region":"Global",
-    "country":"",
-    "category":"grid",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-pv-curtailment-in-chile-keeps-growing-in-2025-acera\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-14",
-    "headline":"PJM area faces urgent energy storage need, US Energy Storage Coalition reports",
-    "summary_80w":"According to a new report from the US Energy Storage Coalition (ESC), PJM faces an urgent near-term requirement for affordable capacity to accommodate large loads expected through 2032.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/pjm-area-faces-urgent-energy-storage-need-us-energy-storage-coalition-reports\/",
     "reliability":"trade",
     "notes":""
   }
