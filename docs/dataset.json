@@ -1,5 +1,198 @@
 [
   {
+    "date_utc":"2025-10-28",
+    "headline":"FRV Australia commits to 210MWdc New Zealand solar PV plant after Genesis partnership ends",
+    "summary_80w":"Fotowatio Renewable Ventures (FRV) Australia has announced the development of a 210MWdc solar project in New Zealand's Rangitikei District.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/frv-australia-commits-to-210mwdc-new-zealand-solar-pv-plant-after-genesis-partnership-ends\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-28",
+    "headline":"Australia: Energy storage comprises 26.1GW of AEMO\u2019s record 56.6GW NEM project pipeline",
+    "summary_80w":"AEMO has reported a record 56.6GW of new generation and storage capacity in the National Electricity Market (NEM) development pipeline.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-energy-storage-comprises-26-1gw-of-aemos-record-56-6gw-nem-project-pipeline\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-28",
+    "headline":"W\u00e4rtsil\u00e4 to deliver \u2018Australia\u2019s largest DC-coupled hybrid battery system\u2019 for the NEM",
+    "summary_80w":"Finnish marine and energy technology group W\u00e4rtsil\u00e4 will deliver what it claims is Australia's largest DC-coupled hybrid battery energy storage system (BESS) for the National Electricity Market (NEM).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/wartsila-to-deliver-australias-largest-dc-coupled-hybrid-battery-system-for-the-nem\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Shanghai Electric to build 342MW solar PV in Romania",
+    "summary_80w":"Chinese engineering firm Shanghai Electric has signed an engineering, procurement, and construction (EPC) contract with independent power producer (IPP) Econergy to build a 342MW solar PV plant in Romania.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/shanghai-electric-to-build-342mw-solar-pv-in-romania\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Meta, Engie ink 600MW solar PV PPA in Texas",
+    "summary_80w":"Engie has signed additional PPAs with Meta, expanding their partnership to more than 1.3GW across four solar projects in Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/meta-engie-ink-600mw-solar-pv-ppa-in-texas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Waaree lands 692MW solar module deals across India and the US",
+    "summary_80w":"Waaree Energies has secured four solar module supply contracts totalling 692MW \u2013 three for projects in India and one in the US through its subsidiary.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/waaree-lands-692mw-solar-module-deals-across-india-and-the-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-27",
     "headline":"BNRG Leeson advances 440MWdc solar-plus-storage project in Victoria, Australia",
     "summary_80w":"Australian solar developer, BNRG Leeson, has submitted plans for a 440MW solar PV facility in Victoria's Campaspe Shire to Australia\u2019s Environment Protection and Biodiversity Conservation (EPBC) Act.",
@@ -29,6 +222,198 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/bnrg-leeson-advances-440mwdc-solar-plus-storage-project-in-victoria-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Daqo polysilicon sales jump, company claims \u2018healthy\u2019 inventory level in Q3 2025",
+    "summary_80w":"Chinese polysilicon producer Daqo New Energy saw an increase in sales and profits in Q3 2025, as the sector looks to address ongoing oversupply and financial losses.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/daqo-polysilicon-sales-jump-company-claims-healthy-inventory-level-in-q3-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Solar corporate funding sees uptick in Q3 2025 with US$6.5 billion",
+    "summary_80w":"Global corporate financing in the solar industry reached US$6.5 billion in the third quarter of 2025, a 14% increase from the same period a year ago.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-corporate-funding-sees-uptick-in-q3-2025-with-us6-5-billion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Premier Energies strengthens solar portfolio with KSolare, Transcon buy",
+    "summary_80w":"Premier Energies has acquired a 51% stake each in transformer maker Transcon and inverter producer KSolare Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/premier-energies-strengthens-renewable-portfolio-with-dual-acquisitions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Swift Solar deploys perovskite modules at DoD cyber exercise in Virginia",
+    "summary_80w":"US solar technology company Swift Solar has deployed perovskite solar technology as part of a Department of Defence cyber warfare exercise in the state of Virginia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/swift-solar-deploys-perovskite-modules-at-dod-cyber-exercise-in-virginia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"UAE: Masdar begins work on \u2018world-largest\u2019 solar-plus-storage project with 19GWh BESS",
+    "summary_80w":"The Emirati state-owned renewables developer Masdar has begun construction on a giant solar-plus-storage project in Abu Dhabi.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/uae-masdar-world-largest-solar-plus-storage-19gwh-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-27",
+    "headline":"Saft wins 356MWh battery storage project contract in Taiwan with Foxlink Group company",
+    "summary_80w":"Energy trading company Foxwell Power (FWP) has contracted Saft to supply a battery storage solution for a 356MWh project in Taiwan.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/saft-wins-356mwh-battery-storage-project-contract-in-taiwan-with-foxlink-group-company\/",
     "reliability":"trade",
     "notes":""
   },
@@ -162,7 +547,7 @@
   {
     "date_utc":"2025-10-24",
     "headline":"Masdar breaks ground on \u2018world\u2019s largest\u2019 5.2GW\/19GWh solar-plus-storage project",
-    "summary_80w":"The Saudi state-owned renewables developer Masdar has begun construction on a giant solar-plus-storage project in Abu Dhabi.",
+    "summary_80w":"The Emirati state-owned renewables developer Masdar has begun construction on a giant solar-plus-storage project in Abu Dhabi.",
     "region":"Global",
     "country":"",
     "category":"project",
@@ -2761,290 +3146,6 @@
   },
   {
     "date_utc":"2025-10-15",
-    "headline":"North American solar PPA prices up 4% in Q3 amid \u2018policy headwinds\u2019",
-    "summary_80w":"The average price of a solar PPA signed in North America increased 4% between the second and third quarters of 2025, according to LevelTen.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/north-american-solar-ppa-prices-up-4-q3-amid-policy-headwinds\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Ciel & Terre pitches new floating PV system for GW-scale projects",
-    "summary_80w":"Ciel &#038; Terre has launched a new floating PV structure designed to address the increasingly large scale of floating solar projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ciel-terre-fusio-floating-solar-gigawatt-scale\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"SINEXCEL\u2019s Silicon Carbide Edge: A Decade of US Market Experience Meets Next-Generation Power Electronics",
-    "summary_80w":"At RE+ 2025, the Chinese energy solution provider discusses modular design innovations, efficiency gains, and navigating an uncertain policy landscape.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sinexcel-silicon-carbide-edge-a-decade-of-us-market-experience-meets-next-generation-power-electronics\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Copper demand set to surge 24% by 2035 as energy transition accelerates",
-    "summary_80w":"Wood Mackenzie has warned of a supply bottleneck as the renewable energy shift drives a spike in global copper demand over the next decade.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/wood-mackenzie-copper-surge-renewables-metallisation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Major acceleration in renewables deployment needed to hit 11.2TW 2030 target \u2013 report",
-    "summary_80w":"A report by IRENA and others has highlighted the need for yearly renewable energy deployments to almost double between now and 2030.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/irena-cop30-renewables-acceleration\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Geronimo expands US portfolio with 275MW solar projects in Illinois and Michigan",
-    "summary_80w":"Independent power producer (IPP) Geronimo has begun construction on it\u2019s150MW solar project in Illinois and commissioned the 125MW PV project in Michigan.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/geronimo-expands-us-portfolio-with-275mw-solar-projects-in-illinois-and-michigan\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Saatvik Green Energy receives module orders worth US$78 million",
-    "summary_80w":"Indian module manufacturer Saatvik Green Energy, through its subsidiary Saatvik Solar Industries, has secured solar PV module orders worth INR6.89 billion (US$78 million).",
-    "region":"India",
-    "country":"IN",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/saatvik-green-energy-receives-module-orders-worth-us78-million\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Australian government approves 141MW solar PV power plant in just 19 days",
-    "summary_80w":"The Australian government has approved the 141MW Forbes Solar Farm Project in New South Wales in just 19 days, marking one of the fastest environmental approvals on record in the country.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australian-government-approves-141mw-solar-pv-power-plant-in-just-19-days\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Australia opens Capacity Investment Scheme Tender 7, seeking 5GW of renewables",
-    "summary_80w":"Australia has opened registrations for Capacity Investment Scheme (CIS) Tender 7, which targets 5GW of renewable energy generation capacity across the National Electricity Market (NEM).",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-opens-capacity-investment-scheme-tender-7-seeking-5gw-of-renewables\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
     "headline":"US ROUNDUP: ESS Inc LDES pilot, investments in Energy Vault, NineDot",
     "summary_80w":"Energy storage developers are securing significant capital and strategic partnerships, with ESS Inc launching a 50MWh iron flow battery pilot, Energy Vault closing a US$300 million investment, and NineDot obtaining US$175 million in debt financing.",
     "region":"Global",
@@ -3104,102 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/long-term-risk-kpis-and-the-value-of-developers-and-optimisers-in-bess-asset-management\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"US energy storage industry sees data centre load growth as bridge to low-carbon energy transition",
-    "summary_80w":"The US administration has a clear distaste for climate issues, but economics and data centres can still drive a clean energy transition.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-energy-storage-industry-sees-data-centre-load-growth-as-bridge-to-low-carbon-energy-transition\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"BESS projects totalling over 1.5GWh progress in Bulgaria, Romania, Finland and Greece",
-    "summary_80w":"A flurry of grid-scale BESS project progress totalling more than a combined 1.5GWh in the past week, from Renalfa in Bulgaria, Engie in Romania, Nala Renewables in Finland and Metlen in Greece.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bess-projects-totalling-over-1-5gwh-progress-in-bulgaria-romania-finland-and-greece\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-15",
-    "headline":"Chile to hit 2030 energy storage target early, Argentina entices investors: Energy Storage Summit Latin America Day 1",
-    "summary_80w":"Takeaways from the first day of Energy Storage Summit Latin America 2025, including the Chilean and Argentinian markets.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/chile-to-hit-2030-energy-storage-target-early-argentina-entices-investors-energy-storage-summit-latin-america-day-1\/",
     "reliability":"trade",
     "notes":""
   }
