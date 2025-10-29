@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2025-10-29",
+    "headline":"Daiwa Energy & Infrastructure builds 160MWh revenue-stacking BESS in Hokkaido, Japan",
+    "summary_80w":"Daiwa Energy &#038; Infrastructure (DEI), an asset manager backed by investment bank Daiwa Securities, has invested in a large-scale battery storage project in northern Japan.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/daiwa-energy-infrastructure-builds-160mwh-revenue-stacking-bess-in-hokkaido-japan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-29",
     "headline":"Australia\u2019s energy transition \u2018not a pipe dream,\u2019 says new Clean Energy Council CEO",
     "summary_80w":"\"The energy transition is not a pipe dream. It's here and it's happening right now,\" declared Jackie Trad, the newly appointed CEO of the Clean Energy Council, at the start of All-Energy Australia 2025 in Melbourne this morning (29 October).",
     "region":"Global",
@@ -3173,38 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/fluence-supplies-us-made-bess-solution-to-640mwh-project-in-arizona\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-16",
-    "headline":"\u2018There will be incidents\u2019: Fire safety risk mitigation, public perception and design factors in BESS asset management",
-    "summary_80w":"How you approach fire safety risk management in BESS was a big talking point yesterday at the Battery Asset Management Summit UK &#038; Ireland 2025.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/there-will-be-incidents-fire-safety-risk-mitigation-public-perception-and-design-factors-in-bess-asset-management\/",
     "reliability":"trade",
     "notes":""
   }
