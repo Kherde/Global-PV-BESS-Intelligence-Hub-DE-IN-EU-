@@ -34,6 +34,38 @@
   },
   {
     "date_utc":"2025-10-31",
+    "headline":"Meta signs 385MW solar offtake agreements for data centre",
+    "summary_80w":"US independent power producer (IPP) Treaty Oak Clean Energy has signed two environmental attribute purchase agreements (EAPA) with social media and data giant Meta.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-31",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/meta-signs-385mw-solar-offtake-agreements-for-data-centre\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-31",
     "headline":"Australia\u2019s solar PV and storage sectors drive record Q3 2025 performance",
     "summary_80w":"Australia's solar and energy storage sectors delivered transformative performance during the third quarter of 2025, with grid-scale solar generation reaching 1,699MW average output while battery systems expanded capacity by 2,936MW since Q3 2024.",
     "region":"Global",
@@ -126,6 +158,167 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eku-energy-lp-renewables-propose-1600mwh-belah-bess-in-queensland-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-31",
+    "headline":"What does the upcoming Section 232 on polysilicon need to answer?",
+    "summary_80w":"Solar Media Market Research looks into the the Section 232 ruling in the US, tackling the questions that need to be understood.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/what-does-the-upcoming-section-232-on-polysilicon-need-to-answer\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-31",
+    "headline":"First Solar to open new 3.7GW US manufacturing plant in 2026",
+    "summary_80w":"US thin-film module manufacturer First Solar has unveiled plans to build a new 3.7GW manufacturing plant in the US in 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/first-solar-to-open-new-3-7gw-us-manufacturing-plant-in-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-31",
+    "headline":"Flatiron Energy upsizes credit facility to US$250 million for BESS portfolio",
+    "summary_80w":"Developer Flatiron Energy has increased its US$125 million credit facility with certain funds and accounts managed by HPS Investment Partners, to US$250 million.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/flatiron-energy-upsizes-credit-facility-to-us250-million-for-bess-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-31",
+    "headline":"Wisconsin utilities opt for solar-plus-storage project acquisitions over \u2018debt-like PPAs\u2019",
+    "summary_80w":"Two investor-owned utilities (IOUs) are seeking regulatory approval to acquire an under-development solar and storage project located in Waushara County, Wisconsin.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/wisconsin-utilities-seek-regulatory-approval-775-million-hybrid-bess-acquisition-ranger-power\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-10-31",
+    "headline":"Envision launches modular \u2018Gen 8\u2019 BESS equipped with 750Ah-plus cells",
+    "summary_80w":"Lithium-ion OEM Envision Energy has launched its latest grid-scale BESS solution, a 10-foot modular DC block which can be combined into configurations of 12MWh or more.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-10-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/envision-launches-modular-gen-8-bess-equipped-with-750ah-plus-cells\/",
     "reliability":"trade",
     "notes":""
   },
@@ -1029,7 +1222,7 @@
   },
   {
     "date_utc":"2025-10-28",
-    "headline":"\u2018Everyone is talking about\u2019 co-located solar and storage PPA in Europe",
+    "headline":"\u2018Everyone is talking about\u2019 co-located solar and storage PPAs in Europe",
     "summary_80w":"BESS are 'the new player that everyone is talking about,' in Europe\u2019s power purchase agreement (PPA) space, according to LevelTen.",
     "region":"Europe",
     "country":"EU",
@@ -2853,70 +3046,6 @@
   },
   {
     "date_utc":"2025-10-22",
-    "headline":"\u2018A much stronger focus on storage integration\u2019",
-    "summary_80w":"Ingeteam\u2019s Mauro Rivola discusses the rapidly growing appetite for co-located solar and storage in Southern Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/a-much-stronger-focus-storage-integration-ingeteams-mauro-rivola-state-solar-plus-storage-southern-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"Australia: Queensland councils receive new toolkit for navigating renewable energy project assessments",
-    "summary_80w":"The Queensland government has launched the Social Licence in Renewable Energy Toolkit, providing local councils in Australia with resources to navigate renewable energy project engagement and community consultation processes.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-queensland-councils-receive-new-toolkit-for-navigating-renewable-energy-project-assessments\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
     "headline":"US battery storage financing \u2018has become more challenging\u2019",
     "summary_80w":"It has become harder to finance BESS projects in the US, according to Ronak Maheshwari, a director at CRC-IB.",
     "region":"Global",
@@ -3046,70 +3175,6 @@
   },
   {
     "date_utc":"2025-10-21",
-    "headline":"Global energy storage deployments on track for record year in 2025, BNEF says",
-    "summary_80w":"Despite lowering its forecasts due to US-led tariff and policy disruptions, BNEF says 2025 will be a record-breaking year for energy storage.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-21",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/global-energy-storage-deployments-on-track-for-record-year-in-2025-bnef-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-21",
-    "headline":"Trinasolar to supply Mestron Energy with 50MW of Vertex N solar modules",
-    "summary_80w":"Leading Chinese solar manufacturer Trinasolar has signed a module supply agreement with Malaysian renewable energy developer Mestron Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/trinasolar-supply-mestron-energy-50mw-vertex-n-solar-modules\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-21",
     "headline":"Ameresco, Alliant Energy, begin operating record-breaking BESS projects in Arizona, Wisconsin",
     "summary_80w":"Ameresco has put Arizona's largest behind-the-meter battery energy storage system (BESS) into operation, meanwhile Alliant Energy has begun operating Wisconsin's largest BESS to-date.",
     "region":"Global",
@@ -3137,70 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-21",
-    "headline":"Boralex progresses 500MWh Ontario BESS, prepares another 1.6GWh project for upcoming IESO LT2 RFP",
-    "summary_80w":"Quebec-based IPP Boralex has received the green light from local authorities to move forward with a 125MWh\/500MWh BESS located in Oxford County, Ontario.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/boralex-progresses-500mwh-ontario-bess-prepares-another-1-6gwh-project-for-upcoming-ieso-lt2-rfp\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-21",
-    "headline":"Energy Storage Awards 2025: Shortlists revealed for celebration of industry\u2019s best and brightest",
-    "summary_80w":"Leading energy storage technology companies, developers, operators and outstanding individuals are featured on the shortlists for this year\u2019s Energy Storage Awards (ESAs).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-awards-2025-shortlists-revealed-for-celebration-of-industrys-best-and-brightest\/",
     "reliability":"trade",
     "notes":""
   }
