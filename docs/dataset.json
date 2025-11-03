@@ -1,5 +1,102 @@
 [
   {
+    "date_utc":"2025-11-03",
+    "headline":"Victoria approves 2,200MWh of battery storage through streamlined pathway in Australia",
+    "summary_80w":"The Victoria government in Australia has approved a 300MW\/1,200MWh BESS in Gippsland and a 332MW solar PV power plant with integrated storage in the state's northeast region.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/victoria-approves-2200mwh-of-battery-storage-through-streamlined-pathway-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"Battery energy storage deployment in Australia\u2019s NEM surges 150% year-on-year, says AEMO",
+    "summary_80w":"Battery storage capacity in Australia's National Electricity Market (NEM) expanded by 2,936MW\/6,482MWh over the 12 months leading to the end of Q3 2025.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-energy-storage-deployment-in-australias-nem-surges-150-year-on-year-says-aemo\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"\u2018Silver buckshot, not a silver bullet\u2019: the rally cry for Australia\u2019s energy storage strategy",
+    "summary_80w":"A \u201csilver buckshot, not a silver bullet\" has emerged as the rallying cry for Australia's energy storage, said Paul Hunyor of Wollemi Capital.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/silver-buckshot-not-a-silver-bullet-the-rally-cry-for-australias-energy-storage-strategy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-10-31",
     "headline":"EBRD provides US$142 million for Uzbekistan\u2019s first gigawatt-scale solar PV and energy storage portfolio",
     "summary_80w":"The European Bank for Reconstruction and Development (EBRD) has provided US$142 million in financing for the construction of a 1GW solar and 1.3GWh battery energy storage system (BESS) portfolio in Uzbekistan.",
@@ -2824,38 +2921,6 @@
   },
   {
     "date_utc":"2025-10-22",
-    "headline":"South Australia launches first capacity tender for 700MW of long-duration energy storage",
-    "summary_80w":"South Australia has officially opened its inaugural Firm Energy Reliability Mechanism (FERM) tender round, seeking up to 700MW of long-duration energy storage (LDES) capacity to enhance grid reliability and support the state's renewable energy transition.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/south-australia-launches-first-capacity-tender-for-700mw-of-long-duration-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
     "headline":"US FINANCING ROUND-UP: Recurrent, Ampliform and Dimension secure finance for PV projects",
     "summary_80w":"Recurrent Energy, Ampliform and Dimension Energy have announced new financing rounds this month for US solar projects.",
     "region":"Global",
@@ -3138,70 +3203,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-big-bess-project-news-in-greece-germany-romania-and-portugal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"US thermal energy storage startup Rondo deploys 100MWh industrial \u2018Heat Battery\u2019",
-    "summary_80w":"What is claimed to be the world\u2019s largest industrial thermal energy storage \u2018heat battery\u2019 has gone into operation in California, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-thermal-energy-storage-startup-rondo-deploys-100mwh-industrial-heat-battery\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-21",
-    "headline":"Ameresco, Alliant Energy, begin operating record-breaking BESS projects in Arizona, Wisconsin",
-    "summary_80w":"Ameresco has put Arizona's largest behind-the-meter battery energy storage system (BESS) into operation, meanwhile Alliant Energy has begun operating Wisconsin's largest BESS to-date.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin\/",
     "reliability":"trade",
     "notes":""
   }
