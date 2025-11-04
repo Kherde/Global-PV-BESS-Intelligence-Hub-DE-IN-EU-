@@ -1,5 +1,133 @@
 [
   {
+    "date_utc":"2025-11-04",
+    "headline":"Acen Australia\u2019s 400MW Stubbo Solar project reaches full commercial operation",
+    "summary_80w":"Acen Australia has achieved full commercial operation at its 400MW Stubbo Solar project in New South Wales, making it the first solar PV power plant backed by a Long-Term Energy Service Agreement (LTESA) to reach this milestone.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-04",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/acen-australias-400mw-stubbo-solar-project-reaches-full-commercial-operation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-04",
+    "headline":"Australia mandates three-hour free solar electricity for households from 2026",
+    "summary_80w":"The Australia government will require energy retailers to provide free solar electricity to households during peak daytime generation periods.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-04",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-mandates-three-hour-free-solar-electricity-for-households-from-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-04",
+    "headline":"Building trust through action: How social license will shape the future of energy storage",
+    "summary_80w":"Marie Cullen, head of procurement at Fluence Australia, explains how social licensing could become a key component for the future of energy storage developments.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-04",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/building-trust-through-action-how-social-license-will-shape-the-future-of-energy-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"ContourGlobal closes first US solar project financing for 324MW Colorado project",
+    "summary_80w":"IPP ContourGlobal has closed its first renewable energy project financing in the US, as it continues to expand its presence in the country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/contourglobal-closes-first-us-solar-project-financing-324mw-colorado-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-11-03",
     "headline":"Victoria approves 2,200MWh of battery storage through streamlined pathway in Australia",
     "summary_80w":"The Victoria government in Australia has approved a 300MW\/1,200MWh BESS in Gippsland and a 332MW solar PV power plant with integrated storage in the state's northeast region.",
@@ -61,6 +189,198 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/battery-energy-storage-deployment-in-australias-nem-surges-150-year-on-year-says-aemo\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"EnergyRe bags US$370 million for South Carolina PV projects",
+    "summary_80w":"US renewables developer EnergyRe has reached financial close on a solar PV portfolio in the US state of South Carolina.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/energyre-bags-us370-million-for-south-carolina-pv-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"Australia: Sun Energy\u2019s 132MW Merredin solar PV plant leads performance ranking in October",
+    "summary_80w":"Solar developer Sun Energy\u2019s 100MW Merredin solar project in Western Australia has been the best-performing PV plant in October 2025, according to data from research firm Rystad Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-sun-energy-merredin-solar-pv-plant-leads-performance-ranking-october\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"Runergy develops 26.55% efficient M10 TOPCon solar cell",
+    "summary_80w":"Runergy has reported that its latest n-type TOPCon solar cell has achieved a conversion efficiency of 26.55%.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/runergy-develops-26-55-efficient-m10-topcon-solar-cell\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"The Solar PV industry needs to step up to face major challenges in sourcing and transparency",
+    "summary_80w":"Dr KT Tan, CTO at Viridian Solar, chronicles how the expansion of solar raises questions about supply chain transparency and ethical sourcing.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-pv-industry-step-up-face-major-challenges-sourcing-transparency\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"Illinois: Advocates, industry welcome clean energy legislation that includes 3GW energy storage target",
+    "summary_80w":"The Illinois General Assembly\u2019s passing of a major energy bill, including a 3GW energy storage target, has been welcomed by environmental advocacy groups and trade associations.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/illinois-advocates-industry-welcome-clean-energy-legislation-that-includes-3gw-energy-storage-target\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-03",
+    "headline":"France introduces grid tariff reforms for energy storage",
+    "summary_80w":"From August 2026, energy storage projects in France will benefit from changes to grid tariffs designed to encourage them to support the grid at specific times of the day.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/france-introduces-grid-tariff-reforms-for-energy-storage\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2665,38 +2985,6 @@
   },
   {
     "date_utc":"2025-10-23",
-    "headline":"Australia: Queensland rooftop solar surpasses 5GW output milestone for the first time",
-    "summary_80w":"Queensland's rooftop solar systems have exceeded 5GW of output for the first time, marking a milestone in Australia's solar expansion.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-queensland-rooftop-solar-surpasses-5gw-output-milestone-for-the-first-time\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-23",
     "headline":"Raffeisen pension fund joins EBRD, EU on large-scale Croatia BESS and VPP investment",
     "summary_80w":"A pension fund will join the EBRD and EU Modernisation Fund in investing around \u20ac16 million (US$18.5 million) in a project on Croatia pairing large-scale BESS and a VPP.",
     "region":"Europe",
@@ -2890,227 +3178,6 @@
   },
   {
     "date_utc":"2025-10-22",
-    "headline":"\u2018Developers don\u2019t want geopolitical risks\u2019: Fluence talks up US domestic content strategy",
-    "summary_80w":"John Zahurancik, Americas president at Fluence, discussed industry trends and policy directions with ESN Premium at this year\u2019s RE+.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/developers-dont-want-geopolitical-risks-fluence-talks-up-us-domestic-content-strategy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"US FINANCING ROUND-UP: Recurrent, Ampliform and Dimension secure finance for PV projects",
-    "summary_80w":"Recurrent Energy, Ampliform and Dimension Energy have announced new financing rounds this month for US solar projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-financing-round-up-recurrent-ampliform-dimension-secure-finance-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"Why LONGi\u2019s back contact technology prioritises long-term value over short-term competition",
-    "summary_80w":"LONGi vice president Dennis She discusses the value logic behind the company's strategic focus on back contact technology.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/why-longis-back-contact-technology-prioritises-long-term-value-over-short-term-competition\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"Leeward starts operations at 177MW Tennessee solar project",
-    "summary_80w":"Leeward Renewable Energy has started commercial operations at its 177MW Ridgely solar project in the US state of Tennessee.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/leeward-starts-operations-177mw-tennessee-solar-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"Apple, Engie ink 88MW agriPV PPA in Italy",
-    "summary_80w":"Utility giant Engie has signed a 15-year renewable energy power purchase agreement (PPA) with tech giant Apple in Italy.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/apple-engie-ink-88mw-agripv-ppa-in-italy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"First Solar 45X tax credit deals pass US$2 billion with latest transfer",
-    "summary_80w":"US thin-film manufacturer First has revealed another transfer of its 45X manufacturing tax credits in a deal worth around US$775 million.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/first-solar-45x-tax-credit-deals-reach-2billion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"SEIA CEO, Abigail Ross Hopper, to step down in January 2026",
-    "summary_80w":"Abigail Ross Hopper, the president and CEO of US trade association the Solar Energy Industries Association (SEIA), has decided to step down from her roles at the end of January 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/seia-ceo-abigail-ross-hopper-to-step-down-in-january-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
     "headline":"US battery storage financing \u2018has become more challenging\u2019",
     "summary_80w":"It has become harder to finance BESS projects in the US, according to Ronak Maheshwari, a director at CRC-IB.",
     "region":"Global",
@@ -3138,71 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-battery-storage-financing-has-become-more-challenging\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"Recurrent Energy secures US$825 million financing for Arizona BESS and solar projects",
-    "summary_80w":"Recurrent Energy has closed a construction financing for an energy storage project in Arizona. Meanwhile, Cypress Creek Renewables has reached financial close for its solar-plus-storage project in Colorado.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/recurrent-energy-secures-us825-million-financing-for-arizona-bess-and-solar-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-22",
-    "headline":"EU Roundup: Big BESS project news in Greece, Germany, Romania and Portugal",
-    "summary_80w":"A roundup of large-scale European BESS project news, with Principia completing a project in Greece, Repono buying one in Romania, Kyon choosing optimisers for two in Germany and Voltalia and NGEN targeting Portugal.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-big-bess-project-news-in-greece-germany-romania-and-portugal\/",
     "reliability":"trade",
     "notes":""
   }
