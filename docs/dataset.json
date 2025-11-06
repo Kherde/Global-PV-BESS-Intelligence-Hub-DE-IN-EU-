@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2025-11-05",
+    "headline":"Aggressive pricing and emerging C&I models reshape India\u2019s energy storage outlook",
+    "summary_80w":"India\u2019s energy storage industry is at a turning point as developers, financiers, and policymakers work to define viable business models for the next wave of large-scale battery projects.",
+    "region":"India",
+    "country":"IN",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/aggressive-pricing-and-emerging-ci-models-reshape-indias-energy-storage-outlook\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"Xcel Energy plans 600MW \u2018US Midwest\u2019s largest BESS project\u2019 in Minnesota",
+    "summary_80w":"US utility Xcel Energy plans to build the Midwest\u2019s largest battery energy system (BESS) facility at the Sherco Energy Hub in central Minnesota, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/xcel-energy-plans-600mw-us-midwests-largest-bess-project-in-minnesota\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
     "headline":"AGL seeks federal approval for 2,000MWh battery storage system in Queensland, Australia",
     "summary_80w":"Australian energy giant AGL has submitted its 500MW\/2,000MWh Tuckeroo Battery project for federal environmental approval.",
     "region":"Global",
@@ -28,6 +92,166 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/agl-seeks-federal-approval-for-2000mwh-battery-storage-system-in-queensland-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"South Africa to add 28.7GW of new solar PV generation capacity by 2039",
+    "summary_80w":"South Africa aims to add 28.7GW of new solar PV generation capacity by 2039, and generate over half of its electricity with renewables by 2042.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/south-africa-add-28-7gw-new-solar-pv-generation-capacity-2039\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"Digging into delamination distress: Why too many PV modules are failing at the edges",
+    "summary_80w":"Kiwa PVEL examines the increased number of delamination issues and how a different BOM can impact a module's reliability.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/digging-into-delamination-distress-why-too-many-pv-modules-are-failing-at-the-edges\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"Voltec Solar and Toyo ink TOPCon PV cell supply deal",
+    "summary_80w":"Voltec Solar has signed a supply deal to use solar cells produced by Toyo Solar in its solar modules produced in France.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/voltec-solar-signs-solar-pv-cell-supply-deal-toyo-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"Solv Energy to build 209MW Texas solar project for Sol Systems",
+    "summary_80w":"IPP Sol Systems has selected Solv Energy as the EPC services provider for a 209MW solar PV plant in Texas, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solv-energy-build-209mw-texas-solar-project-for-sol-systems\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"Spain passes decree strengthening grid resilience and boosting energy storage",
+    "summary_80w":"The Spanish government has approved a royal decree aimed at strengthening the power grid's resilience, robustness and stability in response to the nationwide blackout in April.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/spain-passes-decree-strengthening-grid-resilience-and-boosting-energy-storage\/",
     "reliability":"trade",
     "notes":""
   },
@@ -61,6 +285,70 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/anker-solix-on-surviving-55c-heat-and-coastal-corrosion-in-australian-conditions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"Canadian LG Energy Solution and Stellantis joint venture to produce LFP cells for BESS",
+    "summary_80w":"LG Energy Solution and Stellantis' joint venture (JV), NextStar Energy, Canada\u2019s first large-scale lithium-ion (Li-ion) battery manufacturing plant, is expanding to produce energy storage system (ESS) batteries.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/canadian-lg-energy-solution-and-stellantis-joint-venture-to-produce-lfp-cells-for-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-05",
+    "headline":"Osaka Gas and Sonnedix prepare Japan\u2019s \u2018largest renewable battery storage facility\u2019",
+    "summary_80w":"Utility Osaka Gas and developer Sonnedix are installing what is claimed to be the largest battery storage facility co-located with renewable energy generation in Japan so far.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/osaka-gas-and-sonnedix-prepare-japans-largest-renewable-battery-storage-facility\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2860,103 +3148,6 @@
   },
   {
     "date_utc":"2025-10-24",
-    "headline":"From energy yield to real-time performance: a new metric for PV project success",
-    "summary_80w":"Marcel Suri explores the datasets that will help improve the accuracy of PV output estimation and drive better performance.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/from-energy-yield-real-time-performance-new-metric-pv-project-success\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-24",
-    "headline":"Nextracker forms JV in Saudi Arabia, raises FY guidance",
-    "summary_80w":"US solar tracker manufacturer Nextracker and Saudi-based energy company Abunayyan Holding have formed a joint venture (JV) in Saudi Arabia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nextracker-forms-jv-in-saudi-arabia-raises-fy-guidance\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-24",
-    "headline":"Masdar breaks ground on \u2018world\u2019s largest\u2019 5.2GW\/19GWh solar-plus-storage project",
-    "summary_80w":"The Emirati state-owned renewables developer Masdar has begun construction on a giant solar-plus-storage project in Abu Dhabi.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/masdar-breaks-ground-on-worlds-largest-5-2gw-19gwh-solar-plus-storage-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-24",
     "headline":"Energy Vault, Jupiter Power, advance projects in ERCOT BESS market",
     "summary_80w":"Energy Vault has acquired a 150MW battery energy storage system (BESS) in Texas. Meanwhile, Jupiter Power has entered an agreement with Austin Energy to provide 100MW of electricity from a BESS facility.",
     "region":"Global",
@@ -3016,199 +3207,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-battery-materials-and-bess-firm-redwood-raises-us350-million-series-e\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-24",
-    "headline":"California utility renegotiates purchase agreement with RWE for 476MWh BESS after regulator rejects initial proposal",
-    "summary_80w":"San Diego Gas &#038; Electric (SDG&#038;E) is seeking regulatory approval to acquire an operational portion of a BESS facility located in Imperial County, California, from the US development arm of German multinational energy company RWE.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/california-utility-renegotiates-purchase-agreement-with-rwe-for-476mwh-bess-after-regulator-rejects-initial-proposal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-24",
-    "headline":"Price falls have enabled \u2018zero-capex\u2019 co-located BESS business model in Spain, company says",
-    "summary_80w":"New company Lunas Energy has launched an offer for solar PV plant operators in Spain to deploy BESS on their land, as the sector struggles with curtailment and negative pricing.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/price-falls-have-enabled-zero-capex-co-located-bess-business-model-in-spain-company-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-24",
-    "headline":"South Korean government investment in US BESS developer \u2018reflects shared commitment to reliable, affordable power\u2019",
-    "summary_80w":"Peregrine Energy Solutions has secured US$130 million from investors including the South Korean Ministry of Environment.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/south-korean-government-investment-in-us-bess-developer-reflects-shared-commitment-to-reliable-affordable-power\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-24",
-    "headline":"VIDEO: Demystifying the BESS metrics that matter most, from SoC and SoH to cell imbalance and RTE",
-    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with W\u00e4rtsil\u00e4, demystifying the BESS metrics that matter most.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-demystifying-the-bess-metrics-that-matter-most-from-soc-and-soh-to-cell-imbalance-and-rte\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-23",
-    "headline":"European solar PPA prices fall below \u20ac35\/MWh in Q3 2025",
-    "summary_80w":"The average price of a solar PPA signed in Europe in Q3 2025 fell below \u20ac35\/MWh, reaching \u20ac34.25\/MWh, according to LevelTen Energy.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/european-solar-ppa-prices-fall-below-35-mwh-q3-2025\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-10-23",
-    "headline":"Nuveen Infrastructure closes US$171 million financing for 137MW South Korean PV plant",
-    "summary_80w":"Infrastructure investment firm Nuveen Infrastructure has secured US$171 million in financing for a 137MW solar PV plant in South Korea.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-10-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nuveen-infrastructure-closes-us171-million-financing-for-137mw-south-korean-pv-plant\/",
     "reliability":"trade",
     "notes":""
   }
