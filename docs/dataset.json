@@ -1,5 +1,228 @@
 [
   {
+    "date_utc":"2025-11-28",
+    "headline":"EBRD finances 531MW Romanian PV portfolio",
+    "summary_80w":"The EBRD will invest in a 531MW solar PV portfolio in Romania from Israeli renewables company Nofar Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-28",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ebrd-finances-531mw-romanian-pv-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-28",
+    "headline":"European Patent Office revokes JA Solar multi-busbar PV patent in \u2018good news\u2019 for EU manufacturers",
+    "summary_80w":"The European Patent Office (EPO) has revoked a patent for a key solar cell manufacturing process, which has been hailed as \u201cgood news\u201d for European solar PV manufacturing.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/european-patent-office-revokes-ja-solar-multi-busbar-pv-patent-in-good-news-for-eu-manufacturers\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-28",
+    "headline":"LONGi acquires PotisEdge, to deploy \u2018one-stop\u2019 energy storage solution",
+    "summary_80w":"LONGi has acquired system integrator PotisEdge, and plans to launch an \u2018Energy Storage One-Stop Solution\u2019.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/longi-acquires-potisedge-to-deploy-one-stop-energy-storage-solution\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-28",
+    "headline":"Huasun launches 760W HJT module with 2,000 V system voltage",
+    "summary_80w":"Chinese module manufacturer Huasun Energy has launched a new heterojunction module with a 760 W output, a 2,000 V system voltage and 24.5% module efficiency.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/huasun-launches-760w-hjt-module-with-2000-v-system-voltage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-28",
+    "headline":"Battery storage fire safety: Sungrow, W\u00e4rtsil\u00e4, Chint Power products put through LSFT",
+    "summary_80w":"Battery storage products from prominent international providers Sungrow, W\u00e4rtsil\u00e4 and Chint Power have undergone recent fire safety tests.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-fire-safety-sungrow-wartsila-chint-power-products-put-through-lsft\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-28",
+    "headline":"Australia opens Capacity Investment Scheme Tender 8, seeking 16GWh of energy storage across NEM",
+    "summary_80w":"The Australian government has officially opened CIS Tender 8, targeting 16GWh of energy storage capacity across the NEM.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-opens-capacity-investment-scheme-tender-8-seeking-16gwh-of-energy-storage-across-nem\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-11-28",
+    "headline":"Michigan Township enacts one-year BESS moratorium after greenfield developer sizes up area for utility-scale project",
+    "summary_80w":"The Township Board of Oshtemo in Michigan has voted in favour of enacting a one-year moratorium on the approval of any new BESS facilities.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/michigan-township-enacts-one-year-bess-moratorium-after-greenfield-developer-sizes-up-area-for-utility-scale-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-11-27",
     "headline":"UBS upgrades China BESS installation forecast, industry to ride policy tailwinds",
     "summary_80w":"With Document No. 136 scrapping the mandatory energy storage allocation requirement for renewable energy and the rollout of policies governing new energy storage, China's energy storage market is going through a period of dynamic change.",
@@ -2956,133 +3179,6 @@
   },
   {
     "date_utc":"2025-11-17",
-    "headline":"SunCable advances 20GW AAPowerLink project with Indigenous deals in Australia",
-    "summary_80w":"Renewable energy developer SunCable has signed an Indigenous Land Use Agreement (ILUA) with the Powell Creek Native Title Holders, marking a milestone for the company\u2019s AAPowerLink project in Australia's Northern Territory.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/suncable-advances-20gw-aapowerlink-project-with-indigenous-deals-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-17",
-    "headline":"Jakson Group begins construction of 6GW integrated solar manufacturing plant in India",
-    "summary_80w":"Jakson Group has started Phase 1 construction of its 6GW integrated solar ingot, wafer, cell and module manufacturing facility at Maksi, Madhya Pradesh.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/jakson-group-begins-construction-of-6gw-integrated-solar-manufacturing-plant-in-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-17",
-    "headline":"Grid gaps and tender complexity put pressure on India\u2019s 500GW roadmap",
-    "summary_80w":"India\u2019s race to 500GW is being slowed by critical grid bottlenecks, PMI\u2019s Abhinav Jindal told PV Tech.",
-    "region":"India",
-    "country":"IN",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/grid-gaps-and-tender-complexity-put-pressure-on-indias-500gw-roadmap\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-17",
-    "headline":"Saatvik Solar secures PV module orders worth US$19.9 million",
-    "summary_80w":"Saatvik Green Energy, through its subsidiary Saatvik Solar Industries, has secured solar PV module orders worth INR1.77 billion (US$19.9 million).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/saatvik-solar-secures-pv-module-orders-worth-us19-9-million\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-17",
     "headline":"Rondo Energy deploys Southeast Asia\u2019s \u2018first industrial Heat Battery\u2019",
     "summary_80w":"Rondo Energy and SCG Cleanergy have commenced operation of Southeast Asia's first industrial thermal battery energy storage system (BESS) at SCG's cement plant in Saraburi, Thailand.",
     "region":"Global",
@@ -3110,102 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/rondo-energy-deploys-southeast-asias-first-industrial-heat-battery\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-17",
-    "headline":"Australia to launch Capacity Investment Scheme Tender 8 seeking 16GWh energy storage in the NEM",
-    "summary_80w":"Australia's DCCEEW has announced that the Capacity Investment Scheme Tender 8 will launch later this month seeking 16GWh of energy storage.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-to-launch-capacity-investment-scheme-tender-8-seeking-16gwh-energy-storage-in-the-nem\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-17",
-    "headline":"VIDEO: Inside CAN networks \u2013 Solving core communication challenges in co-located renewables and BESS",
-    "summary_80w":"Energy-Storage.news presents our sponsored webinar with HMS Networks, 'Inside CAN Networks: Solving Core Communication Challenges in Co-located Renewables and BESS.'",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-inside-can-networks-solving-core-communication-challenges-in-co-located-renewables-and-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-14",
-    "headline":"Statera secures debt finance for 1.36GWh UK BESS",
-    "summary_80w":"BESS and flexible generation provider Statera Energy has secured \u00a3235 million (US$309 million) in debt financing for its 680MW\/1,360MWh Carrington BESS project in Manchester, UK.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-14",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/statera-secures-debt-finance-for-1-36gwh-uk-bess\/",
     "reliability":"trade",
     "notes":""
   }
