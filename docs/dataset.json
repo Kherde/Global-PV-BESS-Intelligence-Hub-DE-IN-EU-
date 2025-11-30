@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2025-11-30",
+    "headline":"600MWh Bulabul battery storage site in Australia attracts Danish partner in AU$300 million deal",
+    "summary_80w":"Ampyr Australia has secured a 15-year battery storage agreement with InCommodities for the 600MWh Bulabul BESS in New South Wales.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-11-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/600mwh-bulabul-battery-storage-site-in-australia-attracts-danish-partner-in-au300-million-deal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-11-28",
     "headline":"EBRD finances 531MW Romanian PV portfolio",
     "summary_80w":"The EBRD will invest in a 531MW solar PV portfolio in Romania from Israeli renewables company Nofar Energy.",
@@ -3141,39 +3173,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ireland-enters-new-era-with-battery-storage-units-participating-in-wholesale-market-for-first-time\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-17",
-    "headline":"\u2018Canada\u2019s largest BESS\u2019 at 1,858MWh begins construction, E-Storage is tech provider & EPC",
-    "summary_80w":"E-Storage, Canadian Solar's energy storage subsidiary, has been contracted to provide engineering, procurement, and construction (EPC) services on the 411MW\/1,858MWh Skyview 2 battery energy storage system (BESS) in Edwardsburgh Cardinal, Ontario, CA.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-17",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/canadas-largest-bess-at-1858mwh-begins-construction-e-storage-is-tech-provider-epc\/",
     "reliability":"trade",
     "notes":""
   },
