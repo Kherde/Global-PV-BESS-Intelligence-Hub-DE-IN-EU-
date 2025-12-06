@@ -1,6 +1,230 @@
 [
   {
     "date_utc":"2025-12-05",
+    "headline":"Origis secures finance from Advantage Capital for 305MW US solar PV portfolio",
+    "summary_80w":"Origis Energy has raised US$265 million in finance from Advantage Capital to support the development of a 305MW solar PV portfolio in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-05",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/origis-secures-finance-advantage-capital-305mw-us-solar-pv-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-05",
+    "headline":"WBS Power sells German solar-plus-storage project",
+    "summary_80w":"WBS Power has sold the 150MW solar, 500MW\/2,000MWh BESS Project Jupiter in Brandenburg, Germany, to investor Prime Capital.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-05",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/wbs-power-sells-german-solar-plus-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-05",
+    "headline":"BayWa r.e. sells 89MW UK solar portfolio to Capital Dynamics",
+    "summary_80w":"BayWa r.e. has sold two of its UK solar farms, which have a combined capacity of 89.9MW, to global asset management firm Capital Dynamics",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/baywa-r-e-sells-89mw-uk-solar-portfolio-capital-dynamics\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-05",
+    "headline":"US Solar industry demands end to DOI\u2019s \u2018unequal\u2019 PV permitting pause",
+    "summary_80w":"Over 140 US solar companies have urged Congress to reconsider changes to permitting which they say have resulted in \u201ca nearly complete moratorium\u201d on solar project permits.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-solar-industry-demands-end-to-dois-unequal-pv-permitting\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-05",
+    "headline":"Overcoming Xcel Energy\u2019s \u2018hostile\u2019 approach to renewable energy in Colorado",
+    "summary_80w":"In November, the Colorado PUC ordered utility Xcel Energy to provide higher-quality information, and introduce flexible tariffs.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/overcoming-xcel-energys-hostile-approach-to-renewable-energy-in-colorado\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-05",
+    "headline":"BrightNight and Cordelio close on 800MWh Washington state BESS",
+    "summary_80w":"Developer BrightNight and independent power producer (IPP) Cordelio Power have announced financial close of the 200MW\/800MWh Greenwater battery energy storage system (BESS) in Washington state, US.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/brightnight-and-cordelio-close-on-800mwh-washington-state-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-05",
+    "headline":"ADS-TEC battery-buffered EV fast chargers put into ancillary services market in Austria",
+    "summary_80w":"Project to integrate electric vehicle fast-chargers into ancillary services markets could be widely replicated, according to ADS-TEC Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ads-tec-battery-buffered-ev-fast-chargers-put-into-ancillary-services-market-in-austria\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-05",
     "headline":"Australia\u2019s grid-forming battery storage pipeline extends to nearly a hundred projects, says AEMO",
     "summary_80w":"Battery energy storage systems (BESS) equipped with grid-forming inverters have emerged as essential components for maintaining system stability in Australia\u2019s National Electricity Market (NEM) as renewable energy penetration increases.",
     "region":"Global",
@@ -2836,69 +3060,6 @@
   },
   {
     "date_utc":"2025-11-25",
-    "headline":"COP30 agrees \u2018global mutir\u00e3o\u2019, but no roadmap for phasing out fossil fuels",
-    "summary_80w":"Delegates at this year\u2019s COP30 summit agreed to a \u201cglobal mutir\u00e3o\u201d, meaning \u201ccollective efforts\u201d, to tackle climate change, but the final text of the summit includes no framework for reducing fossil fuel production.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/cop30-agrees-global-mutirao-no-roadmap-phasing-out-fossil-fuels\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"Genesis Energy reaches financial close on 136MW New Zealand PV project",
-    "summary_80w":"Renewable energy developer Genesis Energy has reached a final investment decision (FID) on a 136MW solar PV project in New Zealand.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/genesis-energy-reaches-financial-close-on-136mw-new-zealand-pv-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
     "headline":"Acacia Energy to resell OptiGrid\u2019s AI-powered battery platform for C&I customers in Australia",
     "summary_80w":"OptiGrid, an Australian battery optimisation and trading intelligence platform, has partnered with Acacia Energy to accelerate the deployment of battery storage for commercial and industrial (C&#038;I) customers.",
     "region":"Global",
@@ -3054,166 +3215,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-waratah-super-battery-enters-planned-shutdown-amid-transformer-replacement-efforts\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-24",
-    "headline":"Morocco plans to build 30,000MT polysilicon plant",
-    "summary_80w":"The Moroccan government has announced plans to build a 30,000MT \u201cgreen polysilicon\u201d production facility, in partnership with Moroccan renewable energy firm GPM Holding.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/morocco-plans-to-build-30000mt-polysilicon-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-24",
-    "headline":"Australia\u2019s Hydro Tasmania seeks 1,500GWh solar and wind capacity via tender",
-    "summary_80w":"Hydro Tasmania is seeking expressions of interest for wind and solar projects capable of delivering up to 1,500GWh of renewables annually.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-hydro-tasmania-seeks-1500gwh-solar-and-wind-capacity-via-tender\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-24",
-    "headline":"First Solar inaugurates \u2018AI-powered\u2019 3.5GW Louisiana factory",
-    "summary_80w":"US solar module manufacturer First Solar has inaugurated its 3.5GW vertically integrated manufacturing facility in the state of Louisiana, the company\u2019s fifth factory in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/first-solar-inaugurates-ai-powered-3-5gw-louisiana-factory\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-24",
-    "headline":"Italy\u2019s MACSE and the evolution of BESS asset management in Europe",
-    "summary_80w":"The low prices and strict operational requirements in Italy's recent MACSE auction for BESS have brought asset management and operational execution into the spotlight.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/italy-macse-future-bess-asset-management-europe-enel-greenvolt-ion-bw-ess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-24",
-    "headline":"Who won at the Energy Storage Awards 2025?",
-    "summary_80w":"Fluence, Energy Dome and EDF each scored consecutive wins in prestigious categories at the Energy Storage Awards 2025 in London.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/who-won-at-the-energy-storage-awards-2025\/",
     "reliability":"trade",
     "notes":""
   }
