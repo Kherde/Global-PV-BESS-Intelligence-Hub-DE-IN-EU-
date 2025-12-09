@@ -1,5 +1,325 @@
 [
   {
+    "date_utc":"2025-12-09",
+    "headline":"Western Australia\u2019s 500MWh vanadium flow battery initiative is a \u2018pivotal moment\u2019",
+    "summary_80w":"A Western Australian government initiative to deploy the largest vanadium redox flow battery (VRFB) project outside China is a \u201cpivotal moment,\u201d one technology provider has said.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/western-australias-500mwh-vanadium-flow-battery-initiative-is-a-pivotal-moment\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Colombia launches solar PV arm, targets 650MW portfolio",
+    "summary_80w":"The Colombian government has created Gecelca Solar, a solar PV-focused arm of its public utility company Gecelca.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/colombia-launches-solar-pv-arm-targets-650mw-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Scatec signs deals for 1.1GW Egypt solar project, powers up South Africa PV site",
+    "summary_80w":"Norwegian renewable energy firm Scatec has signed equity deals for a massive solar-plus-storage project in Egypt and begun operations at a site in South Africa.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/scatec-signs-deals-for-1-1gw-egypt-solar-project-powers-up-south-africa-pv-site\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Preventing PV connector problems before they start",
+    "summary_80w":"Proper training and adherence to best field practices are necessary to halt the steady trend of PV connector failures resulting from poor workmanship, write Brian Mills and Grayson Maurer.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/preventing-pv-connector-problems-before-they-start\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Alight commissions 215MW agrivoltaics project in Denmark",
+    "summary_80w":"Swedish independent power producer (IPP) Alight Energy has commissioned a 215MW agrivoltaics project in Denmark.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/alight-commissions-215mw-agrivoltaics-project-in-denmark\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Zelestra to sell 3.5GW Latin America renewables platform to focus on Europe and US",
+    "summary_80w":"Spanish IPP Zelestra has signed an agreement to sell its 3.5GW Latin America renewables platform to Colombian natural gas firm Promigas.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/zelestra-to-sell-3-5gw-latin-america-renewables-platform-to-focus-on-europe-and-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Arizona county supervisors approve 400MWh BESS project near site of 2019 Surprise fire",
+    "summary_80w":"Supervisors in Maricopa County, Arizona, have approved a 100MW\/400MWh battery storage project from National Renewable Solutions (NRS).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/arizona-county-supervisors-approve-400mwh-bess-project-near-site-of-2019-surprise-fire\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Desert Mountain Energy plans sodium nickel chloride battery factory in New Mexico",
+    "summary_80w":"Vancouver-based helium and natural gas producer Desert Mountain Energy (DME) has signed a non-binding letter of intent (LOI) to form a joint venture (JV) to build and operate a sodium nickel chloride (SNC) battery manufacturing facility in Roswell, New Mexico.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/desert-mountain-energy-plans-sodium-nickel-chloride-battery-factory-in-new-mexico\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Angola: Energy minister inaugurates first solar-plus-storage minigrid in national rollout",
+    "summary_80w":"The first of 46 solar minigrids planned in Angola has been inaugurated by Jo\u00e3o Baptista Borges, the African country\u2019s Minister of Energy and Water.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/angola-first-solar-plus-storage-minigrid-national-rollout\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-08",
+    "headline":"Vena Energy builds 408MWh BESS at third phase of South Australia renewable energy project",
+    "summary_80w":"Vena Energy has commenced construction of a large-scale standalone battery energy storage system (BESS), adjacent to two of the company\u2019s existing facilities, in South Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/vena-energy-builds-408mwh-bess-at-third-phase-of-south-australia-renewable-energy-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-12-05",
     "headline":"Origis secures finance from Advantage Capital for 305MW US solar PV portfolio",
     "summary_80w":"Origis Energy has raised US$265 million in finance from Advantage Capital to support the development of a 305MW solar PV portfolio in the US.",
@@ -2575,38 +2895,6 @@
   },
   {
     "date_utc":"2025-11-26",
-    "headline":"Philippines awards Acciona Energ\u00eda 180MW solar project in latest auction",
-    "summary_80w":"The Philippines has awarded Acciona Energ\u00eda a 20-year power supply contract for a 180MW solar PV project on the island of Cebu.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/philippines-awards-acciona-energia-180mw-solar-project-latest-auction\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-26",
     "headline":"\u2018It\u2019s effectively a full reset of the system\u2019: Habitat Energy on ERCOT\u2019s RTC+B market changes",
     "summary_80w":"Energy-Storage.news Premium speaks with Michael Kirschner, Managing Director, US, for Habitat Energy, about optimising BESS projects in ERCOT.",
     "region":"Global",
@@ -2867,199 +3155,6 @@
   },
   {
     "date_utc":"2025-11-25",
-    "headline":"Trina Storage charts strategic course in complex US energy storage market landscape",
-    "summary_80w":"In the rapidly evolving US energy storage sector, companies must navigate a complex web of policy changes, supply chain challenges, and evolving customer needs.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/trina-storage-charts-strategic-course-in-complex-us-energy-storage-market-landscape\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"Energy storage \u2018significantly underutilised\u2019 in EU despite recent growth and policy support",
-    "summary_80w":"There is a \u201chealthy pipeline of projects in development\u201d across Europe\u2019s energy storage sector, but the technologies are as yet \u201csignificantly underutilised\u201d below their potential.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-significantly-underutilised-in-eu-despite-recent-growth-and-policy-support\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"PowerField completes construction at 170MW Dutch solar portfolio",
-    "summary_80w":"PowerField has completed construction of seven solar PV projects in the Netherlands with a combined capacity of 170MW.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/powerfield-completes-construction-170mw-dutch-solar-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"Plenitude to deploy Swift Solar perovskite modules at pilot US solar project",
-    "summary_80w":"Renewables developer Plenitude will deploy perovskite-silicon tandem solar PV modules at a pilot solar project in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/plenitude-to-deploy-swift-solar-perovskite-modules-at-pilot-us-solar-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"Zelestra signs PPA with Microsoft for 95.7MW Spanish solar portfolio",
-    "summary_80w":"Zelestra has signed a PPA with technology giant Microsoft to sell power generated at a 95.7MW solar PV portfolio.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/zelestra-signs-ppa-microsoft-95-7mw-spanish-solar-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"ACME subsidiary signs PPA for 200MW solar-plus-storage project in India",
-    "summary_80w":"ACME Platinum has signed a PPA with the Solar Energy Corporation of India (SECI) for a 200MW solar-plus storage project in India.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/acme-subsidiary-signs-ppa-200mw-solar-plus-storage-project-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
     "headline":"Acacia Energy to resell OptiGrid\u2019s AI-powered battery platform for C&I customers in Australia",
     "summary_80w":"OptiGrid, an Australian battery optimisation and trading intelligence platform, has partnered with Acacia Energy to accelerate the deployment of battery storage for commercial and industrial (C&#038;I) customers.",
     "region":"Global",
@@ -3119,102 +3214,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/colorado-regulators-call-xcels-grid-data-totally-useless-question-if-utility-will-comply\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"NeoVolta secures US$13 million for US energy storage manufacturing",
-    "summary_80w":"San Diego-based home battery storage company NeoVolta has entered into agreements for a US$13 million private placement financing anchored by Infinite Grid Capital (IGC).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/neovolta-secures-us13-million-for-us-energy-storage-manufacturing\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-25",
-    "headline":"Germany BESS \u2018firsts\u2019: Integrated software, multi-party optimisation, privileged permitting",
-    "summary_80w":"A week of claimed first-of-their-kind advances in Germany's BESS market, including the combination of monitoring, diagnostics and energy trading on one platform, an optimisation deal allowing multiple companies to trade one asset, and a law change accelerating permitting.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/germany-bess-firsts-integrated-software-multi-party-optimisation-privileged-permitting\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-24",
-    "headline":"Australia\u2019s Waratah Super Battery enters planned shutdown amid transformer replacement efforts",
-    "summary_80w":"Developer Akaysha Energy has confirmed that the 850MW Waratah Super Battery will undergo a planned balance of plant shutdown from 20 November to 2 December 2025.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-24",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-waratah-super-battery-enters-planned-shutdown-amid-transformer-replacement-efforts\/",
     "reliability":"trade",
     "notes":""
   }
