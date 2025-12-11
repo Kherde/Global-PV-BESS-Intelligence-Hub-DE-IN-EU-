@@ -1,5 +1,38 @@
 [
   {
+    "date_utc":"2025-12-11",
+    "headline":"ACWA Power, Scatec sign gigawatt-scale MENA solar-plus-storage project deals",
+    "summary_80w":"Two major Middle East and North Africa (MENA) region projects combining solar PV and battery storage have progressed in Saudi Arabia and Egypt through ACWA Power and Scatec, respectively. Scatec signs equity deals with Norfund, EDF Norwegian renewable energy firm Scatec has signed equity deals for a solar-plus-storage project in Nagaa Hammadi,&#160;Egypt. Scatec signed two [&#8230;]",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-11",
+    "impact_score_1to5":5,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/acwa-power-scatec-sign-gigawatt-scale-mena-solar-plus-storage-project-deals\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-12-10",
     "headline":"SEIA appoints Darren Van\u2019t Hof as interim president and CEO",
     "summary_80w":"The US SEIA has named board chair Darren Van\u2019t Hof as interim president and CEO, to begin work 20 January 2026.",
@@ -3180,39 +3213,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/edf-joint-venture-kicks-off-large-scale-bess-solar-plus-storage-projects-chile\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-27",
-    "headline":"Italian battery storage market pipeline soars, developers flock from around Europe",
-    "summary_80w":"The utility-scale battery storage market in Italy is drawing huge interest and development activity, writes Solar Media Market Research analyst Josh Cornes.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/italian-battery-storage-market-pipeline-soars-developers-flock-from-around-europe\/",
     "reliability":"trade",
     "notes":""
   }
