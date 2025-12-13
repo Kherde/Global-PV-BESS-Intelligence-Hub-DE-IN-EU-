@@ -1,11 +1,267 @@
 [
   {
     "date_utc":"2025-12-12",
-    "headline":"Origin selects W\u00e4rtsil\u00e4 for expansion of Australia\u2019s largest approved BESS by capacity at Eraring",
-    "summary_80w":"Utility Origin Energy has hired W\u00e4rtsil\u00e4 to expand its battery storage installation at the Eraring coal power plant site in New South Wales, Australia, to 3,160MWh capacity. Integrated generator-retailer (\u2018gentailer\u2019) Origin is building what will be Australia\u2019s largest battery energy storage system (BESS) project, as part of the company\u2019s transition plan for Eraring Power Station. [&#8230;]",
+    "headline":"EUROPE ROUND-UP: Encavis acquires solar PV portfolio in Italy, Iberdrola and Sonnedix advance Spanish projects",
+    "summary_80w":"A round-up of news coming from Europe, with IPP Encavis acquiring a 265MW solar PV portfolio in Italy, Iberdrola starting construction on 366MW of solar PV in its home country and IPP Sonnedix signing a renewables supply agreement with a subsidiary of Volkswagen in Spain.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/europe-round-up-encavis-acquires-solar-pv-portfolio-italy-iberdrola-sonnedix-spanish-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"FINANCE ROUND-UP: Potentia, Origis and Baywa r.e. close PV financing deals",
+    "summary_80w":"A roundup of three solar PV project financing stories from Australia, Texas and California, with updates from Potentia Energy, Origis Energy and Baywa r.e.",
     "region":"Global",
     "country":"",
     "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/finance-round-up-potentia-origis-and-baywa-r-e-close-pv-financing-deals\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"India\u2019s PLI drives \u2018robust\u2019 solar manufacturing, but upstream lacking muscle",
+    "summary_80w":"India\u2019s flagship solar PV manufacturing incentive has driven \u201crobust growth\u201d in the sector since its launch, but hurdles remain to building a complete domestic supply chain.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/india-pli-drives-robust-solar-manufacturing-but-upstream-lacking-muscle\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"US solar PV companies are not waiting for FEOC guidance \u2013 Crux survey",
+    "summary_80w":"Solar PV companies in the US are not waiting for guidance from the US Departments of the Treasury or Energy to act regarding Foreign Entity of Concern (FEOC), according to a survey conducted by Crux.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-solar-pv-companies-are-not-waiting-for-feoc-guidance-crux-survey\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"US solar module prices stabilise at US$0.28\/W in November",
+    "summary_80w":"US solar PV module prices have stabilised at just over US$0.28\/W in the three months to November 2025, according to Anza.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-solar-module-prices-stabilise-us-0-28-w-november\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"Poland shortlists energy storage projects for \u20ac1 billion in grants",
+    "summary_80w":"The Ministry of the Environment in Poland has shortlisted projects for an energy storage capex support programme totalling 4.15 billion PLN (c.\u20ac1 billion), with 183 eligible to progress to the next round.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/poland-shortlists-energy-storage-projects-for-e1-billion-in-grants\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"System integrator Guoxia Technology to go Public in Hong Kong on 16 December",
+    "summary_80w":"The energy storage industry is emerging as a high-growth and high-profile sector in the Hong Kong capital market. Over 2025, a number of Chinese energy storage companies, including Sungrow, Hithium, Envision AESC and Sigenergy have submitted plans for a Hong Kong listing, with Guoxia Technology about to complete its listing.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/system-integrator-guoxia-technology-to-go-public-in-hong-kong-on-16-december\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"Malaysia\u2019s first large-scale battery storage system inaugurated in Sabah, Borneo",
+    "summary_80w":"A 100MW\/400MWh BESS, the biggest project of its kind by output in Southeast Asia, has been welcomed into operation in Sabah, Malaysia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/malaysias-first-large-scale-battery-storage-system-inaugurated-in-sabah-borneo\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-12",
+    "headline":"Origin selects W\u00e4rtsil\u00e4 for expansion of Australia\u2019s largest approved BESS by capacity at Eraring",
+    "summary_80w":"Utility Origin Energy has hired W\u00e4rtsil\u00e4 to expand its battery storage installation at the Eraring coal power plant site in New South Wales, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
     "subtopic":"",
     "capacity_MW":0,
     "storage_MWh":0,
@@ -66,11 +322,11 @@
   },
   {
     "date_utc":"2025-12-11",
-    "headline":"Chinese polysilicon industry creates new \u201cinventory platform\u201d with RMB30 billion capital",
-    "summary_80w":"Rumours about a polysilicon \u201cinventory platform\u201d have been swirling for some time, and now there\u2019s progress. On December 9, Beijing Guanghe Qiancheng Technology was officially incorporated in Chaoyang District, Beijing, with a registered capital of RMB30 billion (US$4.25 billion) According to the business registration details, Beijing Guanghe Qiancheng is structured as a limited liability company set [&#8230;]",
+    "headline":"Chinese polysilicon industry creates new \u201cinventory platform\u201d with RMB3 billion capital",
+    "summary_80w":"The Chinese polysilicon industry has emerged with a new \"inventory platform\" with a RMB30 billion capital aimed at increasing prices.",
     "region":"Global",
     "country":"",
-    "category":"tech",
+    "category":"price",
     "subtopic":"",
     "capacity_MW":0,
     "storage_MWh":0,
@@ -2831,167 +3087,6 @@
   },
   {
     "date_utc":"2025-12-01",
-    "headline":"Canadian Solar shifts US solar, energy storage manufacturing assets to North American ownership",
-    "summary_80w":"Multinational solar manufacturer Canadian Solar will assume direct control of its US solar PV and energy storage manufacturing operations, in a strategic move which may reduce its supply chain risks.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/canadian-solar-shifts-us-solar-energy-storage-manufacturing-assets-to-north-american-ownership\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"Midsummer to ship up to 200MW of equipment to Colombian CIGS solar factory",
-    "summary_80w":"Swedish thin-film solar manufacturer Midsummer will ship up to 200MW worth of manufacturing equipment to a planned thin-film solar PV manufacturing facility in Colombia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/midsummer-to-ship-up-to-200mw-of-equipment-to-colombian-cigs-solar-factory\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"Grenergy sells 88MW Colombian solar PV portfolio",
-    "summary_80w":"Independent power producer (IPP) Grenergy has agreed to sell an 88MW solar PV portfolio of projects in Colombia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/grenergy-sells-88mw-colombian-solar-pv-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"India to increase solar PV module efficiency threshold in ALMM",
-    "summary_80w":"The Indian Ministry of New and Renewable Energy (MNRE) has requested comments on the proposal to increase the solar PV module efficiency of the Approved List of Models and Manufacturers (ALMM).",
-    "region":"India",
-    "country":"IN",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-to-increase-solar-pv-module-efficiency-threshold-in-almm\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"Navigating the challenges of TOPCon: insights from the frontline",
-    "summary_80w":"Steven Xuereb of Kiwa PI Berlin discusses the PV industry\u2019s progress in addressing performance and reliability concerns around TOPCon technology.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/navigating-the-challenges-of-topcon-insights-from-the-frontline\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
     "headline":"Fortescue deploys 250MWh BYD battery system in Western Australia",
     "summary_80w":"Fortescue has completed delivery of its first large-scale battery storage system (BESS) to the North Star Junction site in Western Australia.",
     "region":"Global",
@@ -3115,102 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/multiple-gigawatts-of-european-bess-project-ma-financing-and-route-to-market-deals\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-30",
-    "headline":"600MWh Bulabul battery storage site in Australia attracts Danish partner in AU$300 million deal",
-    "summary_80w":"Ampyr Australia has secured a 15-year battery storage agreement with InCommodities for the 600MWh Bulabul BESS in New South Wales.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/600mwh-bulabul-battery-storage-site-in-australia-attracts-danish-partner-in-au300-million-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-28",
-    "headline":"Battery storage fire safety: Sungrow, W\u00e4rtsil\u00e4, Chint Power products put through LSFT",
-    "summary_80w":"Battery storage products from prominent international providers Sungrow, W\u00e4rtsil\u00e4 and Chint Power have undergone recent fire safety tests.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-fire-safety-sungrow-wartsila-chint-power-products-put-through-lsft\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-11-28",
-    "headline":"Australia opens Capacity Investment Scheme Tender 8, seeking 16GWh of energy storage across NEM",
-    "summary_80w":"The Australian government has officially opened CIS Tender 8, targeting 16GWh of energy storage capacity across the NEM.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-11-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-opens-capacity-investment-scheme-tender-8-seeking-16gwh-of-energy-storage-across-nem\/",
     "reliability":"trade",
     "notes":""
   }
