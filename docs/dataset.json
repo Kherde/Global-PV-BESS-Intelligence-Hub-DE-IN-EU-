@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2025-12-15",
+    "headline":"Korea Power Exchange to announce winners of 540MW\/3,240MWh energy storage auction in February",
+    "summary_80w":"Results of an auction to procure large-scale energy storage to support the electric grid in South Korea will be announced in February.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/korea-power-exchange-to-announce-winners-of-540mw-3240mwh-energy-storage-auction-in-february\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-12-12",
     "headline":"EUROPE ROUND-UP: Encavis acquires solar PV portfolio in Italy, Iberdrola and Sonnedix advance Spanish projects",
     "summary_80w":"A round-up of news coming from Europe, with IPP Encavis acquiring a 265MW solar PV portfolio in Italy, Iberdrola starting construction on 366MW of solar PV in its home country and IPP Sonnedix signing a renewables supply agreement with a subsidiary of Volkswagen in Spain.",
@@ -3178,38 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/skeleton-tech-begins-manufacturing-high-power-solutions-to-ai-boom-in-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"Multiple gigawatts of European BESS project M&A, financing and route-to-market deals",
-    "summary_80w":"European BESS news from project owners Premier Energy Group, Verbund, Eco Stor, Ingrid Capacity, Ric Energy, Ganfeng Lithium, EP Group, RWE and Giga Storage, securing acquisitions, financings and route-to-market (RTM) deals for multiple gigawatts of capacity this past week.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/multiple-gigawatts-of-european-bess-project-ma-financing-and-route-to-market-deals\/",
     "reliability":"trade",
     "notes":""
   }
