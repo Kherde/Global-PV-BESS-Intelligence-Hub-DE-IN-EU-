@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2025-12-16",
+    "headline":"Akaysha Energy enters 300MWh BESS into NEM trading in Queensland, Australia",
+    "summary_80w":"Waratah Super Battery developer Akaysha Energy has put the first phase of its Ulinda Park BESS project into operation in Queensland, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-enters-300mwh-bess-into-nem-trading-in-queensland-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"France awards 507MW solar PV in latest tender, average price decreases to \u20ac74.13\/MWh",
+    "summary_80w":"France has awarded 507.7MW of solar PV capacity in its latest technology neutral auction, with only solar projects selected.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/france-awards-507mw-solar-pv-in-latest-tender-average-price-decreases-to-e74-13-mwh\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-12-15",
     "headline":"Korea Power Exchange to announce winners of 540MW\/3,240MWh energy storage auction in February",
     "summary_80w":"Results of an auction to procure large-scale energy storage to support the electric grid in South Korea will be announced in February.",
@@ -28,6 +92,230 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/korea-power-exchange-to-announce-winners-of-540mw-3240mwh-energy-storage-auction-in-february\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"How Imperial Star came up with its US solar domestic content calculator",
+    "summary_80w":"Imperial Star's DomesticIQ calculator aims to bring some clarity to the complexities of navigating US solar domestic content requirements.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-imperial-star-came-up-with-its-us-solar-domestic-content-calculator\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"SEG Solar breaks ground on 3GW ingot\/wafer PV manufacturing plant in Indonesia",
+    "summary_80w":"Solar manufacturer SEG Solar has started construction on a 3GW ingot and wafer manufacturing plant in Indonesia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/seg-solar-breaks-ground-on-3gw-ingot-wafer-pv-manufacturing-plant-in-indonesia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"Acciona Energia sells stake in 1.3GW US solar PV portfolio",
+    "summary_80w":"Spanish renewables developer Acciona Energia has sold a 49% minority stake in a 1.3GW US solar PV project portfolio.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/acciona-energia-sells-stake-in-1-3gw-us-solar-pv-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"Soltec confirms 80% share buyout, continues focus on solar trackers",
+    "summary_80w":"Soltec has begun the process of transferring 80% of its share ownership to European investment firm DVC Solutions.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/soltec-confirms-80-share-buyout-continues-focus-on-solar-trackers\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"Maxeon files new BC patent infringement lawsuit against Aiko in Germany",
+    "summary_80w":"Solar manufacturer Maxeon has filed a new patent infringement lawsuit against fellow PV manufacturer Aiko before the Munich Regional Court I in Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/maxeon-files-new-bc-patent-infringement-lawsuit-against-aiko-in-germany\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"Energy Storage Europe welcomes EU proposal to end \u2018first-come-first-served\u2019 grid connections",
+    "summary_80w":"Trade association Energy Storage Europe (ESE) has welcomed proposed reforms to European Union (EU) grid connection and permitting processes.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-europe-welcomes-eu-proposal-to-end-first-come-first-served-grid-connections\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-15",
+    "headline":"Single 100MW BESS outage could cause a US$1.2 million monthly loss, cybersecurity report finds",
+    "summary_80w":"A new battery energy storage system (BESS) cybersecurity whitepaper from consultancy firm The Brattle Group and cybersecurity solutions provider Dragos claims that a single 100MW\/400MWh BESS outage could result in US$1.2 million in monthly losses.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/single-100mw-bess-outage-could-cause-a-us1-2-million-monthly-loss-cybersecurity-report-finds\/",
     "reliability":"trade",
     "notes":""
   },
@@ -226,7 +514,7 @@
   {
     "date_utc":"2025-12-12",
     "headline":"System integrator Guoxia Technology to go Public in Hong Kong on 16 December",
-    "summary_80w":"The energy storage industry is emerging as a high-growth and high-profile sector in the Hong Kong capital market. Over 2025, a number of Chinese energy storage companies, including Sungrow, Hithium, Envision AESC and Sigenergy have submitted plans for a Hong Kong listing, with Guoxia Technology about to complete its listing.",
+    "summary_80w":"System integrator Guoxia Technology has obtained approval for its main board listing on the Hong Kong Stock Exchange.",
     "region":"Global",
     "country":"",
     "category":"tech",
@@ -247,8 +535,7 @@
     "effective_date":"2025-12-12",
     "impact_score_1to5":3,
     "tags":[
-      "utility-scale",
-      "storage"
+      "utility-scale"
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/system-integrator-guoxia-technology-to-go-public-in-hong-kong-on-16-december\/",
@@ -2829,167 +3116,6 @@
   },
   {
     "date_utc":"2025-12-02",
-    "headline":"Sunsure Energy signs PPA for 82.5MW Indian solar project",
-    "summary_80w":"Sunsure Energy has signed a long-term power purchase agreement (PPA) with Indian drinking water brand Bisleri International.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sunsure-energy-signs-ppa-82-5mw-indian-solar-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-02",
-    "headline":"ABB completes acquisition of Gamesa Electric",
-    "summary_80w":"Swiss electrification specialist ABB has acquired solar PV inverter and power conversion system (PCS) producer Gamesa Electric for an undisclosed sum.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/abb-completes-acquisition-of-gamesa-electric\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-02",
-    "headline":"Astronergy, JA Solar to \u2018terminate\u2019 patent disputes, reach cross-licencing agreement",
-    "summary_80w":"Astronergy and JA Solar have 'reached an agreement on cross-licencing' of tunnel oxide passivated contact (TOPCon) patents moving forward.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/astronergy-ja-solar-terminate-patent-disputes-reach-cross-licencing-agreement\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-02",
-    "headline":"AEMO charts Australia\u2019s rooftop solar boom to 42.5GW by 2036",
-    "summary_80w":"Australia's NEM faces a fundamental transformation as solar PV generation and BESS drive the transition to a low-emissions energy system.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/aemo-charts-australias-rooftop-solar-boom-to-42-5gw-by-2036\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-02",
-    "headline":"Voltage Energy on the implementation of virtual reality and the advantages of aluminum in the EBOS field",
-    "summary_80w":"PV Tech sat down with Voltage Energy\u2019s CEO, Li Wang, and discussed the advantages of aluminium and the use of virtual reality in the eBOS field.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/voltage-energy-on-the-implementation-of-virtual-reality-and-the-advantages-of-aluminum-in-the-ebos-field\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-02",
     "headline":"US battery manufacturing \u2018could cover domestic BESS demand within a few years\u2019",
     "summary_80w":"Shifting dynamics in the US' BESS industry could mean that Chinese batteries are not even needed within the foreseeable future, a local consultant told Energy-Storage.news.",
     "region":"Global",
@@ -3081,135 +3207,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/hdre-brawn-capital-put-100-merchant-bess-into-operation-in-northern-japan\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"Australia: 212,000 PV modules installed at 119MW state-owned solar-plus-storage site",
-    "summary_80w":"Victoria's first state-owned solar-plus-storage project has reached a major construction milestone, with the installation of all 212,296 PV modules at the SEC Renewable Energy Park in Horsham, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-212000-pv-modules-installed-at-119mw-state-owned-solar-plus-storage-site\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"Fortescue deploys 250MWh BYD battery system in Western Australia",
-    "summary_80w":"Fortescue has completed delivery of its first large-scale battery storage system (BESS) to the North Star Junction site in Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/fortescue-deploys-250mwh-byd-battery-system-in-western-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"\u2018Italy is a natural market for batteries\u2019: Greenvolt Power on its MACSE-winning project",
-    "summary_80w":"We caught up with developer and IPP Greenvolt Power's head of storage Antonio Montoto Rojo about the recent MACSE auction in Italy, where it won a contract for a 75MW BESS.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/italy-is-a-natural-market-for-batteries-greenvolt-power-on-its-macse-winning-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-01",
-    "headline":"Skeleton Tech begins manufacturing high-power solutions to AI boom in Europe",
-    "summary_80w":"Estonia-headquartered high-power energy storage startup Skeleton Technologies officially opened two European production plants in November.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/skeleton-tech-begins-manufacturing-high-power-solutions-to-ai-boom-in-europe\/",
     "reliability":"trade",
     "notes":""
   }
