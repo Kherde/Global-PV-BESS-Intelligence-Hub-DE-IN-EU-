@@ -1,5 +1,356 @@
 [
   {
+    "date_utc":"2025-12-17",
+    "headline":"European BESS: 800MW of project awards, M&A and financing announced across continent",
+    "summary_80w":"It's been a busy few weeks in the run-up to Christmas in Europe's BESS project space, with M&#038;A, final investment decisions (FID) and supplier deals in Germany, Belgium, Portugal, Italy, Finland, Romania and the UK totally around 800MW of capacity.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/european-bess-800mw-of-project-awards-ma-and-financing-announced-across-continent\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"T1 Energy begins construction at 2.1GW TOPCon cell manufacturing facility in Texas",
+    "summary_80w":"T1 Energy has started construction on the 2.1GW first phase of its TOPCon cell manufacturing facility in Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/t1-energy-begins-construction-2-1gw-topcon-cell-manufacturing-facility-texas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"Ib vogt sells 95.18MW Baobab solar PV plant in Spain",
+    "summary_80w":"Renewables developer ib vogt has sold the 95.18MW Baobab solar PV project in Segovia, central Spain, to a subsidiary of Swiss independent power producer (IPP) EOS NER.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ib-vogt-sells-95-18mw-baobab-solar-pv-plant-in-spain\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"JA Solar JV starts work on Egypt PV and storage manufacturing plant",
+    "summary_80w":"JA Solar is a lead partner in a joint venture that broke ground this week on a new 2GW solar PV cell, 2GW module and 1GWh energy storage manufacturing facility in Egypt.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ja-solar-jv-starts-work-on-egypt-pv-and-storage-manufacturing-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"Doral Renewables signs PPA for 270MW Kansas solar project",
+    "summary_80w":"Doral Renewables has signed a PPA to sell power generated at its 270MW Lambs Draw solar PV project, which will be built in Kansas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/doral-renewables-ppa-270mw-kansas-solar-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"Germany lowers tender price cap for rooftop solar PV in 2026 to \u20ac0.1\/kWh",
+    "summary_80w":"Germany has revised down the price ceiling for roof-mounted solar PV systems to \u20ac0.1\/kWh (US$0.117\/kWh) for tenders to be held in 2026.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/germany-lowers-tender-price-cap-for-rooftop-solar-pv-in-2026-to-e0-1-kwh\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"ERCOT BESS revenue \u2018roller coaster\u2019 is a feature, not a bug",
+    "summary_80w":"In an upcoming conversation with Energy-Storage.news Premium and Optimisation platform provider Ascend Analytics, CEO Dr. Gary Dorris PhD, discusses the \u2018roller coaster\u2019 revenues of the Electric Reliability Council of Texas (ERCOT) market.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ercot-bess-revenue-roller-coaster-is-a-feature-not-a-bug\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"US energy storage installations in 2025 have already surpassed last year\u2019s total: Wood Mac",
+    "summary_80w":"According to the Q4 2025 US Energy Storage Monitor from Wood Mackenzie Power &#038; Renewables and the American Clean Power Association (ACP), 2025 energy storage installations surpassed 2024 capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-energy-storage-installations-in-2025-have-already-surpassed-last-years-total-wood-mac\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"How\u00a0thermal energy storage (TES) makes steam from renewables economically viable",
+    "summary_80w":"Thermal energy storage can make steam for chemical industries and manufacturing economically viable, writes Martin Schichtel, CEO and Founder of Kraftblock.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/how-thermal-energy-storage-tes-makes-steam-from-renewables-economically-viable\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"Akuo Energy, Voltalia kick off projects in French overseas territories New Caledonia, French Guiana",
+    "summary_80w":"Renewable energy companies Akuo Energy and Voltalia have begun constructing projects in French overseas territories.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/akuo-energy-voltalia-kick-off-projects-in-french-overseas-territories-new-caledonia-french-guiana\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-17",
+    "headline":"Ford\u2019s \u2018big strategic pivot\u2019 into the \u2018fiercely competitive\u2019 battery storage market",
+    "summary_80w":"Ford Motor Company\u2019s entry into the \u201cfiercely competitive\u201d energy storage market is a \u201cbig strategic pivot,\u201d but one that makes sense, ESN Premium has heard.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/fords-big-strategic-pivot-into-the-fiercely-competitive-battery-storage-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-12-16",
     "headline":"Ecoprogetti installs 400MW TOPCon, HJT manufacturing plant in Oman for AACE",
     "summary_80w":"Ecoprogetti has installed a new 400MW module production facility in Oman, to be operated by American Advanced Clean Energy (AACE).",
@@ -2725,135 +3076,6 @@
   },
   {
     "date_utc":"2025-12-04",
-    "headline":"LONGi enters energy storage market, redefining industry standards with \u201cultimate safety\u201d",
-    "summary_80w":"LONGi unveiled its energy storage strategy in London last week, officially announcing its entry into the storage sector with the launch of the LONGi Energy Storage One-Stop Solution.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/longi-enters-energy-storage-market-redefining-industry-standards-with-ultimate-safety\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-04",
-    "headline":"Quality, traceability and AI: PV ModuleTech Europe\u2019s key takeaways",
-    "summary_80w":"Module quality issues, such as glass breakage, UVID and delamination, featured heavily in the discussions at PV ModuleTech Europe this week.",
-    "region":"India",
-    "country":"IN",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/quality-traceability-and-ai-pv-moduletech-europes-key-takeaways\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-04",
-    "headline":"Nextpower to double steel tracker manufacturing capacity in Tennessee",
-    "summary_80w":"Nextpower, formerly Nextracker, will double its steel solar tracker manufacturing capacity in Tennessee and has established a new \u201cregional hub\u201d in the Southeast US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nextpower-to-double-steel-tracker-manufacturing-capacity-in-tennessee\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-04",
-    "headline":"Australia generates over 5,000GWh of electricity from renewables in November 2025",
-    "summary_80w":"Australia generated 5,271GWh of utility-scale solar PV and wind power in November 2025, a 28% increase from the same period last year.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-generates-over-5gwh-electricity-renewables-november-2025\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-04",
     "headline":"RWE commissions Texas solar-plus-storage project",
     "summary_80w":"RWE Clean Energy has commissioned the Stoneridge Solar PV project in Texas, adding 200MW of solar PV and 100MW\/200MWh BESS to its operational portfolio.",
     "region":"Global",
@@ -2978,234 +3200,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eight-energy-trends-that-will-shape-energy-storage-in-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-03",
-    "headline":"Ontario municipality denies support for 3.2GWh BESS project ahead of looming IESO RFP deadline",
-    "summary_80w":"The Municipality of Shuniah in Ontario, Canada, voted against supporting a 400MW\/3.2GWh long-duration energy storage project proposed by PowerBank.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-03",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ontario-municipality-denies-support-for-3-2gwh-bess-project-ahead-of-looming-ieso-rfp-deadline\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-03",
-    "headline":"State-owned Stanwell bags exclusivity for Quinbrook\u2019s 6.24GWh hybrid energy storage facility in Australia",
-    "summary_80w":"Stanwell bags rights to Quinbrook's 6.24GWh Gladstone Energy Hub, combining 780MW battery energy storage with gas generation in Queensland.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-03",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/state-owned-stanwell-bags-exclusivity-for-quinbrooks-6-24gwh-hybrid-energy-storage-facility-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-03",
-    "headline":"ADB to provide US$650 million loan to accelerate Indian rooftop solar deployment",
-    "summary_80w":"The Asian Development Bank has approved a US$650 million loan to accelerate rooftop solar PV deployment in India.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/adb-provide-us650-million-loan-accelerate-indian-rooftop-solar-deployment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-03",
-    "headline":"ABB acquires Gamesa Electric power electronics division for undisclosed sum",
-    "summary_80w":"ABB has acquired the solar PV and wind inverter and battery storage power conversion system (PCS) businesses of Gamesa Electric.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/abb-acquires-gamesa-electric-power-electronics-division-for-undisclosed-sum\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-03",
-    "headline":"Cache Power plans \u2018Canada\u2019s first\u2019 commercial-scale compressed air energy storage facility",
-    "summary_80w":"Compressed air energy storage (CAES) developer Cache Power is partnering with construction company EllisDon to deliver a CAES facility in Northeast Alberta, Canada.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/cache-power-plans-canadas-first-commercial-scale-compressed-air-energy-storage-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-03",
-    "headline":"Are\u00a0battery\u00a0companies\u00a0focusing on\u00a0lithium-ion\u00a0alternatives\u00a0financially\u00a0viable?",
-    "summary_80w":"Solar Media analyst Charlotte Gisbourne assesses the outlook for the major listed non-lithium battery energy storage technology companies.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/are-battery-companies-focusing-on-lithium-ion-alternatives-financially-viable\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-03",
-    "headline":"VIDEO: Powering certainty with Elementa 2 Pro, bankable energy storage from Trina",
-    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with Trina Storage, 'Powering Certainty: Bankable Energy Storage, with Elementa 2 Pro'.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-powering-certainty-with-elementa-2-pro-bankable-energy-storage-from-trina\/",
     "reliability":"trade",
     "notes":""
   }
