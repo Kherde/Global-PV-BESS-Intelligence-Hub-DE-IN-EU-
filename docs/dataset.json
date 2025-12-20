@@ -1,6 +1,265 @@
 [
   {
     "date_utc":"2025-12-19",
+    "headline":"BESS wins in Poland capacity market falls for the first time, de-rating cut to blame",
+    "summary_80w":"The results of Poland's capacity market (CM) were announced this week, with fewer awards to BESS than last year because of a reduction in the technology's de-rating factor.",
+    "region":"Global",
+    "country":"",
+    "category":"grid",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bess-wins-in-poland-capacity-market-falls-for-the-first-time-de-rating-cut-to-blame\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
+    "headline":"BayWa r.e. sells 46MW floating solar PV plant in the Netherlands",
+    "summary_80w":"German renewable energy developer BayWa r.e., along with its Dutch subsidiary GroenLeven, has sold a 46MW floating solar PV (FPV) project in the northern province of Friesland, the Netherlands.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/baywa-r-e-sells-46mw-floating-solar-pv-plant-in-the-netherlands\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
+    "headline":"SEIA says SPEED Act is \u2018unequal\u2019 in treatment of solar PV",
+    "summary_80w":"The US House of Representatives has passed a permitting reform bill reducing the environmental scrutiny on large energy projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/seia-says-speed-act-is-unequal-in-treatment-of-solar-pv\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
+    "headline":"Chinese polysilicon production has recorded its first decline in 12 years \u2013 CPIA",
+    "summary_80w":"Wang Bohua, honorary chairman of the China PV Industry Association (CPIA), said that the polysilicon production in China experienced its first year-on-year decline since 2013, while wafer production registered its first year-on-year decline since 2009.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/chinese-polysilicon-production-has-recorded-its-first-decline-in-12-years-cpia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
+    "headline":"Maturation of UK solar and storage has contributed to \u2018execution\u2019 risk",
+    "summary_80w":"'The UK market has matured,' Guy Lavarack, chief investment officer at the Luminous Energy Group, tells PV Tech Premium this week.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/maturation-uk-solar-storage-contributed-execution-risk\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
+    "headline":"How storage and sophistication can limit financial risk in European solar PV",
+    "summary_80w":"PV Talk: Luminous Energy's Guy Lavarack says that interface risk, grid risk and talent risk are all key risk factors in Europe.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-storage-and-sophistication-can-limit-financial-risk-european-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
+    "headline":"NYPA to develop 1.2GW of additional storage as part of renewed energy plan, in face of \u2018strong federal headwinds\u2019",
+    "summary_80w":"The board of trustees for New York Power Authority (NYPA) last week gave the greenlight for the public power organisation to develop an additional 1.2GW of storage as part of its renewed Strategic Plan for New Renewable Energy Generation.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nypa-to-develop-1-2gw-of-additional-storage-as-part-of-renewed-energy-plan-in-face-of-strong-federal-headwinds\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
+    "headline":"Egypt: AMEA Power secures IFC funds for \u2018Africa\u2019s largest single-site renewables and battery project\u2019",
+    "summary_80w":"The World Bank\u2019s International Finance Corporation has agreed a financing package for a 1GW solar PV power plant paired with 600MWh of energy storage in Egypt.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/egypt-amea-power-secures-ifc-funds-for-africas-largest-single-site-renewables-and-battery-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-19",
     "headline":"Australian government supports additional 40GWh of Cheaper Home Batteries by 2030",
     "summary_80w":"The Australian government has expanded the nationwide Cheaper Home Batteries Program, which has seen rapid uptake from homeowners.",
     "region":"Global",
@@ -2493,38 +2752,6 @@
   },
   {
     "date_utc":"2025-12-09",
-    "headline":"Blue Elephant signs 319MW solar PV PPAs with German railway operator",
-    "summary_80w":"German renewables developer Blue Elephant Energy has signed two long-term power purchase agreements (PPA) with the German railway network operator Deutsche Bahn for utility-scale solar power projects.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-09",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/blue-elephant-signs-319mw-solar-pv-ppas-with-german-railway-operator\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-09",
     "headline":"1.6GWh Melbourne Renewable Energy Hub battery storage system brought online in Australia",
     "summary_80w":"The 600MW\/1.6GWh Melbourne Renewable Energy Hub has commenced commercial operations in Victoria, Australia.",
     "region":"Global",
@@ -2880,134 +3107,6 @@
   },
   {
     "date_utc":"2025-12-08",
-    "headline":"Colombia launches solar PV arm, targets 650MW portfolio",
-    "summary_80w":"The Colombian government has created Gecelca Solar, a solar PV-focused arm of its public utility company Gecelca.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-08",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/colombia-launches-solar-pv-arm-targets-650mw-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-08",
-    "headline":"Scatec signs deals for 1.1GW Egypt solar project, powers up South Africa PV site",
-    "summary_80w":"Norwegian renewable energy firm Scatec has signed equity deals for a massive solar-plus-storage project in Egypt and begun operations at a site in South Africa.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/scatec-signs-deals-for-1-1gw-egypt-solar-project-powers-up-south-africa-pv-site\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-08",
-    "headline":"Preventing PV connector problems before they start",
-    "summary_80w":"Proper training and adherence to best field practices are necessary to halt the steady trend of PV connector failures resulting from poor workmanship, write Brian Mills and Grayson Maurer.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/preventing-pv-connector-problems-before-they-start\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-08",
-    "headline":"Alight commissions 215MW agrivoltaics project in Denmark",
-    "summary_80w":"Swedish independent power producer (IPP) Alight Energy has commissioned a 215MW agrivoltaics project in Denmark.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/alight-commissions-215mw-agrivoltaics-project-in-denmark\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-08",
     "headline":"Arizona county supervisors approve 400MWh BESS project near site of 2019 Surprise fire",
     "summary_80w":"Supervisors in Maricopa County, Arizona, have approved a 100MW\/400MWh battery storage project from National Renewable Solutions (NRS).",
     "region":"Global",
@@ -3100,102 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/angola-first-solar-plus-storage-minigrid-national-rollout\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-08",
-    "headline":"Vena Energy builds 408MWh BESS at third phase of South Australia renewable energy project",
-    "summary_80w":"Vena Energy has commenced construction of a large-scale standalone battery energy storage system (BESS), adjacent to two of the company\u2019s existing facilities, in South Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/vena-energy-builds-408mwh-bess-at-third-phase-of-south-australia-renewable-energy-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-05",
-    "headline":"BrightNight and Cordelio close on 800MWh Washington state BESS",
-    "summary_80w":"Developer BrightNight and independent power producer (IPP) Cordelio Power have announced financial close of the 200MW\/800MWh Greenwater battery energy storage system (BESS) in Washington state, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/brightnight-and-cordelio-close-on-800mwh-washington-state-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-05",
-    "headline":"ADS-TEC battery-buffered EV fast chargers put into ancillary services market in Austria",
-    "summary_80w":"Project to integrate electric vehicle fast-chargers into ancillary services markets could be widely replicated, according to ADS-TEC Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ads-tec-battery-buffered-ev-fast-chargers-put-into-ancillary-services-market-in-austria\/",
     "reliability":"trade",
     "notes":""
   }
