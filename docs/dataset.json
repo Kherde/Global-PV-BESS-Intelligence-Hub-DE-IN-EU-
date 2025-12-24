@@ -1,5 +1,391 @@
 [
   {
+    "date_utc":"2025-12-24",
+    "headline":"Pacifico Energy aims to prove subsidy-free BESS in Japan \u2018demonstrates competitive returns\u2019",
+    "summary_80w":"\u201cA multi-stream revenue stacking model\u201d made it possible for Pacifico Energy to self-fund a new grid-scale battery storage project in Japan.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/pacifico-energy-aims-to-prove-subsidy-free-bess-in-japan-demonstrates-competitive-returns\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"Policy storms ahead, fire safety and data centres: Energy-Storage.news 2025 Guest Blog picks, Part 1",
+    "summary_80w":"As 2025 draws to a close, here\u2019s a look back at a selection of Guest Blog contributions published by Energy-Storage.news over the past 12 months.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/policy-storms-ahead-fire-safety-and-data-centres-energy-storage-news-2025-guest-blog-picks-part-1\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"The PV Review, 2025: China tackles module oversupply, creating cautious optimism ahead of 2026",
+    "summary_80w":"The PV Review, 2025: The culmination of years of oversupply of Chinese modules caused module prices to fall, slashing manufacturers\u2019 profits.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/the-pv-review-2025-china-tackles-module-oversupply-cautious-optimism-ahead-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"134MWdc solar project in North Macedonia backed by EBRD and KfW",
+    "summary_80w":"EBRD and KfW will provide \u20ac87 million (US$102.2 million) in debt financing for a 134MWdc solar project in North Macedonia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ebrd-kfw-134mwdc-north-macedonia-solar-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"Solar cybersecurity goes \u2018mainstream\u2019: SolarPower Europe chair talks cybersecurity trends in 2025 and 2026",
+    "summary_80w":"PV Tech spoke to Uri Sadot about how security concerns finally went 'mainstream' in 2025, and what can be done to improve solar cybersecurity.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-cybersecurity-goes-mainstream-uri-sadot-cybersecurity-trends-2025-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"ArcelorMittal commits US$903 million\u00a0to three solar, wind and energy storage projects in India",
+    "summary_80w":"ArcelorMittal is investing INR81 billion (US$903 million) in three renewable energy projects across three states in India.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/arcelormittal-commits-us903-million-to-three-solar-wind-and-energy-storage-projects-in-india\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"Saatvik\u00a0Solar\u00a0secures\u00a0solar module order\u00a0worth US$54.2\u00a0million",
+    "summary_80w":"Saatvik Green Energy, through its subsidiary Saatvik Solar Industries, has secured solar PV module orders worth INR4.8 billion (US$54.2 million).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/saatvik-solar-secures-solar-module-order-worth-us54-2-million\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"Researchers tackle TOPCon \u2018efficiency-cost-bifaciliaty trilemma\u2019",
+    "summary_80w":"Chinese researchers have developed a process to boost the efficiency and bifacial performance of TOPCon solar cells while reducing silver consumption.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/researchers-tackle-topcon-efficiency-cost-bifaciliaty-trilemma\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"New Orleans approves US$30 million virtual power plant programme to support grid resilience",
+    "summary_80w":"The New Orleans, Louisiana, US City Council voted unanimously to approve a US$28 million virtual power plant (VPP) programme, reportedly, the first distributed energy resource (DER) programme in the city.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/new-orleans-approves-us30-million-virtual-power-plant-programme-to-support-grid-resilience\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"How to navigate volatility in ERCOT: Ascend Analytics",
+    "summary_80w":"Energy-Storage.news Premium speaks with CEO of optimisation platform provider Ascend Analytics, Dr. Gary Dorris, PhD, about navigating ERCOT\u2019s revenue opportunities and the implementation of RTC+B.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/how-to-navigate-volatility-in-ercot-ascend-analytics\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"VIDEO: Discover how New York powers energy storage innovation",
+    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with NYSERDA, 'Discover how New York powers energy storage innovation'.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-discover-how-new-york-powers-energy-storage-innovation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-23",
+    "headline":"Operational risk, optimisation, data, tolls and more: Battery Asset Management Summit Europe key takeaways",
+    "summary_80w":"The Battery Asset Management Summit Europe earlier this month brought together operators, optimisers, software and hardware suppliers and more to discuss the big topics in BESS risk management, operation, commercialisation and optimisation. Read on for a summary of the key talking points.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/operational-risk-optimisation-data-tolls-and-more-battery-asset-management-summit-europe-key-takeaways\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2025-12-22",
     "headline":"Can US trade policy deliver a domestic battery supply chain?",
     "summary_80w":"Building US domestic energy storage manufacturing capacity will require more than limiting foreign participation, writes Aaron Marks of Intertek CEA.",
@@ -2464,70 +2850,6 @@
   },
   {
     "date_utc":"2025-12-11",
-    "headline":"Italy awards 1.1GW of solar PV in NZIA auction",
-    "summary_80w":"Italy has awarded 88 projects for a combined 1.1GW of solar PV in its Net Zero Industry Act (NZIA) non-price criteria FER-X auction.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/italy-awards-1-1gw-of-solar-pv-in-nzia-auction\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-11",
-    "headline":"Ciel & Terre releases new rail-based solar PV floating structure",
-    "summary_80w":"Floating solar PV (FPV) firm Ciel &#038; Terre has unveiled a new floating structure, dubbed WattRack, with a rail-based structure.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ciel-terre-releases-new-rail-based-solar-pv-floating-structure\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-11",
     "headline":"How distributed energy resources could combat soaring electricity costs in the US",
     "summary_80w":"Energy-Storage.news Premium speaks with John Farrell, Co-Director of The Institute for Local Self-Reliance (ILSR), on rising utility costs and the role energy storage can play.",
     "region":"Global",
@@ -2651,132 +2973,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/battery-storage-assets-in-europe-could-see-3-roi-uplift-with-15-minute-trading-rystad-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-10",
-    "headline":"SEIA appoints Darren Van\u2019t Hof as interim president and CEO",
-    "summary_80w":"The US SEIA has named board chair Darren Van\u2019t Hof as interim president and CEO, to begin work 20 January 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/seia-appoints-darren-van-t-hof-interim-president-ceo\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-10",
-    "headline":"Italy\u2019s FER-X auction: a market correction or a mirage?",
-    "summary_80w":"Italy's NZIA FER-X auction aims to diversify Europe's supply chain, but this brings its own challenges, writes Patrizio Donati.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/italy-fer-x-auction-market-correction-or-mirage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-10",
-    "headline":"World hits \u2018heroic achievement\u2019 of 1TW of operating utility-scale solar capacity",
-    "summary_80w":"The global utility-scale solar PV sector has exceeded the threshold of 1TW of operating capacity, according to Wiki-Solar.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/world-hits-heroic-achievement-1tw-operating-utility-scale-solar-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-10",
-    "headline":"Plenitude begins operations at 150MW solar PV plant in Spain",
-    "summary_80w":"Plentiude, the renewable energy development arm of Italian oil and gas major Eni, has started operations at a 150MW solar PV plant in Spain.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/plenitude-begins-operations-at-150mw-solar-pv-plant-in-spain\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2976,38 +3172,6 @@
   },
   {
     "date_utc":"2025-12-09",
-    "headline":"1.6GWh Melbourne Renewable Energy Hub battery storage system brought online in Australia",
-    "summary_80w":"The 600MW\/1.6GWh Melbourne Renewable Energy Hub has commenced commercial operations in Victoria, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-09",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/1-6gwh-melbourne-renewable-energy-hub-battery-storage-system-brought-online-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-09",
     "headline":"ROUNDUP: Energy Vault enters Switzerland, ZincFive raises funds, Convergent closes on NYC financing",
     "summary_80w":"In this Energy-Storage.news roundup, Energy Vault enters the Swiss energy storage market, ZincFive raises Series F financing, and Convergent Energy and Power secures a multimillion-dollar facility provided by NY Green Bank.",
     "region":"Global",
@@ -3035,166 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/roundup-energy-vault-enters-switzerland-zincfive-raises-funds-convergent-closes-on-nyc-financing\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-09",
-    "headline":"UK: \u2018Painful but necessary\u2019 reforms see 153GW of battery storage projects cut from grid connection queue",
-    "summary_80w":"The UK\u2019s National Energy System Operator (NESO) will offer grid connection offers up to 2035 to 283GW of projects following a reform of the process.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/uk-painful-but-necessary-reforms-see-153gw-of-battery-storage-projects-cut-from-grid-connection-queue\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-09",
-    "headline":"Long-duration energy storage is non-negotiable for Europe\u2019s energy transformation",
-    "summary_80w":"European energy independence is achievable if long-duration energy storage is factored into the mix, writes Oonagh O'Grady of Hydrostor.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/long-duration-energy-storage-is-non-negotiable-for-europes-energy-transformation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-09",
-    "headline":"Vena Energy signs BESS agreement with CATL for Indonesia-Singapore \u2018renewable energy corridor\u2019",
-    "summary_80w":"Vena Energy has signed a battery storage supply agreement with CATL for a project which would export renewable energy from Indonesia to Singapore.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/vena-energy-signs-bess-agreement-with-catl-for-indonesia-singapore-renewable-energy-corridor\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-09",
-    "headline":"Western Australia\u2019s 500MWh vanadium flow battery initiative is a \u2018pivotal moment\u2019",
-    "summary_80w":"A Western Australian government initiative to deploy the largest vanadium redox flow battery (VRFB) project outside China is a \u201cpivotal moment,\u201d one technology provider has said.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/western-australias-500mwh-vanadium-flow-battery-initiative-is-a-pivotal-moment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-08",
-    "headline":"Arizona county supervisors approve 400MWh BESS project near site of 2019 Surprise fire",
-    "summary_80w":"Supervisors in Maricopa County, Arizona, have approved a 100MW\/400MWh battery storage project from National Renewable Solutions (NRS).",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/arizona-county-supervisors-approve-400mwh-bess-project-near-site-of-2019-surprise-fire\/",
     "reliability":"trade",
     "notes":""
   }
