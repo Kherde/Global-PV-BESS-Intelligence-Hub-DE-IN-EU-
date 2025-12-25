@@ -1,6 +1,260 @@
 [
   {
     "date_utc":"2025-12-24",
+    "headline":"The PV Review, 2025: A year of turbulence in the US, from an \u2018Energy Emergency\u2019 to FEOC",
+    "summary_80w":"The PV Review, 2025: A look back over a turbulent year in US solar policy changes, from the 'Big, Beautiful Bill' to tariff challenges.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/the-pv-review-2025-a-year-of-turbulence-in-the-us-from-an-energy-emergency-to-feoc\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
+    "headline":"\u2018Turbulence and legislative hurdles\u2019 cloud the picture for US solar: SolarEdge on policy challenges in 2025",
+    "summary_80w":"PV Tech spoke to Marty Rogers of SolarEdge about how US policy rulings and policy uncertainty affected his company's work in 2025.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/turbulence-legislative-hurdles-cloud-picture-us-solar-solaredge-policy-challenges-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
+    "headline":"Alphabet to acquire Intersect for US$4.75 billion",
+    "summary_80w":"Alphabet has announced a definitive agreement to acquire data centre and energy infrastructure solutions provider Intersect for US$4.75 billion in cash.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/alphabet-acquires-intersect-for-us4-75-billion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
+    "headline":"CPV Renewable commissions 160MW solar plant in Maryland",
+    "summary_80w":"CPV Renewable Power and Harrison Street Asset Management (HSAM) have begun commercial operations at its 160MW solar project located in Garrett County, Maryland.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/cpv-renewable-commissions-160mw-solar-plant-maryland\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
+    "headline":"Michigan utilities awarded financial damages for work performed on pumped hydro plant",
+    "summary_80w":"A jury has found in favour of Consumers Energy and DTE Energy in their case against Toshiba for \u201cdefective\u201d work to upgrade a pumped hydro facility.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/michigan-utilities-awarded-financial-damages-for-work-performed-on-pumped-hydro-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
+    "headline":"US ROUNDUP: Hydrostor A-CAES project, Hawaiian Electric on Maui, Peregrine picks W\u00e4rtsil\u00e4 for 500MWh Texas BESS",
+    "summary_80w":"In this Energy-Storage.news roundup, Hydrostor receives permitting approval for its California project, Hawaiian Electric is set to begin construction on a Maui battery energy storage system (BESS) and Peregrine and W\u00e4rtsil\u00e4 advance construction of a Texas BESS.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-hydrostor-a-caes-project-hawaiian-electric-on-maui-peregrine-picks-wartsila-for-500mwh-texas-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
+    "headline":"Energy-Storage.news most-read news stories of the year 2025",
+    "summary_80w":"As we welcome the end of another year and greet the next, here are the top 10 most-read news stories from 2025.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-news-most-read-news-stories-of-the-year-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
+    "headline":"Revenue trends, supply chains and emerging markets: Energy-Storage.news 2025 Guest Blog picks, Part 2",
+    "summary_80w":"Our selection of Guest Blogs published over the past year continues, featuring entries from July to December.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2025-12-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/revenue-trends-supply-chains-and-emerging-markets-energy-storage-news-2025-guest-blog-picks-part-2\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2025-12-24",
     "headline":"Pacifico Energy aims to prove subsidy-free BESS in Japan \u2018demonstrates competitive returns\u2019",
     "summary_80w":"\u201cA multi-stream revenue stacking model\u201d made it possible for Pacifico Energy to self-fund a new grid-scale battery storage project in Japan.",
     "region":"Global",
@@ -2563,38 +2817,6 @@
   },
   {
     "date_utc":"2025-12-12",
-    "headline":"US solar module prices stabilise at US$0.28\/W in November",
-    "summary_80w":"US solar PV module prices have stabilised at just over US$0.28\/W in the three months to November 2025, according to Anza.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-solar-module-prices-stabilise-us-0-28-w-november\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-12",
     "headline":"Poland shortlists energy storage projects for \u20ac1 billion in grants",
     "summary_80w":"The Ministry of the Environment in Poland has shortlisted projects for an energy storage capex support programme totalling 4.15 billion PLN (c.\u20ac1 billion), with 183 eligible to progress to the next round.",
     "region":"Global",
@@ -2750,101 +2972,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/acwa-power-scatec-sign-gigawatt-scale-mena-solar-plus-storage-project-deals\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-11",
-    "headline":"Chinese polysilicon industry creates new \u201cinventory platform\u201d with RMB3 billion capital",
-    "summary_80w":"The Chinese polysilicon industry has emerged with a new \"inventory platform\" with a RMB30 billion capital aimed at increasing prices.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chinese-polysilicon-industry-creates-new-inventory-platform-with-rmb30-billion-capital\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-11",
-    "headline":"Europe\u2019s solar boom hits brakes, slowing market could be \u2018self-destructive\u2019, says SolarPower Europe",
-    "summary_80w":"Slowing solar PV and energy storage installations in Europe risks \u201ccompetitiveness and security at a pivotal moment\u201d, according to the head of SolarPower Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/europes-solar-boom-hits-brakes-slowing-market-could-be-self-destructive-says-solarpower-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-11",
-    "headline":"European Commission proposes European Grids Package to improve connection infrastructure",
-    "summary_80w":"The European Commission has proposed improvements to Europe\u2019s energy infrastructure, aiming to accelerate the grid permitting process.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/european-commission-proposes-european-grids-package-improve-connection-infrastructure\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3070,135 +3197,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/submissions-rebound-in-uk-bess-development-market-in-november\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-10",
-    "headline":"Engie hires former subsidiary NHOA Energy for 320MWh Belgium battery storage project",
-    "summary_80w":"NHOA Energy has secured contracts from Engie for an 80MW\/320MWh BESS at Engie's Drogenbos power station, near Brussels, Belgium.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/engie-hires-former-subsidiary-nhoa-energy-for-320mwh-belgium-battery-storage-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-10",
-    "headline":"Cape Verde welcomes wind and batteries that bring African island nation to nearly one-third renewable energy share",
-    "summary_80w":"AFC and public-private-partnership (PPP) Cabeolica have inaugurated 13.5MW of wind power generation and 26MWh of battery storage in Cape Verde.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/cape-verde-welcomes-wind-and-batteries-that-bring-african-island-nation-to-nearly-one-third-renewable-energy-share\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-10",
-    "headline":"Li-ion battery pack prices fell 8% since last year despite metals prices rising, BloombergNEF says",
-    "summary_80w":"Cell manufacturing overcapacity and intense competition contributed to an 8% decline in the average cost of lithium-ion battery packs, according to BloombergNEF.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/li-ion-battery-pack-prices-fell-8-since-last-year-despite-metals-prices-rising-bloombergnef-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-09",
-    "headline":"ROUNDUP: Energy Vault enters Switzerland, ZincFive raises funds, Convergent closes on NYC financing",
-    "summary_80w":"In this Energy-Storage.news roundup, Energy Vault enters the Swiss energy storage market, ZincFive raises Series F financing, and Convergent Energy and Power secures a multimillion-dollar facility provided by NY Green Bank.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/roundup-energy-vault-enters-switzerland-zincfive-raises-funds-convergent-closes-on-nyc-financing\/",
     "reliability":"trade",
     "notes":""
   }
