@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2026-01-06",
+    "headline":"World\u2019s first gigawatt-hour-scale flow battery project goes into operation in China",
+    "summary_80w":"Technology provider Dalian Rongke Power (Rongke Power) and infrastructure developer China Three Gorges Corporation (CTG) have brought online the world\u2019s first gigawatt-hour-scale flow battery energy storage project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-06",
+    "impact_score_1to5":5,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/worlds-first-gigawatt-hour-scale-flow-battery-project-goes-into-operation-in-china\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-06",
+    "headline":"AER: 244 community battery storage systems now connected across Australia",
+    "summary_80w":"The Australian Energy Regulator (AER) has confirmed that 244 community battery energy storage systems (BESS) are now connected to the country's distribution networks.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/aer-244-community-battery-storage-systems-now-connected-across-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-06",
     "headline":"Full-scope integration: The forgotten advantage in Australia\u2019s energy storage race",
     "summary_80w":"In this blog, Kashish Shah, market development manager at W\u00e4rtsil\u00e4 Energy Storage, argues that Australia's complex battery storage market makes full-scope integration the most viable path for successful project delivery.",
     "region":"Global",
@@ -3131,70 +3195,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/battery-storage-system-prices-continue-to-fall-sharply-bnef-and-ember-reports-find\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-16",
-    "headline":"Global BESS installs hit 14GWh in November, including 1GWh sodium-ion project; China slows",
-    "summary_80w":"A total of around 4.9GW\/14GWh of grid-scale BESS entered commercial operations around the world last month, a 29% fall year-on-year owing to an unusually slow month in China.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/global-bess-installs-hit-14gwh-in-november-including-1gwh-sodium-ion-project-china-slows\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-16",
-    "headline":"Akaysha Energy enters 300MWh BESS into NEM trading in Queensland, Australia",
-    "summary_80w":"Waratah Super Battery developer Akaysha Energy has put the first phase of its Ulinda Park BESS project into operation in Queensland, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-enters-300mwh-bess-into-nem-trading-in-queensland-australia\/",
     "reliability":"trade",
     "notes":""
   }
