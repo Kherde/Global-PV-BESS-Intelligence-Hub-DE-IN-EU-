@@ -1,5 +1,197 @@
 [
   {
+    "date_utc":"2026-01-08",
+    "headline":"1.2GWh of energy storage submitted for EPBC Act approval across Australia",
+    "summary_80w":"Three battery energy storage system (BESS) developments across Australia have been submitted to the Environment Protection and Biodiversity Conservation (EPBC) Act, representing a combined capacity of 1,220MWh.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/1-2gwh-of-energy-storage-submitted-for-epbc-act-approval-across-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"HASI, Sunrun joint venture targets 300MW of residential renewable energy capacity",
+    "summary_80w":"Investor HASI and residential solar and storage developer Sunrun have announced a joint venture to finance 300MW of renewable energy capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/hasi-sunrun-announce-joint-venture-300mw-residential-renewable-energy-capacity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"Toyo secures US-sourced polysilicon",
+    "summary_80w":"Japanese cell and module manufacturer Toyo Solar has secured a supply agreement to source US-made polysilicon capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/toyo-secures-us-sourced-polysilicon\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"Inox Clean Energy\u2019s latest INR31 billion equity targets IPP portfolio, manufacturing expansion",
+    "summary_80w":"Indian independent power producer Inox Clean Energy and its subsidiary Inox Solar have tied up equity totalling INR31 billion (US$340 million).",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/inox-clean-energys-latest-inr31-billion-equity-targets-ipp-portfolio-and-manufacturing-expansion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"Thicker aluminium oxide layer is \u2018dominant parameter\u2019 in limiting TOPCon UVID degradation",
+    "summary_80w":"The inclusion of a thicker aluminium oxide layer in TOPCon solar cells could provide superior resistance to UVID, according to UNSW.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/thicker-aluminium-oxide-layer-dominant-parameter-limiting-topcon-uvid-degradation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"Pattern Energy acquires Cordelio Power\u2019s 1.5GW renewables portfolio",
+    "summary_80w":"Renewables firm Pattern Energy has entered into a definitive agreement to acquire independent power producer Cordelio Power.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/pattern-energy-acquires-cordelio-powers-1-5gw-renewables-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-01-07",
     "headline":"Pilot Energy pivots Western Australian solar project to hybrid BESS in AU$10.75 million deal",
     "summary_80w":"Oil and gas explorer Pilot Energy has entered into a binding head of agreement with SN Energy Australia for the joint development of a new solar-plus-storage project at Three Springs, Western Australia.",
@@ -30,6 +222,134 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/pilot-energy-pivots-western-australian-solar-project-to-hybrid-bess-in-au10-75-million-deal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"ROUNDUP: Texas BESS updates from SolarMax, Energy Vault, Engie, and Spearmint",
+    "summary_80w":"A roundup of updates on BESS projects from SolarMax, Energy Vault, Engie, and Spearmint in the Electric Reliability Council of Texas (ERCOT) market.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/roundup-texas-bess-updates-from-solarmax-energy-vault-engie-and-spearmint\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"Battery storage fire in Upstate New York involved unauthorised system, mayor says",
+    "summary_80w":"On 19 December, a fire occurred at energy storage developer Convergent Energy &#038; Power\u2019s Church Street Battery Storage Facility in Warwick, New York, US.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-fire-in-upstate-new-york-involved-unauthorised-system-mayor-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"IPO updates from Chinese firms: EVE Energy re-files for HKEX, Fox ESS updates prospectus",
+    "summary_80w":"Fresh off the New Year holiday, Chinese energy storage companies have rolled out successive updates on their IPO progress.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ipo-updates-from-chinese-firms-eve-energy-re-files-for-hkex-fox-ess-updates-prospectus\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-07",
+    "headline":"CMBlu positions organic flow batteries as lithium alternative for US hyperscaler demand",
+    "summary_80w":"Energy-Storage.news Premium speaks with Giovanni Damato, redox flow battery developer CMBlu's North American President, about using its technology to help meet energy demands.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/cmblu-positions-organic-flow-batteries-as-lithium-alternative-for-us-hyperscaler-demand\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2373,70 +2693,6 @@
   },
   {
     "date_utc":"2025-12-23",
-    "headline":"Saatvik\u00a0Solar\u00a0secures\u00a0solar module order\u00a0worth US$54.2\u00a0million",
-    "summary_80w":"Saatvik Green Energy, through its subsidiary Saatvik Solar Industries, has secured solar PV module orders worth INR4.8 billion (US$54.2 million).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/saatvik-solar-secures-solar-module-order-worth-us54-2-million\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-23",
-    "headline":"Researchers tackle TOPCon \u2018efficiency-cost-bifaciliaty trilemma\u2019",
-    "summary_80w":"Chinese researchers have developed a process to boost the efficiency and bifacial performance of TOPCon solar cells while reducing silver consumption.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/researchers-tackle-topcon-efficiency-cost-bifaciliaty-trilemma\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-23",
     "headline":"New Orleans approves US$30 million virtual power plant programme to support grid resilience",
     "summary_80w":"The New Orleans, Louisiana, US City Council voted unanimously to approve a US$28 million virtual power plant (VPP) programme, reportedly, the first distributed energy resource (DER) programme in the city.",
     "region":"Global",
@@ -2592,102 +2848,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/can-us-trade-policy-deliver-a-domestic-battery-supply-chain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-22",
-    "headline":"China files WTO solar subsidy complaint against India",
-    "summary_80w":"The Chinese government has lodged a complaint against India with the World Trade Organization over alleged subsidies to its solar industry.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/china-files-wto-solar-subsidy-complaint-against-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-22",
-    "headline":"European Energy wins approval for 1.1GW solar project in Australia",
-    "summary_80w":"European Energy has secured approval for its 1.1GW Upper Calliope solar project in Queensland near Gladstone, Australia.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/european-energy-approval-1-1gw-solar-project-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-22",
-    "headline":"Emmvee expands manufacturing with 2.5GW 6GW module line, announces 6GW solar cell and module facility",
-    "summary_80w":"Emmvee, through its subsidiary Emmvee Energy, has begun operations at its 2.5GW solar module manufacturing plant in Bengaluru, Karnataka.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/emmvee-expands-manufacturing-footprint-2-5gw-module-line\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3039,165 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/queensland-government-says-it-not-councils-will-decide-on-battery-storage-projects-in-australian-state\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-17",
-    "headline":"European BESS: 800MW of project awards, M&A and financing announced across continent",
-    "summary_80w":"It's been a busy few weeks in the run-up to Christmas in Europe's BESS project space, with M&#038;A, final investment decisions (FID) and supplier deals in Germany, Belgium, Portugal, Italy, Finland, Romania and the UK totally around 800MW of capacity.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-17",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/european-bess-800mw-of-project-awards-ma-and-financing-announced-across-continent\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-17",
-    "headline":"ERCOT BESS revenue \u2018roller coaster\u2019 is a feature, not a bug",
-    "summary_80w":"In an upcoming conversation with Energy-Storage.news Premium and Optimisation platform provider Ascend Analytics, CEO Dr. Gary Dorris PhD, discusses the \u2018roller coaster\u2019 revenues of the Electric Reliability Council of Texas (ERCOT) market.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ercot-bess-revenue-roller-coaster-is-a-feature-not-a-bug\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-17",
-    "headline":"US energy storage installations in 2025 have already surpassed last year\u2019s total: Wood Mac",
-    "summary_80w":"According to the Q4 2025 US Energy Storage Monitor from Wood Mackenzie Power &#038; Renewables and the American Clean Power Association (ACP), 2025 energy storage installations surpassed 2024 capacity.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-energy-storage-installations-in-2025-have-already-surpassed-last-years-total-wood-mac\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-17",
-    "headline":"How\u00a0thermal energy storage (TES) makes steam from renewables economically viable",
-    "summary_80w":"Thermal energy storage can make steam for chemical industries and manufacturing economically viable, writes Martin Schichtel, CEO and Founder of Kraftblock.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/how-thermal-energy-storage-tes-makes-steam-from-renewables-economically-viable\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-17",
-    "headline":"Akuo Energy, Voltalia kick off projects in French overseas territories New Caledonia, French Guiana",
-    "summary_80w":"Renewable energy companies Akuo Energy and Voltalia have begun constructing projects in French overseas territories.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/akuo-energy-voltalia-kick-off-projects-in-french-overseas-territories-new-caledonia-french-guiana\/",
     "reliability":"trade",
     "notes":""
   }
