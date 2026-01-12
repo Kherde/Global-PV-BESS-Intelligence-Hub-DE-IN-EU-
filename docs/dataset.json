@@ -1,5 +1,70 @@
 [
   {
+    "date_utc":"2026-01-12",
+    "headline":"NEM Data Spotlight: December 2025 sets new benchmarks for solar generation and pricing",
+    "summary_80w":"December 2025 saw record solar generation in Australia's NEM, with rooftop and utility-scale solar surging, but pricing volatility persisted.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-december-2025-sets-new-benchmarks-for-solar-generation-and-pricing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-11",
+    "headline":"Gamuda Australia to lead ECI phase of Yanara\u2019s 450MW solar-plus-storage project in Victoria",
+    "summary_80w":"Yanara has selected Gamuda Australia as the project delivery partner for the early contractor involvement phase of the Mortlake Energy Hub in Victoria.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-11",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/gamuda-australia-to-lead-eci-phase-of-yanaras-450mw-solar-plus-storage-project-in-victoria\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-01-09",
     "headline":"Solar-plus-storage and federal policy to drive investment tax credit trends in 2026",
     "summary_80w":"PV Tech Premium spoke with Crux on the trends to look forward in 2026 in the clean energy transferable tax credit market.",
@@ -2725,70 +2790,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/metlen-completes-sale-of-1-6gwh-chile-solar-plus-storage-portfolio-to-glenfarne-group\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-29",
-    "headline":"Mexico awards 3.3GW renewables, 2.6GW solar PV, capacity",
-    "summary_80w":"Mexico has awarded 3.3GW of renewable energy capacity, of which solar PV will account for 2.6GW of capacity.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/mexico-awards-3-3gw-renewables-2-6gw-solar-pv-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2025-12-29",
-    "headline":"The race is on for US solar developers to reach \u2018safe harbour\u2019",
-    "summary_80w":"PV Tech spoke with accountancy firm Baker Tilly about the new safe harbour and 'start of construction' rules for US solar projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2025-12-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/the-race-is-on-for-us-solar-developers-to-reach-safe-harbour\/",
     "reliability":"trade",
     "notes":""
   },
