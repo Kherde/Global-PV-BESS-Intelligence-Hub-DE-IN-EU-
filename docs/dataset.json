@@ -1,5 +1,358 @@
 [
   {
+    "date_utc":"2026-01-16",
+    "headline":"Australian government commits AU$24.7 million to national solar module recycling pilot",
+    "summary_80w":"The Australian government has announced AU$24.7 million in funding over three years to establish a National Solar Panel Recycling Pilot.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australian-government-commits-au24-7-million-to-national-solar-module-recycling-pilot\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"Polar Racking secures first Australian contract with 240MW Maryvale solar-plus-storage site",
+    "summary_80w":"Canada-based solar mounting systems provider Polar Racking has entered the Australian market through its involvement in the 240MW Maryvale solar-plus-storage project in New South Wales, marking the company's first project deployment in the country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/polar-racking-secures-first-australian-contract-with-240mw-maryvale-solar-plus-storage-site\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"Australia\u2019s pumped hydro pipeline swells with 2.15GW of new EPBC Act applications",
+    "summary_80w":"Two pumped hydro energy storage (PHES) projects have been submitted for approval under Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-pumped-hydro-pipeline-swells-with-2-15gw-of-new-epbc-act-applications\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"EBRD backs 300MW of Masdar solar and energy storage in Uzbekistan",
+    "summary_80w":"The European Bank for Reconstruction and Development (EBRD) will invest almost US$200 million in a 300MW\/75MWh solar-plus-storage project in Uzbekistan.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ebrd-backs-300mw-of-masdar-solar-and-energy-storage-in-uzbekistan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"Origis Energy completes second phase of 300MW solar PV portfolio in Florida",
+    "summary_80w":"Independent power producer (IPP) Origis Energy has completed the second phase of a 300MW solar PV project in Florida, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/origis-energy-completes-second-phase-of-300mw-solar-pv-portfolio-in-florida\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"Apex finances 670MW of energy storage, wind, with US$2.79 billion financial commitments",
+    "summary_80w":"Developer Apex Clean Energy has announced financing of three utility-scale renewable energy projects across Texas, Ohio, and Illinois, including the Raven Storage project in Wharton County, Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/apex-finances-670mw-of-energy-storage-wind-with-us2-79-billion-financial-commitments\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"EU\u2019s delayed cybersecurity review could have big implications for solar",
+    "summary_80w":"Analysis: Expected changes to the EU\u2019s cybersecurity laws that could have significant implications for the continent\u2019s solar industry have been delayed, reportedly due to disagreement between officials and member states over how far they should go.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/eus-delayed-cybersecurity-review-could-have-big-implications-for-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"Enphase starts shipping GaN commercial microinverter",
+    "summary_80w":"Enphase has begun US shipments of its new IQ9N-3P three-phase gallium nitride-based microinverter aimed at commercial rooftops.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enphase-starts-shipping-gan-commercial-microinverter\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"Neoen, SaskPower sign PPA for 157MW Mino Giizis solar project in Canada",
+    "summary_80w":"Neoen has signed a 25-year PPA to sell electricity generated at its 157MW Mino Giizis project in Canada to SaskPower.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/neoen-saskpower-sign-ppa-157mw-mino-giizis-solar-project-canada\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"NeoVolta, PotisEdge, Longi form JV for Georgia battery pack and BESS manufacturing facility",
+    "summary_80w":"San Diego-based home battery storage company NeoVolta has formed NeoVolta Power, a joint venture (JV) to develop a US battery energy storage system (BESS) manufacturing platform in Pendergrass, Georgia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/neovolta-potisedge-longi-form-jv-for-georgia-battery-pack-and-bess-manufacturing-facility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-15",
+    "headline":"Post-MACSE dynamics make private tolls more attractive, IPP says",
+    "summary_80w":"We hear from IPP Zelestra about its decision not to proceed in Italy's MACSE auction and the auction's wider implications on demand for private tolls.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/post-macse-dynamics-make-private-tolls-more-attractive-ipp-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-01-15",
     "headline":"Torrent Power picks L&T to build India\u2019s largest pumped hydro storage facility",
     "summary_80w":"Torrent Power has contracted Larsen &#038; Toubro to construct a 3GW pumped hydro energy storage (PHES) plant in Maharashtra, India.",
@@ -2516,38 +2869,6 @@
   },
   {
     "date_utc":"2026-01-06",
-    "headline":"China to introduce stronger IP protections for solar PV",
-    "summary_80w":"The Chinese government has released a range of policy measures to strengthen intellectual property (IP) protections in the country\u2019s solar PV industry.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/china-to-introduce-stronger-ip-protections-for-solar-pv\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
     "headline":"Seven-bank syndicate backs Potentia Energy\u2019s AU$830 million renewables expansion in Australia",
     "summary_80w":"Potentia Energy has raised AU$830 million in portfolio financing to support its renewable energy operations and development across Australia.",
     "region":"Global",
@@ -2638,70 +2959,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/200mw-colombian-pv-project-given-environmental-green-light\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
-    "headline":"Consumers Energy starts operations at 250MW Michigan solar PV project",
-    "summary_80w":"US utility Consumers Energy has started operations at its 250MW Muskegon solar PV project, its largest in the US state of Michigan.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/consumers-energy-starts-operations-250mw-michigan-solar-pv-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
-    "headline":"UNSW: Up to one-fifth of solar PV modules degrade 1.5 times faster than average",
-    "summary_80w":"Up to one-fifth of solar PV modules degrade 1.5 times faster than average, according to new research from the University of New South Wales.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/unsw-up-to-one-fifth-solar-pv-modules-degrade-1-5-times-faster-than-average\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2933,134 +3190,6 @@
   },
   {
     "date_utc":"2026-01-05",
-    "headline":"Why quality assurance in PV cell procurement matters more than ever",
-    "summary_80w":"Don Cowan and Mahyar Mohammadnezhad of Kiwa PI Berlin explain the importance of upstream diligence in ensuring long-term PV performance.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/why-quality-assurance-pv-cell-procurement-matters-more-than-ever\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
-    "headline":"Genneia starts operations at 140MW solar PV plant in Argentina",
-    "summary_80w":"Argentinian renewables developer Genneia has reached commercial operations at its 140MW Parque Solar San Rafael in Argentina.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/genneia-starts-operations-at-140mw-solar-pv-plant-in-argentina\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
-    "headline":"Nofar Energy to buy 1GW US solar portfolio from bankrupt Pine Gate",
-    "summary_80w":"Israeli renewable energy developer Nofar Energy will acquire an almost 1GW US utility-scale solar portfolio from bankrupt IPP Pine Gate Renewables.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nofar-energy-to-buy-1gw-us-solar-portfolio-from-bankrupt-pine-gate\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
-    "headline":"Inox acquires 250MW solar PV portfolio from SunSource, in talks for further 50MW",
-    "summary_80w":"Independent power producer Inox Clean Energy has acquired an operational solar PV portfolio in India from SunSource Energy.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/inox-acquires-250mw-solar-pv-portfolio-sunsource-in-talks-further-50mw\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
     "headline":"Google acquires data centre and energy developer Intersect for US$4.75 billion",
     "summary_80w":"Google parent company Alphabet has announced a definitive agreement to acquire Intersect Power.",
     "region":"Global",
@@ -3087,136 +3216,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/google-acquires-data-centre-and-energy-developer-intersect-for-us4-75-billion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
-    "headline":"Engie asks CEC to pause review of 1GWh Compass Energy Storage project\u00a0in order to\u00a0consider alternative sites",
-    "summary_80w":"In a surprising move, the North American development arm of Engie has asked the California Energy Commission (CEC) to pause the review of its Compass Energy Storage project destined for Orange County, in order to assess alternative development sites.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/engie-asks-cec-to-pause-review-of-1gwh-compass-energy-storage-project-in-order-to-consider-alternative-sites\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
-    "headline":"Zelestra\u2019s solar-plus-storage Spain offtake deal is \u2018PPA 2.0\u2019, firm says",
-    "summary_80w":"IPP Zelestra and utility EDP's recent PPA deal for a solar-plus-storage project in Spain was the first of its kind in Europe and 'moves the market forward', a Zelestra executive told Energy-Storage.news.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/zelestras-solar-plus-storage-spain-offtake-deal-is-ppa-2-0-firm-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
-    "headline":"India: KPI Group, POWERGRID win VGF-supported BESS tenders in Gujarat, Andhra Pradesh",
-    "summary_80w":"Wins in competitive solicitations for large-scale battery storage projects in India have been announced by KPI Green Energy Ltd and Power Grid Corporation of India in the past few days.",
-    "region":"India",
-    "country":"IN",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/india-kpi-group-powergrid-win-vgf-supported-bess-tenders-in-gujarat-andhra-pradesh\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-02",
-    "headline":"Voltalia constructing hybrid renewables-plus-storage \u2018cluster\u2019 in Uzbekistan",
-    "summary_80w":"French renewable energy power producer Voltalia has begun construction of its Artemisya \u201cstrategic cluster\u201d project in Uzbekistan, Central Asia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/voltalia-constructing-hybrid-renewables-plus-storage-cluster-in-uzbekistan\/",
     "reliability":"trade",
     "notes":""
   }
