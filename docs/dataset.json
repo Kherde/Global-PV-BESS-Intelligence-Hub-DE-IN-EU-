@@ -66,6 +66,39 @@
   },
   {
     "date_utc":"2026-01-16",
+    "headline":"DNV forecasts tenfold increase in MENA region\u2019s installed energy storage capacity by 2030",
+    "summary_80w":"DNV has forecast that the MENA region will add 860GW of new solar PV by 2040, and energy storage capacity will grow 10x by 2030.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/dnv-forecasts-tenfold-increase-in-mena-regions-installed-energy-storage-capacity-by-2030\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
     "headline":"Australia\u2019s pumped hydro pipeline swells with 2.15GW of new EPBC Act applications",
     "summary_80w":"Two pumped hydro energy storage (PHES) projects have been submitted for approval under Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
     "region":"Global",
@@ -3185,37 +3218,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australian-battery-storage-projects-attract-international-lenders-in-year-end-financing-spree\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-05",
-    "headline":"Google acquires data centre and energy developer Intersect for US$4.75 billion",
-    "summary_80w":"Google parent company Alphabet has announced a definitive agreement to acquire Intersect Power.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/google-acquires-data-centre-and-energy-developer-intersect-for-us4-75-billion\/",
     "reliability":"trade",
     "notes":""
   }
