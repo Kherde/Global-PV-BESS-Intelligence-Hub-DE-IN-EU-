@@ -1,6 +1,167 @@
 [
   {
     "date_utc":"2026-01-16",
+    "headline":"Meta, Origis Energy ink 303MW solar PV PPA in Texas",
+    "summary_80w":"Independent power producer (IPP) Origis Energy has signed a 303MW power purchase agreement with tech giant Meta for the Greyhound A Solar PV project in Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/meta-origis-energy-ink-303mw-solar-pv-ppa-in-texas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"Vikram Solar to transition all module production to G12R format",
+    "summary_80w":"Indian solar PV manufacturer Vikram Solar is transitioning its module portfolio to the G12R format, led by the HYPERSOL G12R series.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/vikram-solar-to-transition-all-module-production-to-g12r-format\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"Amazon buys 1.2GW Sunstone solar-plus-storage project from bankrupt Pine Gate",
+    "summary_80w":"Global tech giant Amazon has been approved as the buyer of the 1.2GW Sunstone solar project in Oregon, one of the largest solar PV projects in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/amazon-buys-1-2gw-sunstone-solar-plus-storage-project-from-bankrupt-pine-gate\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"Altus Power acquires 105MW New York solar portfolio from Cordelio",
+    "summary_80w":"US C&#038;I solar developer Altus Power has acquired four solar projects with a total capacity of 105MW from IPP Cordelio Power.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/altus-power-acquires-105mw-new-york-solar-portfolio-from-cordelio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"USPB dismisses two Maxeon patent claims against Canadian Solar, upholds a third",
+    "summary_80w":"The Patent Trial and Appeal Board (PTAB) of the US Patent and Trademark Office (USPTO) has partially ruled against solar manufacturer Maxeon in several claims against Canadian Solar.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-patent-board-dismisses-patent-claims-maxeon-canadian-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
     "headline":"Australian government commits AU$24.7 million to national solar module recycling pilot",
     "summary_80w":"The Australian government has announced AU$24.7 million in funding over three years to establish a National Solar Panel Recycling Pilot.",
     "region":"Global",
@@ -61,6 +222,102 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/polar-racking-secures-first-australian-contract-with-240mw-maryvale-solar-plus-storage-site\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"China deploys 65GWh of BESS in December, 25% of 2025 global total",
+    "summary_80w":"A staggering total of 18GW\/65GWh of large-scale BESS came online in China last month, accounting for a quarter of the total capacity deployed across the globe in 2025.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/china-deploys-65gwh-of-bess-in-december-25-of-2025-global-total\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"US ROUNDUP: Duke Energy, Elevate, Fluence with BrightNight and Cordelio progress BESS projects",
+    "summary_80w":"Duke Energy, Elevate Renewables, and Fluence Energy, along with BrightNight and Cordelio Power, are advancing BESS projects across the BESS.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-duke-energy-elevate-fluence-with-brightnight-and-cordelio-progress-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-16",
+    "headline":"Year in Review: Flexibility is more valuable than ever, says Fluence",
+    "summary_80w":"Fluence senior VP and chief enterprise operations officer Roman Loosen explains how 2025 saw energy storage go from \"important\" to \"essential.\"",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/year-in-review-flexibility-is-more-valuable-than-ever-says-fluence\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2613,71 +2870,6 @@
   },
   {
     "date_utc":"2026-01-07",
-    "headline":"Pattern Energy acquires Cordelio Power\u2019s 1.5GW renewables portfolio",
-    "summary_80w":"Renewables firm Pattern Energy has entered into a definitive agreement to acquire independent power producer Cordelio Power.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pattern-energy-acquires-cordelio-powers-1-5gw-renewables-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-07",
-    "headline":"Pilot Energy pivots Western Australian solar project to hybrid BESS in AU$10.75 million deal",
-    "summary_80w":"Oil and gas explorer Pilot Energy has entered into a binding head of agreement with SN Energy Australia for the joint development of a new solar-plus-storage project at Three Springs, Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pilot-energy-pivots-western-australian-solar-project-to-hybrid-bess-in-au10-75-million-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-07",
     "headline":"ROUNDUP: Texas BESS updates from SolarMax, Energy Vault, Engie, and Spearmint",
     "summary_80w":"A roundup of updates on BESS projects from SolarMax, Energy Vault, Engie, and Spearmint in the Electric Reliability Council of Texas (ERCOT) market.",
     "region":"Global",
@@ -2870,133 +3062,6 @@
   },
   {
     "date_utc":"2026-01-06",
-    "headline":"World\u2019s first gigawatt-hour-scale flow battery project goes into operation in China",
-    "summary_80w":"Technology provider Dalian Rongke Power (Rongke Power) and infrastructure developer China Three Gorges Corporation (CTG) have brought online the world\u2019s first gigawatt-hour-scale flow battery energy storage project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":5,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/worlds-first-gigawatt-hour-scale-flow-battery-project-goes-into-operation-in-china\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
-    "headline":"Seven-bank syndicate backs Potentia Energy\u2019s AU$830 million renewables expansion in Australia",
-    "summary_80w":"Potentia Energy has raised AU$830 million in portfolio financing to support its renewable energy operations and development across Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/seven-bank-syndicate-backs-potentia-energys-au830-million-renewables-expansion-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
-    "headline":"Trinasolar secures solar PV module and tracker supply deals with ACWA Power",
-    "summary_80w":"Leading Chinese module manufacturer Trinasolar has announced two new agreements with ACWA Power for projects in Saudi Arabia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/trinasolar-secures-module-tracker-supply-deals-acwa-power\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
-    "headline":"200MW Colombian PV project given environmental green light",
-    "summary_80w":"The Colombian National Environmental Licensing Authority (ANLA) has granted environmental approval to a 200MW solar PV project in the Chiriguan\u00e1 area of Northern Colombia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/200mw-colombian-pv-project-given-environmental-green-light\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
     "headline":"SolarMax secures two EPC agreements for 400MWh total BESS capacity in Puerto Rico",
     "summary_80w":"Solar company SolarMax Technology\u2019s wholly owned subsidiary, SolarMax Renewable Energy Provider, has entered into two engineering, procurement and construction (EPC) agreements for battery energy storage systems (BESS) in Puerto Rico.",
     "region":"Global",
@@ -3154,70 +3219,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/aer-244-community-battery-storage-systems-now-connected-across-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
-    "headline":"Full-scope integration: The forgotten advantage in Australia\u2019s energy storage race",
-    "summary_80w":"In this blog, Kashish Shah, market development manager at W\u00e4rtsil\u00e4 Energy Storage, argues that Australia's complex battery storage market makes full-scope integration the most viable path for successful project delivery.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/full-scope-integration-the-forgotten-advantage-in-australias-energy-storage-race\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-06",
-    "headline":"Australian battery storage projects attract international lenders in year-end financing spree",
-    "summary_80w":"Atmos Renewables and Potentia Energy have secured financing packages for their Australian renewables and energy storage portfolios.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australian-battery-storage-projects-attract-international-lenders-in-year-end-financing-spree\/",
     "reliability":"trade",
     "notes":""
   }
