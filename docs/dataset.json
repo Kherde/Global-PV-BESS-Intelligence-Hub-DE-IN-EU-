@@ -34,6 +34,70 @@
   },
   {
     "date_utc":"2026-01-20",
+    "headline":"Rondo Energy, Covestro break ground on 100MWh thermal energy storage site in Germany",
+    "summary_80w":"Covestro and startup Rondo Energy have broken ground on a 100MWh TES system at Covestro's Brunsb\u00fcttel chemical site in Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rondo-energy-covestro-break-ground-on-100mwh-thermal-energy-storage-site-in-germany\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"India\u2019s energy storage market in 2025: From tenders to scaled deployment",
+    "summary_80w":"IESA president Debmalya Sen talks us through the highlights and challenges of the past year, as India gets to grips with market development and acceleration.",
+    "region":"India",
+    "country":"IN",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/indias-energy-storage-market-in-2025-from-tenders-to-scaled-deployment\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
     "headline":"ANZA Power secures US$300 million from I Squared for Australia-New Zealand portfolio",
     "summary_80w":"Global infrastructure investor I Squared Capital has launched ANZA Power, a next-generation independent power producer (IPP) in Australia and New Zealand.",
     "region":"Global",
@@ -3144,70 +3208,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ipo-updates-from-chinese-firms-eve-energy-re-files-for-hkex-fox-ess-updates-prospectus\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-07",
-    "headline":"CMBlu positions its \u2018Organic\u2019 flow batteries as lithium alternative for US hyperscaler demand",
-    "summary_80w":"Energy-Storage.news Premium speaks with Giovanni Damato, redox flow battery developer CMBlu's North American President, about using its technology to help meet energy demands.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/cmblu-positions-organic-flow-batteries-as-lithium-alternative-for-us-hyperscaler-demand\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-07",
-    "headline":"Western Australia prioritises long-duration energy storage in latest clean energy funding round",
-    "summary_80w":"Western Australia has launched the fourth round of its Clean Energy Innovation Grants programme, prioritising long-duration energy storage.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/western-australia-prioritises-long-duration-energy-storage-in-latest-clean-energy-funding-round\/",
     "reliability":"trade",
     "notes":""
   }
