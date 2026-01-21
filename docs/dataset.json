@@ -1,5 +1,258 @@
 [
   {
+    "date_utc":"2026-01-21",
+    "headline":"5B\u2019s \u2018Maverick\u2019 helps Australian off-grid gold mine set 101-hour renewable energy record",
+    "summary_80w":"Bellevue Gold has claimed to have set a new benchmark for off-grid renewable energy performance at one of its gold mines.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/5bs-maverick-helps-australian-off-grid-gold-mine-set-101-hour-renewable-energy-record\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-21",
+    "headline":"Battery trading performance: Demystifying normalised revenue and percent of perfect foresight",
+    "summary_80w":"Sahand Karimi and Henry Swisher of OptiGrid examine the two primary metrics used to evaluate the performance of battery storage trading: normalised revenue and percentage of perfect capture rate.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-trading-performance-demystifying-normalised-revenue-and-percent-of-perfect-foresight\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"INDIA SOLAR ROUND-UP: Hartek wins EPC contract, Waaree bags 2GW+ module orders",
+    "summary_80w":"INDIA ROUND-UP: Hartek Power, Waaree Energies, Kosol Energie and IREDA secured major solar and renewable energy deals, including EPC contracts, multi-gigawatt module orders, multi-billion-dollar investments, and international project financing.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":5,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/india-solar-round-up-hartek-wins-epc-contract-waaree-bags-2gw-module-orders\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"UK developers grappling with grid connection reform and LDES scheme implications",
+    "summary_80w":"While the UK grid-scale BESS market continues to be among the busiest in Europe, there are still huge questions and plenty work to be done in several key policy areas.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/uk-developers-grappling-with-grid-connection-reform-and-ldes-scheme-implications\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"EU\u2019s revised cybersecurity law targets \u2018high risk\u2019 suppliers",
+    "summary_80w":"The European Commission has released its proposal to revise its Cybersecurity Act (CSA), which includes provisions to exclude \u201chigh-risk\u201d companies and components from European supply chains.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/eus-revised-cybersecurity-law-targets-high-risk-suppliers\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"Radial Power secures US$355 million financing for 214MW solar portfolio",
+    "summary_80w":"Radial Power has secured US$355 million from Goldman Sachs for 214MW of distributed solar across 106 projects nationwide.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/radial-power-secures-us355-million-financing-for-214mw-solar-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"Buyers\u2019 sentiment declines, solar module prices hold steady in Europe in December",
+    "summary_80w":"Sentiment among Europe\u2019s solar buyers dropped to the lowest levels on record at the end of 2025, according to sun.store's pv.index report.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/buyers-sentiment-declines-solar-module-prices-hold-steady-europe-december\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"Colombia commits US$1.7 billion to Caribbean grid development, eyes 6GW of renewables",
+    "summary_80w":"The Colombian government has announced a grid expansion plan which it says will facilitate up to 6GW of new clean energy capacity in the country\u2019s Caribbean region.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/colombia-commits-us1-7-billion-to-caribbean-grid-development-eyes-6gw-of-renewables\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-01-20",
     "headline":"CleanPeak Energy acquires five Australian solar-plus-storage sites from Fortitude Renewables",
     "summary_80w":"CleanPeak Energy has completed the acquisition of five solar and battery energy storage system (BESS) development sites in New South Wales from Fortitude Renewables, adding 25MW of solar capacity and 100MWh of battery storage to its portfolio.",
@@ -29,6 +282,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/cleanpeak-energy-acquires-five-australian-solar-plus-storage-sites-from-fortitude-renewables\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-20",
+    "headline":"Year in Review: Law firm Troutman Pepper Locke on FEOC and the \u2018privileged status\u2019 of battery storage",
+    "summary_80w":"Year in Review series perspectives, from FEOC to data centres, from Vaughn Morrison, partner at US law firm Troutman Pepper Locke.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/year-in-review-law-firm-troutman-pepper-locke-on-feoc-and-the-privileged-status-of-battery-storage\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2473,102 +2758,6 @@
   },
   {
     "date_utc":"2026-01-12",
-    "headline":"Nextpower to open 12GW solar PV tracker Saudi facility in Q2 2026",
-    "summary_80w":"Solar PV solutions provider Nextpower has finalised its Saudi joint venture formation, Nextpower Arabia, which is building a manufacturing facility in the country.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nextpower-to-open-12gw-solar-pv-tracker-saudi-facility-in-q2-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-12",
-    "headline":"Comstock secures final permits for Nevada solar recycling facility",
-    "summary_80w":"US metals firm Comstock has completed all the necessary permits to build a solar module recycling facility in Nevada.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/comstock-secures-final-permits-for-nevada-solar-recycling-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-12",
-    "headline":"NEM Data Spotlight: December 2025 sets new benchmarks for solar generation and pricing",
-    "summary_80w":"December 2025 saw record solar generation in Australia's NEM, with rooftop and utility-scale solar surging, but pricing volatility persisted.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-december-2025-sets-new-benchmarks-for-solar-generation-and-pricing\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-12",
     "headline":"Energy storage fleet mitigated 2TWh of renewables curtailment in Chile in 2025",
     "summary_80w":"Curtailment of solar PV and wind continued to increase in Chile last year and passed 6TWh according to the Chilean renewable energy and energy storage association ACERA.",
     "region":"Global",
@@ -2630,102 +2819,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/year-in-review-analytics-provider-twaice-on-2025s-bess-industry-wake-up-call-and-operationalising-data-in-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-11",
-    "headline":"Gamuda Australia to lead ECI phase of Yanara\u2019s 450MW solar-plus-storage project in Victoria",
-    "summary_80w":"Yanara has selected Gamuda Australia as the project delivery partner for the early contractor involvement phase of the Mortlake Energy Hub in Victoria.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-11",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/gamuda-australia-to-lead-eci-phase-of-yanaras-450mw-solar-plus-storage-project-in-victoria\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-09",
-    "headline":"China\u2019s Ministry of Finance to remove export tax rebates for solar PV products in April 2026",
-    "summary_80w":"The Chinese Ministry of Finance and the Taxation Administration issued an adjustment of export rebate policies for solar PV products and other items.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chinas-ministry-of-finance-to-remove-export-tax-rebates-for-solar-pv-products-in-april-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-09",
-    "headline":"Chinese polysilicon leaders warned off coordination over monopoly concerns",
-    "summary_80w":"China\u2019s market supervision body has warned of monopoly risks in the plans to consolidate the country\u2019s polysilicon sector.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chinese-polysilicon-leaders-warned-off-coordination-over-monopoly-concerns\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3112,102 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/1-2gwh-of-energy-storage-submitted-for-epbc-act-approval-across-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-07",
-    "headline":"ROUNDUP: Texas BESS updates from SolarMax, Energy Vault, Engie, and Spearmint",
-    "summary_80w":"A roundup of updates on BESS projects from SolarMax, Energy Vault, Engie, and Spearmint in the Electric Reliability Council of Texas (ERCOT) market.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/roundup-texas-bess-updates-from-solarmax-energy-vault-engie-and-spearmint\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-07",
-    "headline":"Battery storage fire in Upstate New York involved unauthorised system, mayor says",
-    "summary_80w":"On 19 December, a fire occurred at energy storage developer Convergent Energy &#038; Power\u2019s Church Street Battery Storage Facility in Warwick, New York, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-fire-in-upstate-new-york-involved-unauthorised-system-mayor-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-07",
-    "headline":"IPO updates from Chinese firms: EVE Energy re-files for HKEX, Fox ESS updates prospectus",
-    "summary_80w":"Fresh off the New Year holiday, Chinese energy storage companies have rolled out successive updates on their IPO progress.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ipo-updates-from-chinese-firms-eve-energy-re-files-for-hkex-fox-ess-updates-prospectus\/",
     "reliability":"trade",
     "notes":""
   }
