@@ -1,6 +1,165 @@
 [
   {
     "date_utc":"2026-01-23",
+    "headline":"Maxwell claims 32.38% efficiency on perovskite-HJT tandem cell",
+    "summary_80w":"Suzhou Maxwell Technologies has secured a certified power conversion efficiency of 32.38% for a perovskite\/silicon heterojunction (SHJ) tandem solar cell.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/maxwell-claims-32-38-efficiency-on-perovskite-hjt-tandem-cell\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-23",
+    "headline":"Hecate Energy to list on Nasdaq in US$1.2 billion SPAC deal",
+    "summary_80w":"US renewables developer Hecate Energy has entered into a definitive business combination agreement with SPAC firm EGH Acquisition Corp (EGH).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/hecate-energy-to-list-on-nasdaq-in-us1-2-billion-spac-deal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-23",
+    "headline":"First Solar faces class action suit following stock downgrade",
+    "summary_80w":"US cadmium telluride (CdTe) thin-film solar manufacturer First Solar is facing a class action lawsuit investigation into its business practices following a downgrade in its stock.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/first-solar-faces-class-action-suit-following-stock-downgrade\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-23",
+    "headline":"Maharashtra issues tender for 100MW floating solar project",
+    "summary_80w":"MAHAPREIT has issued a tender for a 100MW floating solar project at the Tansa and Modak dams in Thane district, Maharashtra.",
+    "region":"India",
+    "country":"IN",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/maharashtra-issues-tender-for-100mw-floating-solar-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-23",
+    "headline":"Atlas Renewable Energy signs 128MWp solar PV PPA in Colombia",
+    "summary_80w":"Independent power producer (IPP) Atlas Renewable Energy has signed a solar PV power purchase agreement for a 128MWp plant in Colombia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/atlas-renewable-energy-signs-128mwp-solar-pv-ppa-in-colombia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-23",
     "headline":"Third utility-scale battery storage project proposed for Western Australia\u2019s Collie",
     "summary_80w":"Palmer Renewable Energy has submitted a referral under the EPBC Act for a 200MW solar-plus-storage project near Collie, Western Australia.",
     "region":"Global",
@@ -2373,71 +2532,6 @@
   },
   {
     "date_utc":"2026-01-15",
-    "headline":"EBRD backs 300MW of Masdar solar and energy storage in Uzbekistan",
-    "summary_80w":"The European Bank for Reconstruction and Development (EBRD) will invest almost US$200 million in a 300MW\/75MWh solar-plus-storage project in Uzbekistan.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-15",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ebrd-backs-300mw-of-masdar-solar-and-energy-storage-in-uzbekistan\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-15",
-    "headline":"Origis Energy completes second phase of 300MW solar PV portfolio in Florida",
-    "summary_80w":"Independent power producer (IPP) Origis Energy has completed the second phase of a 300MW solar PV project in Florida, US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-15",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/origis-energy-completes-second-phase-of-300mw-solar-pv-portfolio-in-florida\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-15",
     "headline":"Apex finances 670MW of energy storage, wind, with US$2.79 billion financial commitments",
     "summary_80w":"Developer Apex Clean Energy has announced financing of three utility-scale renewable energy projects across Texas, Ohio, and Illinois, including the Raven Storage project in Wharton County, Texas.",
     "region":"Global",
@@ -2498,69 +2592,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/eus-delayed-cybersecurity-review-could-have-big-implications-for-solar\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-15",
-    "headline":"Enphase starts shipping GaN commercial microinverter",
-    "summary_80w":"Enphase has begun US shipments of its new IQ9N-3P three-phase gallium nitride-based microinverter aimed at commercial rooftops.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/enphase-starts-shipping-gan-commercial-microinverter\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-15",
-    "headline":"Neoen, SaskPower sign PPA for 157MW Mino Giizis solar project in Canada",
-    "summary_80w":"Neoen has signed a 25-year PPA to sell electricity generated at its 157MW Mino Giizis project in Canada to SaskPower.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/neoen-saskpower-sign-ppa-157mw-mino-giizis-solar-project-canada\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2754,38 +2785,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/battery-storage-costs-fall-11-16-as-australias-csiro-maps-least-cost-route-to-net-zero\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-14",
-    "headline":"Solar dominated renewables workforce in 2024 \u2013 IRENA",
-    "summary_80w":"Solar dominated employment in the renewable energy sector in 2024, accounting for over 40% of the global renewables workforce, the most of any sector.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-dominated-renewables-workforce-in-2024-irena\/",
     "reliability":"trade",
     "notes":""
   },
