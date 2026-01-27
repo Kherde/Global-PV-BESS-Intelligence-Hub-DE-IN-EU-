@@ -64,6 +64,39 @@
     "notes":""
   },
   {
+    "date_utc":"2026-01-27",
+    "headline":"Grid-forming, hybrids and alternative chemistries in Wood Mackenzie\u2019s 2026 energy storage trend predictions",
+    "summary_80w":"The global energy storage market is poised for continued expansion in 2026, even as supply chain constraints, regulatory evolution, and emerging applications reshape the landscape, according to Wood Mackenzie.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/grid-forming-hybrids-and-alternative-chemistries-in-wood-mackenzies-2026-energy-storage-trend-predictions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-01-26",
     "headline":"Premier Energies commissions 400MW solar cell plant in India",
     "summary_80w":"Indian solar manufacturer Premier Energies has commissioned its 400MW solar cell manufacturing plant in Maheshwaram, Telangana.",
@@ -3165,38 +3198,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/developer-noveria-talks-bess-industry-successes-and-challenges-community-acceptance-is-generally-good\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-13",
-    "headline":"Batteries \u2018the only technology\u2019 that can keep pace with AI data centre power fluctuations",
-    "summary_80w":"Battery storage is the technology best suited to handling the power fluctuations that AI training loads can create at data centres, ESN Premium has heard.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/batteries-only-technology-that-can-keep-pace-with-ai-data-centre-power-fluctuations\/",
     "reliability":"trade",
     "notes":""
   }
