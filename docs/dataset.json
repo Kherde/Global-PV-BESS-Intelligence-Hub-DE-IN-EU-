@@ -1,6 +1,133 @@
 [
   {
     "date_utc":"2026-01-30",
+    "headline":"India Power signs deal to build 70MWp solar project in Bhutan",
+    "summary_80w":"India Power Corporation Limited has partnered with Bhutan\u2019s Green Energy Power Private Limited to develop a 70MWp solar power plant in Paro, Bhutan",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/india-power-signs-deal-to-build-70mwp-solar-project-in-bhutan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-30",
+    "headline":"Scatec posts US$350 million revenues in Q4",
+    "summary_80w":"Scatec has reported strong fourth-quarter results with proportionate revenues increasing 25% year-on-year to NOK3,362 million (US$2.68 billion).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/scatec-posts-us350-million-revenues-in-q4\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-30",
+    "headline":"Solarcycle begins PV panels recycling operations at Georgia facility",
+    "summary_80w":"US-based PV recycling firm Solarcycle has begun operations at its Cedartown recycling facility in Georgia, US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solarcycle-begins-pv-panels-recycling-operations-at-georgia-facility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-30",
+    "headline":"Voltalia awarded 132MW solar PV project in Tunisia",
+    "summary_80w":"A 132MW solar PV project from French renewables company Voltalia has been selected by the Tunisian government for construction.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/voltalia-awarded-132mw-solar-pv-project-in-tunisia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-30",
     "headline":"UNSW scientists demand enhanced UV testing protocols as TOPCon cells show unexpected vulnerability patterns",
     "summary_80w":"In an interview with PV Tech Premium, two UNSW researchers emphasise the need for enhanced UV testing for TOPCon solar cells.",
     "region":"Global",
@@ -28,6 +155,102 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/unsw-scientists-demand-enhanced-uv-testing-protocols-as-topcon-cells-show-unexpected-vulnerability-patterns\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-30",
+    "headline":"Jupiter Power closes US$500 million corporate credit facility to support US BESS projects",
+    "summary_80w":"US battery energy storage system (BESS) developer-operator Jupiter Power has closed a US$500 million senior secured green revolving loan and letter of credit facility to support the advancement of its project pipeline across the US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/jupiter-power-closes-us500-million-corporate-credit-facility-to-support-us-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-30",
+    "headline":"Battery recycler Redwood receives financing boost from Google, aims to expand US energy storage division",
+    "summary_80w":"Redwood Energy announced the final closing of its Series E financing round, bringing the total raise to US$425 million.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-recycler-redwood-receives-financing-boost-from-google-aims-to-expand-us-energy-storage-division\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-01-30",
+    "headline":"At nearly 200GWh, China\u2019s new energy storage deployment rate hit record high in 2025",
+    "summary_80w":"By the end of December 2025, China\u2019s cumulative installed capacity of new energy storage technologies including lithium-ion reached 144.7GW, representing an 85% year-on-year rise.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-01-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/at-nearly-200gwh-chinas-new-energy-storage-deployment-rate-hit-record-high-in-2025\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2303,72 +2526,6 @@
   },
   {
     "date_utc":"2026-01-22",
-    "headline":"New US solar permitting challenges can be overcome",
-    "summary_80w":"Newly tightened federal permitting procedures for solar and wind projects are onerous, but can be navigated with proper planning, write Allison Chapin and Michael Downs.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/new-us-solar-permitting-challenges-can-be-overcome\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-22",
-    "headline":"Green Gold Energy bags GPS approval for 108MW solar-plus-storage site in South Australia",
-    "summary_80w":"Green Gold Energy\u2019s Morgan Solar Farm in South Australia has reached a key grid-connection milestone, having received its Section 5.3.4 letter under the National Electricity Rules (NER).",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/green-gold-energy-bags-gps-approval-for-108mw-solar-plus-storage-site-in-south-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-22",
     "headline":"EV slowdown creates potential lifeline for US energy storage amid FEOC, tariffs",
     "summary_80w":"Foreign entity of concern (FEOC) restrictions and the scheduled Section 301 tariff increase to 25% on Chinese-origin battery energy storage systems (BESS) went into effect on 1 January 2026.",
     "region":"Global",
@@ -2524,69 +2681,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/engie-acquires-australias-first-large-scale-bess-built-on-a-decommissioned-coal-plant-from-eku\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-21",
-    "headline":"Yield Energy launches farm-based grid flexibility platform",
-    "summary_80w":"Yield Energy has launched Yield Edge, a distributed energy resource management system (DERMS) for grid-ready flexibility from farms.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/yield-energy-launches-farm-based-grid-flexibility-platform\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-21",
-    "headline":"Solar PV corporate funding decreased to US$22.2 billion in 2025",
-    "summary_80w":"Total corporate funding in the solar PV industry reached US$22.2 billion in 2025, a 16% year-on-year decrease.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-pv-corporate-funding-decreased-to-us22-2-billion-in-2025\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3100,102 +3194,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/german-bess-flexibility-platform-and-operator-terralayr-raises-e192-million\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-19",
-    "headline":"Australian thermal storage startup 1414 Degrees bags GPS approval for 140MW BESS",
-    "summary_80w":"Australian thermal energy storage company 1414 Degrees has received critical regulatory approval from AEMO for its 140MW Aurora BESS.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australian-thermal-storage-startup-1414-degrees-bags-gps-approval-for-140mw-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-16",
-    "headline":"China deploys 65GWh of BESS in December, 25% of 2025 global total",
-    "summary_80w":"A staggering total of 18GW\/65GWh of large-scale BESS came online in China last month, accounting for a quarter of the total capacity deployed across the globe in 2025.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/china-deploys-65gwh-of-bess-in-december-25-of-2025-global-total\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-16",
-    "headline":"US ROUNDUP: Duke Energy, Elevate, Fluence with BrightNight and Cordelio progress BESS projects",
-    "summary_80w":"Duke Energy, Elevate Renewables, and Fluence Energy, along with BrightNight and Cordelio Power, are advancing BESS projects across the BESS.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-duke-energy-elevate-fluence-with-brightnight-and-cordelio-progress-bess-projects\/",
     "reliability":"trade",
     "notes":""
   }
