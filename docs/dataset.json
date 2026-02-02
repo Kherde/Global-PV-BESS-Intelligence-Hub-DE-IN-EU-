@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2026-02-02",
+    "headline":"BW ESS proposes 1.6GWh battery energy storage facility for the Hunter Valley in Australia",
+    "summary_80w":"Energy storage owner-operator BW ESS has submitted an application under Australia's Environment Protection and Biodiversity Conservation (EPBC) Act for a 1,600MWh battery energy storage system (BESS) in New South Wales (NSW).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bw-ess-proposes-1-6gwh-battery-energy-storage-facility-for-the-hunter-valley-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-02",
+    "headline":"Origin Energy begins generating revenue from two utility-scale battery storage sites in Australia",
+    "summary_80w":"Origin Energy has begun generating revenue from the initial stage of the Supernode and the Eraring Stage 1 battery storage projects, located in Queensland and New South Wales, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/origin-energy-begins-generating-revenue-from-two-utility-scale-battery-storage-sites-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-01-30",
     "headline":"India Power signs deal to build 70MWp solar project in Bhutan",
     "summary_80w":"India Power Corporation Limited has partnered with Bhutan\u2019s Green Energy Power Private Limited to develop a 70MWp solar power plant in Paro, Bhutan",
@@ -3130,70 +3194,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/arizona-utilities-approve-new-technologies-to-accelerate-residential-storage-and-vpp-deployment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-19",
-    "headline":"Inlyte Energy completes UK factory acceptance test, CEO says US must \u2018make better technologies\u2019 than China",
-    "summary_80w":"US-based iron-sodium battery manufacturer Inlyte Energy has successfully completed a factory acceptance test of its first field-ready battery at its facility near Derby, UK, witnessed by representatives from US utility Southern Company.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/inlyte-energy-completes-uk-factory-acceptance-test-ceo-says-us-must-make-better-technologies-than-china\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-19",
-    "headline":"German BESS flexibility platform and operator Terralayr raises \u20ac192 million",
-    "summary_80w":"Virtual BESS tolling platform startup Terralayr has raised \u20ac192 million (US$223 million), primarily for its own build-own-operate BESS pipeline. CEO Philipp Man spoke to Energy-Storage.news about the funding round and growing its capacity virtualisation and tolling platform.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/german-bess-flexibility-platform-and-operator-terralayr-raises-e192-million\/",
     "reliability":"trade",
     "notes":""
   }
