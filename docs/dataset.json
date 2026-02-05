@@ -32,6 +32,38 @@
   },
   {
     "date_utc":"2026-02-05",
+    "headline":"Philippines House of Representatives passes national energy storage framework legislation",
+    "summary_80w":"A framework for the \u201cdevelopment, utilisation and commercialisation of energy storage systems\u201d in the Philippines has been passed by the House of Representatives.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/philippines-house-of-representatives-passes-national-energy-storage-framework-legislation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-05",
     "headline":"437MWh BESS in Australia\u2019s highest city receives final approvals ahead of commissioning",
     "summary_80w":"Valent Energy has received development approval from the New South Wales government and satisfied AEMO grid compliance requirements under clause 5.3.4a for its 150MW\/437MWh Armidale Battery Energy Storage System (BESS).",
     "region":"Global",
@@ -3163,38 +3195,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ev-slowdown-creates-potential-lifeline-for-us-energy-storage-amid-feoc-tariffs\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-22",
-    "headline":"US startup Noon Energy unveils \u2018multi-day baseload\u2019 energy storage tech demonstration",
-    "summary_80w":"After teasing the capabilities of a new 100-hour+ energy storage technology at trade shows, US startup Noon Energy has unveiled its first operational demonstration project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-startup-noon-energy-unveils-multi-day-baseload-energy-storage-tech-demonstration\/",
     "reliability":"trade",
     "notes":""
   }
