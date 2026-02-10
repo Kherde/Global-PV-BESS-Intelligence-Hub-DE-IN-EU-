@@ -1,5 +1,165 @@
 [
   {
+    "date_utc":"2026-02-10",
+    "headline":"Australia: Victoria government accelerates 700MW of battery storage via Development Facilitation Program",
+    "summary_80w":"The Victoria government has approved two large-scale battery energy storage system (BESS) projects totalling 700MW through its Development Facilitation Program (DFP).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-victoria-government-accelerates-700mw-of-battery-storage-via-development-facilitation-program\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"Western Australia\u2019s 70GW renewables hub advances with Chinese and South Korean feasibility partnership",
+    "summary_80w":"WGEH has signed a Feasibility Phase Agreement to advance Stage 1 development of its 70GW renewable energy project in Western Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/western-australias-70gw-renewables-hub-advances-with-chinese-and-south-korean-feasibility-partnership\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"CATL, Cornex, SolaX and other Chinese energy storage players in multi-GWh international agreements",
+    "summary_80w":"Carrie Xiao examines some notable recent partnerships and supply agreements for Chinese energy storage players in the Middle East, Europe, Africa and Australia.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/catl-cornex-solax-and-other-chinese-energy-storage-players-in-multi-gwh-international-agreements\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"Revera Energy secures US$150 million to support 3.4GWh of battery storage across Australia and the UK",
+    "summary_80w":"Energy infrastructure platform Revera Energy has completed an expanded US$150 million credit facility to accelerate development and construction of its battery storage, solar, and green hydrogen project pipeline across Australia and the UK.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/revera-energy-secures-us150-million-to-support-3-4gwh-of-battery-storage-across-australia-and-the-uk\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"Solar Energy UK expects lower solar strike price in forthcoming UK renewables auction result",
+    "summary_80w":"Strike prices for solar PV in upcoming UK Contracts for Difference (CfD) allocation have been forecast to be around \u00a363-68MWh (US$86-93MWh), according to trade body, Solar Energy UK (SEUK).",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-energy-uk-expects-lower-solar-strike-price-in-forthcoming-uk-renewables-auction-result\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-02-09",
     "headline":"Australia\u2019s largest operational BESS: Synergy completes CATL-powered 2,400MWh Collie Battery",
     "summary_80w":"State-owned energy company Synergy has completed the 500MW\/2,400MWh Collie Battery Energy Storage System (CBESS) in Western Australia, establishing Collie as home to Australia's largest operational battery energy storage system (BESS).",
@@ -28,6 +188,260 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-largest-operational-bess-synergy-completes-catl-powered-2400mwh-collie-battery\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"US federal government drops appeal in retroactive solar tariff case",
+    "summary_80w":"The US federal government has withdrawn its appeal against a US Court of International Trade (CIT) ruling to retroactively collect two years of tariffs on imported solar panels.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-federal-government-drops-appeal-in-retroactive-solar-tariff-case\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"EIB urges funding for EU solar inverters amid cybersecurity fears",
+    "summary_80w":"The European Investment Bank (EIB) is planning to provide dedicated support to European solar inverter manufacturers amid a call for greater energy security and strategic autonomy.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/eib-urges-funding-for-eu-solar-inverters-amid-cybersecurity-fears\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"United Solar inaugurates 40GW polysilicon plant in Oman",
+    "summary_80w":"Solar manufacturer United Solar has launched a polysilicon manufacturing facility in Oman, adding 100,000 metric tons of annual production capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/united-solar-inaugurates-40gw-polysilicon-plant-in-oman\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"Electricity demand to grow rapidly in \u2018new era\u2019 for energy, says IEA",
+    "summary_80w":"Global electricity demand is set to grow 2.5 times as fast as overall energy demand by 2030, ushering in what the International Energy Agency (IEA) has dubbed the \u201cAge of Electricity\u201d.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/electricity-demand-to-grow-rapidly-in-new-era-for-energy-says-iea\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"EU Commission approves \u20ac3 billion German clean energy manufacturing scheme",
+    "summary_80w":"The European Commission has approved a \u20ac3 billion (US$3.55 billion) clean energy manufacturing aid scheme from Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/eu-commission-approves-e3-billion-german-clean-energy-manufacturing-scheme\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"GridStor warns of industry slowdown as US Treasury guidance delays BESS decisions",
+    "summary_80w":"Energy-Storage.news Premium speaks to Daniel Dedrick, US-based BESS developer and operator, GridStor's CTO, about the company\u2019s strategies for navigating FEOC and Section 301 tariffs.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/gridstor-warns-of-industry-slowdown-as-us-treasury-guidance-delays-bess-decisions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"FlexGen begins operating 700MWh total BESS in Wisconsin, Iowa for Alliant Energy",
+    "summary_80w":"Software-focused battery energy storage system (BESS) integrator FlexGen has put two utility-scale BESS projects in operation in Wisconsin and Iowa, US, totalling 700MWh.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/flexgen-begins-operating-700mwh-total-bess-in-wisconsin-iowa-for-alliant-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-09",
+    "headline":"Europe\u2019s energy storage buildout: who leads and who is left behind",
+    "summary_80w":"Europe\u2019s energy storage market has hit a turning point. What was once a scattered, early-phase market featuring pilot projects and daring developers has swiftly evolved into a dynamic, capital-intensive infrastructure sector, writes Wood Mackenzie research associate Cecilie Kristiansen.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/europes-energy-storage-buildout-who-leads-and-who-is-left-behind\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2564,69 +2978,6 @@
   },
   {
     "date_utc":"2026-01-29",
-    "headline":"Korean-led consortium begins construction at 350MW solar PV plant in Texas",
-    "summary_80w":"A Korean-led consortium including Hyundai Engineering has started construction at a 350MW solar PV plant in Dallas, Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/korean-led-consortium-begins-construction-at-350mw-solar-pv-plant-in-texas\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Renewables pricing in Europe and US set for major recalibration \u2013 Pexapark",
-    "summary_80w":"Clean energy pricing in Europe and America is set for a decisive adjustment in 2026 as record deployment levels collide with heightened market volatility and policy headwinds.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/renewables-pricing-in-europe-and-us-set-for-major-recalibration-pexapark\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
     "headline":"RWE starting construction on 400MW\/800MWh Germany BESS",
     "summary_80w":"Power firm RWE is about to start building a 400MW\/800MWh BESS project in Germany, among the largest in the country to reach the construction stage. In related news, Kyon Energy has connected a 282MWh project to the grid, possibly the largest in the country to reach that milestone.",
     "region":"Germany",
@@ -2719,165 +3070,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/enfinity-global-starts-commercial-operations-33-8mw-italian-solar-pv-project-first-microsoft-ppa-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Rising Chinese module prices will be \u2018short-term\u2019, says Rystad Energy",
-    "summary_80w":"The cost of Chinese solar module manufacturing will rise in the first half of 2026, though prices may fall again before the end of the year.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/rising-chinese-module-prices-will-be-short-term-says-rystad-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"\u2018Clear and concerning\u2019 rise in PV module defects \u2013 Kiwa PI Berlin",
-    "summary_80w":"PV module defects are increasing as manufacturers struggle to achieve consistent quality through robust bill-of-material and process controls.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/clear-and-concerning-rise-in-pv-module-defects-kiwa-pi-berlin\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"CLASS trade association launches, aims to expand access to community solar and battery storage in California",
-    "summary_80w":"A new trade association, Californians for Local, Affordable Solar and Storage (CLASS) has started work to improve access to community solar.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/class-trade-association-launches-expand-access-community-solar-battery-storage-california\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Europe renewables M&A in 2026: hotter markets, tougher filters\u2014and the rise of platform-led execution",
-    "summary_80w":"Renewables-specific M&#038;A platforms offer project buyers and sellers transparency and efficiency in Europe\u2019s increasingly selective deal environment, writes Ksenia Dray.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/europe-renewables-ma-in-2026-hotter-markets-tougher-filters-and-the-rise-of-platform-led-execution\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Clean energy conquers coal as Australia\u2019s NEM delivers historic 51% renewables quarter",
-    "summary_80w":"The Australian Energy Market Operator (AEMO) has announced that renewable energy sources supplied more than half of the quarterly energy demand in the National Electricity Market (NEM) for the first time.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/clean-energy-conquers-coal-as-australias-nem-delivers-historic-51-renewables-quarter\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3007,198 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/sungrow-power-titan-3-ess-debuts-in-europe-at-7-2mw-28-5mwh\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"European Union battery storage market entered \u2018new phase of scale and maturity\u2019 in 2025, but \u2018still has a long way to go\u2019",
-    "summary_80w":"European Union countries deployed record-breaking battery storage capacity for the 12th consecutive year in 2025.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/european-union-battery-storage-market-entered-new-phase-of-scale-and-maturity-in-2025-but-still-has-a-long-way-to-go\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-28",
-    "headline":"Financing grid-scale BESS in Europe: successes and challenges in focus as segment becomes industry driver",
-    "summary_80w":"Leading BESS owner-operators across Europe discuss the key trends around the financing and deployment of grid-scale projects, with the segment now the driver of continent-wide deployments according to trade body SolarPower Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/financing-grid-scale-bess-in-europe-successes-and-challenges-in-focus-as-segment-becomes-industry-driver\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-28",
-    "headline":"US sodium-ion startup Unigrid begins international shipments of battery cells",
-    "summary_80w":"US sodium-ion (Na-ion) battery technology company Unigrid has begun international shipments of its proprietary sodium cobalt oxide (NCO) cathode cells at commercial volume.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-sodium-ion-startup-unigrid-begins-international-shipments-of-battery-cells\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-28",
-    "headline":"Pacific Northwest US utility Avista selects 100MW BESS as part of RFP",
-    "summary_80w":"Utility company Avista has selected projects as part of its request for proposal (RFP) process to identify new resources, including a 100MW battery energy storage system (BESS), for the Pacific Northwest, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/pacific-northwest-us-utility-avista-selects-100mw-bess-as-part-of-rfp\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-28",
-    "headline":"ERCOT\u2019s battery fleet is the \u2018first line of defence for the grid\u2019 through Texas winter storms",
-    "summary_80w":"ERCOT\u2019s battery storage fleet can play a crucial role during extreme winter conditions, but its own technical performance needs to be carefully managed.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ercots-battery-fleet-is-the-first-line-of-defence-for-the-grid-through-texas-winter-storms\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-28",
-    "headline":"TSOs\u2019 differing understanding of storage is an industry challenge",
-    "summary_80w":"Bigger, longer-duration projects and more sophisticated deal structuring are driving the energy storage industry forward, but a lack of common approaches from transmission system operators (TSOs) remains a challenge.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/tsos-differing-understanding-of-storage-is-an-industry-challenge\/",
     "reliability":"trade",
     "notes":""
   }
