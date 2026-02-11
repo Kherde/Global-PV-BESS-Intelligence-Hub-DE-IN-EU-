@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2026-02-11",
+    "headline":"Akaysha Energy submits 1.6GWh BESS to Australia\u2019s EPBC Act",
+    "summary_80w":"Developer Akaysha Energy has submitted a 1.6GWh battery energy storage system (BESS) project to Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-submits-1-6gwh-bess-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"FinDev Canada commits US$56 million loan to 396MW Peruvian solar project, country\u2019s largest",
+    "summary_80w":"FinDev Canada has announced a US$56 million loan to support the development of project Illa, which will be the largest in Peru.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/findev-canada-commits-us56-million-loan-396mw-peruvian-solar-project-countrys-largest\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-02-10",
     "headline":"Australia: Victoria government accelerates 700MW of battery storage via Development Facilitation Program",
     "summary_80w":"The Victoria government has approved two large-scale battery energy storage system (BESS) projects totalling 700MW through its Development Facilitation Program (DFP).",
@@ -33,6 +97,134 @@
   },
   {
     "date_utc":"2026-02-10",
+    "headline":"Carlyle-backed Revera Energy bags US$150 million to accelerate renewables pipeline in the UK and Australia",
+    "summary_80w":"Energy platform Revera Energy has completed an expanded US$150 million credit facility for its UK and Australian portfolio.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/carlyle-backed-revera-energy-bags-us150-million-to-accelerate-renewables-pipeline-in-the-uk-and-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"ACME, Ceigall secure 220MW solar-plus-storage contracts in Madhya Pradesh",
+    "summary_80w":"Rewa Ultra Mega Solar Limited (RUMSL) has extended a Letter of Award (LOA) to Ceigall India and ACME Solar to develop 220MW solar-plus-storage in Morena, Madhya Pradesh.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/acme-ceigall-secure-220mw-solar-plus-storage-contracts-in-madhya-pradesh\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"Inside European solar: Strong fundamentals, global opportunities and grid challenges",
+    "summary_80w":"Market dynamics and growing concerns over Europe\u2019s grid bottlenecks were key topics at this year\u2019s Solar Finance &#038; Investment Europe summit.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/strong-market-fundamentals-global-opportunities-grid-challenges-solar-finance-investment-europe-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"Boviet Solar \u2018committed\u2019 to US manufacturing despite Chinese ownership uncertainty",
+    "summary_80w":"Boviet Solar has affirmed its commitment to US solar PV manufacturing despite plans by its parent company to divest its ownership.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/boviet-solar-feoc-solar-manufacturing-usa-china\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
     "headline":"Western Australia\u2019s 70GW renewables hub advances with Chinese and South Korean feasibility partnership",
     "summary_80w":"WGEH has signed a Feasibility Phase Agreement to advance Stage 1 development of its 70GW renewable energy project in Western Australia.",
     "region":"Global",
@@ -59,6 +251,167 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/western-australias-70gw-renewables-hub-advances-with-chinese-and-south-korean-feasibility-partnership\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"Energy Vault to secure 1.5GWh of US-manufactured sodium-ion BESS from Peak Energy",
+    "summary_80w":"Energy storage developer and system integrator Energy Vault and sodium-ion battery energy storage system (BESS) startup Peak Energy have announced a 1.5GWh strategic development agreement.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-vault-to-secure-1-5gwh-of-us-manufactured-sodium-ion-bess-from-peak-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"Samsung SDI partners with Korea East-West Power to develop \u2018global\u2019 BESS projects",
+    "summary_80w":"South Korean battery and electronics materials manufacturer Samsung SDI and South Korean state-utility Korea East-West Power (EWP) have signed a memorandum of understanding (MOU) to develop and invest in global energy storage systems (ESS) and renewable energy projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/samsung-sdi-partners-with-korea-east-west-power-to-develop-global-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"RWE, Masdar, Zenobe, Enlight and others forge partnerships, tolling offers to further Germany market expansion",
+    "summary_80w":"A busy week of grid-scale BESS project news from Germany, with numerous development, project, optimisation and tolling partnerships announced.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rwe-masdar-zenobe-enlight-and-others-forge-partnerships-tolling-offers-to-further-germany-market-expansion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"Sungrow to invest US$270 million in inverter and BESS factory in Poland, first outside Asia",
+    "summary_80w":"Chinese-based OEM Sungrow will build a PV inverter and battery storage manufacturing facility in southwest Poland, its first outside Asia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sungrow-to-invest-us270-million-in-inverter-and-bess-factory-in-poland-first-outside-asia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-10",
+    "headline":"A123, Hithium tout semi-solid cells, immersion cooling and LSFT BESS safety advances",
+    "summary_80w":"With battery storage safety under increasing scrutiny, Wanxiang A123 Systems and Hithium have unveiled new products and large-scale fire testing (LSFT), respectively.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/a123-hithium-tout-semi-solid-cells-immersion-cooling-and-lsft-bess-safety-advances\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2754,102 +3107,6 @@
   },
   {
     "date_utc":"2026-01-30",
-    "headline":"Solarcycle begins PV panels recycling operations at Georgia facility",
-    "summary_80w":"US-based PV recycling firm Solarcycle has begun operations at its Cedartown recycling facility in Georgia, US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solarcycle-begins-pv-panels-recycling-operations-at-georgia-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"Voltalia awarded 132MW solar PV project in Tunisia",
-    "summary_80w":"A 132MW solar PV project from French renewables company Voltalia has been selected by the Tunisian government for construction.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/voltalia-awarded-132mw-solar-pv-project-in-tunisia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"UNSW scientists demand enhanced UV testing protocols as TOPCon cells show unexpected vulnerability patterns",
-    "summary_80w":"In an interview with PV Tech Premium, two UNSW researchers emphasise the need for enhanced UV testing for TOPCon solar cells.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/unsw-scientists-demand-enhanced-uv-testing-protocols-as-topcon-cells-show-unexpected-vulnerability-patterns\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
     "headline":"Jupiter Power closes US$500 million corporate credit facility to support US BESS projects",
     "summary_80w":"US battery energy storage system (BESS) developer-operator Jupiter Power has closed a US$500 million senior secured green revolving loan and letter of credit facility to support the advancement of its project pipeline across the US.",
     "region":"Global",
@@ -2941,264 +3198,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/at-nearly-200gwh-chinas-new-energy-storage-deployment-rate-hit-record-high-in-2025\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"Battery storage claims 46% share of Australia\u2019s record 64GW energy investment pipeline",
-    "summary_80w":"Battery energy storage projects have emerged as the dominant force in Australia's energy investment landscape, accounting for 46% of the nation's 64GW development pipeline, according to the Australian Energy Market Operator's (AEMO) latest quarterly report.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-claims-46-share-of-australias-record-64gw-energy-investment-pipeline\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"RWE starting construction on 400MW\/800MWh Germany BESS",
-    "summary_80w":"Power firm RWE is about to start building a 400MW\/800MWh BESS project in Germany, among the largest in the country to reach the construction stage. In related news, Kyon Energy has connected a 282MWh project to the grid, possibly the largest in the country to reach that milestone.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/rwe-starting-construction-on-400mw-800mwh-germany-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Westbridge Renewable receives approval to build 225MW\/200MWh solar-plus-storage plant in Alberta",
-    "summary_80w":"Canadian renewables firm Westbridge Renewable Energy has received approval from the Alberta Utilities Commission (AUC) to build an up to 225MW solar-plus-storage plant in Alberta, Canada.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/westbridge-renewable-receives-approval-to-build-225mw-200mwh-solar-plus-storage-plant-in-alberta\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Enfinity Global starts commercial operations at 33.8MW Italian solar PV project, first of Microsoft PPA portfolio",
-    "summary_80w":"Enfinity has started commercial operations at a 33.8MW solar PV project, the first in a portfolio from which Microsoft will acquire power",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/enfinity-global-starts-commercial-operations-33-8mw-italian-solar-pv-project-first-microsoft-ppa-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"How energy storage can help data centres reduce their grid impact",
-    "summary_80w":"\u201cWe see energy storage as an opportunity for (data centres) to reduce their impact on the grid\u201d, said Patrick Hughes, Senior VP of Operations and Strategy at NEMA.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/how-energy-storage-can-help-data-centres-reduce-their-grid-impact\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Hydrostor announces equipment supply deal with Baker Hughes for A-CAES projects in US, Australia",
-    "summary_80w":"Long-duration energy storage (LDES) developer-operator Hydrostor has announced a strategic technology and equity agreement with energy infrastructure equipment manufacturer Baker Hughes.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hydrostor-announces-equipment-supply-deal-with-baker-hughes-for-a-caes-projects-in-us-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Tesla top, Energy Dome the highest non-lithium firm in new LDES supplier ranking",
-    "summary_80w":"Lithium-ion companies have come out as the top-rated suppliers on a new long-duration energy storage (LDES) leaderboard, while CO2 Battery company Energy Dome is the highest non-lithium company.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/tesla-top-energy-dome-the-highest-non-lithium-firm-in-new-ldes-supplier-ranking\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-29",
-    "headline":"Sungrow PowerTitan 3.0 BESS debuts in Europe, offering 4-8 hour duration",
-    "summary_80w":"PV inverter and BESS firm Sungrow has launched its PowerTitan 3.0 battery energy storage model for the European market.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sungrow-power-titan-3-ess-debuts-in-europe-at-7-2mw-28-5mwh\/",
     "reliability":"trade",
     "notes":""
   }
