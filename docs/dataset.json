@@ -1,6 +1,327 @@
 [
   {
     "date_utc":"2026-02-11",
+    "headline":"MENA poised to become global solar hub, says WoodMac analyst",
+    "summary_80w":"PV Talk: Wood Mackenzie\u2019s Yana Hryshko argues that MENA is emerging as a solar manufacturing hub, driven, in part, by Chinese partnerships.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/mena-poised-to-become-global-solar-hub-says-woodmac-analyst\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"National Laboratory of the Rockies lays off 130 employees",
+    "summary_80w":"The National Laboratory of the Rockies (NLR), previously known as the National Renewable Energy Lab, has laid off 134 employees.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/national-laboratory-of-the-rockies-lays-off-130-employees\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"China to add 180-240GW of new solar PV capacity in 2026, down from 315GW in 2025",
+    "summary_80w":"China expects to add 180-240GW of new solar PV capacity in 2026, according to the latest figures from the CPIA.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/china-add-180-240gw-new-solar-pv-capacity-2026-down-from-315gw-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"MNRE adds 3GW of solar cell capacity to ALMM List-II, reaching 26GW",
+    "summary_80w":"India\u2019s MNREA has released the fourth revision of its ALMM II for solar cells, increasing the total enlisted manufacturing capacity to 26GW.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/mnre-adds-3gw-of-solar-cell-capacity-to-almm-list-ii-reaching-26gw\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"EUROPE ROUND-UP: METLEN signs offtake deal in Italy, European Energy to finance Danish solar-plus-storage, TSE acquires French PV projects",
+    "summary_80w":"A round-up of a number of European project stories from this week, including METLEN, European Energy and TSE.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/europe-round-up-metlen-offtake-deal-italy-european-energy-finance-danish-solar-plus-storage-tse-french-pv-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"UK awards 4.9GW solar PV in latest CfD round",
+    "summary_80w":"The UK government's Allocation round 7a (AR7a) of the Contracts for Difference (CfD) auction has awarded a record 4.9GW of solar PV.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/uk-awards-4-9gw-solar-pv-in-latest-cfd-round\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"\u2018Moment of truth\u2019: The 2026 regulatory agenda for large battery storage in Germany",
+    "summary_80w":"Germany's BESS market is booming but is still far behind what it is needed for its energy transition. 2026 will be a key year in this regard with several key regulatory questions potentially clarified, writes energy transition comms executive Frederik K\u00f6nig.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"NineDot Energy closes US$431 million for New York BESS, Ameresco completes multiple tax credit transfers",
+    "summary_80w":"Energy storage developer NineDot Energy closes US$431 million in construction financing for New York BESS projects. Meanwhile, US energy efficiency and renewables company Ameresco completes multiple tax credit transfer and financing transactions for solar PV and BESS.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ninedot-energy-closes-us431-million-for-new-york-bess-ameresco-completes-multiple-tax-credit-transfers\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
+    "summary_80w":"Netherlands-based iron-air long-duration energy storage (LDES) startup Ore Energy has completed a grid-connected pilot of its 100-hour iron-air LDES system at EDF Lab les Renardi\u00e8res in France.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
+    "headline":"BESS financing benefitting from other clean energy segment struggles, US uncertainty, Fidra CEO says",
+    "summary_80w":"Owner-operator Fidra Energy came out of virtually nowhere to be building one of Europe's largest BESS in the UK, the 1.4GW\/3.1GWh Thorpe Marsh project. We catch up with CEO Chris Elder, about its strategy and projects but also broader BESS and clean energy financing trends.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bess-financing-benefitting-from-other-clean-energy-segment-struggles-us-uncertainty-fidra-ceo-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-11",
     "headline":"Akaysha Energy submits 1.6GWh BESS to Australia\u2019s EPBC Act",
     "summary_80w":"Developer Akaysha Energy has submitted a 1.6GWh battery energy storage system (BESS) project to Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
     "region":"Global",
@@ -2820,134 +3141,6 @@
   },
   {
     "date_utc":"2026-02-02",
-    "headline":"North American solar PPA prices climb to US$61.67\/MWh, European prices continue to fall",
-    "summary_80w":"The price of solar PPAs signed in North America increased 3.2% between the third and fourth quarters of 2025, reaching a high of US$61.67\/MWh.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/north-american-solar-ppa-prices-climb-us61-67-mwh-european-prices-continue-fall\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-02",
-    "headline":"New PV self-consumption installs in Spain drop to 1.1GW in 2025 \u2013 UNEF",
-    "summary_80w":"The rate of installation of new self-consumption PV systems in Spain fell slightly last year, according to data from trade body the Spanish Photovoltaic Union (UNEF).",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/new-pv-self-consumption-installs-in-spain-drop-to-1-1gw-in-2025-unef\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-02",
-    "headline":"India\u2019s solar sector welcomes Budget measures to support local PV manufacturing",
-    "summary_80w":"India\u2019s Union Budget 2026-27 reinforces government support for renewables through duty exemptions and infrastructure spending.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/indias-solar-sector-welcomes-budget-measures-to-support-local-pv-manufacturing\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-02",
-    "headline":"\u2018A growing sense of threat\u2019 underpins EU\u2019s cybersecurity act revision",
-    "summary_80w":"PV Tech Premium explores the impacts that the EU's revised cybersecurity review will have on the continent's solar industry.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/eu-cybersecurity-act-solar-energy-security-threat\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-02",
     "headline":"US Governors in PJM territory move to unlock renewable energy, energy storage investment",
     "summary_80w":"The Governors of Maryland and New Jersey have enacted legislation to accelerate the deployment of clean energy technologies in response to energy cost and supply concerns.",
     "region":"Global",
@@ -3007,197 +3200,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/bw-ess-proposes-1-6gwh-battery-energy-storage-facility-for-the-hunter-valley-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-02",
-    "headline":"Origin Energy begins generating revenue from two utility-scale battery storage sites in Australia",
-    "summary_80w":"Origin Energy has begun generating revenue from the initial stage of the Supernode and the Eraring Stage 1 battery storage projects, located in Queensland and New South Wales, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/origin-energy-begins-generating-revenue-from-two-utility-scale-battery-storage-sites-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"India Power signs deal to build 70MWp solar project in Bhutan",
-    "summary_80w":"India Power Corporation Limited has partnered with Bhutan\u2019s Green Energy Power Private Limited to develop a 70MWp solar power plant in Paro, Bhutan",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-power-signs-deal-to-build-70mwp-solar-project-in-bhutan\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"Scatec posts US$350 million revenues in Q4",
-    "summary_80w":"Scatec has reported strong fourth-quarter results with proportionate revenues increasing 25% year-on-year to NOK3,362 million (US$2.68 billion).",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/scatec-posts-us350-million-revenues-in-q4\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"Jupiter Power closes US$500 million corporate credit facility to support US BESS projects",
-    "summary_80w":"US battery energy storage system (BESS) developer-operator Jupiter Power has closed a US$500 million senior secured green revolving loan and letter of credit facility to support the advancement of its project pipeline across the US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/jupiter-power-closes-us500-million-corporate-credit-facility-to-support-us-bess-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"Battery recycler Redwood receives financing boost from Google, aims to expand US energy storage division",
-    "summary_80w":"Redwood Energy announced the final closing of its Series E financing round, bringing the total raise to US$425 million.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-recycler-redwood-receives-financing-boost-from-google-aims-to-expand-us-energy-storage-division\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-01-30",
-    "headline":"At nearly 200GWh, China\u2019s new energy storage deployment rate hit record high in 2025",
-    "summary_80w":"By the end of December 2025, China\u2019s cumulative installed capacity of new energy storage technologies including lithium-ion reached 144.7GW, representing an 85% year-on-year rise.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-01-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/at-nearly-200gwh-chinas-new-energy-storage-deployment-rate-hit-record-high-in-2025\/",
     "reliability":"trade",
     "notes":""
   }
