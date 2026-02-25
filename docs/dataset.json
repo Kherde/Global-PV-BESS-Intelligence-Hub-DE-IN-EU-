@@ -1,5 +1,491 @@
 [
   {
+    "date_utc":"2026-02-24",
+    "headline":"450MW solar-plus-storage project granted EPBC Act clearance in Australia",
+    "summary_80w":"Wooderson Solar Development Co has secured federal environmental approval for a 450MW solar PV power plant with 3,600MWh of co-located battery energy storage in Queensland, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/450mw-solar-plus-storage-project-granted-epbc-act-clearance-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"FTC Solar signs 840MW PV tracker supply agreement in South Africa",
+    "summary_80w":"FTC Solar has signed a three-year supply agreement with Lubanzi Inala to provide solar tracker systems for multiple utility-scale projects across South Africa.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ftc-solar-signs-840mw-pv-tracker-supply-agreement-in-south-africa\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"Lightsource bp sells 800MWh of co-located battery storage in Australia to Aula Energy",
+    "summary_80w":"Lightsource bp has sold a 1GW operational solar PV portfolio, with options to build 800MW of co-located battery storage, in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/lightsource-bp-sells-800mwh-of-co-located-battery-storage-in-australia-to-aula-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"RES Australia joint venture bags EPBC Act approval for 3.6GWh solar-plus-storage project in Queensland",
+    "summary_80w":"Wooderson Solar Development Co has secured federal environmental approval for a 450MW solar PV power plant with 3,600MWh of co-located battery energy storage in Queensland, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/res-australia-joint-venture-bags-epbc-act-approval-for-3-6gwh-solar-plus-storage-project-in-queensland\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"European power price volatility creating battery and co-location opportunities",
+    "summary_80w":"Increased renewable energy penetration in Europe's leading clean energy markets will lead to more fluctuations in power prices.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/european-power-price-volatility-creating-battery-co-location-opportunities\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"Scatec reaches COD on Phase 1 of 1.1GW Obelisk solar-plus-storage plant in Egypt",
+    "summary_80w":"Independent power producer (IPP) Scatec has reached commercial operations for the first phase of its 1.1GW solar-plus-storage project in Egypt.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/scatec-reaches-cod-on-phase-1-of-1-1gw-obelisk-solar-plus-storage-plant-in-egypt\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"Comstock Metals approved as solar PV module recycler in California",
+    "summary_80w":"Comstock and its subsidiary Comstock Metals have received certification from California\u2019s DTSC to recycle universal waste and process PV modules at their California facility.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/comstock-metals-approved-as-solar-pv-module-recycler-in-california\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"Atlas Renewable Energy secures US$3 billion for Latin American solar-plus-storage projects",
+    "summary_80w":"Atlas Renewable Energy has secured refinancing of US$3 billion for a solar and BESS portfolio in Latin America.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/atlas-renewable-energy-secures-us3-billion-latin-american-solar-plus-storage-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"How can batteries respond to energy price volatility in Europe?",
+    "summary_80w":"Fluctuating power prices in Europe present opportunities for BESS developers, according to speakers at the 2026 Energy Storage Summit.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/how-can-batteries-respond-to-energy-price-volatility-in-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"\u2018Balance between profitability and predictability\u2019: inside Europe\u2019s shift towards tolling offtake agreements in battery storage",
+    "summary_80w":"Physical tolling agreements have become increasingly popular in Europe, according to experts at Energy Storage Summit 2026.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/balance-between-profitability-predictability-europes-shift-tolling-offtake-agreements-battery-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"BESS continues to be attractive market for M&A",
+    "summary_80w":"Panellists discussed M&#038;A in large-scale BESS on the 'M&#038;A Market: How Attractive Is BESS Right Now?' panel discussion at the Energy Storage Summit 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bess-continues-to-be-attractive-market-for-ma\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"DESRI, Clearway move Texas BESS projects forward",
+    "summary_80w":"D. E. Shaw Renewable Investments (DESRI) has signed a preferred equity investment in IPP Linea Energy's 235MW\/470MWh Duffy battery energy storage system (BESS) in Matagorda County, Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/desri-clearway-move-texas-bess-projects-forward\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"US BESS deployments to increase to 70GWh this year, SEIA says in first sector-dedicated report",
+    "summary_80w":"According to the US trade association group, the Solar Energy Industries Association (SEIA), US battery energy storage system (BESS) deployments are set to increase to 70GWh in 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-bess-deployments-to-increase-to-70gwh-this-year-seia-says-in-first-sector-dedicated-report\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"\u2018No project above 100MW is fully merchant\u2019: Bankability in focus as Energy Storage Summit 2026 kicks off",
+    "summary_80w":"How to enable bankability for large-scale BESS projects was the main topic of the opening panel discussion at the Energy Storage Summit 2026 which kicked off today (24 February).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/no-project-above-100mw-is-fully-merchant-bankability-in-focus-as-energy-storage-summit-2026-kicks-off\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-02-24",
+    "headline":"Execution discipline redefines energy storage value in Europe, as investable projects become harder to secure",
+    "summary_80w":"The recent successes of the energy storage market in Europe bring new challenges alongside industry maturity, writes Vicente Abad.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-02-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/execution-discipline-redefines-energy-storage-value-in-europe-as-investable-projects-become-harder-to-secure\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-02-23",
     "headline":"Enel acquires 830MW US PV and wind portfolio, ups renewables investment",
     "summary_80w":"Enel has acquired an 830MW portfolio of operating solar and wind assets in the US from investment firm Excelsior Energy Capital.",
@@ -2505,134 +2991,6 @@
   },
   {
     "date_utc":"2026-02-13",
-    "headline":"AES Indiana began operations at 250MW solar-plus-storage plant",
-    "summary_80w":"AES Indiana, a subsidiary of US utility AES Corporation, has started commercial operations at a 250MW solar-plus-storage plant in Pike County, Indiana, US.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/aes-indiana-began-operations-at-250mw-solar-plus-storage-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-13",
-    "headline":"US Treasury\u2019s first interim FEOC guidance met with some relief",
-    "summary_80w":"The US Treasury\u2019s interim Foreign Entity of Concern (FEOC) guidance is \u201cin line with expectations\u201d according to a US renewable energy supply analyst.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-treasurys-first-interim-feoc-guidance-met-with-some-relief\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-13",
-    "headline":"India solar PV additions reach 36.6GW, up 43% YoY \u2013 Mercom",
-    "summary_80w":"Solar PV installations in India have reached a record 36.6GW in 2025, a 43% increase from the previous year\u2019s 25GW.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-solar-pv-additions-reach-36-6gw-up-43-yoy-mercom\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-13",
-    "headline":"Belectric to deliver 210MW of solar PV capacity for Severn Trent Green Power in the UK",
-    "summary_80w":"Belectric, a subsidiary of European energy company the Elevion Group, will deliver EPC services for a 210MW solar PV portfolio in the UK.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/belectric-deliver-210mw-solar-pv-capacity-severn-trent-green-power-uk\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-13",
     "headline":"\u2018Beyond a lithium-only future\u2019: How US trade rules could accelerate BESS diversification",
     "summary_80w":"Energy-Storage.news Premium hears from Giovanni Damato, President of organic flow battery company CMBlu Energy, Inc., on changes to FEOC and Section 301 tariffs.",
     "region":"Global",
@@ -2724,102 +3082,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/cleanco-opens-500mwh-tesla-megapack-bess-in-queensland-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-12",
-    "headline":"Baltic BESS and TES: Estonia\u2019s 1.1GWh district heating accumulator, Nidec PCS-transformer deal in Lithuania",
-    "summary_80w":"A 582MWh battery storage project and a gigawatt-hour-scale thermal energy storage system are the latest big developments in the emerging Baltic region, north-eastern Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-12",
-    "impact_score_1to5":5,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/baltic-bess-and-tes-estonias-1-1gwh-district-heating-accumulator-nidec-pcs-transformer-deal-in-lithuania\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-12",
-    "headline":"SOLV Energy issues Nasdaq IPO",
-    "summary_80w":"US solar EPC SOLV Energy has issued its initial public offering (IPO) on the Nasdaq Global Select Market, priced at US$25 per share.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solv-energy-issues-nasdaq-ipo\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-12",
-    "headline":"Optimism in European solar rebounds to highest levels seen since May 2025",
-    "summary_80w":"European solar PV module and component buyers\u2019 sentiment improved significantly in January 2026, according to sun.store's pv.index report.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/optimism-european-solar-rebounds-highest-levels-may-2025\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2949,262 +3211,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/hanwha-and-morrisons-chrysalis-partner-for-3-5gw-of-solar-and-storage-in-north-america\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-12",
-    "headline":"LG Energy Solution Vertech \u2018to deliver 50GWh of US BESS projects in 2026,\u2019 signs Qcells EPC deal",
-    "summary_80w":"LG ES Vertech, the US-based system integrator subsidiary of LG Energy Solution (LG ES), plans to deliver 50GWh of projects this year, ESN Premium has heard.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/lg-energy-solution-vertech-to-deliver-50gwh-of-us-bess-projects-in-2026-signs-qcells-epc-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-12",
-    "headline":"Tesla set to launch vehicle-to-grid programme in the US",
-    "summary_80w":"Tesla is set to officially launch its first vehicle-to-grid (V2G) programme in Texas, US, soon with eyes to expand into California.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/tesla-set-to-launch-vehicle-to-grid-programme-in-the-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-11",
-    "headline":"\u2018Moment of truth\u2019: The 2026 regulatory agenda for large battery storage in Germany",
-    "summary_80w":"Germany's BESS market is booming but is still far behind what it is needed for its energy transition. 2026 will be a key year in this regard with several key regulatory questions potentially clarified, writes energy transition comms executive Frederik K\u00f6nig.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-11",
-    "headline":"NineDot Energy closes US$431 million for New York BESS, Ameresco completes multiple tax credit transfers",
-    "summary_80w":"Energy storage developer NineDot Energy closes US$431 million in construction financing for New York BESS projects. Meanwhile, US energy efficiency and renewables company Ameresco completes multiple tax credit transfer and financing transactions for solar PV and BESS.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ninedot-energy-closes-us431-million-for-new-york-bess-ameresco-completes-multiple-tax-credit-transfers\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-11",
-    "headline":"Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
-    "summary_80w":"Netherlands-based iron-air long-duration energy storage (LDES) startup Ore Energy has completed a grid-connected pilot of its 100-hour iron-air LDES system at EDF Lab les Renardi\u00e8res in France.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-11",
-    "headline":"BESS financing benefitting from other clean energy segment struggles, US uncertainty, Fidra CEO says",
-    "summary_80w":"Owner-operator Fidra Energy came out of virtually nowhere to be building one of Europe's largest BESS in the UK, the 1.4GW\/3.1GWh Thorpe Marsh project. We catch up with CEO Chris Elder, about its strategy and projects but also broader BESS and clean energy financing trends.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bess-financing-benefitting-from-other-clean-energy-segment-struggles-us-uncertainty-fidra-ceo-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-11",
-    "headline":"Akaysha Energy submits 1.6GWh BESS to Australia\u2019s EPBC Act",
-    "summary_80w":"Developer Akaysha Energy has submitted a 1.6GWh battery energy storage system (BESS) project to Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-submits-1-6gwh-bess-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-10",
-    "headline":"Energy Vault to secure 1.5GWh of US-manufactured sodium-ion BESS from Peak Energy",
-    "summary_80w":"Energy storage developer and system integrator Energy Vault and sodium-ion battery energy storage system (BESS) startup Peak Energy have announced a 1.5GWh strategic development agreement.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/energy-vault-to-secure-1-5gwh-of-us-manufactured-sodium-ion-bess-from-peak-energy\/",
     "reliability":"trade",
     "notes":""
   }
