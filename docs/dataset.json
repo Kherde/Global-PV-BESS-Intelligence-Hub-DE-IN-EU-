@@ -1,5 +1,424 @@
 [
   {
+    "date_utc":"2026-03-10",
+    "headline":"Tunisia issues call for 300MW\/150MW solar-plus-storage project",
+    "summary_80w":"The Tunisian government is seeking proposals for a 300MW\/150MW solar-plus-storage project in the south of the country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/tunisia-issues-call-for-300mw-150mw-solar-plus-storage-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"Argentina launches 700MW\/2,800MWh BESS tender",
+    "summary_80w":"The Argentinian Government has launched a new battery energy storage system (BESS) tender seeking 700MW and 4-hour duration.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/argentina-launches-700mw-2800mwh-bess-tender\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"Data centre energy pledge unlikely to benefit solar PV",
+    "summary_80w":"Amazon, Google, OpenAI and other tech firms have signed the 'ratepayer protection pledge' to build, bring or buy the energy required to build and operate data centres.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/data-centre-energy-pledge-unlikely-to-benefit-solar-pv\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"US adds 43.2GW of new solar PV capacity in 2025",
+    "summary_80w":"The US installed 43.2GW of new solar PV capacity in 2025, a 14% decrease from the previous year, according to data from the Solar Energy Industries Association (SEIA) and Wood Mackenzie.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-adds-43-2gw-of-new-solar-pv-capacity-in-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"EUROPE ROUND-UP: Sonnedix, Helleniq Energy and others close European solar PV deals",
+    "summary_80w":"A roundup of European solar stories, with developments from Sonnedix, Helleniq, Nuveen Infrastructure and Nord\/LB.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/europe-round-up-sonnedix-helleniq-energy-and-others-close-european-solar-pv-deals\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"\u2018It\u2019s always about LCOE\u2019 \u2013 GameChange Solar CEO on Terrasmart and sector consolidation",
+    "summary_80w":"PV Tech Premium spoke with Philip Vyhanek, CEO of GameChange Solar, about the company's purchase of Terrasmart and wider solar industry dynamics.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/its-always-about-lcoe-gamechange-solar-ceo-on-terrasmart-and-sector-consolidation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"NSW approves 15MW green hydrogen project powered by Wathagar solar PV plant in Australia",
+    "summary_80w":"The New South Wales (NSW) government has approved the 15MW Good Earth Green Hydrogen and Ammonia project in Moree, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nsw-approves-15mw-green-hydrogen-project-powered-by-wathagar-solar-pv-plant-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"Long-duration tech still outcompeted by lithium, trade group advocates for \u2018valuing diversity\u2019",
+    "summary_80w":"Global long-duration energy storage (LDES) deployment figures soared in 2025, but newer technologies risk being outcompeted by the incumbent, lithium-ion (Li-ion).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/long-duration-tech-still-outcompeted-by-lithium-trade-group-advocates-for-valuing-diversity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"IPP Econergy\u2019s head of energy storage talks pipeline, financing, Germany, procurement and pricing",
+    "summary_80w":"Joshua Murphy, head of energy storage for IPP Econergy, sat down with Energy-Storage.news for a video interview to discuss various business and financial topics at the Energy Storage Summit 2026 in London last month.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ipp-econergys-head-of-energy-storage-talks-pipeline-financing-germany-procurement-and-pricing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"Base Power launches 100MW VPP programme in Texas",
+    "summary_80w":"Residential energy storage startup Base Power is collaborating with utility Denton County Electric Cooperative (CoServ) to deploy 100MW of residential energy storage across North Texas, US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/base-power-launches-100mw-vpp-programme-in-texas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"From software to shareholder: Flower, Volkswagen\u2019s Elli and Nuvve launch Germany &  Sweden BESS projects",
+    "summary_80w":"Software and optimisation firms Flower, Volkswagen's Elli and Nuvve have progressed large-scale BESS projects under own-and-operate models; Flower and Elli in Germany and the latter in Sweden.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/from-software-to-shareholder-flower-volkswagens-elli-and-nuvve-launch-germany-sweden-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"Octopus Australia breaks ground on 486MWh Blind Creek Solar Farm and Battery project",
+    "summary_80w":"Octopus Australia has broken ground on the 486MWh Blind Creek Solar Farm and Battery site in New South Wales (NSW).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/octopus-australia-breaks-ground-on-486mwh-blind-creek-solar-farm-and-battery-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-10",
+    "headline":"Australia: NSW planners approve 400MWh Burroway solar-plus-storage despite community objections",
+    "summary_80w":"The NSW Independent Planning Commission has approved Edify Energy's 400MWh Burroway solar-plus-storage project in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-nsw-planners-approve-400mwh-burroway-solar-plus-storage-despite-community-objections\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-03-09",
     "headline":"Fortescue begins construction on Western Australia\u2019s \u2018largest\u2019 solar PV power plant",
     "summary_80w":"Mining giant Fortescue has begun construction of its 440MW Solomon Airport solar PV power plant in Western Australia's Pilbara region.",
@@ -2406,197 +2825,6 @@
   },
   {
     "date_utc":"2026-02-27",
-    "headline":"Endesa commissions 131MW agriPV portfolio alongside Spanish archaeological site",
-    "summary_80w":"Spanish utility Endesa has started commercial operations at a 131MW solar PV portfolio in its home country.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/endesa-commissions-131mw-agripv-portfolio-at-spanish-archaeological-site\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-27",
-    "headline":"Sunrun solar installs fall in Q4 despite 45% revenue growth",
-    "summary_80w":"Despite posting strong revenue growth for 2025, US residential solar and energy storage installer Sunrun reported a decline in quarterly solar installation.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sunrun-solar-installs-fall-in-q4-despite-45-revenue-growth\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-27",
-    "headline":"Daqo New Energy cuts losses and revenues in 2025 as polysilicon sector shifts",
-    "summary_80w":"Daqo New Energy cut its financial losses and its revenues in 2025 as China\u2019s efforts to moderate its polysilicon industry began to take effect.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/daqo-new-energy-cuts-losses-and-revenues-in-2025-as-polysilicon-sector-shifts\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-27",
-    "headline":"Philippines calls for energy storage at all large-scale renewables plants",
-    "summary_80w":"The Philippines government has announced that large-scale renewable energy installations will have to integrate energy storage into their projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/philippines-calls-for-energy-storage-at-all-large-scale-renewables-plants\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-27",
-    "headline":"Scatec begins construction on 130MW solar PV plant in Colombia as financial close reached",
-    "summary_80w":"Independent power producer (IPP) Scatec has reached financial close on a 130MW solar PV plant in Colombia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/scatec-begins-construction-on-130mw-solar-pv-plant-in-colombia-as-financial-close-reached\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-27",
-    "headline":"Yindjibarndi Energy Corporation launches EOI for renewable energy offtake in Western Australia\u2019s Pilbara",
-    "summary_80w":"YEC has opened an EOI process for commercial and industrial customers seeking renewable energy offtake in Pilbara,Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/yindjibarndi-energy-corporation-launches-eoi-for-renewable-energy-offtake-in-western-australias-pilbara\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-27",
     "headline":"Northvolt\u2019s resurrected factory in Sweden will supply BESS cells to new owner this year, add 1GW data centre development",
     "summary_80w":"US energy storage and battery technology startup Lyten has completed its acquisition of Northvolt\u2019s business operations in Sweden and announced its immediate plans.",
     "region":"Global",
@@ -2629,7 +2857,7 @@
   },
   {
     "date_utc":"2026-02-27",
-    "headline":"BW ESS: \u201811.5-hour LDES win moves us into new space for batteries\u2019",
+    "headline":"VIDEO: \u201811.5-hour LDES win moves us into new space for batteries\u2019, says BW ESS",
     "summary_80w":"We caught up with the CEO of owner-operator BW ESS, Erik Str\u00f8ms\u00f8, about the firm's next deployment plans, tolling trends, procurement and LDES, with its 11.5-hour Bannaby BESS in Australia further proof of lithium-ion's long-duration potential.",
     "region":"Global",
     "country":"",
@@ -2977,231 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/germanys-grid-fees-and-inertia-payments-highlight-contrasts-in-energy-storage-regulation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"Energy storage co-location with solar PV not a \u2018silver bullet\u2019",
-    "summary_80w":"Experts at the ongoing Energy Storage Summit 2026 have cautioned against treating co-located storage as a \u201csilver bullet\u201d to prop up commercially underperforming solar assets.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-co-location-with-solar-pv-not-a-silver-bullet\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"US Roundup: FlexGen updates EMS, LandGate\u2019s BESS site selection tool, ON.Energy-Shoals target data centres, Sunrun\u2019s season of VPP dispatching",
-    "summary_80w":"In this Energy-Storage.news roundup, FlexGen updates its EMS, LandGate launches a BESS site selection tool, ON.energy and Shoals target AI data centres, and Sunrun has a successful season of dispatching energy with PG&#038;E.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-flexgen-updates-ems-landgates-bess-site-selection-tool-on-energy-shoals-target-data-centres-sunruns-season-of-vpp-dispatching\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"Data centres are \u2018convenient scapegoats\u2019 for grid failures, says energy consultant",
-    "summary_80w":"In an interview with Energy-Storage.news Premium, Jay Jayasuriya, Principal at Sendero Consulting, argues that AI data centres are \u201cconvenient scapegoats\u201d for grid failures",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/data-centres-are-convenient-scapegoats-for-grid-failures-says-energy-consultant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"Energy Storage Summit 2026 Day One: Reflections and takeaways at Europe\u2019s biggest industry conference",
-    "summary_80w":"Now in its 11th year and a firm fixture on the industry calendar, the Energy Storage Summit 2026 opened yesterday in London, UK.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-summit-2026-day-one-reflections-and-takeaways-at-europes-biggest-industry-conference\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"Batteries provide \u2018flexibility\u2019 in the European renewable revenue stack",
-    "summary_80w":"BESS are a key facilitator of flexibility in a revenue stack, according to speakers at the 2026 Energy Storage Summit.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/batteries-provide-flexibility-european-renewable-revenue-stack\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"RE Developments eyes 1GWh battery storage system in Western Australia",
-    "summary_80w":"RE Development Pty Ltd has submitted a development application for a 250MW\/1,000MWh battery energy storage system (BESS) in Baldivis, Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/re-developments-eyes-1gwh-battery-storage-system-in-western-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"400MWh grid-forming New England BESS registered with Australia\u2019s AEMO",
-    "summary_80w":"The 200MW\/400MWh New England battery energy storage system (BESS) in New South Wales has registered with the Australian Energy Market Operator's (AEMO) Market Management System (MMS).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/400mwh-grid-forming-new-england-bess-registered-with-australias-aemo\/",
     "reliability":"trade",
     "notes":""
   }
