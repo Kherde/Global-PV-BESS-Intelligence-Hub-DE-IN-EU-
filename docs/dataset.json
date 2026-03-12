@@ -1,5 +1,419 @@
 [
   {
+    "date_utc":"2026-03-11",
+    "headline":"EU awards record 25.2GW of new solar PV capacity through government auctions in 2025",
+    "summary_80w":"EU member states awarded a record 25.2GW of new solar PV capacity through auctions in 2025, according to SolarPower Europe.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/eu-awards-record-25-2gw-new-solar-pv-capacity-government-auctions-2025\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"California rooftop solar receives setback as court upholds NEM3.0",
+    "summary_80w":"The California Court of Appeals has upheld the state's ongoing net energy metering programme, NEM3.0, dealing a setback to rooftop solar.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/california-rooftop-solar-receives-setback-as-court-upholds-nem3-0\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"VDE highlights underestimated wind speed factor in hail damage to PV assets",
+    "summary_80w":"VDE Americas has updated its hail risk model with new wind data, claiming it will improve the accuracy of hail-damage predictions for PV projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/vde-highlights-underestimated-wind-speed-factor-in-hail-damage-to-pv-assets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"European solar module prices tick above \u20ac0.1\/Wp as buyer optimism remains high",
+    "summary_80w":"The selling price of several solar PV module technology types in Europe has increased between January and February of this year.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/european-solar-module-prices-tick-above-0-1-wp-buyer-optimism-remains-high\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"Beazley acquires kWh Analytics",
+    "summary_80w":"Speciality insurer Beazley has reached an agreement to acquire US-based climate insurance provider kWh Analytics.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/beazley-acquires-kwh-analytics\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"Rethinking the next wave of TOPCon production",
+    "summary_80w":"As TOPCon manufacturing expands globally, producers are facing different cost, safety and supply-chain realities \u2013 creating an opportunity to rethink technology platforms and prepare for next-generation tandem architectures.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/rethinking-the-next-wave-of-topcon-production\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"Western Australia unveils AU$153 million clean energy loans for manufacturers",
+    "summary_80w":"The Western Australian government has unveiled an AU$153.3 million (US$109 million) 'Made in WA Energy Affordability Investment Program (MEAIP)' designed to accelerate decarbonisation across the state's manufacturing sector through low-interest loans of up to AU$15 million per business.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/western-australia-unveils-au153-million-clean-energy-loans-for-manufacturers\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"BESS asset operation in CAISO is complex, but lean teams can leverage advanced analytics",
+    "summary_80w":"California's rapid adoption of energy storage has been a major success, but market participation is complex and competitive, write Matt Drazenovich of TWAICE and Chris Swanson of Fullmark Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bess-asset-operation-in-caiso-is-complex-but-lean-teams-can-leverage-advanced-analytics\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"RWE brings online four BESS projects in 13GW US clean energy portfolio",
+    "summary_80w":"Energy firm RWE added 2GW to its US operating capacity in 2025, bringing its total operational capacity to nearly 13GW across the country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rwe-brings-online-four-bess-projects-in-13gw-us-clean-energy-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"Aypa Power closes US$512 million financing for two Ontario BESS projects",
+    "summary_80w":"Energy storage developer-operator Aypa Power, and Six Nations of the Grand River Development Corporation (SNGRDC) have closed CA$700 million (US$512 million) for two battery energy storage system (BESS) projects in Ontario, Canada.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/aypa-power-closes-us512-million-financing-for-two-ontario-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"Google bets big on 30GWh of Form Energy\u2019s iron-air battery storage despite efficiency trade-offs",
+    "summary_80w":"Recently, utility Xcel Energy announced it would install 30GWh of US startup Form Energy\u2019s iron-air batteries at a data centre in Pine Island, Minnesota, owned by tech giant Google.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/google-bets-big-on-30gwh-of-form-energys-iron-air-battery-storage-despite-efficiency-trade-offs\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"FREE DOWNLOAD: The Energy Storage Report 2026",
+    "summary_80w":"The Energy Storage Report 2026 is packed with insights, analysis and fresh reporting on the headline topics in BESS today.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/free-download-energy-storage-report-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-11",
+    "headline":"Price jump: Chinese firms\u2019 battery cell quotes approach 0.4 RMB\/Wh, system prices follow suit",
+    "summary_80w":"China\u2019s energy storage sector may be at the start of a price trend reversal, with recent data showing price increases.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/price-jump-chinese-firms-battery-cell-quotes-approach-0-4-rmb-wh-system-prices-follow-suit\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-03-10",
     "headline":"Tunisia issues call for 300MW\/150MW solar-plus-storage project",
     "summary_80w":"The Tunisian government is seeking proposals for a 300MW\/150MW solar-plus-storage project in the south of the country.",
@@ -2537,229 +2951,6 @@
   },
   {
     "date_utc":"2026-03-02",
-    "headline":"Massachusetts energy bill includes \u2018short-sighted\u2019 and \u2018unacceptable\u2019 funding cuts, renewables advocates say",
-    "summary_80w":"Massachusetts\u2019 state energy efficiency bill contains some positive support for solar energy but falls short on efforts to reduce energy bills, according to US renewables advocacy groups.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/massachusetts-energy-bill-includes-short-sighted-and-unacceptable-funding-cuts-renewables-advocates-say\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-02",
-    "headline":"India to add 42.5GW of solar capacity in 2026: JMK Research",
-    "summary_80w":"India is expected to add 42.5GW of new solar capacity in 2026, according to research analyst JMK Research\u2019s Q4 2025 (Oct-Dec) India RE Update report.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-to-add-42-5gw-of-solar-capacity-in-2026-jmk-research\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-02",
-    "headline":"US residential solar enters post-incentive era after ITC expiry surge",
-    "summary_80w":"The final months of 2025 saw a surge in US residential solar installations as homeowners sought to take advantage of the end of the federal tax credit for purchased systems, according to the solar marketplace EnergySage.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-residential-solar-enters-post-incentive-era-after-itc-expiry-surge\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-02",
-    "headline":"NEM Data Spotlight: February 2026 sees generation retreat from summer peak as pricing volatility reaches new extremes",
-    "summary_80w":"Feb 2026 NEM solar generation fell 19.7% from January while pricing volatility hit extremes, with rooftop solar spiking to AU$457.91\/MWh.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-february-2026-sees-generation-retreat-from-summer-peak-as-pricing-volatility-reaches-new-extremes\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-02",
-    "headline":"RENA Technologies to ship solar manufacturing equipment to 1.2GW Indian TOPCon cell plant",
-    "summary_80w":"German wet processing equipment manufacturer RENA Technologies will supply its equipment to a planned 1.2GW TOPCon solar cell production facility in India.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/rena-technologies-to-ship-solar-manufacturing-equipment-to-1-2gw-indian-topcon-cell-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-02",
-    "headline":"Construction begins on Hunter-Central Coast REZ transmission project in Australia",
-    "summary_80w":"Construction has officially commenced on the Hunter-Central Coast Renewable Energy Zone in Australia's New South Wales.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/construction-begins-on-hunter-central-coast-rez-transmission-project-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-02",
-    "headline":"Australian printed solar startup lands AU$2.15 million government boost",
-    "summary_80w":"Kardinia Energy has received AU$2.15 million in funding to accelerate the scale-up of its flexible printed solar technology manufacturing.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australian-printed-solar-startup-lands-au2-15-million-government-boost\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-02",
     "headline":"US zinc BESS manufacturer Eos hopeful about ability to grow despite widening 2025 losses",
     "summary_80w":"Zinc hybrid cathode battery and storage system maker Eos Energy reasserted its vision for 2026 and beyond in its Q4 and full-year 2025 financial results.",
     "region":"Global",
@@ -3014,197 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/recurrent-energy-sells-200mwh-texas-bess-to-hunt-energy-network\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-26",
-    "headline":"US DOE closes US$26.5 billion loan package to utility Southern Company for 16GW of capacity, including BESS",
-    "summary_80w":"The US Department of Energy (DOE) has closed a US$26.5 billion loan package to two wholly owned subsidiaries of utility Southern Company, in Georgia and Alabama, US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-doe-closes-us26-5-billion-loan-package-to-utility-southern-company-for-16gw-of-capacity-including-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-26",
-    "headline":"Philippines Department of Energy instructs renewable energy plants to add energy storage",
-    "summary_80w":"Large-scale renewable energy power plant developers in the Philippines have been instructed to integrate energy storage into their proposed facilities.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/philippines-department-of-energy-instructs-renewable-energy-plants-to-add-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-26",
-    "headline":"\u2018Where do I put my chips on the table?\u2019: Long-term BESS revenue curves and uncertainty",
-    "summary_80w":"Europe\u2019s battery storage sector could benefit from a reassessment of the accuracy, and usage, of revenue modelling.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bess-revenues-thought-of-forecast-not-promised-financial-decision-making\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-26",
-    "headline":"Google: Minnesota data centre energy deal includes 30GWh \u2018multi-day\u2019 iron-air batteries from Form Energy",
-    "summary_80w":"Utility Xcel Energy will install 30GWh of US startup Form Energy\u2019s iron-air batteries at a data centre in Pine Island, Minnesota, belonging to tech giant Google.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/google-minnesota-data-centre-energy-deal-includes-30gwh-multi-day-iron-air-batteries-from-form-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-26",
-    "headline":"MGA Thermal secures AU$3.25 million ARENA funding for thermal energy storage FEED studies",
-    "summary_80w":"MGA Thermal has secured AU$3.25 million in funding from ARENA to conduct up to five FEED studies for its thermal energy storage technology.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/mga-thermal-secures-au3-25-million-arena-funding-for-thermal-energy-storage-feed-studies\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-02-25",
-    "headline":"Germany\u2019s grid fees and inertia payments highlight contrasts in energy storage regulation",
-    "summary_80w":"Germany\u2019s energy storage market growth will be hampered by a regulatory decision to potentially charge utility-scale project operators fees for use of the grid, Energy-Storage.news has heard.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-02-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/germanys-grid-fees-and-inertia-payments-highlight-contrasts-in-energy-storage-regulation\/",
     "reliability":"trade",
     "notes":""
   }
