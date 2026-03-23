@@ -1,5 +1,101 @@
 [
   {
+    "date_utc":"2026-03-23",
+    "headline":"AGL commissioning \u2018ambitious\u2019 1,000MWh Liddell grid-forming BESS in Australia",
+    "summary_80w":"Australian utility AGL has started commissioning its 500MW\/1,000MWh Liddell battery energy storage system (BESS) in New South Wales.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-23",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/agl-commissioning-ambitious-1000mwh-liddell-grid-forming-bess-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-23",
+    "headline":"Quinbrook bags EPBC Act approval for 780MW Supernode North BESS in Australia",
+    "summary_80w":"Quinbrook Infrastructure Partners has received environmental clearance for its Supernode North battery energy storage system (BESS) project in Queensland, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-23",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/quinbrook-bags-epbc-act-approval-for-780mw-supernode-north-bess-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-23",
+    "headline":"Australia: 1.6GWh Belah BESS submitted for approval as 590MWh Mornington project enters AEMO commissioning",
+    "summary_80w":"Eku Energy and Valent Energy have recorded separate milestones in their respective expansions of battery energy storage systems (BESS) in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-1-6gwh-belah-bess-submitted-for-approval-as-590mwh-mornington-project-enters-aemo-commissioning\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-03-20",
     "headline":"Goldbeck secures EPC contract for 722MW PV plant in Poland, Europe\u2019s largest",
     "summary_80w":"Goldbeck Solar has secured an EPC contract to deliver three PV plants in Poland\u2019s West Pomeranian province, with a combined installed capacity of 722MWp.",
@@ -3116,102 +3212,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/google-bets-big-on-30gwh-of-form-energys-iron-air-battery-storage-despite-efficiency-trade-offs\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-11",
-    "headline":"FREE DOWNLOAD: The Energy Storage Report 2026",
-    "summary_80w":"The Energy Storage Report 2026 is packed with insights, analysis and fresh reporting on the headline topics in BESS today.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/free-download-energy-storage-report-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-11",
-    "headline":"Price jump: Chinese firms\u2019 battery cell quotes approach 0.4 RMB\/Wh, system prices follow suit",
-    "summary_80w":"China\u2019s energy storage sector may be at the start of a price trend reversal, with recent data showing price increases.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/price-jump-chinese-firms-battery-cell-quotes-approach-0-4-rmb-wh-system-prices-follow-suit\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-10",
-    "headline":"Argentina launches 700MW\/2,800MWh BESS tender",
-    "summary_80w":"The Argentinian Government has launched a new battery energy storage system (BESS) tender seeking 700MW and 4-hour duration.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-10",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/argentina-launches-700mw-2800mwh-bess-tender\/",
     "reliability":"trade",
     "notes":""
   }
