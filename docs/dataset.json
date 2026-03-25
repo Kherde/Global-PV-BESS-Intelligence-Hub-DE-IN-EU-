@@ -1,5 +1,523 @@
 [
   {
+    "date_utc":"2026-03-25",
+    "headline":"Storage-firmed renewables: Rio Tinto and Australian governments commit AU$2 billion to future-proof Boyne smelter",
+    "summary_80w":"AU$2bn deal secures Boyne smelter to 2040+ with 600MW+ battery storage firming renewables for Rio Tinto's aluminium production in Queensland.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-25",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/storage-firmed-renewables-rio-tinto-and-australian-governments-commit-au2-billion-to-future-proof-boyne-smelter\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-25",
+    "headline":"Enervest begins construction on Australia\u2019s largest floating solar array",
+    "summary_80w":"Enervest has commenced construction of a 500kW floating solar array at Wannon Water's Brierly Basin in Warrnambool, Victoria.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enervest-begins-construction-on-australias-largest-floating-solar-array\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-25",
+    "headline":"Ausgrid\u2019s 400MWh Steel River East BESS clears NSW planning hurdle despite community opposition",
+    "summary_80w":"The New South Wales IPC has approved Ausgrid's 400MWh Steel River East BESS located within the Hunter and Central Coast REZ.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ausgrids-400mwh-steel-river-east-bess-clears-nsw-planning-hurdle-despite-community-opposition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"Sunraycer, Google ink PPAs for 400MWac Lupinus solar project in Texas",
+    "summary_80w":"Sunraycer has signed long-term power purchase agreements with Google for its Lupinus and Lupinus 2 solar projects in Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sunraycer-google-ink-ppas-for-400mwac-lupinus-solar-project-in-texas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"NTPC seeks bids for 100MW solar, 50MW\/200MWh BESS project",
+    "summary_80w":"NTPC Green Energy has issued a tender for a 100MW solar PV project paired with a 50MW\/200MWh battery energy storage system in Jhansi, Uttar Pradesh.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ntpc-seeks-bids-for-100mw-solar-50mw-200mwh-bess-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"\u2018Anti-solar activists\u2019 may have undermined 94MW Ohio solar plant",
+    "summary_80w":"The rejection of a 94MW solar PV project in Ohio stems from 'a small group of anti-solar activists', according to the project\u2019s developer.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/anti-solar-activists-may-have-undermined-94mw-ohio-solar-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"Third-party ownership and strong market fundamentals drive \u2018new shape of solar\u2019 in US residential sector",
+    "summary_80w":"The 'new shape of solar' in the US residential sector is one driven by flexible private financing, according to Aurora Solar.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/third-party-ownership-strong-market-fundamentals-drive-new-shape-of-solar-us-residential\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"\u201cWe will not wait for the war to end\u201d \u2013 Poland\u2019s ELQ to invest \u20ac2.5 billion in Ukraine solar and energy storage",
+    "summary_80w":"Polish solar developer and investment platform ELQ plans to invest up to \u20ac2.5 billion to build solar PV and energy storage projects in Ukraine.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/we-will-not-wait-for-the-war-to-end-polands-elq-to-invest-e2-5-billion-in-ukraine-solar-and-energy-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"Sosteneo secures full ownership of 151MW Sicily solar project",
+    "summary_80w":"Sosteneo has acquired the remaining 50% stake in the 151MW Mineo PV project in Catania, Sicily, from European Energy.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sosteneo-secures-full-ownership-of-151mw-sicily-solar-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"RES Group to deliver asset management services at Nala Renewables\u2019 217MW solar-plus-storage portfolio",
+    "summary_80w":"The RES Group has finalised an 'asset management mandate' with Nala Renewables for a 217MW solar-plus-storage portfolio.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/res-group-asset-management-services-nala-renewables-217mw-solar-plus-storage-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"Arevon starts building 1GWh California BESS; BPP and Energy Vault buy Texas projects",
+    "summary_80w":"Arevon, Banpu Power (BPP) and Energy Vault have made BESS project announcements totalling 1,550MWh of capacity in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/arevon-starts-building-1gwh-california-bess-bpp-and-energy-vault-buy-texas-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"Nebraska advances energy storage and data centre-focused bill",
+    "summary_80w":"The legislative body of Nebraska, US, has advanced a bill to clarify and expand the state\u2019s use of battery energy storage systems (BESS).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nebraska-advances-energy-storage-and-data-centre-focused-bill\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"Energy Storage Awards 2026 opens for entries: It\u2019s time to shine and show the world",
+    "summary_80w":"The industry\u2019s premier celebration of excellence, innovation and hard work returns this autumn, at the Energy Storage Awards 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-awards-2026-opens-for-entries-its-time-to-shine-and-show-the-world\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"ERCOT after RTC+B: How real-time optimisation is reshaping battery storage economics",
+    "summary_80w":"Tapas Peshin of energy management software provider PCI Energy Solutions, on one of the biggest changes in Texas' ERCOT market for battery storage assets.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ercot-after-rtcb-how-real-time-optimisation-is-reshaping-battery-storage-economics\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"VIDEO: Grid-forming, LDES and solar hybrids in Europe, with Envision Energy\u2019s Michael Koller",
+    "summary_80w":"Envision Energy's director of energy storage solutions, Michael Koller, speaks with Energy-Storage.news at Energy Storage Summit 2026 in London, UK.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-grid-forming-ldes-and-solar-hybrids-in-europe-with-envision-energys-michael-koller\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-24",
+    "headline":"Munch Energie connects 500MWh German BESS cluster to the grid",
+    "summary_80w":"Utility and power firm Munch Energie is putting five large-scale BESS projects online in Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/munch-energie-connects-500mwh-german-bess-cluster-to-the-grid\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-03-23",
     "headline":"AGL commissioning \u2018ambitious\u2019 1,000MWh Liddell grid-forming BESS in Australia",
     "summary_80w":"Australian utility AGL has started commissioning its 500MW\/1,000MWh Liddell battery energy storage system (BESS) in New South Wales.",
@@ -2573,71 +3091,6 @@
   },
   {
     "date_utc":"2026-03-16",
-    "headline":"Genesis Energy breaks ground on 136MWp solar PV power plant in New Zealand",
-    "summary_80w":"New Zealand energy company Genesis Energy has officially begun construction on its 136MWp Tihori Solar Farm in Edgecumbe, Bay of Plenty.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/genesis-energy-breaks-ground-on-136mwp-solar-pv-power-plant-in-new-zealand\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-16",
-    "headline":"Edify Energy secures approval for 100MW solar-plus-storage site in Australia",
-    "summary_80w":"Australian renewable energy developer Edify Energy has received approval from the Independent Planning Commission (IPC) for its Burroway Solar Farm, a 100MW solar-plus-storage project in New South Wales (NSW).",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/edify-energy-secures-approval-for-100mw-solar-plus-storage-site-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-16",
     "headline":"Ormat Technologies begins commercial operations at 320MWh California BESS",
     "summary_80w":"Geothermal and battery storage firm Ormat Technologies\u2019 80MW\/320MWh Shirk battery energy storage system (BESS) in Visalia, California, US, has reached commercial operation.",
     "region":"Global",
@@ -2735,199 +3188,6 @@
   },
   {
     "date_utc":"2026-03-13",
-    "headline":"Elsewedy Electric commissions 349MWp solar PV plant in Saudi Arabia",
-    "summary_80w":"Elsewedy Electric has completed and handed over the 348.6MWp El Saad solar plant, which has now officially entered its operations and maintenance phase.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/elsewedy-electric-commissions-349mwp-solar-pv-plant-in-saudi-arabia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"\u2018More capital available\u2019 for renewable energy investments in 2026",
-    "summary_80w":"PV Talk: According to kWh Analytics' Jason Kaminsky, 'there\u2019s more capital available for risk and risk exposure' in the present investment environment.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/more-capital-available-renewable-energy-investments-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"FTC Solar signs 1GW tracker supply deal with Strata Clean Energy",
-    "summary_80w":"US-based tracker manufacturer FTC Solar has signed a 1GW solar tracker supply agreement with solar and storage developer Strata Clean Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ftc-solar-signs-1gw-tracker-supply-deal-with-strata-clean-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"Scatec, Aeolus bring 60MW solar plant online in Tunisia",
-    "summary_80w":"Scatec, in partnership with Aeolus SAS (Aeolus) have achieved commercial operations for the 60MW Sidi Bouzid solar plant in Tunisia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/scatec-aeolus-bring-60mw-solar-plant-online-in-tunisia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"What is dictating solar module price increases?",
-    "summary_80w":"Current solar PV module price increases are largely dictated by five major components, according to data from Intertek CEA",
-    "region":"India",
-    "country":"IN",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/what-is-dictating-solar-module-price-increases\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"Nexwell Power secures financing on 250MW Spanish PV portfolio",
-    "summary_80w":"Renewable energy investment platform Nexwell Power has closed a \u20ac167 million (US$191 million) multi-tranche project financing for a 248MW solar PV portfolio in Spain.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nexwell-power-secures-financing-on-250mw-spanish-pv-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
     "headline":"New York leads US in BESS moratoriums, recent data shows",
     "summary_80w":"New York, US is leading the country in battery energy storage system (BESS) moratoriums, with 97 moratoriums in place, according to renewables service provider Carina Energy.",
     "region":"Global",
@@ -2955,263 +3215,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/new-york-leads-us-in-bess-moratoriums-recent-data-shows\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"Google completes US$4.75 billion Intersect Power acquisition, initial focus on California & Texas solar-plus-storage",
-    "summary_80w":"Google has finalised its acquisition of US renewable energy developer Intersect Power, as part of its plan to power its data centre expansions in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/google-completes-us4-75-billion-intersect-power-acquisition-initial-focus-on-california-texas-solar-plus-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"Flow battery startup ESS Tech Inc looks to acquisitions, big-name US partnerships for hope in future profitability",
-    "summary_80w":"Iron flow battery company ESS Tech Inc highlighted its recent partnership with Google and the acquisition of VoltStorage GmbH, as profitability remained out of reach in 2025.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/flow-battery-startup-ess-tech-inc-looks-to-acquisitions-big-name-us-partnerships-for-hope-in-future-profitability\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"\u2018You need a clear RFQ to get clear offers\u2019: Procuring BESS at scale with European IPP R.Power",
-    "summary_80w":"European IPP R.Power\u2019s head of BESS and CCO sat down with Energy-Storage.news at the Energy Storage Summit 2026 last month for a video interview to discuss the firm's storage activity and approach to procuring technology.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/you-need-a-clear-rfq-to-get-clear-offers-procuring-bess-at-scale-with-european-ipp-r-power\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-13",
-    "headline":"MGA Thermal raises AU$17 million as thermal energy storage startup enters commercial scale-up phase",
-    "summary_80w":"Australia\u2019s MGA Thermal has secured AU$17 million (US$12 million) in new investment for its long-duration thermal energy storage technology as it enters the commercial scale-up phase.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/mga-thermal-raises-au17-million-as-thermal-energy-storage-startup-enters-commercial-scale-up-phase\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-12",
-    "headline":"New Jersey state government advances 1GW of battery storage in energy affordability push",
-    "summary_80w":"New Jersey's regulator has approved the construction of battery storage facilities and a procurement for further energy storage resources in the PJM-connected US state.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/new-jersey-state-government-advances-1gw-of-battery-storage-in-energy-affordability-push\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-12",
-    "headline":"US BESS industry is \u2018primed for years of growth\u2019: Enertis Applus+ on financing storage in the FEOC era",
-    "summary_80w":"Energy-Storage.news speaks to Willliam Lauwers, head of technology, BESS, at consulting, engineering and quality control firm Enertis Applus+, ahead of the upcoming Energy Storage Summit USA.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-bess-industry-is-primed-for-years-of-growth-enertis-applus-on-financing-storage-in-the-feoc-era\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-12",
-    "headline":"US Roundup: Over US$2 billion of financing updates from Arevon, Primergy and Gridstor",
-    "summary_80w":"In this US news roundup, we have financing updates for GridStor, Arevon, and Primergy, related to energy storage projects in Texas, California, and Nevada, respectively.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-over-us2-billion-of-financing-updates-from-arevon-primergy-and-gridstor\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-12",
-    "headline":"EU Roundup: 700MWh of BESS projects move forward in Germany, Belgium, France, Finland, Latvia and Portugal",
-    "summary_80w":"Another busy week of BESS news from across Europe, with investors and owner-operators ABO, Field, Aspiravi, Prime Capital, Latvenergo, Sonnedix and Amarenco progressing large-scale projects across Europe.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-700mwh-of-bess-projects-move-forward-in-germany-belgium-france-finland-latvia-and-portugal\/",
     "reliability":"trade",
     "notes":""
   }
