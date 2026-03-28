@@ -1,6 +1,198 @@
 [
   {
     "date_utc":"2026-03-27",
+    "headline":"A billion-dollar industry: inside the growing solar panel recycling sector in the US",
+    "summary_80w":"PV Tech Premium explores the challenges of solar panel recycling, the evolving policy landscape and opportunities for recyclers in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/a-billion-dollar-industry-inside-the-growing-solar-panel-recycling-sector-in-the-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
+    "headline":"US ITC opens TOPCon supply chain case over First Solar patents",
+    "summary_80w":"The US International Trade Commission (ITC) has begun an investigation into tunnel oxide passivated contact (TOPCon) solar products in the US, following a complaint by US thin-film module manufacturer First Solar.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-itc-opens-topcon-supply-chain-case-over-first-solar-patents\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
+    "headline":"\u2018You\u2019re going to see a lot more of these:\u2019 Maximo on robotic installation at utility-scale solar projects",
+    "summary_80w":"PV Tech spoke with Maximo on the use of robotic solar installation solution at AES' Bellefield utility-scale project and upcoming trends in PV robotics.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/youre-going-to-see-a-lot-more-of-these-maximo-on-robotic-installation-utility-scale-solar-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
+    "headline":"Beyond IEC 61215-2: rethinking mechanical testing for tracker mounted PV modules",
+    "summary_80w":"Arthur Cao outlines how fresh approaches are needed to ensuretracker-based PV systems are designed adequately to avoid unnecessary failures.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/beyond-iec-61215-2-rethinking-mechanical-testing-for-tracker-mounted-pv-modules\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
+    "headline":"SSI awards first Supply Traceability certificates to Astronergy module factories",
+    "summary_80w":"Two module production facilities in China have been awarded the first Supply Traceability Standard certifications by Europe\u2019s Solar Stewardship Initiative (SSI).",
+    "region":"India",
+    "country":"IN",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ssi-awards-first-supply-traceability-certificates-to-astronergy-module-factories\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
+    "headline":"SPAIN ROUND-UP: Axpo, McDonald\u2019s sign 10-year PPA, EDP brings 90MW PV plants online",
+    "summary_80w":"Axpo will supply 83GWh of solar to McDonald\u2019s under a 10-year PPA, while EDP adds 90MW with two Navarra PV plants.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/spain-round-up-axpo-mcdonalds-sign-10-year-ppa-edp-brings-90mw-pv-plants-online\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
     "headline":"Ultra-low-cost solar could unlock 2,600TWh per year to power Australia\u2019s green metals export potential, ACAP says",
     "summary_80w":"New system-level modelling from the Australian Centre for Advanced Photovoltaics (ACAP) has revealed that achieving ultra-low-cost solar targets could create a 2,000GW-scale solar PV market in Australia.",
     "region":"Global",
@@ -60,6 +252,69 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australia-opens-tender-for-national-solar-panel-recycling-pilot-administrator\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
+    "headline":"Form Energy signs 12GWh agreement to supply multi-day iron-air batteries to new US AI data centres",
+    "summary_80w":"Form Energy has signed a 12GWh supply agreement in the US for its iron-air batteries with AI data centre infrastructure developer Crusoe.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-27",
+    "headline":"Sungrow bags 1GWh BESS supply deal with ENEVO Group in Romania",
+    "summary_80w":"Sungrow has signed an agreement with Romanian energy solutions provider ENEVO Group to supply 1GWh of BESS across projects in Romania.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sungrow-bags-1gwh-bess-supply-deal-with-enevo-group-in-romania\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2441,39 +2696,6 @@
   },
   {
     "date_utc":"2026-03-19",
-    "headline":"Sunraycer breaks ground at 620MW solar-plus-storage portfolio in the US",
-    "summary_80w":"Sunraycer Renewables has broken ground at a portfolio of three solar-plus-storage projects in the US state of Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sunraycer-breaks-ground-620mw-solar-plus-storage-portfolio-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
     "headline":"Battery storage projects win 1.8GW in UK capacity market auctions",
     "summary_80w":"UK battery storage projects won a combined 1.8GW of capacity market (CM) obligations across the T-1 and T-4 auctions.",
     "region":"Global",
@@ -2629,70 +2851,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/canadian-solar-expects-first-us-made-solar-cells-production-by-end-of-march\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"Solarium commissions 1GW module facility in Gujarat",
-    "summary_80w":"Indian rooftop solar specialist Solarium has moved into PV manufacturing with the commissioning of a 1GW module facility in Gujarat.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solarium-commissions-1gw-module-facility-in-gujarat\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"Soiling losses: from modelling to PV systems simulation",
-    "summary_80w":"Soiling-related losses are among the most serious threats to PV performance, according to Tomas Cebecauer and Vicente Lara-Fanego.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/soiling-losses-from-modelling-to-pv-systems-simulation\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2925,134 +3083,6 @@
   },
   {
     "date_utc":"2026-03-18",
-    "headline":"Italy\u2019s Terna approves 3GWh BESS; project progress elsewhere in Europe",
-    "summary_80w":"Terna, the transmission system operator (TSO) of Italy, has approved the grid connection for a 500MW\/3GWh BESS project. Meanwhile several smaller projects have progressed across the rest of Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/italys-terna-approves-3gwh-bess-project-progress-elsewhere-in-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"India\u2019s cumulative solar module capacity reaches 210GW, cell capacity hits 27GW\u2014Mercom",
-    "summary_80w":"India added 119GW of solar module and over 9GW of solar cell manufacturing capacity in 2025, according to Mercom\u2019s latest report.",
-    "region":"India",
-    "country":"IN",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/indias-cumulative-solar-module-capacity-reaches-210gw-cell-capacity-hits-27gw-mercom\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"Origis Energy begins operations at 210\u202fMW Indiana PV project",
-    "summary_80w":"Origis Energy has commenced operations at its 210MWdc Wheatland utility-scale solar project in Knox County, Indiana.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/origis-energy-begins-operations-at-210-mw-indiana-pv-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"RenewSys commissions 3GW module plant in Maharashtra",
-    "summary_80w":"Indian PV encapsulant and backsheet manufacturer RenewSys has commissioned a 3GW solar module manufacturing facility in Raigad, Maharashtra.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/renewsys-commissions-3gw-module-plant-in-maharashtra\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
     "headline":"LG Energy Solution\u2019s US$4.3 billion agreement with Tesla, and LFP manufacturing with GM",
     "summary_80w":"LG Energy Solution has entered into a US$4.3 billion supply agreement with Tesla, announced by the US government, while simultaneously upgrading its EV battery plant with GM for ESS cells.",
     "region":"Global",
@@ -3176,38 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-renewables-and-battery-storage-are-poised-for-sustained-growth-as-data-centre-demand-accelerates\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"VIDEO: Interviews with IPPs R.Power, BW ESS and Econergy at the Energy Storage Summit 2026",
-    "summary_80w":"Executives from BW ESS, R.Power and Econergy, IPPs building large-scale BESS across Europe and Australia, recently sat down for video interviews at the Energy Storage Summit 2026 in London.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-interviews-with-ipps-r-power-bw-ess-and-econergy-at-the-energy-storage-summit-2026\/",
     "reliability":"trade",
     "notes":""
   }
