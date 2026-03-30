@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-03-30",
+    "headline":"1.6GWh grid-forming Rutherglen Battery receives EPBC Act approval in Australia",
+    "summary_80w":"A 1.6GWh grid-forming battery energy storage system has received EPBC Act approval in Queensland, Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/1-6gwh-grid-forming-rutherglen-battery-receives-epbc-act-approval-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-03-27",
     "headline":"A billion-dollar industry: inside the growing solar panel recycling sector in the US",
     "summary_80w":"PV Tech Premium explores the challenges of solar panel recycling, the evolving policy landscape and opportunities for recyclers in the US.",
@@ -3174,38 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/over-17gwh-of-bess-deployed-globally-in-february-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"US renewables and battery storage are poised for sustained growth as data centre demand accelerates",
-    "summary_80w":"Renewables and battery storage are quick and cheap to deploy for satisfying data centre power demand, writes Jason Kaminsky of kWh Analytics.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-renewables-and-battery-storage-are-poised-for-sustained-growth-as-data-centre-demand-accelerates\/",
     "reliability":"trade",
     "notes":""
   }
