@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-03-30",
+    "headline":"VIDEO: Grid-forming technology, from niche application to standard requirement",
+    "summary_80w":"Energy-Storage.news proudly presents our webinar with Fluence, 'Grid-forming: From niche application to standard requirement.'",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-grid-forming-technology-from-niche-application-to-standard-requirement\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
     "headline":"1.6GWh grid-forming Rutherglen Battery receives EPBC Act approval in Australia",
     "summary_80w":"A 1.6GWh grid-forming battery energy storage system has received EPBC Act approval in Queensland, Australia.",
     "region":"Global",
@@ -3174,38 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ascend-analytics-on-combining-ai-trading-with-human-insight-to-maximise-us-energy-storage-values\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"Over 17GWh of BESS deployed globally in February 2026",
-    "summary_80w":"A total of 6.9GW\/17.1GWh of grid-scale BESS came online last month, as per the most recent figures from Benchmark Mineral Intelligence.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/over-17gwh-of-bess-deployed-globally-in-february-2026\/",
     "reliability":"trade",
     "notes":""
   }
