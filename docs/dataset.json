@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2026-03-31",
+    "headline":"ROUNDUP: Non-lithium energy storage system technology advances in US, Spain, and Scotland",
+    "summary_80w":"In this news roundup, Unigrid, Inlyte Energy, CIUDEN, and Sunamp are advancing non-lithium energy storage technologies worldwide.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/roundup-non-lithium-energy-storage-system-technology-advances-in-us-spain-and-scotland\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-31",
+    "headline":"Hithium signs 3GWh long-duration BESS agreement with APAC investor Brawn Capital",
+    "summary_80w":"Hithium has signed a cooperation agreement for a potential 3GWh of battery storage deployments in the Asia-Pacific region with infrastructure investor Brawn Capital.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hithium-signs-3gwh-long-duration-bess-agreement-with-apac-investor-brawn-capital\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-31",
     "headline":"\u2018Massive reminder of geopolitical risk\u2019: Australia positioned to capture fleeing battery storage investment amid Middle East tension",
     "summary_80w":"Climate Energy Finance\u2019s Tim Buckley argues that geopolitical instability exposes Australia's oil dependency and positions the country as a safe haven for international renewable energy capital.",
     "region":"Global",
@@ -2982,38 +3046,6 @@
   },
   {
     "date_utc":"2026-03-19",
-    "headline":"Battery storage projects win 1.8GW in UK capacity market auctions",
-    "summary_80w":"UK battery storage projects won a combined 1.8GW of capacity market (CM) obligations across the T-1 and T-4 auctions.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-projects-win-1-8gw-in-uk-capacity-market-auctions\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
     "headline":"Island commissioning to battery oversizing: Key lessons from AGL\u2019s 1GWh grid-forming Liddell BESS in Australia",
     "summary_80w":"\"When we started back in two years ago, there was a lack of understanding in the market about how the grid-forming inverters operate,\" said Ghasem Jahedi, principal grid engineer at AGL.",
     "region":"Global",
@@ -3171,38 +3203,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-roundup-solar-plus-storage-projects-advance-across-the-country\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"BESS prices set to increase in short-term, but technology will \u2018continue to move goal posts\u2019 long-term",
-    "summary_80w":"The price of BESS has fallen steadily in the past few years, but recent events look set to slow or event reverse that trend at least in the short term. Video interviewees at last month's Energy Storage Summit 2026 shared their views on the topic.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bess-prices-set-to-increase-in-short-term-but-technology-will-continue-to-move-goal-posts-long-term\/",
     "reliability":"trade",
     "notes":""
   }
