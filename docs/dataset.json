@@ -1,5 +1,387 @@
 [
   {
+    "date_utc":"2026-03-31",
+    "headline":"\u2018Massive reminder of geopolitical risk\u2019: Australia positioned to capture fleeing battery storage investment amid Middle East tension",
+    "summary_80w":"Climate Energy Finance\u2019s Tim Buckley argues that geopolitical instability exposes Australia's oil dependency and positions the country as a safe haven for international renewable energy capital.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/massive-reminder-of-geopolitical-risk-australia-positioned-to-capture-fleeing-battery-storage-investment-amid-middle-east-tension\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"Adani Green Energy adds 951MW, total capacity reaches 18.93GW",
+    "summary_80w":"Indian renewable energy major Adani Green Energy has operationalised 951MW of renewable energy capacity across projects in Rajasthan and Gujarat.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/adani-green-energy-adds-951mw-total-capacity-reaches-18-93gw\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"Germany launches tender for 475MW of solar PV capacity",
+    "summary_80w":"The German Federal Network Agency has launched an innovation tender, and aims to award 475MW of new solar PV capacity by May.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/germany-launches-tender-475mw-solar-pv-capacity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"Italy\u2019s Whysol bags financing for 328MW agriPV, energy storage portfolio",
+    "summary_80w":"Italian renewables platform Whysol Renewables has secured financing towards four agrivoltaics plants and two battery energy storage systems (BESS) in southern Italy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/italys-whysol-bags-financing-for-328mw-agripv-energy-storage-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"Premier Energies commissions 5.6GW solar module facility in Telangana",
+    "summary_80w":"Indian solar manufacturer Premier Energies has commissioned a 5.6GW solar module manufacturing facility in Seetharampur, Telangana.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/premier-energies-commissions-5-6gw-solar-module-facility-in-telangana\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"India adds\u00a09.56GW of rooftop solar under nationwide scheme",
+    "summary_80w":"India has installed 9.56GW of rooftop solar capacity under the PM Surya Ghar Muft Bijli Yojana (PMSGMBY), according to government data presented in Parliament.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/india-adds-9-56gw-of-rooftop-solar-under-nationwide-scheme\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"How today\u2019s PV buyers can navigate ITC uncertainty, supply-chain risk and verification challenges",
+    "summary_80w":"The scope of supply chain diligence for PV projects in the US seeking tax credits has expanded, requiring greater vigilance in procurement, writes Intertek CEA's Paul Wormser.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-todays-pv-buyers-can-navigate-itc-uncertainty-supply-chain-risk-and-verification-challenges\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"Solarcycle, Prologis sign solar module recycling deal",
+    "summary_80w":"Solarcycle has signed an exclusive 'recycling services' agreement with Prologis, which operates over 1GW of rooftop solar capacity in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solarcycle-prologis-sign-solar-pv-module-recycling-deal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"German researchers develop perovskite solar cell weather deterioration solution",
+    "summary_80w":"German researchers at the Technical University of Munich have identified and developed a solution to prevent weather-induced deterioration of perovskite solar cells.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/german-researchers-develop-perovskite-solar-cell-weather-deterioration-solution\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"Philippines fast-tracks 1.4GW of renewables amid Iran energy price shock",
+    "summary_80w":"The Philippines has fast-tracked 1.4GW of new renewable energy projects in response to the ongoing effects of the Iran war on fossil fuel prices.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/philippines-fast-tracks-1-4gw-of-renewables-amid-iran-energy-price-shock\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"Chile: Grenergy places 2.6GWh BESS order with BYD, Engie energises 230MWh project",
+    "summary_80w":"Chile continues to be Latin America\u2019s hotspot for energy storage deployments, with a major new deal for Grenergy and Engie bringing a project online in the past week.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/chile-grenergy-places-2-6gwh-bess-order-with-byd-engie-energises-230mwh-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-03-30",
+    "headline":"European BESS route-to-market optimisers Entrix, GridBeyond raise \u20ac55 million",
+    "summary_80w":"European battery storage optimisers Entrix and GridBeyond, have between them raised \u20ac55 million (US$63.22 million) in financing from investors.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-03-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/european-bess-route-to-market-optimisers-entrix-gridbeyond-raise-e55-million\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-03-30",
     "headline":"VIDEO: Grid-forming technology, from niche application to standard requirement",
     "summary_80w":"Energy-Storage.news proudly presents our webinar with Fluence, 'Grid-forming: From niche application to standard requirement.'",
@@ -129,7 +511,7 @@
   },
   {
     "date_utc":"2026-03-27",
-    "headline":"\u2018You\u2019re going to see a lot more of these:\u2019 Maximo on robotic installation at utility-scale solar projects",
+    "headline":"\u2018You\u2019re going to see a lot more of these\u2019: Maximo on robotic installation at utility-scale solar projects",
     "summary_80w":"PV Tech spoke with Maximo on the use of robotic solar installation solution at AES' Bellefield utility-scale project and upcoming trends in PV robotics.",
     "region":"Global",
     "country":"",
@@ -2375,38 +2757,6 @@
   },
   {
     "date_utc":"2026-03-20",
-    "headline":"Newave Energia, Gerdau open 452MW Brazilian solar PV project",
-    "summary_80w":"Renewables developer Newave Energia and investment firm Gerdau have opened a 452MW solar PV plant in Brazil.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-20",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/newave-energia-gerdau-open-452mw-brazilian-solar-pv-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-20",
     "headline":"Jinko, LONGi, Tongwei and Aiko secure solar module orders exceeding 4.6GW in March",
     "summary_80w":"Since the start of March, several leading Chinese PV manufacturers have announced overseas module supply agreements.",
     "region":"Global",
@@ -2434,102 +2784,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/jinko-longi-tongwei-aiko-secure-solar-module-orders-exceeding-4-6gw-march\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-20",
-    "headline":"SolarPower Europe calls for \u2018complimentary\u2019 relationship between national auctions and corporate PPAs",
-    "summary_80w":"SolarPower Europe tells PV Tech Premium of the benefits of a \u2018complimentary\u2019 relationship between auctions and corporate PPAs.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solarpower-europe-complimentary-relationship-national-auctions-corporate-ppas\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-20",
-    "headline":"Danantara secures US$1.4 billion to build PV module assembly plant in Indonesia",
-    "summary_80w":"Danantara, has secured US$1.4 billion to back the government\u2019s push for 50GW of new renewable energy capacity by 2035, with a focus on solar.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/danantara-secures-us1-4-billion-to-build-pv-module-assembly-plant-in-indonesia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-20",
-    "headline":"Global solar PV installations reached 647GW in 2025",
-    "summary_80w":"Global solar PV installations reached 647GW in 2025, up 11% from the previous year, according to data from think tank Ember.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/global-solar-pv-installations-reached-647gw-in-2025\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2728,38 +2982,6 @@
   },
   {
     "date_utc":"2026-03-19",
-    "headline":"Construction begins on South Africa\u2019s \u2018largest\u2019 single-phase PV plant",
-    "summary_80w":"South African independent power producer (IPP) Anthem has begun construction on a 475MW solar PV project, the \u201clargest\u201d single-phase solar site in South Africa.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/construction-begins-on-south-africas-largest-single-phase-pv-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
     "headline":"Battery storage projects win 1.8GW in UK capacity market auctions",
     "summary_80w":"UK battery storage projects won a combined 1.8GW of capacity market (CM) obligations across the T-1 and T-4 auctions.",
     "region":"Global",
@@ -2787,134 +3009,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/battery-storage-projects-win-1-8gw-in-uk-capacity-market-auctions\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"California moves ahead with balcony solar bill",
-    "summary_80w":"The California Senate Energy, Utilities and Communications Committee has unanimously voted 14-0 (and 3 abstentions) in favour of a bill for balcony solar.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/california-moves-ahead-with-balcony-solar-bill\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"Avantus, Toyota complete construction at 159MW Texas solar project",
-    "summary_80w":"US solar developer Avantus and Toyota Tsusho America (TAI) have completed construction at the 159MW Norton Solar Project in Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/avantus-toyota-complete-construction-159mw-us-solar-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"Solar wafer origin could be \u2018significant risk\u2019 for US industry, lawyers warn",
-    "summary_80w":"There is \u201can emerging and significant compliance risk\u201d for US solar manufacturers and buyers around the origin of solar wafers, according to new analysis from law firm Wiley Rein.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-wafer-origin-could-be-significant-risk-for-us-industry-lawyers-warn\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"Canadian Solar expects first US-made solar cells production by end of March",
-    "summary_80w":"PV manufacturer Canadian Solar\u2019s first US-made solar cells are expected to be produced by the end of March in Jeffersonville, Indiana.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/canadian-solar-expects-first-us-made-solar-cells-production-by-end-of-march\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3109,103 +3203,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/bess-prices-set-to-increase-in-short-term-but-technology-will-continue-to-move-goal-posts-long-term\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-19",
-    "headline":"NSW\u2019s storage target jumps 40% to 56GWh as solar surge rewrites 2030 grid equation",
-    "summary_80w":"Australia\u2019s New South Wales now requires 56GWh of storage by 2030, amounting to 40% more than projected just six months ago.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/nsws-storage-target-jumps-40-to-56gwh-as-solar-surge-rewrites-2030-grid-equation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"LG Energy Solution\u2019s US$4.3 billion agreement with Tesla, and LFP manufacturing with GM",
-    "summary_80w":"LG Energy Solution has entered into a US$4.3 billion supply agreement with Tesla, announced by the US government, while simultaneously upgrading its EV battery plant with GM for ESS cells.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/lg-energy-solutions-us4-3-billion-agreement-with-tesla-and-lfp-manufacturing-with-gm\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-18",
-    "headline":"Ascend Analytics on combining AI trading with human insight to maximise US energy storage values",
-    "summary_80w":"Energy-Storage.news speaks with Michael Huisenga, Managing Director, Bid Optimisation, at Ascend Analytics, about optimising energy storage revenues, ahead of the upcoming Energy Storage Summit USA.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ascend-analytics-on-combining-ai-trading-with-human-insight-to-maximise-us-energy-storage-values\/",
     "reliability":"trade",
     "notes":""
   }
