@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-04-03",
+    "headline":"VIDEO \u2013 Energy Storage Summit 2026: How can you ensure quality and performance when buying BESS?",
+    "summary_80w":"How do you ensure quality and performance and mitigate risk when buying BESS equipment? Expert speakers from consultancies, analytics firms and independent power producers discussed the topic in a recent panel discussion. The &#8216;Product Selection, Quality, and Underperformance in Battery Storage Projects&#8217; discussion at the Energy Storage Summit 2026 in London in February included the following [&#8230;]",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-energy-storage-summit-2026-how-can-you-ensure-quality-and-performance-when-buying-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-02",
     "headline":"Qcells rolls out leasing-led solar platform for US residential sector",
     "summary_80w":"Solar manufacturer Qcells is expanding into integrated home energy systems with a new division targeting the US residential construction sector.",
@@ -3162,38 +3194,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/culture-of-collaboration-needed-australias-nsw-pushes-energy-storage-projects-from-ambition-to-operation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-23",
-    "headline":"Elevate Renewables developing 600MWh New Jersey BESS through state\u2019s energy storage programme",
-    "summary_80w":"The New Jersey Board of Public Utilities (NJBPU) has selected developer and IPP Elevate Renewables\u2019 600MWh battery energy storage system (BESS) for development in Ridgefield, New Jersey, US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/elevate-renewables-developing-600mwh-new-jersey-bess-through-states-energy-storage-programme\/",
     "reliability":"trade",
     "notes":""
   }
