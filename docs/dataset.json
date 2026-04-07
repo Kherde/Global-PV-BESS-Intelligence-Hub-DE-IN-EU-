@@ -1,5 +1,102 @@
 [
   {
+    "date_utc":"2026-04-07",
+    "headline":"NSW IPC approves 1.5GWh solar-plus-storage project in Australia",
+    "summary_80w":"The NSW IPC has approved Spark Renewables' Dinawan Solar Farm, an 800MW solar project paired with a 356MW\/1,574MWh BESS.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-07",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nsw-ipc-approves-1-5gwh-solar-plus-storage-project-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-07",
+    "headline":"Aggreko, Harmony Gold ink PPA for Australia\u2019s \u2018largest\u2019 off-grid hybrid renewable energy facility",
+    "summary_80w":"Aggreko has finalised a 15-year power purchase agreement (PPA) with international mining company Harmony Gold for the Eva Copper Mine Project in Northwest Queensland.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/aggreko-harmony-gold-ink-ppa-for-australias-largest-off-grid-hybrid-renewable-energy-facility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-07",
+    "headline":"NEM Data Spotlight: Australia\u2019s solar generation drops 24% as autumn transition erodes summer records",
+    "summary_80w":"In our latest article in the NEM Data Spotlight Series, we observe that March saw declines in both utility-scale and rooftop solar.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-australias-solar-generation-drops-24-as-autumn-transition-erodes-summer-records\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-03",
     "headline":"VIDEO \u2013 Energy Storage Summit 2026: How can you ensure quality and performance when buying BESS?",
     "summary_80w":"How do you ensure quality and performance and mitigate risk when buying BESS equipment? Expert speakers from consultancies, analytics firms and independent power producers discussed the topic in a recent panel discussion. The &#8216;Product Selection, Quality, and Underperformance in Battery Storage Projects&#8217; discussion at the Energy Storage Summit 2026 in London in February included the following [&#8230;]",
@@ -2684,70 +2781,6 @@
   },
   {
     "date_utc":"2026-03-25",
-    "headline":"US MIDWEST ROUND-UP: EDP, Linea and LRE advance solar PV projects",
-    "summary_80w":"EDP Renewables North America, Linea Energy and LRE have all advanced solar projects in the US Midwest this week.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-midwest-round-up-edp-linea-lre-advance-solar-pv-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-25",
-    "headline":"Global PV equipment market to grow over 2.5 times by 2035 \u2013 VDMA",
-    "summary_80w":"The global annual capital expenditure on PV manufacturing equipment is expected to more than double to US$43.8 billion over the next decade, according to a report from VDMA.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/global-pv-equipment-market-to-grow-over-2-5-times-by-2035-vdma\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-25",
     "headline":"American Battery Factory secures 4.5GWh offtake agreements for Arizona LFP gigafactory",
     "summary_80w":"American Battery Factory (AFB) has secured offtake agreements for 4.5GWh of its initial 5.5GWh US factory output.",
     "region":"Global",
@@ -3162,38 +3195,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-epbc-act-pipeline-swells-with-5-5gwh-of-battery-storage-across-three-states\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-23",
-    "headline":"\u2018Culture of collaboration needed\u2019: Australia\u2019s NSW pushes energy storage projects from ambition to operation",
-    "summary_80w":"Thimo Mueller, general manager of commercial at ASL, has urged that a \u2018culture of collaboration\u2019 will be key to New South Wales (NSW) achieving its energy storage targets.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/culture-of-collaboration-needed-australias-nsw-pushes-energy-storage-projects-from-ambition-to-operation\/",
     "reliability":"trade",
     "notes":""
   }
