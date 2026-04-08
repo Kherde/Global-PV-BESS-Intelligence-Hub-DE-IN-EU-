@@ -33,6 +33,38 @@
     "notes":""
   },
   {
+    "date_utc":"2026-04-08",
+    "headline":"Japanese business heavyweights in Tokyu Land\u2019s US$190 million BESS investment consortium",
+    "summary_80w":"Amid growing interest in Japan\u2019s battery storage market, a consortium of major Japanese businesses is targeting 174MW of deployments.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/japanese-business-heavyweights-in-tokyu-lands-us190-million-bess-investment-consortium\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-07",
     "headline":"NSW IPC approves 1.5GWh solar-plus-storage project in Australia",
     "summary_80w":"The NSW IPC has approved Spark Renewables' Dinawan Solar Farm, an 800MW solar project paired with a 356MW\/1,574MWh BESS.",
@@ -3162,38 +3194,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-will-install-500gwh-of-new-energy-storage-by-2031-wood-mackenzie-predicts\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-25",
-    "headline":"Ausgrid\u2019s 400MWh Steel River East BESS clears NSW planning hurdle despite community opposition",
-    "summary_80w":"The New South Wales IPC has approved Ausgrid's 400MWh Steel River East BESS located within the Hunter and Central Coast REZ.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ausgrids-400mwh-steel-river-east-bess-clears-nsw-planning-hurdle-despite-community-opposition\/",
     "reliability":"trade",
     "notes":""
   }
