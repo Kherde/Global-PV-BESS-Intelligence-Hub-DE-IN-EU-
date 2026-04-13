@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-04-13",
+    "headline":"System integrator Guoxia\u2019s revenue and profits surge over 100% amidst shift to utility-scale",
+    "summary_80w":"Energy storage firm Guoxia Technology (02655.HK) has released its first full annual report since listing on the Hong Kong Stock Exchange late last year.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/system-integrator-guoxias-revenue-and-profits-surge-over-100-amidst-shift-to-utility-scale\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-13",
     "headline":"NSW planners approve Foresight\u2019s 150MWh BESS; Banpu submits 1GWh development to Australia\u2019s EPBC Act",
     "summary_80w":"A 150MWh system has been granted approval in Australia, whilst a 1,000MWh system has been submitted for federal consideration.",
     "region":"Global",
@@ -3171,38 +3203,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/chile-grenergy-places-2-6gwh-bess-order-with-byd-engie-energises-230mwh-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-30",
-    "headline":"European BESS route-to-market optimisers Entrix, GridBeyond raise \u20ac55 million",
-    "summary_80w":"European battery storage optimisers Entrix and GridBeyond, have between them raised \u20ac55 million (US$63.22 million) in financing from investors.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/european-bess-route-to-market-optimisers-entrix-gridbeyond-raise-e55-million\/",
     "reliability":"trade",
     "notes":""
   }
