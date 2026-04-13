@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2026-04-13",
+    "headline":"NSW planners approve Foresight\u2019s 150MWh BESS; Banpu submits 1GWh development to Australia\u2019s EPBC Act",
+    "summary_80w":"A 150MWh system has been granted approval in Australia, whilst a 1,000MWh system has been submitted for federal consideration.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nsw-planners-approve-foresights-150mwh-bess-banpu-submits-1gwh-development-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-12",
+    "headline":"Powering Australia\u2019s next phase of decarbonisation: Why long-duration storage must lead",
+    "summary_80w":"James Costello, CEO of EORA Energy, argues that long-duration vanadium redox flow battery storage is critical to Western Australia's decarbonisation efforts, particularly for remote mining operations.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/powering-australias-next-phase-of-decarbonisation-why-long-duration-storage-must-lead\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-10",
     "headline":"\u2018Europe\u2019s solar market is being shaped by co-location, regulation and growing tension\u2019",
     "summary_80w":"Q&#038;A: Sarah Montgomery, founder &#038; CEO of Infyos, gives her take on the rise of co-location and growing tension in Europe's solar market.",
@@ -3139,70 +3203,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/european-bess-route-to-market-optimisers-entrix-gridbeyond-raise-e55-million\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-30",
-    "headline":"VIDEO: Grid-forming technology, from niche application to standard requirement",
-    "summary_80w":"Energy-Storage.news proudly presents our webinar with Fluence, 'Grid-forming: From niche application to standard requirement.'",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-grid-forming-technology-from-niche-application-to-standard-requirement\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-03-30",
-    "headline":"1.6GWh grid-forming Rutherglen Battery receives EPBC Act approval in Australia",
-    "summary_80w":"A 1.6GWh grid-forming battery energy storage system has received EPBC Act approval in Queensland, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-03-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/1-6gwh-grid-forming-rutherglen-battery-receives-epbc-act-approval-in-australia\/",
     "reliability":"trade",
     "notes":""
   }
