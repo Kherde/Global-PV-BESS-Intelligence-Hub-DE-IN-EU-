@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-04-15",
+    "headline":"British Gas owner Centrica activates 40MW BESS projects in Sweden, subsidiary to optimise",
+    "summary_80w":"UK energy major Centrica has activated two BESS totalling 40MW in Borl\u00e4nge, Sweden, expanding its European portfolio to more than 770MW.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-15",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/british-gas-owner-centrica-activates-40mw-bess-projects-in-sweden-subsidiary-to-optimise\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-15",
     "headline":"From \u2018refrigerators in the desert\u2019 to resilient, thermally passive BESS assets",
     "summary_80w":"Thermal management means cost, complexity and aux power consumption for battery storage projects, writes William Lauwers of Enertis Applus+.",
     "region":"Global",
@@ -3177,38 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/video-ess-2026-what-does-life-after-macse-look-like-in-italy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-01",
-    "headline":"EnerVenue closes US$300 million Series B for 30,000-cycle nickel-hydrogen battery manufacturing",
-    "summary_80w":"EnerVenue, the US company commercialising technology adapted from nickel-hydrogen batteries, has closed a US$300 million extension of its Series B preferred stock financing round.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/enervenue-closes-us300-million-series-b-for-30000-cycle-nickel-hydrogen-battery-manufacturing\/",
     "reliability":"trade",
     "notes":""
   }
