@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-04-16",
+    "headline":"Investor Wood & Co engages partners to put 145MW of BESS into Nordic electricity markets",
+    "summary_80w":"Czech investment group Wood &#038; Company (Wood &#038; Co) has hired construction and optimisation partners for large-scale battery storage projects in Finland and Sweden.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/investor-wood-co-engages-partners-to-put-145mw-of-bess-into-nordic-electricity-markets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
     "headline":"VIDEO \u2013 Energy Storage Summit 2026: How attractive is BESS for M&A?",
     "summary_80w":"The attractiveness of the BESS market for M&#038;A and investment, amidst a slowdown in activity, was discussed on a panel at the Energy Storage Summit 2026 in London.",
     "region":"Global",
@@ -3178,38 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/flexgen-acquires-us-battery-storage-and-solar-commissioning-services-provider-ces\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-03",
-    "headline":"VIDEO \u2013 Energy Storage Summit 2026: How can you ensure quality and performance when buying BESS?",
-    "summary_80w":"How do you ensure quality and performance and mitigate risk when buying BESS equipment? Expert speakers from consultancies, analytics firms and independent power producers discussed the topic in a recent panel discussion.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-energy-storage-summit-2026-how-can-you-ensure-quality-and-performance-when-buying-bess\/",
     "reliability":"trade",
     "notes":""
   }
