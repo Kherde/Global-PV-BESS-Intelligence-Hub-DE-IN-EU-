@@ -1,5 +1,104 @@
 [
   {
+    "date_utc":"2026-04-17",
+    "headline":"Synergy submits 1GW Tathra Wind Farm with 500MW BESS to Australia\u2019s EPBC Act",
+    "summary_80w":"Synergy has submitted a hybrid renewable energy project to Australia's EPBC Act, featuring a 500MW battery energy storage system (BESS).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "wind",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/synergy-submits-1gw-tathra-wind-farm-with-500mw-bess-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-17",
+    "headline":"Akaysha inks deal with Copenhagen Energy for \u2018mega-scale\u2019 battery storage projects in Germany",
+    "summary_80w":"Akaysha Energy has entered into a deal with Copenhagen Energy to advance \u201cmega-scale\u201d battery energy storage projects in Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/akaysha-inks-deal-with-copenhagen-energy-for-mega-scale-battery-storage-projects-in-germany\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Amazon signs first solar-plus-storage PPAs in Australia to power AI expansion",
+    "summary_80w":"Tech giant Amazon has announced nine new renewable energy power purchase agreements (PPAs) in Australia totalling 430MW, with eight projects featuring solar generation co-located with BESS.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/amazon-signs-first-solar-plus-storage-ppas-in-australia-to-power-ai-expansion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-16",
     "headline":"Amazon Australia puts battery storage centre stage as it inks nine PPAs for data centre expansion",
     "summary_80w":"Amazon has announced nine new renewable energy PPAs in Australia totalling 430MW of capacity, eight of which include co-located BESS.",
@@ -28,6 +127,327 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/amazon-australia-puts-battery-storage-centre-stage-as-it-inks-nine-ppas-for-data-centre-expansion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"JinkoSolar\u2019s profitability deteriorates as annual module shipments decline",
+    "summary_80w":"JinkoSolar\u2019s 2025 results have revealed declines in annual module shipments and revenues, as well as a sharp drop in profitability.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/jinkosolars-profitability-deteriorates-as-annual-module-shipments-decline\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Solar PPA prices in Q1 2026 fall in Europe, rise in North America",
+    "summary_80w":"The average price of a solar power purchase agreement (PPA) signed in Europe fell to \u20ac55.05\/MWh (US$64.83\/MWh) in the first quarter of 2026.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-ppa-prices-fall-europe-rise-us-q1-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Oxford PV\u2019s\u00a0perovskite\u00a0expertise\u00a0to\u00a0help advance solar-powered EVs",
+    "summary_80w":"UK-based perovskite PV specialist Oxford PV has joined a British research project to develop electric vehicle-integrated solar technologies.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/oxford-pvs-perovskite-expertise-to-help-advance-solar-powered-evs\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"US community solar capacity passes 10GW despite 2025 slowdown",
+    "summary_80w":"The US community solar sector passed 10GW DC of cumulative capacity in late 2025, according to a report by Wood Mackenzie and the Coalition for Community Solar Access.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-community-solar-capacity-passes-10gw-despite-2025-slowdown\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Kiwa PVEL updates module testing programme, aims to tackle glass breakage, frame failures and hail damage",
+    "summary_80w":"Kiwa PVEL has updated its solar module Production Qualification Program to better assess the performance of solar PV modules.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/kiwa-pvel-updates-module-testing-programme-glass-breakage-frame-failures-hail-damage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Solar procurement is changing as geopolitics \u2018redefines risk\u2019",
+    "summary_80w":"European solar procurement is shifting away from cost concerns towards other risks, according to speakers at the SolarPLUS Europe conference in Milan yesterday.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-procurement-is-changing-as-geopolitics-redefines-risk\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Puerto Rico approves aggregated residential energy storage motion from Tesla, Sunrun, and SunStrong",
+    "summary_80w":"The Puerto Rico Energy Bureau (PREB) has approved a motion from Tesla, residential solar and battery installer Sunrun, and residential solar installer SunStrong Management to auto-enroll participants in an emergency capacity resource programme.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/puerto-rico-approves-aggregated-residential-energy-storage-motion-from-tesla-sunrun-and-sunstrong\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Attracting infrastructure capital into large-scale battery storage: Eku Energy CEO Daniel Burrows",
+    "summary_80w":"ESN Premium discusses \"long-term value creation\" for infrastructure investors, with Daniel Burrows of BESS developer Eku Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/attracting-infrastructure-capital-into-large-scale-battery-storage-eku-energy-ceo-daniel-burrows\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Strait of Hormuz closure creates complexity for global energy storage markets",
+    "summary_80w":"Energy storage and battery market experts speak with Energy-Storage.news about current and possible supply chain and downstream impacts of the US and Israel's war on Iran.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/strait-of-hormuz-closure-creates-complexity-for-global-energy-storage-markets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-16",
+    "headline":"Virginia Governor Abigail Spanberger signs legislation mandating 20.78GW of energy storage",
+    "summary_80w":"Virginia, US Governor Abigail Spanberger has signed legislation authorising the state to target a total of 20.78GW of energy storage capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/virginia-governor-abigail-spanberger-signs-legislation-mandating-20-78gw-of-energy-storage\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2603,167 +3023,6 @@
   },
   {
     "date_utc":"2026-04-08",
-    "headline":"PV capex spending set for rebound in 2026",
-    "summary_80w":"PV manufacturing capital expenditure is expected to rebound this year, following two years in the doldrums as the industry weathered a global oversupply of modules, new figures show.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pv-capex-spending-set-for-rebound-in-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Global solar capex rebound in 2026 driven by investment in US and India",
-    "summary_80w":"After a sharp decline in 2023, PV manufacturing capital expenditure is set to bounce back this year, and not just in China, writes Moustafa Ramadan.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/global-solar-capex-rebound-in-2026-driven-by-investment-in-us-and-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Maxeon applies for \u2018judicial management\u2019 in Singapore as creditors seek more than US$70 million",
-    "summary_80w":"Embattled solar manufacturer Maxeon has applied for \u2018judicial management\u2019 in Singapore, following a challenging year for the company.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/maxeon-applies-judicial-management-singapore-creditors-more-than-us70-million\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Heelstone begins construction on 200MW US solar PV portfolio",
-    "summary_80w":"Solar developer Heelstone Renewable Energy has started construction on two US solar PV projects with a combined capacity of 206MW.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/heelstone-begins-construction-on-200mw-us-solar-pv-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Australian utility-scale solar and wind generation reaches 4.7TWh in March 2026",
-    "summary_80w":"Australia's utility-scale solar PV and wind assets generated a combined 4.7TWh in March 2026, according to data from Rystad Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australian-utility-scale-solar-and-wind-generation-reaches-4-7twh-in-march-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
     "headline":"US battery storage developers get creative as pure merchant model fades",
     "summary_80w":"A panel at the 2026 US Energy Storage Summit in Dallas, Texas, discussed the \u201ccreative, innovative structures\u201d developers are having to embrace to secure long-term revenues for energy storage projects.",
     "region":"Global",
@@ -2894,102 +3153,6 @@
   },
   {
     "date_utc":"2026-04-07",
-    "headline":"NSW IPC approves 1.5GWh solar-plus-storage project in Australia",
-    "summary_80w":"The NSW IPC has approved Spark Renewables' Dinawan Solar Farm, an 800MW solar project paired with a 356MW\/1,574MWh BESS.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/nsw-ipc-approves-1-5gwh-solar-plus-storage-project-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
-    "headline":"Federal permitting delays in the US could drive cost of renewable energy deployment up by 10%",
-    "summary_80w":"Federal permitting delays have held up 11GW of new renewable energy deployment in the US in the last year alone, according to Crux.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-federal-permitting-delays-drive-cost-of-renewable-energy-deployment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
-    "headline":"PPC Group completes construction at 2.1GW Greek solar PV portfolio",
-    "summary_80w":"The PPC Group has completed construction of a 2.13GW solar PV portfolio in Greece, which it described as the \"largest\" cluster in Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ppc-group-completes-construction-2-1gw-greek-solar-pv-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
     "headline":"VIDEO: Extracting more value from battery storage assets in Australia\u2019s NEM",
     "summary_80w":"In this webinar, GridBeyond's Scott Berrie and Paul Conlon explore how to extract more value from battery storage assets in Australia\u2019s NEM.",
     "region":"Global",
@@ -3049,167 +3212,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/co2-battery-startup-energy-dome-signs-mou-to-deploy-technology-at-texas-data-centre\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
-    "headline":"Boralex, Six Nations of the Grand River secure US$145 million financing for 500MWh Ontario BESS",
-    "summary_80w":"Quebec-based IPP Boralex and Six Nations of the Grand River Development Corporation (SNGRDC) have announced the closing of a CA$202 million (US$145.12 million) financing for a 125MW\/500MWh battery energy storage system (BESS) in Oxford County, Ontario, CA.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/boralex-six-nations-of-the-grand-river-secure-us145-million-financing-for-500mwh-ontario-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
-    "headline":"North Dakota approves certificate of site compatibility for 400MWh BESS from NextEra Energy Resources",
-    "summary_80w":"The project represents a US$128.6 million investment and is scheduled to begin construction this year, with commercial operations commencing in December 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/north-dakota-approves-certificate-of-site-compatibility-for-400mwh-bess-from-nextera-energy-resources\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
-    "headline":"CATL, Envision sodium-ion BESS cells among next-gen tech and solutions showcased at Beijing expo ESIE 2026",
-    "summary_80w":"China's biggest energy storage companies were out in force at a recent trade expo in Beijing, with integrated offerings, bigger battery cells, data centre solutions and sodium-ion products among the new products and tech on show.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/catl-envision-sodium-ion-bess-cells-among-next-gen-tech-and-solutions-showcased-at-beijing-expo-esie-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
-    "headline":"Neoen enlists Nidec for 496MWh France BESS, launches Japan project",
-    "summary_80w":"IPP Neoen will start construction on large-scale BESS projects in France and Japan in the coming months.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/neoen-enlists-nidec-for-496mwh-france-bess-launches-japan-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-07",
-    "headline":"FlexGen acquires US battery storage and solar commissioning services provider CES",
-    "summary_80w":"FlexGen has acquired CES, which has to date commissioned more than 15GWh of battery energy storage system (BESS) projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/flexgen-acquires-us-battery-storage-and-solar-commissioning-services-provider-ces\/",
     "reliability":"trade",
     "notes":""
   }
