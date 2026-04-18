@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-04-17",
+    "headline":"Toyo centres US efforts in Texas as it looks to build policy-proof supply chain",
+    "summary_80w":"PV Talk: Toyo's Rhone Resch talks about the company\u2019s US strategy and its work to build a localised, vertically-integrated supply chain.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/toyo-centres-us-efforts-in-texas-as-it-looks-to-build-policy-proof-supply-chain\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-17",
     "headline":"Synergy submits 1GW Tathra Wind Farm with 500MW BESS to Australia\u2019s EPBC Act",
     "summary_80w":"Synergy has submitted a hybrid renewable energy project to Australia's EPBC Act, featuring a 500MW battery energy storage system (BESS).",
     "region":"Global",
@@ -30,6 +62,167 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/synergy-submits-1gw-tathra-wind-farm-with-500mw-bess-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-17",
+    "headline":"Solar auctions to provide security in France as corporate PPAs remain second choice",
+    "summary_80w":"France remains an 'attractive' solar market, and a 'stable environment' for potential investors, according to Ksenia Dray.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-auctions-provide-security-france-corproate-ppas-remain-second-choice\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-17",
+    "headline":"Matrix Renewables begins commercial operations at 210MW Texas PV project",
+    "summary_80w":"US independent power producer (IPP) Matrix Renewables has begun operations on the 210MW Stillhouse solar PV project in Bell County, Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/matrix-renewables-begins-commercial-operations-at-210mw-texas-pv-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-17",
+    "headline":"Freedom Forever files for Chapter 11 bankruptcy with $500 million debts",
+    "summary_80w":"US residential solar installer Freedom Forever has filed for Chapter 11 bankruptcy amid a broad set of litigation claims.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/freedom-forever-files-for-chapter-11-bankruptcy-with-500-million-debts\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-17",
+    "headline":"EBRD provides US$65 million loan for 200MW solar-plus-storage project in Egypt",
+    "summary_80w":"EBRD backs HAU Energy with US$65 million loan for 200MW solar PV and 120MWh storage project in Benban, Egypt.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ebrd-provides-us65-million-loan-for-200mw-solar-plus-storage-project-in-egypt\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-17",
+    "headline":"VIDEO \u2013 Energy Storage Summit 2026: Lessons learned from BESS construction projects",
+    "summary_80w":"Building BESS is complicated, with myriad considerations around supplier contracts, site acceptance tests, data analysis, interface between different contractors.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-energy-storage-summit-2026-lessons-learned-from-bess-construction-projects\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2926,167 +3119,6 @@
   },
   {
     "date_utc":"2026-04-08",
-    "headline":"\u2018Where California goes, so do other states\u2019",
-    "summary_80w":"PV Tech Premium examines the recent challenges facing California's rooftop solar industry and what lies ahead for VPPs and balcony solar.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/where-california-goes-so-do-other-states\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Societe Generale, EIB finance 137MW solar PV project in Italy",
-    "summary_80w":"Societe Generale and the EIB have signed a US$178.9 million financing agreement for the construction of a 137MW solar PV project in Italy.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/societe-generale-eib-finance-137mw-solar-pv-project-in-italy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Fraunhofer scientists reduce TOPCon silver consumption \u2018by factor of 10\u2019",
-    "summary_80w":"Scientists at the Fraunhofer Institute for Solar Energy Systems ISE claim to have reduced the silver content of TOPCon solar cells tenfold.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/fraunhofer-scientists-reduce-topcon-silver-consumption-by-factor-of-10\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Turkey must triple solar and wind capacity to meet 2035 targets \u2013 Ember",
-    "summary_80w":"Turkey must deploy around 8GW of new capacity annually to meet its 2035 target of 120GW of installed solar and wind, a new report says.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/turkey-must-triple-solar-and-wind-capacity-to-meet-2035-targets-ember\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"World adds more than 200GW of utility-scale solar PV capacity in 2025",
-    "summary_80w":"The world added more than 200GW of new utility-scale solar PV capacity in 2025, according to figures from Wiki-Solar.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/world-adds-more-than-200gw-utility-scale-solar-pv-capacity-2025\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
     "headline":"US battery storage developers get creative as pure merchant model fades",
     "summary_80w":"A panel at the 2026 US Energy Storage Summit in Dallas, Texas, discussed the \u201ccreative, innovative structures\u201d developers are having to embrace to secure long-term revenues for energy storage projects.",
     "region":"Global",
@@ -3180,38 +3212,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ipps-zelestra-bnz-adding-bess-to-solar-pv-plants-in-southern-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Japanese business heavyweights in Tokyu Land\u2019s US$190 million BESS investment consortium",
-    "summary_80w":"Amid growing interest in Japan\u2019s battery storage market, a consortium of major Japanese businesses is targeting 174MW of deployments.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/japanese-business-heavyweights-in-tokyu-lands-us190-million-bess-investment-consortium\/",
     "reliability":"trade",
     "notes":""
   }
