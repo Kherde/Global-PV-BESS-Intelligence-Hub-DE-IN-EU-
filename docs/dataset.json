@@ -1,5 +1,133 @@
 [
   {
+    "date_utc":"2026-04-20",
+    "headline":"HDRE, Tokyo Gas sign 150MW BESS deal in Japan as trading, curtailment and disaster relief drive use cases in growing market",
+    "summary_80w":"HD Renewable Energy and utility Tokyo Gas signed a deal for two large-scale projects in another busy week for Japan\u2019s growing battery storage market.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hdre-tokyo-gas-sign-150mw-bess-deal-in-japan-as-trading-curtailment-and-disaster-relief-drive-use-cases-in-growing-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"Pacific Energy to deliver 81MWh battery storage systems to Australia\u2019s Northern Territory",
+    "summary_80w":"Pacific Energy has been awarded a contract by Territory Generation to deliver 81MWh BESS across Australia's Northern Territory.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/pacific-energy-to-deliver-81mwh-battery-storage-systems-to-australias-northern-territory\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"CleanPeak acquires sub-5MW solar and battery storage specialist Sustainable Energy Infrastructure in Australia",
+    "summary_80w":"CleanPeak Energy Holdings has signed an agreement to acquire 100% of Sustainable Energy Infrastructure (SEI), one of Australia's largest owners and developers of sub-5MW solar and battery storage assets.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/cleanpeak-acquires-sub-5mw-solar-and-battery-storage-specialist-sustainable-energy-infrastructure-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"Recurrent Energy\u2019s 600MWh Sundown Energy Park clears Australia\u2019s rigorous grid connection process",
+    "summary_80w":"Recurrent Energy Australia has achieved grid connection approval under clause 5.3.4 of the National Electricity Rules from the Australian Energy Market Operator (AEMO) for its Sundown Energy Park.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/recurrent-energys-600mwh-sundown-energy-park-clears-australias-rigorous-grid-connection-process\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-17",
     "headline":"Toyo centres US efforts in Texas as it looks to build policy-proof supply chain",
     "summary_80w":"PV Talk: Toyo's Rhone Resch talks about the company\u2019s US strategy and its work to build a localised, vertically-integrated supply chain.",
@@ -2635,39 +2763,6 @@
   },
   {
     "date_utc":"2026-04-09",
-    "headline":"Private Energy Partners submits 780MW battery storage project to Australia\u2019s EPBC Act",
-    "summary_80w":"Private Energy Partners has submitted a hybrid energy project to Australia's environmental approval process, proposing a 780MW BESS.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/private-energy-partners-submits-780mw-battery-storage-project-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
     "headline":"Novar acquires 100MW solar PV plant in Germany, potential to co-locate 160MWh BESS",
     "summary_80w":"Dutch-based solar developer Novar has acquired a 100MW solar PV plant in Baden-W\u00fcrttemberg, a southern state in Germany.",
     "region":"Germany",
@@ -3114,104 +3209,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/kwh-analytics-launches-extreme-weather-insurance-data-sharing-scheme\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"US battery storage developers get creative as pure merchant model fades",
-    "summary_80w":"A panel at the 2026 US Energy Storage Summit in Dallas, Texas, discussed the \u201ccreative, innovative structures\u201d developers are having to embrace to secure long-term revenues for energy storage projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-battery-storage-developers-get-creative-as-pure-merchant-model-fades\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"Canada\u2019s smallest province, Prince Edward Island, issues REOI for up to 50MW of BESS",
-    "summary_80w":"The Canadian Province of Prince Edward Island\u2019s PEI Energy Corporation (PEIEC) has issued a request for expressions of interest (REOI) for a 10-50MW, four-hour duration battery energy storage system (BESS).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/canadas-smallest-province-prince-edward-island-issues-reoi-for-up-to-50mw-of-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"IPPs Zelestra, BNZ adding BESS to solar PV plants in Southern Europe",
-    "summary_80w":"IPPs Zelestra, BNZ and ALFI have secured offtake and financing to hybridise solar projects with BESS across Spain, Italy, Portugal and Romania.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ipps-zelestra-bnz-adding-bess-to-solar-pv-plants-in-southern-europe\/",
     "reliability":"trade",
     "notes":""
   }
