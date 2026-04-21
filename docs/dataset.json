@@ -1,5 +1,325 @@
 [
   {
+    "date_utc":"2026-04-21",
+    "headline":"Australia\u2019s PowerPlus Energy to triple battery module production capacity to 150MWh with ARENA funding",
+    "summary_80w":"Victorian energy storage designer and manufacturer PowerPlus Energy has secured AU$2.3 million (US$1.65 million) in funding from ARENA.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-powerplus-energy-to-triple-battery-module-production-capacity-to-150mwh-with-arena-funding\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-21",
+    "headline":"Genesis Energy greenlights \u2018lowest cost\u2019 grid-scale BESS in New Zealand",
+    "summary_80w":"New Zealand generator-retailer Genesis Energy has reached Final Investment Decision (FID) on the second stage of its Huntly battery energy storage system (BESS).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/genesis-energy-greenlights-lowest-cost-grid-scale-bess-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"NTPC Green Energy commissions 237.5MW of 300MW solar project in Rajasthan",
+    "summary_80w":"NTPC Green Energy, the renewables arm of state power company NTPC, has commissioned 237.5MW of a 300MW solar project it is building in Rajasthan.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ntpc-green-energy-commissions-237-5mw-of-300mw-solar-project-in-rajasthan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"Global solar PV additions exceed 600GW in 2025, says IEA",
+    "summary_80w":"Solar PV accounted for more than a quarter of total global energy demand growth in 2025, becoming the single largest contributor to new energy supply, according to the International Energy Agency.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/global-solar-pv-additions-exceed-600gw-in-2025-says-iea\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"Italy installed 1.4GW solar PV in Q1 2026, residential continues to slow",
+    "summary_80w":"Solar PV installations for the first three months of 2026 reached 1.4GW in Italy, according to data from trade body Italia Solare.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/italy-installed-1-4gw-solar-pv-in-q1-2026-residential-continues-to-slow\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"USPTO throws out Trina Solar TOPCon patent claims against Canadian Solar, Runergy",
+    "summary_80w":"The US Patent and Trademark Office (USPTO) issued a Final Written Decision on patent litigations launched by Chinese solar manufacturer Trina Solar.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/uspto-overthrows-trina-solar-topcon-patent-claims-against-canadian-solar-runergy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"Jinko launches lightweight TOPCon solar module",
+    "summary_80w":"Chinese PV manufacturer JinkoSolar has launched a new lightweight solar module designed for low-load-bearing rooftops.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/jinko-launches-lightweight-topcon-solar-module\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"VSUN solar modules detained under UFLPA, could knock US$30 million off company earnings",
+    "summary_80w":"US Customs and Border Protection (CBP) has detained solar modules produced by Vietnam-based solar manufacturer VSUN under the Uyghur Forced Labor Prevention Act (UFLPA).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/vsun-solar-modules-detained-under-uflpa-could-knock-us30-million-off-company-earnings\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"US ROUNDUP: BESS developers highlight \u2018bring your own capacity\u2019 model in data centre announcements",
+    "summary_80w":"In this US news roundup, Eos and Turbine-X, CPower and Vertiv, and Elevate Renewables highlight the 'bring your own capacity\u2019 model in data centre-focused announcements.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-bess-developers-highlight-bring-your-own-capacity-model-in-data-centre-announcements\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-20",
+    "headline":"BESS analytics \u2018bridge the gap between technical performance and commercial outcomes\u2019",
+    "summary_80w":"Lennart Hinrichs, executive VP and general manager for Americas at TWAICE, discusses the value proposition of BESS data analytics for the North American market.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bess-analytics-bridge-the-gap-between-technical-performance-and-commercial-outcomes\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-20",
     "headline":"HDRE, Tokyo Gas sign 150MW BESS deal in Japan as trading, curtailment and disaster relief drive use cases in growing market",
     "summary_80w":"HD Renewable Energy and utility Tokyo Gas signed a deal for two large-scale projects in another busy week for Japan\u2019s growing battery storage market.",
@@ -2829,167 +3149,6 @@
   },
   {
     "date_utc":"2026-04-09",
-    "headline":"Italy \u2018definitely\u2019 most attractive European market for solar development",
-    "summary_80w":"Italy is the most attractive European country for solar development, according to the chief of staff of German independent power producer (IPP), Encavis.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/italy-definitely-most-attractive-european-market-for-solar-development\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"Why European solar has been \u2018a victim of its own success\u2019",
-    "summary_80w":"PV Talk: JP Kock of IPP Encavis discusses why the competitive landscape of Europe's solar market is in store for a shake-up.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/why-european-solar-has-been-a-victim-of-its-own-success\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"Voltalia commissions 148MW solar PV plant in South Africa with Rio Tinto subsidiary PPA",
-    "summary_80w":"French renewables company Voltalia has fully commissioned the 148MW Bolobedu solar farm in Limpopo province, South Africa.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/voltalia-commissions-148mw-solar-pv-plant-in-south-africa-with-rio-tinto-subsidiary-ppa\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"South Australia opens tender for large-scale renewables under Australian-first legislation",
-    "summary_80w":"South Australia has opened applications for renewable energy feasibility licences across more than 11,000 square kilometres of land with some of the state's highest coincident wind and solar resources.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/south-australia-opens-tender-for-large-scale-renewables-under-australian-first-legislation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"Next-generation solar modules could degrade faster than expected, new UNSW research warns",
-    "summary_80w":"Researchers at the University of New South Wales (UNSW) have developed the world's first comprehensive map of ultraviolet (UV) radiation for solar modules.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/next-generation-solar-modules-could-degrade-faster-than-expected-new-unsw-research-warns\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
     "headline":"VIDEO \u2013 Energy Storage Summit 2026: What is the outlook for BESS Capex this year?",
     "summary_80w":"What does the combination of regulatory, supply chain and market pressures mean for the cost of building large-scale BESS this year?",
     "region":"Global",
@@ -3049,166 +3208,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/gridstor-axpo-execute-energy-storage-revenue-swap-agreement-for-440mwh-texas-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"VIDEO: European BESS integration with Chinese cells can be competitive, says Maxxen\u2019s Ruben Valiente",
-    "summary_80w":"Maxxen managing director Ruben Valiente speaks with Energy-Storage.news editor Andy Colthorpe at Energy Storage Summit 2026 in London.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-european-bess-integration-with-chinese-cells-can-be-competitive-says-maxxens-ruben-valiente\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"Beyond 314Ah: A comparison of large-format LFP battery cells for BESS",
-    "summary_80w":"We analyse and compare the metrics of the various LFP battery cells of 587Ah and above, from leading providers CATL, Eve Energy, Hithium, Rept Battero, CALB and BYD.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/beyond-314ah-a-comparison-of-large-format-lfp-battery-cells-for-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"Engie buys 1.1GWh of synchronous condenser-paired BESS in Spain, starts building 220MWh France project",
-    "summary_80w":"Multinational power firm Engie has acquired two large-scale BESS projects in Spain, paired with synchronous condensers and has launched construction on a BESS in France.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/engie-buys-1-1gwh-of-synchronous-condenser-paired-bess-in-spain-starts-building-220mwh-france-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-09",
-    "headline":"EU-India trade agreement will propel innovation in energy storage",
-    "summary_80w":"The recent European Union-India agreement could unlock innovation and scale in energy storage, writes Eugene Beh, CEO of Quino Energy.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eu-india-trade-agreement-will-propel-innovation-in-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-08",
-    "headline":"kWh Analytics launches extreme weather insurance data sharing scheme",
-    "summary_80w":"kWh Analytics subsidiary, Solar Energy Insurance Services, has launched a data-sharing initiative that rewards renewable energy assets for efforts in extreme weather mitigation.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/kwh-analytics-launches-extreme-weather-insurance-data-sharing-scheme\/",
     "reliability":"trade",
     "notes":""
   }
