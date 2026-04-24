@@ -1,5 +1,102 @@
 [
   {
+    "date_utc":"2026-04-24",
+    "headline":"Australian Energy Market Commission proposes 20-year distribution planning framework to ease solar curtailment",
+    "summary_80w":"The AEMC has released a draft rule to modernise distribution network planning in response to the rapid uptake of CERs.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australian-energy-market-commission-proposes-20-year-distribution-planning-framework-to-ease-solar-curtailment\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-24",
+    "headline":"Grid-forming inverters feature in 74% of Australia\u2019s 33.2GW NEM battery storage pipeline",
+    "summary_80w":"Around 74% of battery storage projects in Australia's NEM pipeline are confirmed to be equipped with grid-forming inverters, says AEMO.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/grid-forming-inverters-feature-in-74-of-australias-33-2gw-nem-battery-storage-pipeline\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"EBRD to finance 450MW solar-plus-storage project in Hungary",
+    "summary_80w":"Renalfa IPP has secured funding from the European Bank for Reconstruction and Development (EBRD) for its Szihalom 450MW solar-plus-storage project in Hungary.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ebrd-finance-renalfa-450mw-hungary-solar-plus-storage-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-23",
     "headline":"AccelerateEU \u2018emergency toolbox\u2019 policy on fossil fuel dependence falls short on energy storage, trade groups say",
     "summary_80w":"Measures to limit EU exposure to fossil fuel supply chain and energy price shocks are welcome, but many questions remain, clean energy associations have said.",
@@ -33,6 +130,231 @@
   },
   {
     "date_utc":"2026-04-23",
+    "headline":"Dutch startup Resilicon granted NZIA support for new European polysilicon plant",
+    "summary_80w":"A planned 13GW polysilicon production plant in the Netherlands, powered by renewable energy, has been designated as a strategic project under the EU\u2019s Net Zero Industry Act (NZIA).",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/dutch-startup-resilicon-granted-nzia-support-for-new-european-polysilicon-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"Masdar forms renewables JV with Montenegro state utility",
+    "summary_80w":"UAE state-owned renewables developer Masdar has established a joint venture (JV) with the national power utility of Montenegro to develop \u201clarge-scale\u201d clean energy projects in the country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/masdar-forms-renewables-jv-with-montenegro-state-utility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"Global Solar Council appoints new strategic board",
+    "summary_80w":"The Global Solar Council has announced a new management and strategy board drawn from across the solar and storage industries.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/global-solar-council-appoints-new-strategic-board\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"Amperon unveils probabilistic forecasting tools for solar and wind assets",
+    "summary_80w":"US-based forecasting company Amperon has launched a new AI-based short-term probabilistic forecasting tool for solar and wind generation assets.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/amperon-solar-wind-probabilistic-forecasting-tool-ai\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"New York state grants siting permits to 125MW solar-plus-storage project",
+    "summary_80w":"New York state has granted final siting permits to the AES Corporation\u2019s 125MW Sugar Maple solar-plus-storage project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/new-york-state-grants-siting-permits-125mw-solar-plus-storage-sugar-maple-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"Polish 204MW solar PV plant begins balancing services, \u2018first of its kind\u2019 in country",
+    "summary_80w":"The 204MW Zwartowo solar power plant has entered the Polish balancing energy market, a first in the country, according to German PV developer Goldbeck Solar.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"grid",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/polish-204mw-solar-pv-plant-begins-balancing-services-first-of-its-kind-in-country\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"Evren secures US$600 million to develop 1GW hybrid FDRE portfolio in India",
+    "summary_80w":"Evren has secured US$600 million in financing to develop a 1GW hybrid firm and dispatchable renewable energy (FDRE) portfolio across Andhra Pradesh and Rajasthan.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/evren-secures-us600-million-to-develop-1gw-hybrid-fdre-portfolio-in-india\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
     "headline":"Australia: European Energy\u2019s 31MW Mulwala solar PV plant registered in AEMO system",
     "summary_80w":"The 31MW Mulwala Solar Farm in New South Wales has been registered in the Australian Energy Market Operator's Market Management System (MMS).",
     "region":"Europe",
@@ -60,6 +382,134 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australia-european-energys-31mw-mulwala-solar-pv-plant-registered-in-aemo-system\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"RWE and Polarium to combine distributed batteries into 50MW\/135MWh Germany VPP",
+    "summary_80w":"Power firm RWE has partnered with distributed battery storage firm Polarium for a battery-based virtual power plant (VPP) in Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rwe-and-polarium-to-combine-distributed-batteries-into-50mw-135mwh-germany-vpp\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"US battery recycling in doldrums: updates from Redwood Materials, Ascend Elements",
+    "summary_80w":"Two US battery recycling companies, Redwood Materials, and Ascend Elements, are in less than optimal situations, with Redwood laying off 135 employees, and Ascend filing for Chapter 11 bankruptcy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-battery-recycling-in-doldrums-updates-from-redwood-materials-ascend-elements\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"Tesla reports declines in quarterly energy storage revenues and deployments",
+    "summary_80w":"Tesla\u2019s quarterly energy storage deployments fell 15% while revenues for its energy division dropped 12% year-over-year from Q1 2025 to Q1 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/tesla-reports-declines-in-quarterly-energy-storage-revenues-and-deployments\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-23",
+    "headline":"Green Capital enlists EPC Electrum for 320MWh Poland BESS, under full wrap for \u2018cost predictability\u2019",
+    "summary_80w":"Developer-operator Green Capital and EPC firm Electrum Holding have signed an agreement to build an 80MW\/320MWh BESS in Poland, under a full 'wrap' model.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/green-capital-enlists-epc-electrum-for-320mwh-poland-bess-under-full-wrap-for-cost-predictability\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2506,102 +2956,6 @@
   },
   {
     "date_utc":"2026-04-15",
-    "headline":"Jupiter, Ampin open 1.3GW solar cell and module facility in Odisha",
-    "summary_80w":"Jupiter International and Ampin Energy Transition have commissioned a 1.3GW integrated solar cell and module manufacturing facility in Bhubaneswar, Odisha.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/jupiter-ampin-open-1-3gw-solar-cell-and-module-facility-in-odisha\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-15",
-    "headline":"Suniva boosts US cell production to 5.5GW with new facility",
-    "summary_80w":"US-based PV manufacturer Suniva is to open a new solar cell manufacturing facility in Laurens, South Carolina.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/suniva-boosts-us-cell-production-to-5-5gw-with-new-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-15",
-    "headline":"R.Power secures funds for 80MW Polish PV plant",
-    "summary_80w":"Polish independent power producer (IPP) R.Power Renewables has secured project financing to support an 80MW solar PV project in Poland.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/r-power-secures-funds-for-80mw-polish-pv-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-15",
     "headline":"VIDEO: \u2018It\u2019s going to massively scale here\u2019: Fluence chief predicts data centre battery storage slingshot in Australia",
     "summary_80w":"Fluence\u2019s chief growth officer, Jeff Monday, and Australia strategy lead, Sam Markham, discuss hyperscale opportunities, grid-forming evolution, and the company's high-density Smartstack deployment plans.",
     "region":"Global",
@@ -2826,201 +3180,6 @@
   },
   {
     "date_utc":"2026-04-14",
-    "headline":"GAIL invests in 700MW solar, 572MWh storage projects across India",
-    "summary_80w":"GAIL will invest INR38 billion (US$408 million) to develop 700MW of solar projects across Uttar Pradesh and Maharashtra.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/gail-invests-in-700mw-solar-572mwh-storage-projects-across-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"India\u2019s MNRE expands ALMM List-II to 27.8GW, adds HJT cells for the first time",
-    "summary_80w":"India\u2019s MNRE has expanded the ALMM List-II for solar cells to 27.8GW, and added HJT cells for the first time.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/indias-mnre-expands-almm-list-ii-to-27-8gw-adds-hjt-cells-for-the-first-time\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Fraunhofer ISE launches consultancy spin-off NEXUS GreenTech",
-    "summary_80w":"Fraunhofer ISE has launched a new consultancy spin-off\u2014NEXUS GreenTech\u2014to support companies active in the solar PV industry.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/fraunhofer-ise-launches-consultancy-spin-off-nexus-greentech\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Fortescue to start operations at Western Australia solar-plus-storage hub in 2028",
-    "summary_80w":"Fortescue has announced plans to build a 1.8GW renewable energy portfolio, with a 4-5GWh of batteries, in Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/fortescue-start-operations-western-australia-solar-plus-storage-hub-2028\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Premier Energies secures 1.6GW solar cell and module supply orders",
-    "summary_80w":"Premier Energies is set to supply 1.6GW of solar cells and modules in the fourth quarter of 2026, under contracts valued at INR25.77 billion (US$276 million).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/premier-energies-secures-1-6gw-solar-cell-and-module-supply-orders\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Climate Council: Solar and battery storage offer Australia protection from AU$1 billion monthly fuel price shocks",
-    "summary_80w":"Accelerating solar deployment and electrification offers Australia's most effective defence against volatile global energy markets, according to a new Climate Council report released.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/climate-council-solar-and-battery-storage-offer-australia-protection-from-au1-billion-monthly-fuel-price-shocks\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
     "headline":"Informa Markets brings Battery Asset Management Summit to Canada as energy storage market reaches critical deployment phase",
     "summary_80w":"Informa Markets is launching the inaugural Battery Asset Management Summit, Canada (BAM Canada).",
     "region":"Global",
@@ -3048,166 +3207,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/informa-markets-brings-battery-asset-management-summit-to-canada-as-energy-storage-market-reaches-critical-deployment-phase\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Europe deploys 3.4GWh of BESS in March, 19% of global total",
-    "summary_80w":"Over 1.4GW\/3.4GWh of grid-scale BESS came online in Europe, likely its best month ever, accounting for almost a fifth of global figures.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/europe-deploys-3-4gwh-of-bess-in-march-19-of-global-total\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Germany: NGEN starts building 100MWh BESS, Harmony Energy secures 3GWh pipeline financing",
-    "summary_80w":"NGEN and Harmony Energy have made strides in deploying large-scale BESS projects in Germany, launching construction and securing pipeline financing respectively.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/germany-ngen-starts-building-100mwh-bess-harmony-energy-secures-3gwh-pipeline-financing\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Experts weigh in on navigating supply chain bottlenecks in US energy storage",
-    "summary_80w":"A panel at the 2026 US Energy Storage Summit in Dallas, Texas, focused on the evolving landscape of battery energy storage system (BESS) procurement.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/experts-weigh-in-on-navigating-supply-chain-bottlenecks-in-us-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Vietnam\u2019s GG Power opens 5GWh BESS factory, government emphasises support for local supply chain",
-    "summary_80w":"Vietnam\u2019s government will \u201camend policies\u201d to support production of clean energy technologies, a minister has said at the opening of a battery energy storage system (BESS) factory.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/vietnams-gg-power-opens-5gwh-bess-factory-government-emphasises-support-for-local-supply-chain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-14",
-    "headline":"Copenhagen Infrastructure Partners sells 960MWh Summerfield Battery to Palisade in South Australia",
-    "summary_80w":"Copenhagen Infrastructure Partners has sold its 240MW\/960MWh Summerfield Battery to Palisade Investment Partners in South Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/copenhagen-infrastructure-partners-sells-960mwh-summerfield-battery-to-palisade-in-south-australia\/",
     "reliability":"trade",
     "notes":""
   }
