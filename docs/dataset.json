@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-04-27",
+    "headline":"Australian court amends consent for Hydrostor\u2019s 1.6GWh long-duration energy storage project following appeal",
+    "summary_80w":"The Land and Environment Court of New South Wales has upheld an appeal regarding Hydrostor\u2019s 1.6GWh A-CAES project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australian-court-amends-consent-for-hydrostors-1-6gwh-long-duration-energy-storage-project-following-appeal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-24",
     "headline":"Saatvik moves into transformers with 80% Melcon acquisition",
     "summary_80w":"Indian module manufacturer Saatvik Green Energy has acquired an 80% equity stake in Melcon Transformers and Electricals.",
@@ -3170,38 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/video-its-going-to-massively-scale-here-fluence-chief-predicts-data-centre-battery-storage-slingshot-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-15",
-    "headline":"\u2018Unfettered optimism\u2019 on US BESS degradation hits wall of operational reality",
-    "summary_80w":"Industry leaders warned that \"unfettered optimism\" regarding battery degradation is hitting a wall of operational reality.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/unfettered-optimism-on-us-bess-degradation-hits-wall-of-operational-reality\/",
     "reliability":"trade",
     "notes":""
   }
