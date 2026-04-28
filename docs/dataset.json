@@ -32,6 +32,39 @@
   },
   {
     "date_utc":"2026-04-28",
+    "headline":"Sumitomo Electric flow battery wins Japanese transmission operator HEPCO\u2019s renewables integration tender",
+    "summary_80w":"Sumitomo Electric will supply a vanadium redox flow battery (VRFB) energy storage system to enable grid integration of wind energy in Hokkaido, northern Japan.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sumitomo-electric-flow-battery-wins-japanese-transmission-operator-hepcos-renewables-integration-tender\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-28",
     "headline":"Sungrow re-files submission for Hong Kong Stock Exchange IPO",
     "summary_80w":"PV inverter manufacturer and energy storage system integrator Sungrow has re-filed its listing application to the Hong Kong Stock Exchange (HKEX).",
     "region":"Global",
@@ -3166,38 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/attracting-infrastructure-capital-into-large-scale-battery-storage-eku-energy-ceo-daniel-burrows\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-16",
-    "headline":"Strait of Hormuz closure creates complexity for global energy storage markets",
-    "summary_80w":"Energy storage and battery market experts speak with Energy-Storage.news about current and possible supply chain and downstream impacts of the US and Israel's war on Iran.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/strait-of-hormuz-closure-creates-complexity-for-global-energy-storage-markets\/",
     "reliability":"trade",
     "notes":""
   }
