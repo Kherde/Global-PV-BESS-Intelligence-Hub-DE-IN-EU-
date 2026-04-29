@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-04-29",
+    "headline":"New Zealand faces energy security gap by 2031 despite record project pipeline, Transpower warns",
+    "summary_80w":"NZ's electricity system is expected to fall below minimum security standards by 2031 despite a record of new generation and BESS projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/new-zealand-faces-energy-security-gap-by-2031-despite-record-project-pipeline-transpower-warns\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-29",
     "headline":"Western Australia unveils AU$1.4 billion fund for Clean Energy Link and SWIS grid expansion",
     "summary_80w":"Western Australia to expand renewable energy and energy storage across the Southwest Interconnected System (SWIS).",
     "region":"Global",
@@ -3162,38 +3194,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/sigenergy-lists-on-hong-kong-stock-exchange-raises-hk4-4-billion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-17",
-    "headline":"Hithium signs \u20ac400 million Spain battery gigafactory investment agreement after two-year courtship",
-    "summary_80w":"Hithium has signed a formal investment commitment to establish a manufacturing facility in Spain's Navarre region.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hithium-signs-e400-million-spain-battery-gigafactory-investment-agreement-after-two-year-courtship\/",
     "reliability":"trade",
     "notes":""
   }
