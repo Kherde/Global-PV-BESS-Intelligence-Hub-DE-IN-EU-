@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-04-30",
+    "headline":"LG ES says manufacturing spend puts company on track for 50GWh+ US ESS production target",
+    "summary_80w":"LG ES posted a quarterly loss in Q1 2026 financial results this morning, partly due to investments in energy storage system (ESS) cell manufacturing.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/lg-es-says-manufacturing-spend-puts-company-on-track-for-50gwh-us-ess-production-target\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
     "headline":"\u2018We\u2019re not talking 30MWh anymore. It\u2019s 500MWh or above\u2019: Trina Storage on APAC\u2019s battery storage scale-up",
     "summary_80w":"Trina Storage's Warrick Stapleton discusses APAC's shift to 500MWh+ BESS, open ecosystem approach, and Australia's role as a regional testbed.",
     "region":"Global",
@@ -3162,38 +3194,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/patent-disputes-in-ess-are-on-the-rise-heres-how-developers-can-prepare\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-21",
-    "headline":"Australia\u2019s PowerPlus Energy to triple battery module production capacity to 150MWh with ARENA funding",
-    "summary_80w":"Victorian energy storage designer and manufacturer PowerPlus Energy has secured AU$2.3 million (US$1.65 million) in funding from ARENA.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-powerplus-energy-to-triple-battery-module-production-capacity-to-150mwh-with-arena-funding\/",
     "reliability":"trade",
     "notes":""
   }
