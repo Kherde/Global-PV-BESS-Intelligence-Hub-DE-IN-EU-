@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-05-01",
+    "headline":"Australia, India, Japan, Philippines drive APAC battery storage shift",
+    "summary_80w":"Australia, India, Japan, and the Philippines are driving a transformation in the APAC batteryenergy storage market, says Trina Storage.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-india-japan-philippines-drive-apac-battery-storage-shift\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-04-30",
     "headline":"Solar drives battery storage surge as Australia\u2019s NEM shifts 359MW from day to evening",
     "summary_80w":"Australia's surging solar adoption has driven battery energy storage systems (BESS) in the National Electricity Market (NEM) to more than triple their daytime-to-evening energy shifting in the first quarter of 2026, according to AEMO's latest Quarterly Energy Dynamics report.",
@@ -3161,38 +3193,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/meta-reserves-up-to-100gwh-of-us-multi-day-energy-storage-startup-noon-energys-technology\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-21",
-    "headline":"Treating batteries \u2018like infrastructure\u2019: EnerVenue CEO on its nickel-hydrogen energy storage vessels",
-    "summary_80w":"Energy-storage.news Premium speaks with the new CEO of nickel-hydrogen battery company EnerVenue, Henning Rath, about the company\u2019s goals for 2026 and beyond.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/treating-batteries-like-infrastructure-enervenue-ceo-on-its-nickel-hydrogen-energy-storage-vessels\/",
     "reliability":"trade",
     "notes":""
   }
