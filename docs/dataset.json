@@ -1,6 +1,103 @@
 [
   {
     "date_utc":"2026-04-30",
+    "headline":"Solar drives battery storage surge as Australia\u2019s NEM shifts 359MW from day to evening",
+    "summary_80w":"Australia's surging solar adoption has driven battery energy storage systems (BESS) in the National Electricity Market (NEM) to more than triple their daytime-to-evening energy shifting in the first quarter of 2026, according to AEMO's latest Quarterly Energy Dynamics report.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-drives-battery-storage-surge-as-australias-nem-shifts-359mw-from-day-to-evening\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"TotalEnergies, Nextnorth start construction at 440MW solar project in the Philippines",
+    "summary_80w":"TotalEnergies and Nextnorth have reached financial close on, and started construction at, a 440MW solar PV project in the Philippines.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/totalenergies-nextnorth-start-construction-440mw-solar-project-philippines\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"Czech Republic: Trading firm Second Foundation to commission 307MW of BESS in 2026, local integrator used",
+    "summary_80w":"Energy trading firm Second Foundation is building three grid-scale BESS projects in the Czech Republic totalling 307MW this year, with the technology provided by local firm Gaz Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/czech-republic-trading-firm-second-foundation-to-commission-307mw-of-bess-in-2026-local-integrator-used\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
     "headline":"RES submits 2,400MWh Bunyip North battery storage system to Australia\u2019s EPBC Act",
     "summary_80w":"Developer RES Australia has referred a 400MW\/2,400MWh BESS to the federal EPBC Act for environmental assessment.",
     "region":"Global",
@@ -28,6 +125,229 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/res-submits-2400mwh-bunyip-north-battery-storage-system-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"How investment trends in US residential solar compare to Europe",
+    "summary_80w":"US solar is 'relatively strong [because] the fundamentals for solar are really strong,' Aurora Solar's Fox Swim tells PV Tech Premium.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-investment-trends-us-residential-solar-compare-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"ROSI to build PV module recycling plant in Spain",
+    "summary_80w":"French solar module recycling company ROSI has announced plans to open a new facility in Spain.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/rosi-to-build-pv-module-recycling-plant-in-spain\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"Indian PV manufacturer Inox Solar acquires Boviet Solar\u2019s US module assembly operations",
+    "summary_80w":"Inox Solar has entered into an agreement with Chinese technology and manufacturing firm Ningbo Boway Alloy Material to acquire all the equity stakes of its US subsidiary Boviet Solar Technology.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/indian-pv-manufacturer-inox-solar-acquires-boviet-solars-us-module-assembly-operations\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"Renewable Properties buys 118MW US-made First Solar modules",
+    "summary_80w":"US community solar developer Renewable Properties has acquired 118MW of cadmium telluride (CdTe) thin-film solar modules from US solar manufacturer First Solar.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/renewable-properties-buys-118mw-us-made-first-solar-modules\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"US administration \u2018must make it easier to get things built,\u2019 DOE chief of staff says",
+    "summary_80w":"Carl Coe, chief of staff at the US Department of Energy stated that the Department cares about \u201caffordable, reliable, available energy, regardless of source.\u201d",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-administration-must-make-it-easier-to-get-things-built-doe-chief-of-staff-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"Matrix Renewables, BW ESS secure finance and offtake for over 2.2GWh of UK BESS",
+    "summary_80w":"There's been progress on several large-scale BESS projects in the UK, with Matrix Renewables securing financing for its Eccles project and BW ESS enlisting EDF to optimise its Hams Hall one; plus smaller announcements.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/matrix-renewables-bw-ess-secure-finance-and-offtake-for-over-2-2gwh-of-uk-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-04-30",
+    "headline":"US investors\u2019 \u20ac50 billion hyperscaler data centre in Croatia will be \u2018fully supplied\u2019 by BTM solar and batteries",
+    "summary_80w":"US investment group Pantheon Atlas LLC has a planned 1GW hyperscaler data centre campus in Croatia will be supplied entirely by renewables.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-04-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-investors-e50-billion-hyperscaler-data-centre-in-croatia-will-be-fully-supplied-by-btm-solar-and-batteries\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2589,199 +2909,6 @@
   },
   {
     "date_utc":"2026-04-22",
-    "headline":"Lydian Energy acquires Hanwha Renewables\u2019 1.5GW solar PV, BESS North America portfolio",
-    "summary_80w":"Independent power producer Lydian Energy has acquired a 1.5GW solar PV and battery energy storage system (BESS) portfolio in North America.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/lydian-energy-acquires-hanwha-renewables-1-5gw-solar-pv-bess-north-america-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"New York State Senate passes ASAP Act to deploy 20GW distributed solar by 2035",
-    "summary_80w":"The New York State Senate has passed the Accelerate Solar for Affordable Power (ASAP) Act, which targets to install 20GW of distributed energy capacity by 2035.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/new-york-state-senate-passes-asap-act-to-deploy-20gw-distributed-solar-by-2035\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"BrightNight expands western US footprint with 6GW portfolio acquisition from Cordelio",
-    "summary_80w":"BrightNight has acquired a 6GW portfolio of projects previously held under its joint venture with Canadian asset manager Cordelio Power.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/brightnight-expands-western-us-footprint-with-6gw-portfolio-acquisition-from-cordelio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"Aiko steps up ABC transition with 11GW capacity upgrade and equipment investment",
-    "summary_80w":"Chinese PV manufacturer Aiko has issued two major announcements regarding its plans to accelerate production of its high-efficiency all-back-contact (ABC) technology.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/aiko-capacity-upgrades-abc-cell-technology\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"US judge temporarily lifts de facto blockade of solar and wind projects on federal land",
-    "summary_80w":"A federal judge in Massachusetts has temporarily halted the Trump administration's restriction of solar and wind projects on US federal land.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-judge-temporarily-lifts-de-facto-solar-wind-federal-land-projects-blockade\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"Geronimo Power brings 270MW Texas solar plant online",
-    "summary_80w":"US independent power producer Geronimo Power has begun commercial operations at its 270MW Blevins solar plant in Falls County, Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/geronimo-power-brings-270mw-texas-solar-plant-online\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
     "headline":"VIDEO \u2013 Energy Storage Summit 2026: What does market saturation in Europe mean for BESS?",
     "summary_80w":"How should developers and investors think about long-term BESS revenues in light of eventual market saturation?",
     "region":"Europe",
@@ -3007,38 +3134,6 @@
   },
   {
     "date_utc":"2026-04-21",
-    "headline":"Copenhagen Infrastructure Partners begins construction on 1,500MWh Chile BESS",
-    "summary_80w":"Danish investment firm Copenhagen Infrastructure Partners (CIP) has begun construction on the 300MW\/1,500MWh Patache battery energy storage system (BESS) in northern Chile.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-21",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/copenhagen-infrastructure-partners-begins-construction-on-1500mwh-chile-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-21",
     "headline":"Meta reserves up to 100GWh of US \u2018multi-day\u2019 energy storage startup Noon Energy\u2019s technology",
     "summary_80w":"US \u2018multi-day\u2019 energy storage startup Noon Energy has announced an agreement with Meta to reserve up to 1GW\/100GWh of long-duration energy storage (LDES) capacity.",
     "region":"Global",
@@ -3098,102 +3193,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/treating-batteries-like-infrastructure-enervenue-ceo-on-its-nickel-hydrogen-energy-storage-vessels\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-21",
-    "headline":"\u2018It depends\u2019: Designing battery storage for AI data centre co-location is a moving target",
-    "summary_80w":"The many considerations developers must factor in when deploying battery storage for data centres were discussed on a panel at Energy Storage Summit USA 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/it-depends-designing-battery-storage-for-ai-data-centre-co-location-is-a-moving-target\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-21",
-    "headline":"Ingrid Capacity launching 600MWh of new Sweden projects, including first 4-hour system",
-    "summary_80w":"BESS platform Ingrid Capacity has received construction permits for two projects in Sweden's SE4 electricity region which it said could start construction as early as this year.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ingrid-capacity-launching-600mwh-of-new-sweden-projects-including-first-4-hour-system\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-21",
-    "headline":"Patent disputes in ESS are on the rise: Here\u2019s how developers can prepare",
-    "summary_80w":"Intellectual property litigation attorney Isaku Begert of Marshall, Gerstein &#038; Borun LLP looks at energy storage system patent risks and the steps that can be taken to mitigate them.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/patent-disputes-in-ess-are-on-the-rise-heres-how-developers-can-prepare\/",
     "reliability":"trade",
     "notes":""
   }
