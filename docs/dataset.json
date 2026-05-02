@@ -1,6 +1,198 @@
 [
   {
     "date_utc":"2026-05-01",
+    "headline":"CIP\u00a0acquires\u00a0Orsted onshore unit,\u00a0launches\u00a0Perigus\u00a0Energy with 826MW capacity",
+    "summary_80w":"CIP has acquired Orsted\u2019s European onshore portfolio with 826MW of operational and under-construction capacity.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-01",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/cip-acquires-orsted-onshore-unit-launches-perigus-energy-with-826mw-capacity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-01",
+    "headline":"Tata Power targets 10GW ingot-wafer capacity with US$685 million investment",
+    "summary_80w":"TPREL has proposed investment of up to INR65 billion (US$685 million) to establish a 10GW solar PV ingot and wafer manufacturing plant.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/tata-power-targets-10gw-ingot-wafer-capacity-with-us685-million-investment\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-01",
+    "headline":"How the closure of the Strait of Hormuz affects solar aluminium sourcing",
+    "summary_80w":"\u201cWe have copper shortages, aluminium shortages [and] all kinds of raw materials are struggling,\u201d says the GEA's John Mitchell.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-the-closure-of-the-strait-of-hormuz-affects-solar-aluminium-sourcing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-01",
+    "headline":"First Solar sees \u2018record\u2019 sales and income growth in Q1 2026",
+    "summary_80w":"US cadmium telluride (CdTe) thin-film solar manufacturer First Solar has posted increased sales and income for the first quarter of 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/first-solar-sees-record-sales-and-income-growth-in-q1-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-01",
+    "headline":"Data centres\u2019 speed-to-power need driving US LDES commercialisation",
+    "summary_80w":"Francesco Oppici, co-founder and CCO of Carbon dioxide-based long-duration energy storage (LDES) company Energy Dome tied the commercialisation path of LDES to data centres.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/data-centres-speed-to-power-need-driving-us-ldes-commercialisation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-01",
+    "headline":"1GWh+ of BESS progressed across EU by re:cap, Flower, Goldbeck, Tavion, LONGi, Teos and SPP",
+    "summary_80w":"Large-scale BESS projects have been progressed to construction, financing or operations across the EU this week, by project owners, investors and EPC firms re:cap, LONGi, Teos, Flower, Goldbeck Solar, SPP and Tavion.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/1gwh-of-bess-progressed-across-eu-by-recap-flower-goldbeck-tavion-longi-teos-and-spp\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-01",
     "headline":"Australia, India, Japan, Philippines drive APAC battery storage shift",
     "summary_80w":"Australia, India, Japan, and the Philippines are driving a transformation in the APAC batteryenergy storage market, says Trina Storage.",
     "region":"India",
@@ -2685,102 +2877,6 @@
   },
   {
     "date_utc":"2026-04-23",
-    "headline":"Polish 204MW solar PV plant begins balancing services, \u2018first of its kind\u2019 in country",
-    "summary_80w":"The 204MW Zwartowo solar power plant has entered the Polish balancing energy market, a first in the country, according to German PV developer Goldbeck Solar.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"grid",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/polish-204mw-solar-pv-plant-begins-balancing-services-first-of-its-kind-in-country\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-23",
-    "headline":"Evren secures US$600 million to develop 1GW hybrid FDRE portfolio in India",
-    "summary_80w":"Evren has secured US$600 million in financing to develop a 1GW hybrid firm and dispatchable renewable energy (FDRE) portfolio across Andhra Pradesh and Rajasthan.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/evren-secures-us600-million-to-develop-1gw-hybrid-fdre-portfolio-in-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-23",
-    "headline":"Australia: European Energy\u2019s 31MW Mulwala solar PV plant registered in AEMO system",
-    "summary_80w":"The 31MW Mulwala Solar Farm in New South Wales has been registered in the Australian Energy Market Operator's Market Management System (MMS).",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-european-energys-31mw-mulwala-solar-pv-plant-registered-in-aemo-system\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-23",
     "headline":"RWE and Polarium to combine distributed batteries into 50MW\/135MWh Germany VPP",
     "summary_80w":"Power firm RWE has partnered with distributed battery storage firm Polarium for a battery-based virtual power plant (VPP) in Germany.",
     "region":"Germany",
@@ -2904,38 +3000,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/green-capital-enlists-epc-electrum-for-320mwh-poland-bess-under-full-wrap-for-cost-predictability\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"Chinese solar exports hit record 68GW in March 2026 \u2013 Ember",
-    "summary_80w":"Exports of Chinese solar products hit a record 68GW in March 2026, a figure that is equivalent to Spain\u2019s entire solar PV capacity.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chinese-solar-exports-hit-record-g8-gw-march-2026-ember\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3129,70 +3193,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/zambias-president-launches-countrys-largest-hybrid-solar-plus-storage-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"SK considers \u2018various strategic options\u2019 to raise financing for BESS developer Key Capture Energy",
-    "summary_80w":"US battery storage developer Key Capture Energy could be up for sale as its owner considers options to \u201cbring in a financial partner\u201d, Energy-Storage.news has heard.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sk-considers-various-strategic-options-to-raise-financing-for-bess-developer-key-capture-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-21",
-    "headline":"Meta reserves up to 100GWh of US \u2018multi-day\u2019 energy storage startup Noon Energy\u2019s technology",
-    "summary_80w":"US \u2018multi-day\u2019 energy storage startup Noon Energy has announced an agreement with Meta to reserve up to 1GW\/100GWh of long-duration energy storage (LDES) capacity.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/meta-reserves-up-to-100gwh-of-us-multi-day-energy-storage-startup-noon-energys-technology\/",
     "reliability":"trade",
     "notes":""
   }
