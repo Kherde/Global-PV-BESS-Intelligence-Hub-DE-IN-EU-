@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2026-05-05",
+    "headline":"Two battery storage projects totalling 2.15GWh clear Australia\u2019s EPBC Act assessment",
+    "summary_80w":"Two battery energy storage systems (BESS) in South Australia and Queensland have received federal environmental clearance under the EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/two-battery-storage-projects-totalling-2-15gwh-clear-australias-epbc-act-assessment\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-05",
+    "headline":"Western Australia awards 1.9GW of renewables and 3.7GWh of battery storage under CIS Tenders 5 and 6",
+    "summary_80w":"The Australian government has announced the results of Capacity Investment Scheme Tenders 5 and 6 for WA, awarding contracts to 10 projects.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/western-australia-awards-1-9gw-of-renewables-and-3-7gwh-of-battery-storage-under-cis-tenders-5-and-6\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-04",
     "headline":"California\u2019s CEC approves 300MW solar, 1.2GWh BESS Project",
     "summary_80w":"The California Energy Commission (CEC) has approved the the 300MW\/1200MWh Soda Mountain solar project in San Bernardino County.",
@@ -3129,69 +3193,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ipp-tenaska-signs-esa-for-900mwh-tennessee-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"EnBW and Noveria advance construction on 1- and 4-hour BESS projects in Germany",
-    "summary_80w":"Power firm EnBW is building a 100MWh BESS in Germany for completion this year (a year later than planned) while BESS platform Noveria Energy has signed a construction agreement with TSO TenneT for a 1GWh project for 2028 operations.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/enbw-and-noveria-advance-construction-on-1-and-4-hour-bess-projects-in-germany\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"Flow batteries hold potential for LDES but industry shows mixed fortunes so far",
-    "summary_80w":"We look at the potential of flow batteries for LDES and compare the leading providers' offerings and trajectories.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/flow-batteries-hold-potential-for-ldes-but-industry-shows-mixed-fortunes-so-far\/",
     "reliability":"trade",
     "notes":""
   }
