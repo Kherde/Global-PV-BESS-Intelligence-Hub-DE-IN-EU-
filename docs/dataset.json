@@ -1,5 +1,70 @@
 [
   {
+    "date_utc":"2026-05-04",
+    "headline":"California\u2019s CEC approves 300MW solar, 1.2GWh BESS Project",
+    "summary_80w":"The California Energy Commission (CEC) has approved the the 300MW\/1200MWh Soda Mountain solar project in San Bernardino County.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-04",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/californias-cec-approves-300mw-solar-1-2gwh-bess-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-04",
+    "headline":"Why SK is exploring \u2018various options\u2019 to raise financing for BESS developer Key Capture Energy",
+    "summary_80w":"ESN Premium examines likely reasons why owner SK Innovation E&#038;S is seeking financing options for Key Capture Energy (KCE), including a potential sale.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-04",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/why-sk-is-exploring-various-options-to-raise-financing-for-bess-developer-key-capture-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-01",
     "headline":"CIP\u00a0acquires\u00a0Orsted onshore unit,\u00a0launches\u00a0Perigus\u00a0Energy with 826MW capacity",
     "summary_80w":"CIP has acquired Orsted\u2019s European onshore portfolio with 826MW of operational and under-construction capacity.",
@@ -3127,72 +3192,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/flow-batteries-hold-potential-for-ldes-but-industry-shows-mixed-fortunes-so-far\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"\u2018Great news for Irish energy storage industry\u2019 as regulator cuts grid fees",
-    "summary_80w":"A step toward removing dual grid fees for energy storage units (ESUs) has been hailed as \"great news for the Irish storage industry.\"",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/great-news-for-irish-energy-storage-industry-as-regulator-cuts-grid-fees\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-22",
-    "headline":"Zambia\u2019s president launches country\u2019s largest hybrid solar-plus-storage project",
-    "summary_80w":"Zambia's president, Hakainde Hichilema, attended the recent launch of the African country\u2019s largest hybrid renewable energy project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/zambias-president-launches-countrys-largest-hybrid-solar-plus-storage-project\/",
     "reliability":"trade",
     "notes":""
   }
