@@ -33,6 +33,37 @@
   },
   {
     "date_utc":"2026-05-07",
+    "headline":"\u2018Stable\u2019 Irish renewable market has space for PPAs and CfDs",
+    "summary_80w":"The Irish renewable energy market is 'stable, with a regular cadence of activity,' according to the BNRG Group's David Maguire.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/stable-irish-renewable-market-has-space-for-ppas-and-cfds\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
     "headline":"Neoen\u2019s second-largest solar asset globally now operational in New South Wales, Australia",
     "summary_80w":"Neoen has brought its 440MWp Culcairn Solar Farm online in NSW, marking the completion of the company's second-largest solar asset globally.",
     "region":"Global",
@@ -3013,38 +3044,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/new-york-opens-tender-to-accelerate-onshore-renewables-deployment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-27",
-    "headline":"Adani Green Energy reports 23% earnings jump, driven by Khavda solar scaleup",
-    "summary_80w":"Indian renewable energy major Adani Green Energy (AGEL) reported a 48% year-on-year increase in operational capacity to 17.24GW, driven predominantly by solar.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/adani-green-energy-reports-23-earnings-jump-driven-by-khavda-solar-scaleup\/",
     "reliability":"trade",
     "notes":""
   },
