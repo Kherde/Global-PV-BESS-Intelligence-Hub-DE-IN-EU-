@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2026-05-08",
+    "headline":"Australia\u2019s ARENA targets sub-AU$30\/MWh solar to unlock 10GW annual deployment pipeline",
+    "summary_80w":"Australia's utility-scale solar sector must halve generation costs to around AU$25-30\/MWh (US$18-22\/MWh) to unlock a pipeline of projects capable of delivering the 10GW of annual capacity additions needed for decarbonisation, according to the Australian Renewable Energy Agency (ARENA).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-arena-targets-sub-au30-mwh-solar-to-unlock-10gw-annual-deployment-pipeline\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-08",
+    "headline":"AGL\u2019s Liddell and Tomago battery storage systems to boost returns by 10% in Australia",
+    "summary_80w":"Australian utility AGL has said adding its Liddell and Tomago BESS to its existing coal-fired generation could boost portfolio returns by 10%",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/agls-liddell-and-tomago-battery-storage-systems-to-boost-returns-by-10-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-07",
     "headline":"\u2018Golden Row\u2019 installed at the 400MW Te Rahui Solar Farm in New Zealand",
     "summary_80w":"Nova Energy &#038; Meridian Energy have marked the installation of the first modules at the 400MW Te Rahui Solar Farm in Rangit\u0101iki in New Zealand.",
@@ -28,6 +92,262 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/golden-row-installed-at-the-400mw-te-rahui-solar-farm-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"Bernreuter: Daqo sales slump reveals \u2018irrational\u2019 polysilicon market dynamics",
+    "summary_80w":"We spoke to Johannes Bernreuter about what Daqo New Energy's remarkable 88% sales drop in Q1 2026 means for the polysilicon industry.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/bernreuter-daqo-sales-slump-reveals-irrational-polysilicon-market-dynamics\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"Renew Risk launches \u2018first-of-its-kind\u2019 model to assess thunderstorm risk for US solar",
+    "summary_80w":"Renew Risk has launched a 'first-of-its-kind' model to forecast the impacts of thunderstorms on utility-scale solar projects in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/renew-risk-launches-first-of-its-kind-model-assess-thunderstorm-risk-us-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"Sunrun\u2019s customer and capacity additions fall, storage rate rises in Q1 2026",
+    "summary_80w":"New customer additions and capacity of solar PV and BESS have all fallen quarter-on-quarter in the latest financial results from Sunrun.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sunruns-customer-capacity-additions-fall-storage-rate-rises-q1-2026-results\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"Shoals opens eBOS manufacturing \u2018Mega Facility\u2019 in Tennessee",
+    "summary_80w":"US solar PV and energy storage system component manufacturer, Shoals, has opened a new manufacturing facility in Portland, Tennessee.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/shoals-opens-ebos-manufacturing-mega-facility-in-tennessee\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"Drop in residential solar drives German PV installations down in Q1 2026",
+    "summary_80w":"PV installations in Germany in Q1 2026 decreased by 6% year-on-year as demand for residential solar systems declined, according to BSW-Solar.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"SolarEdge reduces net loss, maintains 22% margin in Q1 2026",
+    "summary_80w":"Israel-based solar inverter producer SolarEdge reduced its net losses and maintained a broadly steady margin in Q1 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solaredge-reduces-net-loss-maintains-22-margin-in-q1-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"Solar foundation manufacturer American Steel and Aluminum expands production",
+    "summary_80w":"American Steel and Aluminum (ASA, which produces US-made solar foundations, has opened a new facility in Syracuse, New York.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-foundation-manufacturer-american-steel-and-aluminum-expands-production\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"How Ireland\u2019s \u2018stable\u2019 political landscape facilitates long-term renewable energy planning",
+    "summary_80w":"The Irish renewable energy market has 'a very stable political landscape,' according to the BNRG Group's David Maguire.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-irelands-stable-political-landscape-facilitates-long-term-renewable-energy-planning\/",
     "reliability":"trade",
     "notes":""
   },
@@ -122,6 +442,134 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-new-south-wales-prioritises-renewable-energy-projects-via-new-planning-law\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"US BESS operators face growing complexity as markets mature",
+    "summary_80w":"The business model for battery energy storage systems (BESS) in the US is changing rapidly, according to industry experts who gathered recently to discuss revenue strategies and market conditions.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-bess-operators-face-growing-complexity-as-markets-mature\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"Organic flow battery company CMBlu closes \u20ac50 million Series C",
+    "summary_80w":"Organic flow battery company CMBlu Energy has closed a \u20ac50 million (US$58.76 million) Series C financing with participation from Samsung Ventures.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/organic-flow-battery-company-cmblu-closes-e50-million-series-c\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"IPPs complete 840MWh of Bulgaria BESS, projects progress elsewhere in Southeast Europe",
+    "summary_80w":"Large-scale BESS projects have been completed or progressed in Bulgaria, Moldova, North Macedonia and Romania, including what is now the largest operational system in the CEE region.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ipps-complete-840mwh-of-bulgaria-bess-projects-progress-elsewhere-in-southeast-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-07",
+    "headline":"VIDEO \u2013 Energy Storage Summit 2026: what technology will be deployed for LDES?",
+    "summary_80w":"What are the system needs that LDES is going to solve, and what technologies are most appropriate for those applications?",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-energy-storage-summit-2026-what-technology-will-be-deployed-for-ldes\/",
     "reliability":"trade",
     "notes":""
   },
@@ -968,38 +1416,6 @@
   },
   {
     "date_utc":"2026-05-05",
-    "headline":"NEM Data Spotlight: Solar generation falls 4.6% in April as autumn conditions deepen",
-    "summary_80w":"April 2026 delivered a continuation of Australia's seasonal solar contraction as the NEM moved deeper into autumn.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-solar-generation-falls-4-6-in-april-as-autumn-conditions-deepen\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-05",
     "headline":"Australia: NSW battery storage systems capture 11.9% of state consumption",
     "summary_80w":"New South Wales BESS set two charging records on 2 May, reaching 1,240MW of charging power and capturing 11.9% of state consumption.",
     "region":"Global",
@@ -1320,7 +1736,7 @@
   {
     "date_utc":"2026-05-01",
     "headline":"How the closure of the Strait of Hormuz affects solar aluminium sourcing",
-    "summary_80w":"\u201cWe have copper shortages, aluminium shortages [and] all kinds of raw materials are struggling,\u201d says the GEA's John Mitchell.",
+    "summary_80w":"\u201cWe have copper shortages, aluminium shortages [and] all kinds of raw materials are struggling,\u201d says Global Electronics Association's CEO, John Mitchell.",
     "region":"Global",
     "country":"",
     "category":"market",
@@ -2536,195 +2952,6 @@
   },
   {
     "date_utc":"2026-04-28",
-    "headline":"Record-breaking solar generation in 2025 points to \u2018structural changes\u2019 in global energy mix",
-    "summary_80w":"PV Talk: Ember's Nicolas Fulghum says that the latest global solar deployment figures reflect 'structural changes in the power system'.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/record-breaking-solar-generation-in-2025-structural-changes-global-energy-mix\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
-    "headline":"Vikran secures 49% stake in NOPL Solar to expand agri-solar footprint in India",
-    "summary_80w":"Vikran Engineering has agreed to acquire a 49% equity stake in NOPL Solar Projects Private Limited for INR49 million (US$508,101).",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/vikran-secures-49-stake-in-nopl-solar-to-expand-agri-solar-footprint-in-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
-    "headline":"Georgia Power seeks 6GW of dispatchable energy capacity in latest RfP",
-    "summary_80w":"US utility Georgia Power filed a request with the Georgia Public Service Commission (PSC) seeking 2,000MW \u2013 6,000MW of new dispatchable capacity resources in the state.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/georgia-power-seeks-6gw-of-dispatchable-energy-capacity-in-latest-rfp\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
-    "headline":"Cox acquires Iberdrola Mexico, including 12GW renewable energy pipeline, for US$4 billion",
-    "summary_80w":"Cox has finalised its acquisition of Iberdrola Mexico, bringing a renewable energy pipeline of 12GW into its portfolio.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/cox-acquires-iberdrola-mexico-12gw-renewable-energy-pipeline-us4-billion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
-    "headline":"Sunwafe secures land permits for 20GW Spain solar wafer plant, appoints new CEO",
-    "summary_80w":"Prospective solar wafer manufacturer Sunwafe has appointed a new CEO and secured permits for a 30-hectare site in northern Spain, in efforts to establish Europe\u2019s \u201cfirst\u201d large-scale, 20GW silicon ingot and wafer production facility.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sunwafe-solar-wafer-spain-manufacturing\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
-    "headline":"Australia\u2019s Origin Energy reports electricity sales growth driven by data centres",
-    "summary_80w":"Data centres have emerged as the primary driver of electricity demand growth for utility Origin Energy in Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-origin-energy-reports-electricity-sales-growth-driven-by-data-centres\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
     "headline":"Sodium-ion for BESS: chemistries and battery products from CATL, Envision, BYD, Hithium & HiNA compared",
     "summary_80w":"With CATL and HyperStrong's 60GWh sodium-ion battery deal announcement yesterday, it's an ideal time to look at the different sodium-ion cell chemistries and battery products available for BESS today.",
     "region":"Global",
@@ -2951,104 +3178,6 @@
   },
   {
     "date_utc":"2026-04-27",
-    "headline":"Wind co-location: TotalEnergies takes FID on 1GW Kazakhstan project, Downing develops in Finland",
-    "summary_80w":"TotalEnergies is pushing ahead with a co-located battery storage and gigawatt-scale wind project in Kazakhstan, Central Asia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-27",
-    "impact_score_1to5":5,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/wind-co-location-totalenergies-takes-fid-on-1gw-kazakhstan-project-downing-develops-in-finland\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-27",
-    "headline":"Meta wants to power US data centres with space-based solar power",
-    "summary_80w":"Social media tech giant Meta has signed an agreement to procure power from space-based solar power startup, Overview Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/meta-wants-to-power-us-data-centres-with-space-based-solar-power\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-27",
-    "headline":"New York opens tender to accelerate onshore renewables deployment",
-    "summary_80w":"The NYSERDA has launched an onshore solicitation programme to supporting the development of onshore wind, solar, and hydroelectric projects.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/new-york-opens-tender-to-accelerate-onshore-renewables-deployment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-27",
     "headline":"EticaAG contends that immersion cooling is the next evolution of BESS cooling systems",
     "summary_80w":"Energy-Storage.news Premium speaks with Pablo Barague, vice president of partnerships &#038; commercial development, and Sam Harper, vice president of marketing &#038; brand, at immersion cooling energy storage company EticaAg.",
     "region":"Global",
@@ -3076,133 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eticaag-contends-that-immersion-cooling-is-the-next-evolution-of-bess-cooling-systems\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-27",
-    "headline":"Georgia Power files RFP for up to 6,000MW of new dispatchable energy resources",
-    "summary_80w":"Utility Georgia Power has filed a request with the Georgia Public Service Commission (PSC) to approve an all-source capacity request for proposal (RFP) for 2,000MW \u2013 6,000MW of new dispatchable capacity resources in the US state.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/georgia-power-files-rfp-for-up-to-6000mw-of-new-dispatchable-energy-resources\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-27",
-    "headline":"\u2018A turning point\u2019: CATL and HyperStrong sign 60GWh sodium-ion agreement",
-    "summary_80w":"Battery manufacturer CATL and system integrator HyperStrong have entered into a 60GWh sodium-ion battery order deal, which CATL said marks a 'turning point in the industrialisation of sodium-ion batteries'.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/a-turning-point-catl-and-hyperstrong-sign-60gwh-sodium-ion-agreement\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-27",
-    "headline":"Australian court amends consent for Hydrostor\u2019s 1.6GWh long-duration energy storage project following appeal",
-    "summary_80w":"Update 28 April 2026: Following publication of this story, Hydrostor reached out to clarify some of the conditions detailed below and provided a statement.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australian-court-amends-consent-for-hydrostors-1-6gwh-long-duration-energy-storage-project-following-appeal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-24",
-    "headline":"Saudi Arabia begins qualifying bidders for 3GW\/12GWh battery storage RFP",
-    "summary_80w":"Saudi Arabia's state-owned Saudi Power Procurement Company has started the qualification process for its second large-scale build-own-operate BESS tender.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/saudi-arabia-begins-qualifying-bidders-for-3gw-12gwh-battery-storage-rfp\/",
     "reliability":"trade",
     "notes":""
   }
