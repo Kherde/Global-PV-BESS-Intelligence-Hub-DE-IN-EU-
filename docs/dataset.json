@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-05-11",
+    "headline":"Turkey\u2019s Kalyon PV expands cell processing capacity to 2.1GW",
+    "summary_80w":"Turkish solar manufacturer Kalyon PV has commissioned a 1.1GW solar cell processing line in its home country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/turkeys-kalyon-pv-expands-cell-processing-capacity-to-2-1gw\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
     "headline":"PV module recycling critical as \u2018we will use all the silver in the world in five years\u2019, warns UNSW professor",
     "summary_80w":"In this interview, UNSW's Yansong warns the solar industry will exhaust global silver reserves in five years unless commercial-scale recycling infrastructure is developed.",
     "region":"Global",
@@ -92,6 +124,37 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/aboriginal-led-energy-group-closes-financing-on-150mw-jinbi-solar-plant-in-western-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"Fluence doubles order intake, expects to book first big data centre deal this quarter",
+    "summary_80w":"Fluence\u2019s share price rose sharply after its Q2 2026 financial results came out, with the company reaffirming full-year revenue and EBITDA guidance.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/fluence-doubles-order-intake-expects-to-book-first-big-data-centre-deal-this-quarter\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2891,37 +2954,6 @@
   },
   {
     "date_utc":"2026-04-29",
-    "headline":"Daqo polysilicon sales collapse, falling 88.3% quarter-on-quarter as production ticks upwards",
-    "summary_80w":"Daqo New Energy's Q1 2026 results include a dramatic 88.3% quarter-on-quarter decline in polysilicon sales.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/daqo-polysilicon-sales-collapse-falling-88-3-quarter-on-quarter-production-ticks-upwards\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-29",
     "headline":"Lightshift Energy looks to distributed energy storage to address PJM\u2019s data centre issue",
     "summary_80w":"Energy-Storage.news Premium speaks with Rob Greskowiak, chief commercial officer at Lightshift Energy, about the company\u2019s distributed storage approach to the demand of PJM.",
     "region":"Global",
@@ -3174,38 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/sodium-ion-for-bess-chemistries-and-battery-products-from-catl-envision-byd-hithium-hina-compared\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
-    "headline":"Utility DTE Energy\u2019s plan to pause Michigan rate increases hinges on Oracle data centre",
-    "summary_80w":"Utility DTE Energy has said it will forego customer rate increases for two years dependent on the success of a US$16 billion data centre campus involving a battery energy storage system (BESS).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/utility-dte-energys-plan-to-pause-michigan-rate-increases-hinges-on-oracle-data-centre\/",
     "reliability":"trade",
     "notes":""
   }
