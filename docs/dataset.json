@@ -1,5 +1,166 @@
 [
   {
+    "date_utc":"2026-05-12",
+    "headline":"Iberdrola Australia completes solar module installation at 377MW Broadsound site in Queensland",
+    "summary_80w":"Iberdrola Australia has completed the installation of solar modules at its 377MW Broadsound solar-plus-storage project in Central Queensland.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-12",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/iberdrola-australia-completes-solar-module-installation-at-377mw-broadsound-site-in-queensland\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-12",
+    "headline":"BW ESS submits 700MW Bannaby battery storage project in NSW to Australia\u2019s EPBC Act",
+    "summary_80w":"Energy storage owner-operator BW ESS has submitted a 700MW battery energy storage system (BESS) to Australia\u2019s Environment Protection and Biodiversity Conservation (EPBC) Act for environmental assessment.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-12",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bw-ess-submits-700mw-bannaby-battery-storage-project-in-nsw-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-12",
+    "headline":"Meralco PowerGen Corp brings online first phase of 100MWh CATL battery project in Cebu, Philippines",
+    "summary_80w":"The power generation arm of Manila Electric Company (Meralco), the Philippines\u2019 largest private electricity distributor, has completed a grid-scale battery storage project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/meralco-powergen-corp-brings-online-first-phase-of-100mwh-catl-battery-project-in-cebu-philippines\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-12",
+    "headline":"VIDEO: \u2018We miss some benefits of diversification\u2019: ITP Thermal warns against lithium-ion over-reliance in Australia",
+    "summary_80w":"In this interview with ESN Premium, Keith Lovegrove of ITP Thermal warns that Australia's energy storage sector risks over-reliance on lithium-ion batteries.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-we-miss-some-benefits-of-diversification-itp-thermal-warns-against-lithium-ion-over-reliance-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"Bondada wins US$85 million NTPC solar EPC order in Rajasthan",
+    "summary_80w":"Bondada Engineering has secured a US$85 million contract for balance-of-system works on a 600MW solar PV project in Fatehgarh, Rajasthan.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/bondada-wins-us85-million-ntpc-solar-epc-order-in-rajasthan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-11",
     "headline":"Alternate Path secures EPBC Act approval for 2,000MWh BESS in Victoria, Australia",
     "summary_80w":"Developer Alternate Path has secured federal environmental approval for its 500MW\/2,000MWh Murchs Corner battery energy storage system (BESS) in Victoria, Australia.",
@@ -28,6 +189,133 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/alternate-path-secures-epbc-act-approval-for-2000mwh-bess-in-victoria-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"Germany, Great Britain and Bulgaria top Europe\u2019s co-location investment rankings for 2026",
+    "summary_80w":"Germany, Great Britain and Bulgaria are the most attractive European markets for co-location investments heading in to 2026, according to a new report.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/germany-great-britain-and-bulgaria-top-europes-co-location-investment-rankings-for-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"Trinasolar module factories awarded silver supply chain traceability certificates by SSI",
+    "summary_80w":"Chinese solar manufacturing major Trinasolar has received supply chain traceability certifications from the Solar Stewardship Initiative (SSI) for two of its manufacturing facilities in China.",
+    "region":"India",
+    "country":"IN",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/trinasolar-module-factories-awarded-silver-supply-chain-traceability-certificates-by-ssi\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"JA Solar set to return to quarterly profit in 2026, industry inflection point expected in H2",
+    "summary_80w":"Amid the PV industry's toughest downturn, JA Solar held its 2025 annual results briefing on May 6 2026, offering the market a key glimpse of when the sector may turn the corner.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ja-solar-set-to-return-to-quarterly-profit-in-2026-industry-inflection-point-expected-in-h2\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"JinkoSolar sells 75% majority stake in US manufacturing business",
+    "summary_80w":"Chinese solar manufacturing giant JinkoSolar has sold a majority stake in its US business to private equity firm FH Capital.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/jinkosolar-sells-majority-stake-in-us-manufacturing-business\/",
     "reliability":"trade",
     "notes":""
   },
@@ -124,6 +412,101 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/aboriginal-led-energy-group-closes-financing-on-150mw-jinbi-solar-plant-in-western-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"AESC, Jinko\u2019s asset sales are start of wider US clean energy manufacturing industry restructuring",
+    "summary_80w":"The US clean energy manufacturing industry is starting to undergo a wholesale restructuring and recapitalisation as companies look to reduce their exposure to numerous risks, including FEOC.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/aesc-jinkos-asset-sales-are-start-of-wider-us-clean-energy-manufacturing-industry-restructuring\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"Energy Vault reaffirms 2026 guidance, sets sights on AI infrastructure PPA deals",
+    "summary_80w":"Energy storage developer and system integrator Energy Vault has released its Q1 2026 financial results, showing expansion in its project portfolio, AI infrastructure activities, and operations in Australia and Japan.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-vault-reaffirms-2026-guidance-sets-sights-on-ai-infrastructure-ppa-deals\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-11",
+    "headline":"Qcells partners Jabil in US for domestic content residential battery storage manufacturing",
+    "summary_80w":"South Korean-owned company Qcells, part of the Hanwha Group, has introduced its first domestically assembled residential battery energy storage system (BESS) to the US market.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/qcells-partners-jabil-in-us-for-domestic-content-residential-battery-storage-manufacturing\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2474,38 +2857,6 @@
   },
   {
     "date_utc":"2026-04-30",
-    "headline":"TotalEnergies, Nextnorth start construction at 440MW solar project in the Philippines",
-    "summary_80w":"TotalEnergies and Nextnorth have reached financial close on, and started construction at, a 440MW solar PV project in the Philippines.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-30",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/totalenergies-nextnorth-start-construction-440mw-solar-project-philippines\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-30",
     "headline":"Czech Republic: Trading firm Second Foundation to commission 307MW of BESS in 2026, local integrator used",
     "summary_80w":"Energy trading firm Second Foundation is building three grid-scale BESS projects in the Czech Republic totalling 307MW this year, with the technology provided by local firm Gaz Energy.",
     "region":"Global",
@@ -2565,134 +2916,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/res-submits-2400mwh-bunyip-north-battery-storage-system-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-30",
-    "headline":"How investment trends in US residential solar compare to Europe",
-    "summary_80w":"US solar is 'relatively strong [because] the fundamentals for solar are really strong,' Aurora Solar's Fox Swim tells PV Tech Premium.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/how-investment-trends-us-residential-solar-compare-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-30",
-    "headline":"ROSI to build PV module recycling plant in Spain",
-    "summary_80w":"French solar module recycling company ROSI has announced plans to open a new facility in Spain.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/rosi-to-build-pv-module-recycling-plant-in-spain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-30",
-    "headline":"Indian PV manufacturer Inox Solar acquires Boviet Solar\u2019s US module assembly operations",
-    "summary_80w":"Inox Solar has entered into an agreement with Chinese technology and manufacturing firm Ningbo Boway Alloy Material to acquire all the equity stakes of its US subsidiary Boviet Solar Technology.",
-    "region":"India",
-    "country":"IN",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/indian-pv-manufacturer-inox-solar-acquires-boviet-solars-us-module-assembly-operations\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-30",
-    "headline":"Renewable Properties buys 118MW US-made First Solar modules",
-    "summary_80w":"US community solar developer Renewable Properties has acquired 118MW of cadmium telluride (CdTe) thin-film solar modules from US solar manufacturer First Solar.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/renewable-properties-buys-118mw-us-made-first-solar-modules\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2889,71 +3112,6 @@
   },
   {
     "date_utc":"2026-04-29",
-    "headline":"VIDEO: Supply chain, safety and multi-gigawatt-hour BESS deals, with Trina\u2019s Europe president",
-    "summary_80w":"Trinasolar's Europe &#038; LAC president, Gonzalo de la Vi\u00f1a, discusses Trina Storage, the Chinese solar PV giant's battery storage business, its strategies and projects.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-29",
-    "impact_score_1to5":5,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-supply-chain-safety-and-multi-gigawatt-hour-bess-deals-with-trinas-europe-president\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-29",
-    "headline":"JinkoSolar PV module shipments dip, registers lowest volume since Q1 2023",
-    "summary_80w":"Leading solar PV manufacturer JinkoSolar's module shipments have continued to decline in the first quarter of 2026, with 13.7GW.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/jinkosolar-pv-module-shipments-dip-registers-lowest-volume-since-q1-2023\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-29",
     "headline":"Lightshift Energy looks to distributed energy storage to address PJM\u2019s data centre issue",
     "summary_80w":"Energy-Storage.news Premium speaks with Rob Greskowiak, chief commercial officer at Lightshift Energy, about the company\u2019s distributed storage approach to the demand of PJM.",
     "region":"Global",
@@ -3045,167 +3203,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/a-threshold-crossed-but-not-a-silver-bullet-industry-reaction-to-and-analysis-of-catl-hyperstrong-sodium-ion-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-29",
-    "headline":"Sonnedix signs three PPAs for 644MWh Chile BESS",
-    "summary_80w":"Spanish IPP Sonnedix has signed three power purchase agreements (PPAs) for its 117MW\/643.8MWh Sonnedix Librillo battery energy storage system (BESS) project in Chile.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sonnedix-signs-three-ppas-for-644mwh-chile-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-29",
-    "headline":"EBRD finances solar and storage projects in Egypt and Hungary",
-    "summary_80w":"The European Bank for Reconstruction and Development (EBRD) will provide project financing for large-scale solar and storage projects in Egypt and Hungary, for project owners HAU Energy\/Infinity Power and Renalfa respectively.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ebrd-finances-solar-and-storage-projects-in-egypt-and-hungary\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-29",
-    "headline":"New Zealand faces energy security gap by 2031 despite record project pipeline, Transpower warns",
-    "summary_80w":"NZ's electricity system is expected to fall below minimum security standards by 2031 despite a record of new generation and BESS projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/new-zealand-faces-energy-security-gap-by-2031-despite-record-project-pipeline-transpower-warns\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-29",
-    "headline":"Western Australia unveils AU$1.4 billion fund for Clean Energy Link and SWIS grid expansion",
-    "summary_80w":"Western Australia to expand renewable energy and energy storage across the Southwest Interconnected System (SWIS).",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/western-australia-unveils-au1-4-billion-fund-for-clean-energy-link-and-swis-grid-expansion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-04-28",
-    "headline":"Sodium-ion for BESS: chemistries and battery products from CATL, Envision, BYD, Hithium & HiNA compared",
-    "summary_80w":"With CATL and HyperStrong's 60GWh sodium-ion battery deal announcement yesterday, it's an ideal time to look at the different sodium-ion cell chemistries and battery products available for BESS today.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-04-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sodium-ion-for-bess-chemistries-and-battery-products-from-catl-envision-byd-hithium-hina-compared\/",
     "reliability":"trade",
     "notes":""
   }
