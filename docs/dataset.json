@@ -1,6 +1,37 @@
 [
   {
     "date_utc":"2026-05-13",
+    "headline":"Nextpower to acquire Zigor and Apex Power inverter assets in US$80.5 million deal",
+    "summary_80w":"Nextpower is set to acquire the power conversion assets of Spain-based Zigor Corporation and its US subsidiary, Apex Power.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextpower-to-acquire-zigor-and-apex-power-inverter-assets-in-us80-5-million-deal\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-13",
     "headline":"European Energy to begin module rollout at 100MW Winton North solar plant in Australia",
     "summary_80w":"European Energy Australia is set to commence solar module installation at its 100MWac Winton North solar plant in northeast Victoria.",
     "region":"Europe",
@@ -2629,38 +2660,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/solex-inks-mou-for-5gw-solar-cell-and-10gw-bess-facility-in-gujarat\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-05",
-    "headline":"Wacker polysilicon sales decline in Q1 2026",
-    "summary_80w":"German polysilicon producer Wacker Chemie recorded declining sales and earnings from its polysilicon sector in Q1 2026, primarily due to poor performance in its solar-grade polysilicon business.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/wacker-polysilicon-sales-decline-in-q1-2026\/",
     "reliability":"trade",
     "notes":""
   },
