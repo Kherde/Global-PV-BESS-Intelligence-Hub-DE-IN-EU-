@@ -65,6 +65,39 @@
   },
   {
     "date_utc":"2026-05-14",
+    "headline":"INDIA Roundup: ACME Solar, IndiGrid commission Rajasthan & Gujarat BESS projects, GE Vernova wins pumped hydro contract",
+    "summary_80w":"Battery storage and pumped hydro projects in India, in this edition of news in brief from around the world in energy storage.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-14",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/india-roundup-acme-solar-indigrid-commission-rajasthan-gujarat-bess-projects-ge-vernova-wins-pumped-hydro-contract\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-14",
     "headline":"Battery Breakthrough Initiative hit as Australia cuts AU$1.3 billion in clean energy funding",
     "summary_80w":"Australia has clawed back AU$1.3 billion (US$940 million) in uncommitted clean energy manufacturing funding, with the Solar Sunshot Program and Battery Breakthrough Initiative among the programmes hit by budget cuts announced this week.",
     "region":"Global",
@@ -3176,39 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/data-centres-speed-to-power-need-driving-us-ldes-commercialisation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-01",
-    "headline":"1GWh+ of BESS progressed across EU by re:cap, Flower, Goldbeck, Tavion, LONGi, Teos and SPP",
-    "summary_80w":"Large-scale BESS projects have been progressed to construction, financing or operations across the EU this week, by project owners, investors and EPC firms re:cap, LONGi, Teos, Flower, Goldbeck Solar, SPP and Tavion.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/1gwh-of-bess-progressed-across-eu-by-recap-flower-goldbeck-tavion-longi-teos-and-spp\/",
     "reliability":"trade",
     "notes":""
   }
