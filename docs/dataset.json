@@ -97,6 +97,38 @@
   },
   {
     "date_utc":"2026-05-15",
+    "headline":"System-level BESS manufacturing defects cause \u2018hidden risk\u2019 for developers, Intertek CEA says",
+    "summary_80w":"The \u201cvast majority\u201d of issues identified in Intertek CEA\u2019s 2025 audits were system-level defects that could pose risks to projects if undetected and unresolved.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/system-level-bess-manufacturing-defects-cause-hidden-risk-for-developers-intertek-cea-says\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
     "headline":"EnerVenue piloting \u201830,000-cycle\u2019 nickel-hydrogen BESS in China",
     "summary_80w":"Nickel-hydrogen battery company EnerVenue has announced a pilot battery energy storage system (BESS) project in Jintan, Changzhou, China.",
     "region":"Global",
@@ -3172,38 +3204,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/beyond-deployment-building-a-circular-future-for-renewable-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-05",
-    "headline":"CAISO CEO \u2018expects batteries to play an important role\u2019 in the newly launched Extended Day-Ahead Market",
-    "summary_80w":"Energy-Storage.news speaks with Elliot Mainzer, president and CEO of CAISO, about the ISO\u2019s newly launched Extended Day-Ahead Market.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/caiso-ceo-expects-batteries-to-play-an-important-role-in-the-newly-launched-extended-day-ahead-market\/",
     "reliability":"trade",
     "notes":""
   }
