@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-05-15",
+    "headline":"India installs record 15.3GW of solar in Q1 2026 amid policy deadline rush",
+    "summary_80w":"India installed a record 15.3GW of solar capacity in the first quarter of 2026, according to new data from market research firm Mercom.",
+    "region":"India",
+    "country":"IN",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/india-installs-record-15-3gw-of-solar-in-q1-2026-amid-policy-deadline-rush\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
     "headline":"Australia: NSW firming tender secures 2,128MWh of energy storage to address summer shortfall",
     "summary_80w":"Australia\u2019s New South Wales has seen 532MW of firming projects contracted through its seventh infrastructure tender, securing two projects designed to strengthen electricity supply during periods of peak demand and system stress in the Sydney-Newcastle-Wollongong region.",
     "region":"Global",
@@ -28,6 +60,167 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australia-nsw-firming-tender-secures-2128mwh-of-energy-storage-to-address-summer-shortfall\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
+    "headline":"ISC Konstanz advances plans for in-house solar cell and module pilot line",
+    "summary_80w":"ISC Konstanz is upgrading its cleanroom facilities to operate a fully integrated solar cell and module pilot line by Q3 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/isc-konstanz-advances-plans-for-in-house-solar-cell-and-module-pilot-line\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
+    "headline":"Fujiyama Power commissions 2GW solar module manufacturing plant",
+    "summary_80w":"Indian rooftop solar company Fujiyama Power has commissioned a 2GW solar module manufacturing facility in Ratlam, Madhya Pradesh.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/fujiyama-power-commissions-2gw-solar-module-manufacturing-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
+    "headline":"Are US manufacturers accelerating their protectionist stance?",
+    "summary_80w":"PV Tech Premium analyses whether this new PV trade scrutiny on Ethiopia could be a sign of accelerated protectionism from US manufacturers.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/are-us-manufacturers-accelerating-their-protectionist-stance\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
+    "headline":"The UK has space for corporate PPAs in its portfolio of operational solar assets",
+    "summary_80w":"While CfDs are the most attractive route to market in UK solar, EDF's Ross Irvine says that there are opportunities for corporate PPAs.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/the-uk-space-corporate-ppas-portfolio-operational-solar-assets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
+    "headline":"Meridian Energy bags consent for 120MW New Zealand solar plant",
+    "summary_80w":"New Zealand utility Meridian Energy has received consent to build a 120MW solar PV project alongside a planned battery energy storage system (BESS).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/meridian-energy-bags-consent-for-120mw-new-zealand-solar-plant\/",
     "reliability":"trade",
     "notes":""
   },
@@ -92,6 +285,71 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/solomon-islands-partners-with-adb-to-develop-first-large-scale-solar-pv-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
+    "headline":"Zelestra energises 1GWh hybrid BESS project in Chile",
+    "summary_80w":"Spanish developer and independent power producer (IPP) Zelestra has energised its 1GWh battery energy storage system (BESS) in the Atacama Desert in Chile.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/zelestra-energises-1gwh-hybrid-bess-project-in-chile\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-15",
+    "headline":"Rept Battero opens Indonesian cell and BESS manufacturing facility",
+    "summary_80w":"China-based Rept Battero has officially opened its lithium-ion cell and BESS manufacturing facility in Indonesia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rept-battero-opens-indonesian-cell-and-bess-manufacturing-facility\/",
     "reliability":"trade",
     "notes":""
   },
@@ -1991,7 +2249,7 @@
   },
   {
     "date_utc":"2026-05-08",
-    "headline":"Premium PV module prices rise in Europe despite softer April demand",
+    "headline":"Premium PV module prices rise again in Europe despite softer April demand signals",
     "summary_80w":"Despite softening demand momentum, premium solar module prices across Europe continued to rise in April.",
     "region":"Europe",
     "country":"EU",
@@ -2538,196 +2796,6 @@
   },
   {
     "date_utc":"2026-05-07",
-    "headline":"Drop in residential solar drives German PV installations down in Q1 2026",
-    "summary_80w":"PV installations in Germany in Q1 2026 decreased by 6% year-on-year as demand for residential solar systems declined, according to BSW-Solar.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"SolarEdge reduces net loss, maintains 22% margin in Q1 2026",
-    "summary_80w":"Israel-based solar inverter producer SolarEdge reduced its net losses and maintained a broadly steady margin in Q1 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solaredge-reduces-net-loss-maintains-22-margin-in-q1-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"Solar foundation manufacturer American Steel and Aluminum expands production",
-    "summary_80w":"American Steel and Aluminum (ASA, which produces US-made solar foundations, has opened a new facility in Syracuse, New York.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-foundation-manufacturer-american-steel-and-aluminum-expands-production\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"How Ireland\u2019s \u2018stable\u2019 political landscape facilitates long-term renewable energy planning",
-    "summary_80w":"The Irish renewable energy market has 'a very stable political landscape,' according to the BNRG Group's David Maguire.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/how-irelands-stable-political-landscape-facilitates-long-term-renewable-energy-planning\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"\u2018Stable\u2019 Irish renewable market has space for PPAs and CfDs",
-    "summary_80w":"The Irish renewable energy market is 'stable, with a regular cadence of activity,' according to the BNRG Group's David Maguire.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/stable-irish-renewable-market-has-space-for-ppas-and-cfds\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"Neoen\u2019s second-largest solar asset globally now operational in New South Wales, Australia",
-    "summary_80w":"Neoen has brought its 440MWp Culcairn Solar Farm online in NSW, marking the completion of the company's second-largest solar asset globally.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/neoens-second-largest-solar-asset-globally-now-operational-in-new-south-wales-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
     "headline":"US BESS operators face growing complexity as markets mature",
     "summary_80w":"The business model for battery energy storage systems (BESS) in the US is changing rapidly, according to industry experts who gathered recently to discuss revenue strategies and market conditions.",
     "region":"Global",
@@ -3141,69 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/fortescues-chairman-says-ai-and-battery-storage-healed-australian-mining-grid-in-nanoseconds\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-05",
-    "headline":"Australia: NSW battery storage systems capture 11.9% of state consumption",
-    "summary_80w":"New South Wales BESS set two charging records on 2 May, reaching 1,240MW of charging power and capturing 11.9% of state consumption.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-nsw-battery-storage-systems-capture-11-9-of-state-consumption\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-05",
-    "headline":"Beyond deployment: Building a circular future for renewable energy",
-    "summary_80w":"Fluence's Daniel Elias explores why circular-economy principles and material recovery are essential as renewable energy infrastructure matures and reaches end of life.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/beyond-deployment-building-a-circular-future-for-renewable-energy\/",
     "reliability":"trade",
     "notes":""
   }
