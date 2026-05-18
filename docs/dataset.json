@@ -1,6 +1,104 @@
 [
   {
     "date_utc":"2026-05-18",
+    "headline":"CIM Group launches US energy platform with 1.2GW solar PV, 690MW BESS",
+    "summary_80w":"US real estate company CIM Group has launched an energy platform with a 2GW portfolio of solar PV and battery energy storage system (BESS) assets.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-18",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/cim-group-launches-us-energy-platform-1-2gw-solar-pv-690mw-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-18",
+    "headline":"OX2 starts construction work at 135MW Muswellbrook solar-plus-storage project in Australia",
+    "summary_80w":"OX2 has started construction work at its Muswellbrook project, which combines 135MW of solar capacity and 100MW of batteries.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ox2-starts-construction-work-135mw-muswellbrook-solar-plus-storage-project-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-18",
+    "headline":"European Energy starts building 225MW agriPV project, Italy\u2019s \u2018largest\u2019",
+    "summary_80w":"Danish IPP European Energy has started constructing a 225.5MW agrivoltaic solar PV project in Sicily, which it claims will be the \u201clargest\u201d such project in Italy.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/european-energy-starts-building-225mw-agripv-project-italys-largest\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-18",
     "headline":"ACEN Australia\u2019s NSW solar portfolio delivers 87% generation boost in first quarter",
     "summary_80w":"ACEN Australia has revealed an 87% year-on-year increase in generation output for the first quarter of 2026, reaching 528GWh.",
     "region":"Global",
@@ -28,6 +126,39 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/acen-australias-nsw-solar-portfolio-delivers-87-generation-boost-in-first-quarter\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-18",
+    "headline":"Canadian Solar plans to double battery cell and BESS manufacturing capacity, new CEO says",
+    "summary_80w":"Canadian Solar intends to double its battery energy storage system (BESS) division\u2019s manufacturing capacity, the company\u2019s new CEO has said.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/canadian-solar-plans-to-double-battery-cell-and-bess-manufacturing-capacity-new-ceo-says\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2731,102 +2862,6 @@
   },
   {
     "date_utc":"2026-05-07",
-    "headline":"Bernreuter: Daqo sales slump reveals \u2018irrational\u2019 polysilicon market dynamics",
-    "summary_80w":"We spoke to Johannes Bernreuter about what Daqo New Energy's remarkable 88% sales drop in Q1 2026 means for the polysilicon industry.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/bernreuter-daqo-sales-slump-reveals-irrational-polysilicon-market-dynamics\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"Renew Risk launches \u2018first-of-its-kind\u2019 model to assess thunderstorm risk for US solar",
-    "summary_80w":"Renew Risk has launched a 'first-of-its-kind' model to forecast the impacts of thunderstorms on utility-scale solar projects in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/renew-risk-launches-first-of-its-kind-model-assess-thunderstorm-risk-us-solar\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"Sunrun\u2019s customer and capacity additions fall, storage rate rises in Q1 2026",
-    "summary_80w":"New customer additions and capacity of solar PV and BESS have all fallen quarter-on-quarter in the latest financial results from Sunrun.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sunruns-customer-capacity-additions-fall-storage-rate-rises-q1-2026-results\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
     "headline":"US BESS operators face growing complexity as markets mature",
     "summary_80w":"The business model for battery energy storage systems (BESS) in the US is changing rapidly, according to industry experts who gathered recently to discuss revenue strategies and market conditions.",
     "region":"Global",
@@ -3175,39 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/moment-energy-secures-us40-million-to-scale-second-life-bess-in-north-america\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-06",
-    "headline":"Green Flexibility, Suncatcher, SWB and ArcelorMittal progress large-scale BESS projects in Germany totalling 324MWh",
-    "summary_80w":"A quartet of Germany BESS project announcements: Green Flexibility has completed a project, Suncatcher has enlisted Statkraft to optimise three solar-plus-storage ones, SWB and Be.storaged are together building a system, while ArcelorMittal has enlisted EDF Power Solutions to do so.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/green-flexibility-suncatcher-swb-and-arcelormittal-progress-large-scale-bess-projects-in-germany-totalling-324mwh\/",
     "reliability":"trade",
     "notes":""
   }
