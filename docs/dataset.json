@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2026-05-18",
+    "headline":"ACEN Australia\u2019s NSW solar portfolio delivers 87% generation boost in first quarter",
+    "summary_80w":"ACEN Australia has revealed an 87% year-on-year increase in generation output for the first quarter of 2026, reaching 528GWh.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/acen-australias-nsw-solar-portfolio-delivers-87-generation-boost-in-first-quarter\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-18",
+    "headline":"Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
+    "summary_80w":"Australia has surpassed 400,000 home battery storage installations under the federal government's Cheaper Home Batteries Program.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-15",
     "headline":"India installs record 15.3GW of solar in Q1 2026 amid policy deadline rush",
     "summary_80w":"India installed a record 15.3GW of solar capacity in the first quarter of 2026, according to new data from market research firm Mercom.",
@@ -2763,39 +2827,6 @@
   },
   {
     "date_utc":"2026-05-07",
-    "headline":"Shoals opens eBOS manufacturing \u2018Mega Facility\u2019 in Tennessee",
-    "summary_80w":"US solar PV and energy storage system component manufacturer, Shoals, has opened a new manufacturing facility in Portland, Tennessee.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/shoals-opens-ebos-manufacturing-mega-facility-in-tennessee\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
     "headline":"US BESS operators face growing complexity as markets mature",
     "summary_80w":"The business model for battery energy storage systems (BESS) in the US is changing rapidly, according to industry experts who gathered recently to discuss revenue strategies and market conditions.",
     "region":"Global",
@@ -3177,38 +3208,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/green-flexibility-suncatcher-swb-and-arcelormittal-progress-large-scale-bess-projects-in-germany-totalling-324mwh\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-06",
-    "headline":"Fortescue\u2019s chairman says AI and battery storage \u2018healed\u2019 Australian mining grid in nanoseconds",
-    "summary_80w":"Fortescue's AI-enabled batteries stabilised its Pilbara mining grid without spinning generators, reversing electron flow in nanoseconds during disruption.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/fortescues-chairman-says-ai-and-battery-storage-healed-australian-mining-grid-in-nanoseconds\/",
     "reliability":"trade",
     "notes":""
   }
