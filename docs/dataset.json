@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-05-19",
+    "headline":"Japan\u2019s grid operators select 1.25GW of BESS in capacity market auction with 6-hour duration requirement",
+    "summary_80w":"The Japanese association of grid operators has selected 19 battery storage projects totalling 1,251MW in the third running of a national capacity market auction.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-19",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/japans-grid-operators-select-1-25gw-of-bess-in-capacity-market-auction-with-6-hour-duration-requirement\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-19",
     "headline":"Australia\u2019s Enervest shifts to own-and-operate model with 300MW battery storage system acquisition",
     "summary_80w":"Australian energy storage developer Enervest has acquired the Northern Border Battery, a 300MW battery energy storage system in development, from an unnamed Sydney-based developer.",
     "region":"Global",
@@ -3179,38 +3211,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/sungrows-grid-forming-pcs-achieves-19-second-black-start-at-worlds-first-30mw-test-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-07",
-    "headline":"Australia installs 10.7GWh of home battery storage under federal subsidy scheme",
-    "summary_80w":"Australia has installed 380,712 home battery storage systems, representing 10.7GWh of storage capacity, since the introduction of the Cheaper Home Batteries Program last year, Chris Bowen, Australia's minister for climate change and energy, has disclosed.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-installs-10-7gwh-of-home-battery-storage-under-federal-subsidy-scheme\/",
     "reliability":"trade",
     "notes":""
   }
