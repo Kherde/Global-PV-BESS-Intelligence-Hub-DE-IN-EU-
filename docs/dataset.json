@@ -65,6 +65,70 @@
   },
   {
     "date_utc":"2026-05-20",
+    "headline":"US startup Antora deploys 5GWh thermal energy storage system at biofuels facility in South Dakota",
+    "summary_80w":"California, US-headquartered thermal energy storage (TES) technology provider Antora has installed one of the world\u2019s largest energy storage systems, in South Dakota.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-startup-antora-deploys-5gwh-thermal-energy-storage-system-at-biofuels-facility-in-south-dakota\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-20",
+    "headline":"Changes in Hungary\u2019s renewable energy subsidy regime, market evolution drive BESS investment opportunities",
+    "summary_80w":"Hungary is entering a new phase of its energy transition, opening up new opportunities for energy storage investment. But bankability is still a challenge, so equity investment is needed, writes lawyer Daniel Orosz.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/changes-in-hungarys-renewable-energy-subsidy-regime-market-evolution-drive-bess-investment-opportunities\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-20",
     "headline":"Hitachi inks 20-year LTSA with Akaysha Energy for 298MWh battery storage system in Australia",
     "summary_80w":"Hitachi Energy has entered a 20-year service agreement with Australian developer Akaysha Energy to support the 155MW\/298MWh Ulinda Park battery energy storage system (BESS) in Queensland's Western Downs region.",
     "region":"Global",
@@ -3145,71 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/innergex-and-prevalon-add-210mwh-new-capacity-to-existing-chile-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-08",
-    "headline":"\u00d8rsted purchases 150MW Michigan BESS project from ESA Solar",
-    "summary_80w":"Denmark-headquartered independent power producer (IPP) \u00d8rsted has purchased a 150MW battery energy storage system (BESS) in Michigan, US, from developer ESA Solar Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/orsted-purchases-150mw-michigan-bess-project-from-esa-solar\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-08",
-    "headline":"European ESS battery company Morrow files for bankruptcy",
-    "summary_80w":"Norway-headquartered ESS-focused battery startup Morrow has filed for bankruptcy, in another blow to Europe's domestic battery industry.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/european-ess-battery-company-morrow-files-for-bankruptcy\/",
     "reliability":"trade",
     "notes":""
   }
