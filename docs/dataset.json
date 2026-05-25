@@ -1,5 +1,100 @@
 [
   {
+    "date_utc":"2026-05-25",
+    "headline":"Fortescue starts construction on Western Australia\u2019s \u2018largest solar PV power plant\u2019",
+    "summary_80w":"Mining giant Fortescue has begun construction on the 690MW Turner River solar PV power plant in Western Australia's Pilbara region.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-25",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/fortescue-starts-construction-on-western-australias-largest-solar-pv-power-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-25",
+    "headline":"Australia awards 7.8GW of renewable energy under Capacity Investment Scheme Tender 7",
+    "summary_80w":"Australia's CIS Tender 7 has seen 19 successful projects, which will deliver 7.8GW of renewable energy generation across the NEM.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-awards-7-8gw-of-renewable-energy-under-capacity-investment-scheme-tender-7\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-25",
+    "headline":"Contact Energy switches on 200MWh battery storage system in New Zealand",
+    "summary_80w":"Contact Energy has brought online its first grid-scale BESS, a 100MW\/200MWh installation at New Zealand Steel's Glenbrook site.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-25",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/contact-energy-switches-on-200mwh-battery-storage-system-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-22",
     "headline":"Masdar picks Sungrow as supplier for world\u2019s largest 24\/7 renewable energy project in UAE",
     "summary_80w":"Masdar has selected Sungrow for the world\u2019s first gigawatt-scale 24\/7 dispatchable renewable energy project in the United Arab Emirates (UAE).",
@@ -2763,38 +2858,6 @@
   },
   {
     "date_utc":"2026-05-14",
-    "headline":"Arava Power acquires half of OCI Energy\u2019s La Salle solar project, currently under construction in Texas",
-    "summary_80w":"Arava Power has acquired 50% of OCI Energy\u2019s La Salle Solar project, a 670MW project that OCI expects to start commercial operations in 2028.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-14",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/arava-power-acquires-half-oci-energys-la-salle-solar-project-under-construction-texas\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-14",
     "headline":"Pew\u2019s US DER policy playbook aimed at giving \u2018every state a path forward\u2019",
     "summary_80w":"Energy-Storage.news Premium speaks with Pat Wood III, co-chair at Pew Charitable Trusts about the company\u2019s DER Policy Playbook",
     "region":"Global",
@@ -2951,38 +3014,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/breaking-it-down-kiwa-pvel-expands-test-to-failure-methods-for-assessing-module-breakage-risk\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-14",
-    "headline":"DNV launches technical standards for floating solar",
-    "summary_80w":"Norway-headquartered technical and safety expert DNV has published two new standards for the design and maintenance of floating solar PV (FPV) systems.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/dnv-launches-technical-standards-for-floating-solar\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3176,38 +3207,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/galileo-ceo-on-completely-different-development-market-meeting-ppa-demand-and-where-in-europe-it-will-transact-next\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-13",
-    "headline":"US ROUNDUP: BESS project updates from Spearmint, Polaris, and Clearway in Texas, Puerto Rico and Utah",
-    "summary_80w":"In this US news roundup, battery energy storage system (BESS) project updates from Spearmint Energy in Texas, Polaris Renewable Energy in Puerto Rico, and Clearway Energy Group in Utah.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-bess-project-updates-from-spearmint-polaris-and-clearway-in-texas-puerto-rico-and-utah\/",
     "reliability":"trade",
     "notes":""
   }
