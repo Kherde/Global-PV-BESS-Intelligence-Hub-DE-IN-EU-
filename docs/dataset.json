@@ -34,6 +34,101 @@
   },
   {
     "date_utc":"2026-05-26",
+    "headline":"Blue Elephant Energy starts building 268MW Germany solar plant",
+    "summary_80w":"German developer Blue Elephant Energy has begun constructing a 268MW solar PV plant in Germany. Power from the project will be bought by Germany train operator, Deutsche Bahn.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-26",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/blue-elephant-energy-starts-building-268mw-germany-solar-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-26",
+    "headline":"GCL SI signs 1GW module supply deal with Thailand\u2019s Getz Energy",
+    "summary_80w":"GCL SI has signed a 1GW module supply agreement with Thailand\u2019s Getz Energy, a subsidiary of utility GPSC.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-26",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/gcl-si-signs-1gw-module-supply-deal-thailands-getz-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-26",
+    "headline":"CATL supplying 1.5GWh for Grenergy\u2019s long-term tolled Spanish BESS projects",
+    "summary_80w":"CATL will supply the BESS units for Grenergy's two large-scale energy storage projects in Spain, both of which have decade-long tolls.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-26",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/catl-supplying-1-5gwh-for-grenergys-long-term-tolled-spanish-bess-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-26",
     "headline":"DC vs AC coupling: which is best for co-locating your BESS and\u202fsolar setups?",
     "summary_80w":"Solar-plus-storage projects are proliferating across the globe and necessitate a choice between DC and AC coupling. In this piece we look at the differences and pros and cons of each.",
     "region":"Global",
@@ -3085,38 +3180,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-05-15",
-    "headline":"EnerVenue piloting \u201830,000-cycle\u2019 nickel-hydrogen BESS in China",
-    "summary_80w":"Nickel-hydrogen battery company EnerVenue has announced a pilot battery energy storage system (BESS) project in Jintan, Changzhou, China.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/enervenue-piloting-30000-cycle-nickel-hydrogen-bess-in-china\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-05-14",
     "headline":"MN8 Energy bags US$300 million to extend credit facility",
     "summary_80w":"MN8 Energy has raised US$300 million to extend a corporate credit facility that will build out its pipeline of US solar and storage projects.",
@@ -3146,70 +3209,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/mn8-energy-bags-us300-million-to-extend-credit-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-14",
-    "headline":"Canadian Solar module shipments fall to 2.5GW in Q1 2026 as Colin Parkin transitions to CEO",
-    "summary_80w":"Canadian Solar has posted a quarter-on-quarter decline in both solar module shipments and net revenues in the first quarter of 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/canadian-solar-module-shipments-fall-2-5gw-q1-2026-colin-parkin-transitions-ceo\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-14",
-    "headline":"Breaking it down: Kiwa PVEL expands test to failure methods for assessing module breakage risk",
-    "summary_80w":"Kiwa PVEL has rolled out updates to its module testing programme, with two changes affecting Static Mechanical Load (SML) and hail testing.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/breaking-it-down-kiwa-pvel-expands-test-to-failure-methods-for-assessing-module-breakage-risk\/",
     "reliability":"trade",
     "notes":""
   }
