@@ -1,6 +1,39 @@
 [
   {
     "date_utc":"2026-05-27",
+    "headline":"DESRI, TAGC break ground on 270MW solar-plus-storage projects in New Mexico",
+    "summary_80w":"DESRI and Tierra Adentro Growth Capital (TAGC) have broken ground on two solar-plus-storage projects in New Mexico.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/desri-tagc-break-ground-on-270mw-solar-plus-storage-projects-in-new-mexico\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
     "headline":"What\u2019s\u00a0next in\u00a0solar?\u00a0Tongwei\u00a0at Intersolar Europe 2026",
     "summary_80w":"From next-generation modules to bifacial innovations, Tongwei's booth A2.350 promises to be a destination for anyone serious about solar.",
     "region":"Europe",
@@ -123,6 +156,103 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australia-could-help-plug-350000-tonne-global-polysilicon-supply-gap-by-2040\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"German government confirms August 2029 grid fee exemption date for storage, but sets 2027 FID deadline",
+    "summary_80w":"Germany's energy system regulator has confirmed that BESS projects coming online by 4 August 2029 will be exempt from charging and discharging grid fees, opening up investment again after months of uncertainty.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/german-government-confirms-august-2029-grid-fee-exemption-date-for-storage-but-sets-2027-fid-deadline\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"Battery storage remains key revenue driver for clean energy technology suppliers",
+    "summary_80w":"Solar Media Market Research analyst Charlotte Gisbourne looks at the changing revenue and margin dynamics in the BESS supplier landscape.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-remains-key-revenue-driver-for-clean-energy-technology-suppliers\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"Adani Green Energy reaches 3.37GWh of cumulative BESS capacity at India\u2019s Khavda giga-scale renewable energy park",
+    "summary_80w":"Adani Green Energy has commissioned over 3GWh of battery storage at the world\u2019s largest single-location renewable energy project, in Khavda, Gujarat.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/adani-green-energy-reaches-3-37gwh-of-cumulative-bess-capacity-at-indias-khavda-giga-scale-renewable-energy-park\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3048,103 +3178,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-05-18",
-    "headline":"Canadian Solar plans to double battery cell and BESS manufacturing capacity, new CEO says",
-    "summary_80w":"Canadian Solar intends to double its battery energy storage system (BESS) division\u2019s manufacturing capacity, the company\u2019s new CEO has said.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/canadian-solar-plans-to-double-battery-cell-and-bess-manufacturing-capacity-new-ceo-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
-    "summary_80w":"Australia has surpassed 400,000 home battery storage installations under the federal government's Cheaper Home Batteries Program.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-15",
-    "headline":"India installs record 15.3GW of solar in Q1 2026 amid policy deadline rush",
-    "summary_80w":"India installed a record 15.3GW of solar capacity in the first quarter of 2026, according to new data from market research firm Mercom.",
-    "region":"India",
-    "country":"IN",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-15",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-installs-record-15-3gw-of-solar-in-q1-2026-amid-policy-deadline-rush\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-05-15",
     "headline":"ISC Konstanz advances plans for in-house solar cell and module pilot line",
     "summary_80w":"ISC Konstanz is upgrading its cleanroom facilities to operate a fully integrated solar cell and module pilot line by Q3 2026.",
@@ -3173,39 +3206,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/isc-konstanz-advances-plans-for-in-house-solar-cell-and-module-pilot-line\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-15",
-    "headline":"Zelestra energises 1GWh hybrid BESS project in Chile",
-    "summary_80w":"Spanish developer and independent power producer (IPP) Zelestra has energised its 1GWh battery energy storage system (BESS) in the Atacama Desert in Chile.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/zelestra-energises-1gwh-hybrid-bess-project-in-chile\/",
     "reliability":"trade",
     "notes":""
   }
