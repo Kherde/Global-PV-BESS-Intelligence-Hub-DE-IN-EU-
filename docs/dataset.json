@@ -32,6 +32,103 @@
   },
   {
     "date_utc":"2026-05-28",
+    "headline":"ContourGlobal brings online 231MW solar, 1.3GWh BESS in Chile",
+    "summary_80w":"IPP ContourGlobal has put a solar-plus-storage project in Chile with a 6.5-hour BESS into commercial operation in Chile.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"EU Roundup: TagEnergy, Iberdrola commission France and Spain\u2019s largest batteries, construction launched elsewhere",
+    "summary_80w":"TagEnergy has commissioned a 240MW\/480MWh project in France while Iberdrola has done the same with a 58MW\/120MWh system in Spain, the two largest projects in each country. Meanwhile Engie, ACL Energy and Chint Solar Europe have moved to construction on projects in Belgium, Italy and Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-tagenergy-iberdrola-commission-france-and-spains-largest-batteries-construction-launched-elsewhere\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"HyperStrong signs deal to supply battery storage project selected in Malaysia government tender",
+    "summary_80w":"Chinese system integrator HyperStrong has been contracted to work on a 100MW\/440MWh battery storage project in Malaysia.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hyperstrong-signs-deal-to-supply-battery-storage-project-selected-in-malaysia-government-tender\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
     "headline":"AEMO and Transgrid approve Australia\u2019s first 8-hour BESS for full operations",
     "summary_80w":"RWE has received official sign-off from the AEMO and Transgrid to operate Australia's first 8-hour BESS at full capacity.",
     "region":"Global",
@@ -2630,38 +2727,6 @@
   },
   {
     "date_utc":"2026-05-19",
-    "headline":"Japan\u2019s grid operators select 1.25GW of BESS in capacity market auction with 6-hour duration requirement",
-    "summary_80w":"The Japanese association of grid operators has selected 19 battery storage projects totalling 1,251MW in the third running of a national capacity market auction.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/japans-grid-operators-select-1-25gw-of-bess-in-capacity-market-auction-with-6-hour-duration-requirement\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
     "headline":"DTE Energy seeks 1GW of solar, wind capacity in Michigan",
     "summary_80w":"Michigan power utility DTE Energy has issued a tender for 1GW of new solar PV and wind power projects across the state.",
     "region":"Global",
@@ -3041,70 +3106,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/inovances-hong-kong-ipo-storage-fuels-growth-targeting-global-top-three-pcs-ranking\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Malaysian utility TNB connects 100MW\/400MWh grid-forming battery storage project to grid",
-    "summary_80w":"Malaysian multinational utility company Tenaga Nasional Berhad (TNB) has launched a 100MW\/400MWh battery storage project with an opening ceremony.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/malaysian-utility-tnb-connects-100mw-400mwh-grid-forming-battery-storage-project-to-grid\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Yarra Energy Foundation brings community battery paired with EV chargers online in Australia",
-    "summary_80w":"Yarra Energy Foundation (YEF), a not-for-profit organisation, has commissioned a community battery storage system and two wheelchair-accessible electric vehicle (EV) charging bays in Clifton Hill, an inner-city suburb of Melbourne, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/yarra-energy-foundation-brings-community-battery-paired-with-ev-chargers-online-in-australia\/",
     "reliability":"trade",
     "notes":""
   },
