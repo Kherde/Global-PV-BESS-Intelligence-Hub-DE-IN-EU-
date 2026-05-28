@@ -1,5 +1,227 @@
 [
   {
+    "date_utc":"2026-05-28",
+    "headline":"Greenpeace warns AI data centre rollout threatens to derail Australia\u2019s clean energy transition",
+    "summary_80w":"A new report from Greenpeace Australia has warned that the rapid expansion of AI data centres across Australia is set to slow the country's renewable energy transition rather than accelerate it.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/greenpeace-warns-ai-data-centre-rollout-threatens-to-derail-australias-clean-energy-transition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"AEMO and Transgrid approve Australia\u2019s first 8-hour BESS for full operations",
+    "summary_80w":"RWE has received official sign-off from the AEMO and Transgrid to operate Australia's first 8-hour BESS at full capacity.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/aemo-and-transgrid-approve-australias-first-8-hour-bess-for-full-operations\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"Enbridge starts commercial operations at 400MW phase of Sequoia Solar project in Texas",
+    "summary_80w":"Enbridge has started commercial operations at the first phase of its 815MW Sequoia Solar project in Callahan County, in Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enbridge-starts-commercial-operations-400mw-phase-sequoia-solar-project-texas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"Government policy, market factors encouraging co-location of renewables and BESS",
+    "summary_80w":"Government policy and market factors are the main conditions encouraging the co-location of renewable generation projects and BESS.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/government-policy-market-factors-encouraging-co-location-renewables-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"California Energy Commission approves 3.2GWh BESS project through Newsom\u2019s accelerated permitting scheme",
+    "summary_80w":"The California Energy Commission (CEC) has approved a 400MW\/3,200MWh grid-scale battery storage project through the state planning agency\u2019s Opt-In Certification Program.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/california-energy-commission-approves-3-2gwh-bess-project-through-newsoms-accelerated-permitting-scheme\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"PowerBridge expands energy portfolio with Enphase patent acquisition",
+    "summary_80w":"PowerBridge Networks has acquired more than 50 Enphase Energy patents tied to distributed energy, inverter and grid infrastructure technologies.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/powerbridge-expands-energy-portfolio-with-enphase-patent-acquisition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"Enlight signs 200MWac PPA with Google in Oklahoma",
+    "summary_80w":"Enlight Renewable Energy has signed a 15-year power purchase agreement (PPA) with Google for a 200MWac solar offtake in Oklahoma.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enlight-signs-200mwac-ppa-with-google-in-oklahoma\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-27",
     "headline":"DESRI, TAGC break ground on 270MW solar-plus-storage projects in New Mexico",
     "summary_80w":"DESRI and Tierra Adentro Growth Capital (TAGC) have broken ground on two solar-plus-storage projects in New Mexico.",
@@ -156,6 +378,39 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australia-could-help-plug-350000-tonne-global-polysilicon-supply-gap-by-2040\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-27",
+    "headline":"\u2018Domestic manufacturing capacity sufficient to fully satisfy US battery module demand,\u2019 trade group ACP claims",
+    "summary_80w":"The US can currently produce enough solar and battery energy storage system (BESS) modules to meet domestic demand, according to clean energy trade body American Clean Power (ACP).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/domestic-manufacturing-capacity-sufficient-to-fully-satisfy-us-battery-module-demand-trade-group-acp-claims\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2407,38 +2662,6 @@
   },
   {
     "date_utc":"2026-05-19",
-    "headline":"Australia\u2019s Enervest shifts to own-and-operate model with 300MW battery storage system acquisition",
-    "summary_80w":"Australian energy storage developer Enervest has acquired the Northern Border Battery, a 300MW battery energy storage system in development, from an unnamed Sydney-based developer.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-enervest-shifts-to-own-and-operate-model-with-300mw-battery-storage-system-acquisition\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
     "headline":"DTE Energy seeks 1GW of solar, wind capacity in Michigan",
     "summary_80w":"Michigan power utility DTE Energy has issued a tender for 1GW of new solar PV and wind power projects across the state.",
     "region":"Global",
@@ -2886,72 +3109,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-05-19",
-    "headline":"Construction begins on OX2\u2019s 300MWh Muswellbrook solar-plus-BESS in NSW, Australia",
-    "summary_80w":"Swedish independent power producer (IPP) OX2 has confirmed it has started construction activities at the 100MW\/300MWh Muswellbrook solar-plus-storage site in New South Wales (NSW), Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/construction-begins-on-ox2s-300mwh-muswellbrook-solar-plus-bess-in-nsw-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"CIM Group launches US energy platform with 1.2GW solar PV, 690MW BESS",
-    "summary_80w":"US real estate company CIM Group has launched an energy platform with a 2GW portfolio of solar PV and battery energy storage system (BESS) assets.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/cim-group-launches-us-energy-platform-1-2gw-solar-pv-690mw-bess\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-05-18",
     "headline":"Oman signs 2.7GW hybrid renewables PPA with\u00a0Naqaa\u00a0Sustainable Energy",
     "summary_80w":"Naqaa Sustainable Energy has signed a power purchase agreement (PPA) for a 2.7GW hybrid renewable energy project in Mahout and Duqm, Oman.",
@@ -3045,167 +3202,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/rumsl-launches-50mw-and-200mw-solar-storage-tenders\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"OX2 starts construction work at 135MW Muswellbrook solar-plus-storage project in Australia",
-    "summary_80w":"OX2 has started construction work at its Muswellbrook project, which combines 135MW of solar capacity and 100MW of batteries.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ox2-starts-construction-work-135mw-muswellbrook-solar-plus-storage-project-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"European Energy starts building 225MW agriPV project, Italy\u2019s \u2018largest\u2019",
-    "summary_80w":"Danish IPP European Energy has started constructing a 225.5MW agrivoltaic solar PV project in Sicily, which it claims will be the \u201clargest\u201d such project in Italy.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/european-energy-starts-building-225mw-agripv-project-italys-largest\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"ACEN Australia\u2019s NSW solar portfolio delivers 87% generation boost in first quarter",
-    "summary_80w":"ACEN Australia has revealed an 87% year-on-year increase in generation output for the first quarter of 2026, reaching 528GWh.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/acen-australias-nsw-solar-portfolio-delivers-87-generation-boost-in-first-quarter\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"Non-lithium players Eos and ESS lean on future of US LDES deployment in Q1 2026 financials",
-    "summary_80w":"Two battery energy storage system (BESS) companies, Eos Energy and ESS Tech Inc, are betting big on the US adoption of long-duration energy storage (LDES) in Q1 2026 financial reports.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/non-lithium-players-eos-and-ess-lean-on-future-of-us-ldes-deployment-in-q1-2026-financials\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-15",
-    "headline":"ISC Konstanz advances plans for in-house solar cell and module pilot line",
-    "summary_80w":"ISC Konstanz is upgrading its cleanroom facilities to operate a fully integrated solar cell and module pilot line by Q3 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/isc-konstanz-advances-plans-for-in-house-solar-cell-and-module-pilot-line\/",
     "reliability":"trade",
     "notes":""
   }
