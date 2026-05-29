@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-05-29",
+    "headline":"Trina Solar unveils THBC technology, TOPCon\u2019s next frontier?",
+    "summary_80w":"Trina's THBC - which combines TOPCon, HJT and BC - aims to leverage existing TOPCon capacity and increase the efficiency of C-Si single-junction cells.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/trina-solar-unveils-thbc-technology-topcon-next-frontier\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
     "headline":"BHP turns to Indigenous-led developer to explore renewables for iron ore operations in Western Australia",
     "summary_80w":"BHP and Yindjibarndi Energy Corporation (YEC) will assess potential large-scale energy solutions for iron ore operations in Western Australia's Pilbara region.",
     "region":"Global",
@@ -3171,38 +3203,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/snec-and-intersolar-munich-2026-what-to-look-out-for\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Inox Clean Energy completes US$750 million acquisition of Boviet Solar",
-    "summary_80w":"Inox Clean Energy has completed the acquisition of US solar manufacturer Boviet Solar Technology in a deal valued at around US$750 million.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/inox-clean-energy-completes-us750-million-acquisition-of-boviet-solar\/",
     "reliability":"trade",
     "notes":""
   }
