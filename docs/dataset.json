@@ -1,5 +1,293 @@
 [
   {
+    "date_utc":"2026-05-29",
+    "headline":"South Australia awards 1.3GW+ of battery storage in first Firm Energy Reliability Mechanism tender",
+    "summary_80w":"South Australia's first Firm Energy Reliability Mechanism (FERM) tender has awarded agreements to six battery energy storage projects totalling 1,334MW and 5,336MWh.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/south-australia-awards-1-3gw-of-battery-storage-in-first-firm-energy-reliability-mechanism-tender\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"BHP turns to Indigenous-led developer to explore renewables for iron ore operations in Western Australia",
+    "summary_80w":"BHP and Yindjibarndi Energy Corporation (YEC) will assess potential large-scale energy solutions for iron ore operations in Western Australia's Pilbara region.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/bhp-turns-to-indigenous-led-developer-to-explore-renewables-for-iron-ore-operations-in-western-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"Wannon Water, Enervest complete \u2018one of Australia\u2019s largest floating solar arrays\u2019",
+    "summary_80w":"Melbourne-based developer Enervest has delivered what is claimed to be one of Australia's largest floating solar installations, built to offset the energy costs of pumping drinking water in regional Victoria.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/wannon-water-enervest-complete-one-of-australias-largest-floating-solar-arrays\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"Nord Pool\u2019s new European BESS revenue index \u2018reduces trader bias risk\u2019 for merchant plays",
+    "summary_80w":"ESN Premium speaks with Clean Horizon about the consultancy\u2019s European battery storage revenue index being added to Nord Pool\u2019s Data Portal.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nord-pools-new-european-bess-revenue-index-reduces-trader-bias-risk-for-merchant-plays\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"Ausgrid submits 300MWh Berkeley Vale BESS in New South Wales to Australia\u2019s EPBC Act",
+    "summary_80w":"Ausgrid has submitted its 150MW\/300MWh Berkeley Vale BESS to the Australian government's EPBC Act for federal environmental assessment.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ausgrid-submits-300mwh-berkeley-vale-bess-in-new-south-wales-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"India adds over 14GW of solar in Q1 2026",
+    "summary_80w":"India added around 14.2GW of solar energy capacity in the first quarter of 2026, a roughly 95% increase from the previous quarter, according to Indian research firm JMK Research.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/india-adds-over-14gw-of-solar-in-q1-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"The impact of PV module degradation on inverter clipping losses",
+    "summary_80w":"Research from Solargis suggests current industry practice for calculating impacts of degradation on inverters may be wrong by more than 3%.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/the-impact-of-pv-module-degradation-on-inverter-clipping-losses\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"NextEnergy Capital closes $974 million for latest solar and storage fund",
+    "summary_80w":"NextEnergy Capital has secured US$974 million towards its NextPower V solar and energy storage investment vehicle.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextenergy-capital-closes-974-million-for-latest-solar-and-storage-fund\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"BrightNight secures finance for 120MW Frontier solar PV project",
+    "summary_80w":"BrightNight has secured financing for its 120MW Frontier solar PV project, which is currently under development in the US state of Kentucky.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/brightnight-secures-finance-120mw-frontier-solar-pv-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-28",
     "headline":"Greenpeace warns AI data centre rollout threatens to derail Australia\u2019s clean energy transition",
     "summary_80w":"A new report from Greenpeace Australia has warned that the rapid expansion of AI data centres across Australia is set to slow the country's renewable energy transition rather than accelerate it.",
@@ -27,6 +315,102 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/greenpeace-warns-ai-data-centre-rollout-threatens-to-derail-australias-clean-energy-transition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"\u2018The urgency is real\u2019: PJM considers its future amidst substantial load growth",
+    "summary_80w":"Energy-Storage.news Premium speaks with Brattle Group's Andrew Levitt and Dr Long Lam, about PJM and managing load growth.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/the-urgency-is-real-pjm-considers-its-future-amidst-substantial-load-growth\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"ERCOT incentivises grid-forming BESS with US$25 million programme",
+    "summary_80w":"The Electric Reliability Council of Texas (ERCOT) has initiated a programme to encourage battery energy storage systems (BESS) and other inverter-based resources to adopt grid-forming technology.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ercot-incentivises-grid-forming-bess-with-us25-million-programme\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-28",
+    "headline":"LG ES system integrator subsidiary signs 6GWh BESS deal with Michigan utility DTE Energy",
+    "summary_80w":"LG Energy Solution\u2019s US battery storage system integrator arm has signed a 1.5GW\/6GWh deal with Michigan utility DTE Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/lg-es-system-integrator-subsidiary-signs-6gwh-bess-deal-with-michigan-utility-dte-energy\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2694,38 +3078,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-05-20",
-    "headline":"Australia\u2019s New South Wales seeks 2.5GW of generation and 12GWh of energy storage in state\u2019s largest-ever tender",
-    "summary_80w":"Australia's New South Wales (NSW) has opened two tenders seeking 2.5GW of renewable energy generation and 12GWh of long-duration energy storage, marking the largest generation procurement in the state's history under its Electricity Infrastructure Roadmap.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-new-south-wales-seeks-2-5gw-of-generation-and-12gwh-of-energy-storage-in-states-largest-ever-tender\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-05-19",
     "headline":"DTE Energy seeks 1GW of solar, wind capacity in Michigan",
     "summary_80w":"Michigan power utility DTE Energy has issued a tender for 1GW of new solar PV and wind power projects across the state.",
@@ -2851,358 +3203,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/inox-clean-energy-completes-us750-million-acquisition-of-boviet-solar\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"NextEra Energy and Dominion Energy combine to form massive US power utility",
-    "summary_80w":"NextEra Energy and Dominion Energy have confirmed that they will combine, forming the largest regulated power utility company in the world.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nextera-energy-and-dominion-energy-combine-to-form-massive-us-power-utility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Enel acquires 270MW operational solar PV portfolio in the US",
-    "summary_80w":"Enel Green Power North America has acquired a 270MW operational solar PV portfolio from an unnamed US utility.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/enel-acquires-270mw-operational-solar-pv-portfolio-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Toyo Solar revenue up 177% following scaling up of solar cell and module production",
-    "summary_80w":"Toyo Solar has posted a 177% increase in revenues in Q1 2026, after bringing online new cell and module manufacturing facilities.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/toyo-solar-revenue-up-177-following-scaling-up-solar-cell-module-productio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Lenders now actively financing merchant BESS projects in Germany",
-    "summary_80w":"Lenders are increasingly willing to back large-scale BESS projects in Germany that don't have any contracted revenues, although that merchant risk is priced in to structures, an executive at Aquila Clean Energy EMEA said.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/lenders-now-actively-financing-merchant-bess-projects-in-germany\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"EU Project Roundup: Neoen, Nofar, Enka, Return, RWE, Repono and others progress 3.3GWh of BESS capacity",
-    "summary_80w":"Large-scale BESS projects have been progressed in Italy, Romania, Germany, Poland, Denmark and elsewhere in Europe, totalling around 1GW under construction, 1GWh soon to be, and another 1GWh at earlier stages.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eu-project-roundup-neoen-nofar-enka-return-rwe-repono-and-others-progress-3-3gwh-of-bess-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Ford Energy makes 20GWh, five-year North America supply deal with EDF",
-    "summary_80w":"Ford Energy, the wholly owned subsidiary of Ford Motor Company and developer EDF power solutions North America have announced a five-year battery energy storage system (BESS) supply agreement.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ford-energy-makes-20gwh-five-year-north-america-supply-deal-with-edf\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"AC and DC augmentation\u00a0in BESS: the differences between the two\u00a0approaches",
-    "summary_80w":"What are the different types of AC and DC augmentation in battery storage, and the pros and cons of each?",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ac-and-dc-augmentation-in-bess-the-differences-between-the-two-approaches\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"Inovance\u2019s Hong Kong IPO: storage fuels growth, targeting\u00a0global\u00a0top three PCS ranking",
-    "summary_80w":"Chinese industrial automation and power technology firm Inovance Technology has filed its prospectus with the Hong Kong Stock Exchange, planning to raise around US$2 billion (RMB 13.7 billion) following strong growth in its energy storage business.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/inovances-hong-kong-ipo-storage-fuels-growth-targeting-global-top-three-pcs-ranking\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"Oman signs 2.7GW hybrid renewables PPA with\u00a0Naqaa\u00a0Sustainable Energy",
-    "summary_80w":"Naqaa Sustainable Energy has signed a power purchase agreement (PPA) for a 2.7GW hybrid renewable energy project in Mahout and Duqm, Oman.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/oman-signs-2-7gw-hybrid-renewables-ppa-with-naqaa-sustainable-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"Vietnam proposes 270MW new floating PV capacity",
-    "summary_80w":"The Vietnamese state power utility Vietnam Energy Generation Corporation 1 (EVNGENCO1) has proposed the development of 270MW of floating solar PV capacity on three hydropower reservoirs.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/vietnam-proposes-270mw-new-floating-pv-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-18",
-    "headline":"RUMSL launches 50MW and 200MW solar-storage tenders",
-    "summary_80w":"RUMSL has launched two solar-plus-storage projects in India designed to provide power supply during peak demand periods.",
-    "region":"India",
-    "country":"IN",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/rumsl-launches-50mw-and-200mw-solar-storage-tenders\/",
     "reliability":"trade",
     "notes":""
   }
