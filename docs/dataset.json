@@ -33,6 +33,168 @@
   },
   {
     "date_utc":"2026-05-29",
+    "headline":"Is standalone solar losing its edge in India?",
+    "summary_80w":"PV Talk: India\u2019s renewable market is shifting toward dispatchability as standalone solar faces mounting intermittency pressure and storage moves to the centre of new procurement models.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/is-standalone-solar-losing-its-edge-in-india\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"Nextpower enters utility-scale BESS market with Prevalon acquisition",
+    "summary_80w":"Solar PV solutions provider Nextpower has entered into a definitive agreement to acquire BESS system integrator Prevalon Energy for up to US$365 million.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextpower-enters-utility-scale-bess-market-with-prevalon-acquisition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"\u2018I still have hope that the failure rate will decrease,\u2019 says Kiwa PVEL\u2019s Tristan Erion-Lorico",
+    "summary_80w":"PV Talk: Kiwa PVEL's Tristan Erion-Lorico discusses highlights in the 2026 Module Reliability Scorecard, including UVID and delamination.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/i-still-have-hope-that-the-failure-rate-will-decrease-says-kiwa-pvels-tristan-erion-lorico\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"Iran energy crisis to \u2018reshape\u2019 energy investment \u2013 IEA",
+    "summary_80w":"The Iran war energy shock will \u201creshape\u201d global energy investment strategies, according to the executive director of the International Energy Agency (IEA).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/iran-energy-crisis-to-reshape-energy-investment-iea\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"Zelestra sells 3.5GW Latin America solar and storage portfolio to Promigas",
+    "summary_80w":"Zelestra has completed the sale of its Latin America platform to Promigas in a deal valued at approximately US$1.1 billion.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/zelestra-sells-3-5gw-latin-america-solar-and-storage-portfolio-to-promigas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
     "headline":"Trina Solar unveils THBC technology, TOPCon\u2019s next frontier?",
     "summary_80w":"Trina's THBC - which combines TOPCon, HJT and BC - aims to leverage existing TOPCon capacity and increase the efficiency of C-Si single-junction cells.",
     "region":"Global",
@@ -128,8 +290,104 @@
   },
   {
     "date_utc":"2026-05-29",
+    "headline":"US ROUNDUP: BESS news from NeoVolta, Goshe, Frontier Power & Stella and Prevalon",
+    "summary_80w":"In this Energy-Storage.news roundup, a collection of battery energy storage system (BESS)-related announcements from NeoVolta, Goshe Energy Storage, Frontier Power USA and Stella Energy Solutions, and Prevalon Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-bess-news-from-neovolta-goshe-frontier-power-stella-and-prevalon\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"\u2018Time to prove its potential\u2019: Gresham House UK BESS fund at a crossroads",
+    "summary_80w":"Managers of the UK\u2019s largest BESS owner-operator Gresham House Energy Storage Fund (GRID) discussed recent investment news and future strategy this week.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
+    "headline":"German regulator\u2019s grid fee decision \u2018restores investor confidence\u2019 in energy storage market",
+    "summary_80w":"The German network regulator\u2019s decision to maintain grid fee exemptions for battery storage \u201censures that billions in private investment remain directed\u201d into the market, Energy-Storage.news has heard.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-05-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/german-regulators-grid-fee-decision-restores-investor-confidence-in-energy-storage-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-05-29",
     "headline":"Nord Pool\u2019s new European BESS revenue index \u2018reduces trader bias risk\u2019 for merchant plays",
-    "summary_80w":"ESN Premium speaks with Clean Horizon about the consultancy\u2019s European battery storage revenue index being added to Nord Pool\u2019s Data Portal.",
+    "summary_80w":"We hear from Clean Horizon about the consultancy\u2019s European battery storage revenue index being added to Nord Pool\u2019s Data Portal.",
     "region":"Europe",
     "country":"EU",
     "category":"tech",
@@ -2756,39 +3014,6 @@
   },
   {
     "date_utc":"2026-05-20",
-    "headline":"Edify Energy reaches financial close on 720MW Queensland solar-plus-storage sites in Australia",
-    "summary_80w":"Edify Energy has reached financial close on the 720MWp Smoky Creek and Guthrie's Gap solar power stations in Central Queensland, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/edify-energy-reaches-financial-close-on-720mw-queensland-solar-plus-storage-sites-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
     "headline":"Price discrepancy the main barrier to UK PPA deals, developers say",
     "summary_80w":"Price is the main barrier to PPAs being transacted in the UK market today, a panel at the Renewable Procurement and Revenue Summit said.",
     "region":"Global",
@@ -2887,37 +3112,6 @@
   },
   {
     "date_utc":"2026-05-20",
-    "headline":"HDRE and Greensteel Australia partner on renewable energy for green steel production",
-    "summary_80w":"HD Renewable Energy has partnered with Greensteel Australia to establish a long-term renewable energy partnership for green steel production.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/hdre-and-greensteel-australia-partner-on-renewable-energy-for-green-steel-production\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
     "headline":"Sunraycer closes US$901 million financing for three Texas solar-plus-BESS projects",
     "summary_80w":"Independent power producer (IPP) Sunraycer Renewables has closed a US$901 million project financing facility, supporting three solar-plus-storage projects in Texas, US.",
     "region":"Global",
@@ -3010,199 +3204,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/hyperstrong-ceo-on-sodium-ion-bess-product-potential-and-challenges\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"US startup Antora deploys 5GWh thermal energy storage system at biofuels facility in South Dakota",
-    "summary_80w":"California, US-headquartered thermal energy storage (TES) technology provider Antora has installed one of the world\u2019s largest energy storage systems, in South Dakota.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-startup-antora-deploys-5gwh-thermal-energy-storage-system-at-biofuels-facility-in-south-dakota\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"Changes in Hungary\u2019s renewable energy subsidy regime, market evolution drive BESS investment opportunities",
-    "summary_80w":"Hungary is entering a new phase of its energy transition, opening up new opportunities for energy storage investment. But bankability is still a challenge, so equity investment is needed, writes lawyer Daniel Orosz.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/changes-in-hungarys-renewable-energy-subsidy-regime-market-evolution-drive-bess-investment-opportunities\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"Hitachi inks 20-year LTSA with Akaysha Energy for 298MWh battery storage system in Australia",
-    "summary_80w":"Hitachi Energy has entered a 20-year service agreement with Australian developer Akaysha Energy to support the 155MW\/298MWh Ulinda Park battery energy storage system (BESS) in Queensland's Western Downs region.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hitachi-inks-20-year-ltsa-with-akaysha-energy-for-298mwh-battery-storage-system-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"DTE Energy seeks 1GW of solar, wind capacity in Michigan",
-    "summary_80w":"Michigan power utility DTE Energy has issued a tender for 1GW of new solar PV and wind power projects across the state.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/dte-energy-seeks-1gw-of-solar-wind-capacity-in-michigan\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"JinkoSolar to supply 200MW of modules to PM Green under 1GW deal",
-    "summary_80w":"JinkoSolar has partnered with PM Green to supply 200MW of modules, as part of a broader collaboration covering up to 1GW of capacity.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/jinkosolar-to-supply-200mw-of-modules-to-pm-green-under-1gw-deal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-19",
-    "headline":"SNEC and Intersolar Munich 2026: What to look out for",
-    "summary_80w":"Alex Barrows and Molly Morgan of CRU lay out their predictions for the biggest themes at this year's Intersolar Munich and SNEC conferences.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/snec-and-intersolar-munich-2026-what-to-look-out-for\/",
     "reliability":"trade",
     "notes":""
   }
