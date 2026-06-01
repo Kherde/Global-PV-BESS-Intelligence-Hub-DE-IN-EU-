@@ -1,5 +1,133 @@
 [
   {
+    "date_utc":"2026-06-01",
+    "headline":"Australia\u2019s Victoria formally declares five renewable energy zones",
+    "summary_80w":"The Victorian government in Australia has formally declared five onshore REZ and a dedicated shoreline zone for offshore wind infrastructure.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-victoria-formally-declares-five-renewable-energy-zones\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Germany: Level playing field for storage vs conventional generation is major challenge, says developer Kyon",
+    "summary_80w":"That's according to Benedikt Deuchert, head of business development and regulatory affairs for German battery energy storage system (BESS) developer and EPC firm Kyon Energy.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/germany-level-playing-field-for-storage-vs-conventional-generation-is-major-challenge-says-developer-kyon\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"CATL opens \u2018world\u2019s largest\u2019 energy storage testing platform in China",
+    "summary_80w":"CATL has opened what it describes as the \u201cworld's largest and most comprehensive testing and validation platform for energy storage systems\u201d at its headquarters in Ningde, China.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/catl-opens-worlds-largest-energy-storage-testing-platform-in-china\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"RES Australia\u2019s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
+    "summary_80w":"RES Australia's 2,400MWh Bunyip North BESS has cleared the federal environmental assessment process under Australia's EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-05-29",
     "headline":"South Australia awards 1.3GW+ of battery storage in first Firm Energy Reliability Mechanism tender",
     "summary_80w":"South Australia's first Firm Energy Reliability Mechanism (FERM) tender has awarded agreements to six battery energy storage projects totalling 1,334MW and 5,336MWh.",
@@ -3072,138 +3200,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/gamechange-solar-first-solar-partner-on-india-made-thin-film-module-deployment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"CIP, BII launch US$300 million renewables investment platform in India",
-    "summary_80w":"The US$300 million North Star platform will target investments across solar, wind, hybrid and energy storage projects.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "wind",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/cip-bii-launch-us300-million-renewables-investment-platform-in-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"Sunraycer closes US$901 million financing for three Texas solar-plus-BESS projects",
-    "summary_80w":"Independent power producer (IPP) Sunraycer Renewables has closed a US$901 million project financing facility, supporting three solar-plus-storage projects in Texas, US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sunraycer-closes-us901-million-financing-for-three-texas-solar-plus-bess-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"Second-life BESS maker Moment Energy claims \u2018world first\u2019 safety certification as FEOC compliance crunch looms",
-    "summary_80w":"Energy-Storage.news speaks with Moment Energy\u2019s CTO and co-founder Gabriel Soares, and VP of business development, Carl Mansfield, about recent updates from the second life battery company.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/second-life-bess-maker-moment-energy-claims-world-first-safety-certification-as-feoc-compliance-crunch-looms\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"HyperStrong CEO on sodium-ion BESS product potential and challenges",
-    "summary_80w":"Sodium-ion may be increasingly competitive for projects where total lifecycle economics matter more than initial procurement cost alone, the CEO of HyperStrong told us after the system integrator signed a 60GWh supply and co-operation agreement with CATL.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hyperstrong-ceo-on-sodium-ion-bess-product-potential-and-challenges\/",
     "reliability":"trade",
     "notes":""
   }
