@@ -1,6 +1,197 @@
 [
   {
     "date_utc":"2026-06-01",
+    "headline":"EDF signs Utah solar PPA with LA Department of Water and Power",
+    "summary_80w":"EDF power solutions North America has signed a 30-year PPA to sell power generated at the 400MW Utah Solar 1 Energy project to the LADWP.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/edf-signs-30-year-ppa-sell-power-utah-solar-project-la-department-water-power\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Matrix Renewables, SOLV Energy break ground on 457MW Texas solar project",
+    "summary_80w":"US IPP Matrix Renewables and EPC contractor SOLV Energy have commenced construction on the Tormes Solar Project, a 457MWdc facility in Navarro County, Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/matrix-renewables-solv-energy-break-ground-on-457mw-texas-solar-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Sunsure commissions first 105MW solar plant under Green Energy Corridor-II in Uttar Pradesh",
+    "summary_80w":"Indian independent power producer (IPP) Sunsure Energy has commissioned a 105MWp solar plant in Uttar Pradesh's Mahoba district.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sunsure-commissions-first-105mw-solar-plant-under-green-energy-corridor-ii-in-uttar-pradesh\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"New York State\u2019s 2027 budget to support 1GW rooftop and community solar",
+    "summary_80w":"New York State's 2027 fiscal year budget has allocated US$200 million for rooftop and community solar, unlocking 1GW of new PV.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/new-york-states-2027-budget-to-support-1gw-rooftop-and-community-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Ember: Chinese import figures presage \u2018major acceleration\u2019 in Philippines rooftop solar",
+    "summary_80w":"The Philippines has become the second-largest market for Chinese solar panel exports, likely to power a surge in its rooftop solar market",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ember-chinese-import-figures-presage-major-acceleration-in-philippines-rooftop-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"ESMC, European industrial bodies write letter calling on EU to act against \u2018unfair trade practices\u2019",
+    "summary_80w":"The ESMC has joined 22 other European industry bodies in signing an open letter, calling for greater protection from 'unfair trade practices'.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/esmc-european-industrial-bodies-write-letter-eu-act-unfair-trade-practices\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
     "headline":"Australia\u2019s Victoria formally declares five renewable energy zones",
     "summary_80w":"The Victorian government in Australia has formally declared five onshore REZ and a dedicated shoreline zone for offshore wind infrastructure.",
     "region":"Global",
@@ -28,6 +219,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-victoria-formally-declares-five-renewable-energy-zones\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Sungrow and Sonnedix sign 643.8MWh supply agreement for Chile BESS",
+    "summary_80w":"Chinese-based OEM Sungrow and Spanish IPP Sonnedix have signed a supply agreement for 643.8MWh of Sungrow\u2019s PowerTitan 2.0 solution.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sungrow-and-sonnedix-sign-643-8mwh-supply-agreement-for-chile-bess\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2756,37 +2979,6 @@
   },
   {
     "date_utc":"2026-05-21",
-    "headline":"Australia\u2019s New South Wales launches \u2018biggest renewable energy tender in the state\u2019s history\u2019",
-    "summary_80w":"New South Wales (NSW), Australia, has launched what it has described as its \u201cbiggest renewable energy tender in the state\u2019s history\u201d, seeking 2.5GW of renewable energy generation.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-new-south-wales-launches-biggest-renewable-energy-tender-in-the-states-history\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
     "headline":"Developers must become \u2018a bit of a firefighter, sound expert, and light expert\u2019: Addressing BESS safety and community opposition",
     "summary_80w":"At a recent industry event hosted by market research firm Wood Mackenzie, energy storage experts discussed their approaches to public engagement, especially around addressing fire and other safety concerns.",
     "region":"Global",
@@ -3009,197 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/equis-launches-greenpoint-energy-with-2-5gw-of-bess-and-wind-projects-across-australias-nem\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"EDP wins AU$3 million ARENA funding for bushfire-resilient microgrid in regional Australia",
-    "summary_80w":"EDP Renewables Australia has secured AU$3 million in funding from ARENA to develop the Braidwood Renewable Microgrid Project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/edp-wins-au3-million-arena-funding-for-bushfire-resilient-microgrid-in-regional-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"Enbridge to build 365MW\/1.6GWh solar-plus-storage project in Wyoming for Meta data centre",
-    "summary_80w":"Canadian energy firm Enbridge will develop a 365MW\/1,600MWh solar-plus-storage project in Wyoming, US, as part of an ongoing partnership with tech and data giant Meta.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/enbridge-to-build-365mw-1-6gwh-solar-plus-storage-project-in-wyoming-for-meta-data-centre\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"CAISO approves transmission plan enabling 45GW of new solar PV",
-    "summary_80w":"The California Independent System Operator (CAISO) Board of Governors has approved the ISO\u2019s 2025-2026 transmission plan, which accommodates 45 GW of new solar PV.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/caiso-approves-transmission-plan-enabling-45gw-of-new-solar-pv\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"Lack of European policy clarity forces Carbon to shut down 5GW module plant plans in France",
-    "summary_80w":"European solar manufacturing start-up Carbon has abandoned its plan to build a 5GW module assembly plant in France due to a lack of conditions required for EU-made solar PV manufacturing.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/lack-of-european-policy-clarity-forces-carbon-to-shut-down-5gw-module-plant-plans-in-france\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"Price discrepancy the main barrier to UK PPA deals, developers say",
-    "summary_80w":"Price is the main barrier to PPAs being transacted in the UK market today, a panel at the Renewable Procurement and Revenue Summit said.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/price-discrepancy-main-barrier-to-uk-ppa-deals\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-20",
-    "headline":"GameChange Solar, First Solar partner on India-made thin-film module deployment",
-    "summary_80w":"GameChange Solar has partnered with First Solar to support the deployment of domestically manufactured thin-film solar modules in India.",
-    "region":"India",
-    "country":"IN",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/gamechange-solar-first-solar-partner-on-india-made-thin-film-module-deployment\/",
     "reliability":"trade",
     "notes":""
   }
