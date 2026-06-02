@@ -1,5 +1,195 @@
 [
   {
+    "date_utc":"2026-06-02",
+    "headline":"How Virto.MAX shapes the future of solar with conceptual PV design",
+    "summary_80w":"Virto.MAX is built for sales teams and project developers of commercial &#038; industrial PV to create designs of roof, ground and carport projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-virto-max-shapes-the-future-of-solar-with-conceptual-pv-design\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"Australia\u2019s New South Wales commits AU$225 million to low-carbon and renewables manufacturing",
+    "summary_80w":"NSW will provide AU$225 million in new funding to support domestic manufacturing of low-carbon products and renewable energy components.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-new-south-wales-commits-au225-million-to-low-carbon-and-renewables-manufacturing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"Fluence to integrate Smartstack into Siemens\u2019 Nvidia AI data centre reference architecture",
+    "summary_80w":"Engineering giant Siemens will develop a reference architecture purpose-built for Nvidia AI data centres, in collaboration with Fluence and incorporating nVent-aligned design considerations.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/fluence-to-integrate-smartstack-into-siemens-nvidia-ai-data-centre-reference-architecture\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"ROUNDUP: Japan\u2019s BESS market sees domestic and overseas players pursue larger-scale projects",
+    "summary_80w":"This special Japanese market roundup covers large-scale BESS project announcements from PowerX, Eku Energy and SMFL.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"Strategic procurement in a dynamic BESS market: The power of early engagement and strong partnerships",
+    "summary_80w":"Madiha Waseem of Fluence explores how early supplier engagement &#038; procurement models are reshaping BESS delivery amid supply pressures.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/strategic-procurement-in-a-dynamic-bess-market-the-power-of-early-engagement-and-strong-partnerships\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"Australia: Queensland BESS fleet pushes state to 79.5% renewables-plus-storage share",
+    "summary_80w":"Queensland's growing battery energy storage system (BESS) fleet set new instantaneous records for both the renewables-plus-storage (RES) share of consumption and the battery storage share of consumption on 31 May 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-06-01",
     "headline":"EDF signs Utah solar PPA with LA Department of Water and Power",
     "summary_80w":"EDF power solutions North America has signed a 30-year PPA to sell power generated at the 400MW Utah Solar 1 Energy project to the LADWP.",
@@ -60,6 +250,135 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/matrix-renewables-solv-energy-break-ground-on-457mw-texas-solar-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Nextpower sues GameChange over IP breach as GameChange announces rebranding",
+    "summary_80w":"Nextpower has filed a patent lawsuit against GameChange Energy on the same day GameChange announced a consolidation of its activities.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextpower-sues-gamechange-over-ip-breach-as-gamechange-announces-rebranding\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"SEG Solar to build third module manufacturing facility in the US, bringing manufacturing capacity up to 10.6GW",
+    "summary_80w":"SEG Solar will build a third module manufacturing plant in the US that will bring the company\u2019s total manufacturing capacity to 10.6GW.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/seg-solar-build-third-module-manufacturing-facility-in-the-us-manufacturing-capacity-10-6gw\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Grenergy\u00a0signs 12-year hybrid PPA for Oasis de Atacama phase in Chile",
+    "summary_80w":"Grenergy has signed a 12-year hybrid power purchase agreement (PPA) in Chile linked to the fifth phase of its Oasis de Atacama solar-plus-storage platform.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/grenergy-signs-12-year-hybrid-ppa-for-oasis-de-atacama-phase-in-chile\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"How flexibility and hybrid projects can drive European renewable energy dealmaking",
+    "summary_80w":"What financing options are there for renewable developers who find themselves shut out of some of Europe\u2019s supportive auction programmes?",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-flexibility-and-hybrid-projects-can-drive-european-renewable-energy-dealmaking\/",
     "reliability":"trade",
     "notes":""
   },
@@ -219,6 +538,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-victoria-formally-declares-five-renewable-energy-zones\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-01",
+    "headline":"Mexico launches fast-track permitting programme for renewables and BESS",
+    "summary_80w":"Mexico\u2019s Ministry of Energy (SENER) has launched a new call for renewable power projects including generating and energy storage assets.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/mexico-launches-fast-track-permitting-programme-for-renewables-and-bess\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2689,71 +3040,6 @@
   },
   {
     "date_utc":"2026-05-21",
-    "headline":"ASEAN regulatory frameworks \u2018must evolve\u2019 to capture full value of battery storage",
-    "summary_80w":"\u201cPolicy and market frameworks must evolve\u201d in ASEAN countries to unlock the full value of energy storage in the region\u2019s energy transition, according to a new report.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/asean-regulatory-frameworks-must-evolve-to-capture-full-value-of-battery-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Edify Energy to proceed with 2,400MWh solar-plus-storage sites in Australia",
-    "summary_80w":"Edify Energy has reached financial close on two solar-plus-storage projects in Queensland, totalling 600MW\/2,400MWh of BESS.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/edify-energy-to-proceed-with-2400mwh-solar-plus-storage-sites-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
     "headline":"Stewart Glass to expand Ohio solar glass facility",
     "summary_80w":"US solar glass producer Stewart Glass is expanding its facility in Ohio with a new production line expected in 2027.",
     "region":"Global",
@@ -2781,199 +3067,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/stewart-glass-to-expand-ohio-solar-glass-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Grenergy secures solar-plus-storage PPA in the US",
-    "summary_80w":"Spanish independent power producer Grenergy has signed a long-term hybrid power purchase agreement (PPA) with US utility Georgia Power.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/grenergy-secures-solar-plus-storage-ppa-in-the-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Solving offtakers\u2019 challenges should be the main goal of solar-plus-storage developers, say industry experts",
-    "summary_80w":"Developers of co-located solar-plus-storage projects need to ensure their projects are designed to \u2018solve\u2019 the challenges faced by offtakers.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solving-offtakers-challenges-should-be-the-main-goal-solar-plus-storage-developers-industry-experts\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Solar PV helped Europe avoid \u20ac10 billion in gas imports since Iran war started",
-    "summary_80w":"Europe has avoided \u20ac10 billion in gas imports since the start of the Iran war thanks to power generated from its solar PV fleet, according to research from SolarPower Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-pv-helped-europe-avoid-e10-billion-in-gas-imports-since-iran-war-started\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Speed to power, reduced cost and risk driving behind-the-meter PPAs",
-    "summary_80w":"A panel at the Renewable Procurement and Revenue Summit in London discussed the benefits of the procurement structure.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/speed-to-power-reduced-cost-and-risk-driving-behind-the-meter-ppas\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"\u2018Who can manage the risk?\u2019: The central challenge in PPA negotiations",
-    "summary_80w":"Panellists addressed the challenges associated with signing a PPA, given the differences in priorities between the parties involved.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/who-can-manage-the-risk-the-central-challenge-in-ppa-negotiations\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Ocean Sun inks MoU to deploy utility-scale floating solar across Asia",
-    "summary_80w":"Norwegian floating solar developer Ocean Sun has entered into a memorandum of understanding (MoU) with ACEN-Silverwolf to establish a framework for deploying utility-scale floating solar installations across selected Asian markets.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ocean-sun-inks-mou-to-deploy-utility-scale-floating-solar-across-asia\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3103,104 +3196,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/chinas-hyperstrong-deepens-ties-with-european-inverter-manufacturer-sma-for-global-utility-scale-bess-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"JA Solar appoints head of energy storage subsidiary, effective immediately",
-    "summary_80w":"On May 20, JA Solar announced the appointment of Wang Junsheng as president of its energy storage subsidiary, with the appointment taking immediate effect.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ja-solar-appoints-head-of-energy-storage-subsidiary-effective-immediately\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"\u2018More complex trading strategies\u2019 necessary for BESS to be profitable in the UK",
-    "summary_80w":"The UK\u2019s NESO has cleared 150GW of BESS from its grid connection queues, according to figures from BloombergNEF.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/uks-neso-clears-150gw-bess-grid-connection-queue-financial-challenges-remain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Equis launches GreenPoint Energy with 2.5GW of BESS and wind projects across Australia\u2019s NEM",
-    "summary_80w":"Singapore-based Equis has launched GreenPoint Energy, a wholly owned subsidiary consolidating its Australian renewable energy and battery storage operations under a dedicated platform with a 2.5GW portfolio of 12 battery energy storage systems (BESS) and wind projects across every National Energy Market (NEM)-connected state.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/equis-launches-greenpoint-energy-with-2-5gw-of-bess-and-wind-projects-across-australias-nem\/",
     "reliability":"trade",
     "notes":""
   }
