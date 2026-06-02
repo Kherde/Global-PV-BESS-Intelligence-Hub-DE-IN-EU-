@@ -1,6 +1,105 @@
 [
   {
     "date_utc":"2026-06-02",
+    "headline":"EU approves Spain\u2019s \u20ac9 billion capacity market for generation, demand response and energy storage",
+    "summary_80w":"The European Commission has approved a \u20ac9 billion (US$10.5 billion) scheme to shore up its energy capacity, which will be open to new and existing projects including energy storage.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"EDP to spend \u20ac1.3 billion on renewables in France",
+    "summary_80w":"Portuguese energy utility EDP will spend \u20ac1.3 billion in France to build 1GW of solar, wind and energy storage assets over the next four years.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/edp-to-spend-e1-3-billion-on-renewables-in-france\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"Maxwell Power secures US$750 million for solar-plus-storage projects",
+    "summary_80w":"Maxwell Power has secured a US$750 million investment commitment from Fairtide Partners to finance battery storage and solar projects across its development pipeline.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/maxwell-power-secures-us750-million-for-solar-plus-storage-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
     "headline":"How Virto.MAX shapes the future of solar with conceptual PV design",
     "summary_80w":"Virto.MAX is built for sales teams and project developers of commercial &#038; industrial PV to create designs of roof, ground and carport projects.",
     "region":"Global",
@@ -59,6 +158,39 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-new-south-wales-commits-au225-million-to-low-carbon-and-renewables-manufacturing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-02",
+    "headline":"US BESS integrator Prevalon becomes Nextpower\u2019s latest acquisition for US$365 million",
+    "summary_80w":"Solar PV solutions provider Nextpower has entered into a definitive agreement to acquire BESS system integrator Prevalon Energy for up to US$365 million.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-bess-integrator-prevalon-becomes-nextpowers-latest-acquisition-for-us365-million\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3008,70 +3140,6 @@
   },
   {
     "date_utc":"2026-05-21",
-    "headline":"SAEL commissions 600MW solar projects in Andhra Pradesh, India",
-    "summary_80w":"Indian renewable energy company SAEL has commissioned 600MW of solar project in Kurnool, Andhra Pradesh.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sael-commissions-600mw-solar-projects-in-andhra-pradesh-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Stewart Glass to expand Ohio solar glass facility",
-    "summary_80w":"US solar glass producer Stewart Glass is expanding its facility in Ohio with a new production line expected in 2027.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/stewart-glass-to-expand-ohio-solar-glass-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
     "headline":"Developers must become \u2018a bit of a firefighter, sound expert, and light expert\u2019: Addressing BESS safety and community opposition",
     "summary_80w":"At a recent industry event hosted by market research firm Wood Mackenzie, energy storage experts discussed their approaches to public engagement, especially around addressing fire and other safety concerns.",
     "region":"Global",
@@ -3131,71 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-roundup-bess-project-advancements-from-oci-energy-mn8-energy-gridstor-grenergy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"Invinity lands contract for 2.1GWh flow battery in Switzerland, share price soars 60%",
-    "summary_80w":"Invinity Energy Systems has been enlisted to design and deliver the world's largest flow battery, for a data centre project in Switzerland currently under construction by Flexbase.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/invinity-lands-contract-for-2-1gwh-flow-battery-in-switzerland-share-price-soars-60\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-21",
-    "headline":"China\u2019s HyperStrong deepens ties with European inverter manufacturer SMA for global utility-scale BESS projects",
-    "summary_80w":"China-headquartered battery storage system integrator HyperStrong and German power electronics manufacturer SMA Solar have signed a strategic cooperation agreement.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/chinas-hyperstrong-deepens-ties-with-european-inverter-manufacturer-sma-for-global-utility-scale-bess-projects\/",
     "reliability":"trade",
     "notes":""
   }
