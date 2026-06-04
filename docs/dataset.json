@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2026-06-04",
+    "headline":"Thornova Solar to use Nextpower steel frames in some modules",
+    "summary_80w":"US-based solar manufacturer Thornova Solar has signed a strategic cooperation agreement with PV solutions provider Nextpower to incorporate steel frames into certain modules.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-04",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/thornova-solar-to-use-nextpower-steel-frames-in-some-modules\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-04",
+    "headline":"EU Roundup: R.Power, OX2, BRUC, Aukera finance BESS in Poland, Spain and Belgium totalling 2.2GWh for 2027 COD",
+    "summary_80w":"Four large-scale BESS projects totalling 2.2GWh of capacity in major EU markets from OX2, R.Power, BRUC and Aukera can now proceed with construction.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-04",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-r-power-ox2-bruc-aukera-finance-bess-in-poland-spain-and-belgium-totalling-2-2gwh-for-2027-cod\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-04",
     "headline":"Europe must support role of long-duration energy storage in electrification, security and competitiveness, trade groups say",
     "summary_80w":"The European Commission must \u201cacknowledge the clear role of long-duration energy storage,\u201d organisations including Energy Storage Europe and the LDES Council have urged.",
     "region":"Europe",
@@ -2765,38 +2829,6 @@
   },
   {
     "date_utc":"2026-05-27",
-    "headline":"China\u2019s new PV installations plunge 51% year-on-year in January\u2013April",
-    "summary_80w":"New solar PV installations in China have reached 50.9GW between January and April 2026, according to data from the Chinese National Energy Administration (NEA).",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chinas-new-pv-installations-plunge-51-percent-year-on-year-in-january-april\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-27",
     "headline":"\u2018Domestic manufacturing capacity sufficient to fully satisfy US battery module demand,\u2019 trade group ACP claims",
     "summary_80w":"The US can currently produce enough solar and battery energy storage system (BESS) modules to meet domestic demand, according to clean energy trade body American Clean Power (ACP).",
     "region":"Global",
@@ -3180,39 +3212,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/passive-bidding-strategy-delivers-au743000-monthly-revenue-for-swanbank-bess-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-26",
-    "headline":"Battery storage dominates Australia\u2019s Capacity Investment Scheme Tender 7 as hybrid projects secure 7.9GWh",
-    "summary_80w":"Battery energy storage systems (BESS) have emerged as the defining feature of Australia's Capacity Investment Scheme (CIS) Tender 7, with 2GW\/7.9GWh of co-located energy storage successful.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-dominates-australias-capacity-investment-scheme-tender-7-as-hybrid-projects-secure-7-9gwh\/",
     "reliability":"trade",
     "notes":""
   }
