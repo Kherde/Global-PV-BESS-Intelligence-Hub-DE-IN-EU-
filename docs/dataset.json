@@ -163,6 +163,71 @@
   },
   {
     "date_utc":"2026-06-05",
+    "headline":"EDF and Masdar enter 15-year PPAs for 160MWh hybrid California BESS",
+    "summary_80w":"Developer EDF power solutions North America and developer-operator Abu Dhabi Future Energy Company \u2013 Masdar, have entered into 15-year power purchase agreements (PPAs) for a California, US solar-plus-storage project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/edf-and-masdar-enter-15-year-ppas-for-160mwh-hybrid-california-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-05",
+    "headline":"Google signs 100MW distributed energy resource VPP agreement with Voltus for PJM",
+    "summary_80w":"Virtual power plant (VPP) operator and distributed energy resource (DER) platform Voltus and tech giant Google have signed a three-year 100MW agreement for the PJM region in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/google-signs-100mw-distributed-energy-resource-vpp-agreement-with-voltus-for-pjm\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-05",
     "headline":"Modelling approaches to detecting and preventing thermal runaway risk in Li-ion BESS",
     "summary_80w":"Liam Critchley examines the modelling, safety standards and analytics that aim to mitigate the risk of thermal runaway in lithium-ion battery energy storage systems (BESS).",
     "region":"Global",
@@ -3148,70 +3213,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/battery-storage-remains-key-revenue-driver-for-clean-energy-technology-suppliers\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-27",
-    "headline":"Adani Green Energy reaches 3.37GWh of cumulative BESS capacity at India\u2019s Khavda giga-scale renewable energy park",
-    "summary_80w":"Adani Green Energy has commissioned over 3GWh of battery storage at the world\u2019s largest single-location renewable energy project, in Khavda, Gujarat.",
-    "region":"India",
-    "country":"IN",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/adani-green-energy-reaches-3-37gwh-of-cumulative-bess-capacity-at-indias-khavda-giga-scale-renewable-energy-park\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-27",
-    "headline":"MGA Thermal begins FEED study for 195MWh thermal energy storage system in Australia",
-    "summary_80w":"MGA Thermal and Knode have commenced a Front-End Engineering and Design (FEED) study for a 195MWh electro-thermal energy storage project at Tronox's Kwinana facility in Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/mga-thermal-begins-feed-study-for-195mwh-thermal-energy-storage-system-in-australia\/",
     "reliability":"trade",
     "notes":""
   }
