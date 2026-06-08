@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-06-08",
+    "headline":"Contracting, audits and operational controls: How to protect your BESS investment",
+    "summary_80w":"To avoid pitfalls that harm BESS investments, developers must sign well-structured contracts, writes Intertek CEA's Yilin Huang.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/contracting-audits-and-operational-controls-how-to-protect-your-bess-investment\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-06-05",
     "headline":"Naturgy\u2019s GPG brings 360MW of new solar capacity online in Australia",
     "summary_80w":"Naturgy's Global Power Generation (GPG) has commissioned two utility-scale solar PV power plants in Australia, totalling 360MW.",
@@ -3179,39 +3211,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/german-government-confirms-august-2029-grid-fee-exemption-date-for-storage-but-sets-2027-fid-deadline\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-27",
-    "headline":"Battery storage remains key revenue driver for clean energy technology suppliers",
-    "summary_80w":"Solar Media Market Research analyst Charlotte Gisbourne looks at the changing revenue and margin dynamics in the BESS supplier landscape.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-remains-key-revenue-driver-for-clean-energy-technology-suppliers\/",
     "reliability":"trade",
     "notes":""
   }
