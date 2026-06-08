@@ -1,6 +1,135 @@
 [
   {
     "date_utc":"2026-06-08",
+    "headline":"MSolar to build US$23.7 million solar glass, cell and module factory in Virginia",
+    "summary_80w":"MSolar Manufacturing has announced plans to invest US$23.7 million into a new vertically-integrated solar manufacturing facility.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/msolar-build-us23-7-million-solar-glass-cell-module-factory-virginia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-08",
+    "headline":"Arctech Solar inks 3GW of tracker deals, pushes robotic solutions at SNEC",
+    "summary_80w":"Chinese solar tracker producer Arctech Solar signed 3GW of supply deals at the SNEC conference in Shanghai, China, last week.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/arctech-solar-inks-3gw-of-tracker-deals-pushes-robotic-solutions-at-snec\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-08",
+    "headline":"Top tracker manufacturers investing in AI to improve performance",
+    "summary_80w":"The top 10 PV tracker manufacturers are investing in artificial intelligence applications or advanced materials to improve tracker performance or reduce solar project costs.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/top-tracker-manufacturers-investing-in-ai-to-improve-performance\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-08",
+    "headline":"Data centre developer DayOne signs solar and BESS PPAs in Malaysia with TNB subsidiaries",
+    "summary_80w":"Data centre developer DayOne has signed agreements through Malaysia\u2019s government-launched Corporate Renewable Energy Supply Scheme (CRESS).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/data-centre-developer-dayone-signs-solar-and-bess-ppas-in-malaysia-with-tnb-subsidiaries\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-08",
     "headline":"Contracting, audits and operational controls: How to protect your BESS investment",
     "summary_80w":"To avoid pitfalls that harm BESS investments, developers must sign well-structured contracts, writes Intertek CEA's Yilin Huang.",
     "region":"India",
@@ -2446,69 +2575,6 @@
   },
   {
     "date_utc":"2026-06-01",
-    "headline":"ESMC, European industrial bodies write letter calling on EU to act against \u2018unfair trade practices\u2019",
-    "summary_80w":"The ESMC has joined 22 other European industry bodies in signing an open letter, calling for greater protection from 'unfair trade practices'.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/esmc-european-industrial-bodies-write-letter-eu-act-unfair-trade-practices\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-01",
-    "headline":"Australia\u2019s Victoria formally declares five renewable energy zones",
-    "summary_80w":"The Victorian government in Australia has formally declared five onshore REZ and a dedicated shoreline zone for offshore wind infrastructure.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-victoria-formally-declares-five-renewable-energy-zones\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-01",
     "headline":"Mexico launches fast-track permitting programme for renewables and BESS",
     "summary_80w":"Mexico\u2019s Ministry of Energy (SENER) has launched a new call for renewable power projects including generating and energy storage assets.",
     "region":"Global",
@@ -2696,39 +2762,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/south-australia-awards-1-3gw-of-battery-storage-in-first-firm-energy-reliability-mechanism-tender\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-29",
-    "headline":"Is standalone solar losing its edge in India?",
-    "summary_80w":"PV Talk: India\u2019s renewable market is shifting toward dispatchability as standalone solar faces mounting intermittency pressure and storage moves to the centre of new procurement models.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/is-standalone-solar-losing-its-edge-in-india\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3179,38 +3212,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/domestic-manufacturing-capacity-sufficient-to-fully-satisfy-us-battery-module-demand-trade-group-acp-claims\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-27",
-    "headline":"German government confirms August 2029 grid fee exemption date for storage, but sets 2027 FID deadline",
-    "summary_80w":"Germany's energy system regulator has confirmed that BESS projects coming online by 4 August 2029 will be exempt from charging and discharging grid fees, opening up investment again after months of uncertainty.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/german-government-confirms-august-2029-grid-fee-exemption-date-for-storage-but-sets-2027-fid-deadline\/",
     "reliability":"trade",
     "notes":""
   }
