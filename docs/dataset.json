@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-06-09",
+    "headline":"Solar industry \u2018lacks clear understanding\u2019 of O&M software",
+    "summary_80w":"Global solar portfolios are increasingly producing fragmented and incomplete data, which can impact project performance and financial returns.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-industry-lacks-clear-understanding-of-om-software\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-09",
     "headline":"European solar module prices climb as buyer confidence rebounds",
     "summary_80w":"Sun.store's latest PV Index found that the PV Purchasing Managers' Index (PMI) increased to 70 in May from 66 in April 2026.",
     "region":"Europe",
@@ -28,6 +60,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/european-solar-module-prices-climb-as-buyer-confidence-rebounds\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-09",
+    "headline":"CATL, Rolls-Royce & Fluence secure Northern Europe, Poland BESS supply deals",
+    "summary_80w":"Rolls-Royce and Fluence have secured BESS orders in Latvia and Poland, respectively, while CATL has partnered with Merus Power for 3GWh of deployments across Northern Europe.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/catl-rolls-royce-fluence-secure-northern-europe-poland-bess-supply-deals\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2610,38 +2674,6 @@
   },
   {
     "date_utc":"2026-06-01",
-    "headline":"EDF signs Utah solar PPA with LA Department of Water and Power",
-    "summary_80w":"EDF power solutions North America has signed a 30-year PPA to sell power generated at the 400MW Utah Solar 1 Energy project to the LADWP.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-01",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/edf-signs-30-year-ppa-sell-power-utah-solar-project-la-department-water-power\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-01",
     "headline":"Nextpower sues GameChange over IP breach as GameChange announces rebranding",
     "summary_80w":"Nextpower has filed a patent lawsuit against GameChange Energy on the same day GameChange announced a consolidation of its activities.",
     "region":"Global",
@@ -3182,38 +3214,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ercot-incentivises-grid-forming-bess-with-us25-million-programme\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-28",
-    "headline":"LG ES system integrator subsidiary signs 6GWh BESS deal with Michigan utility DTE Energy",
-    "summary_80w":"LG Energy Solution\u2019s US battery storage system integrator arm has signed a 1.5GW\/6GWh deal with Michigan utility DTE Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/lg-es-system-integrator-subsidiary-signs-6gwh-bess-deal-with-michigan-utility-dte-energy\/",
     "reliability":"trade",
     "notes":""
   }
