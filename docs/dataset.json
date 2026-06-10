@@ -1,6 +1,71 @@
 [
   {
     "date_utc":"2026-06-10",
+    "headline":"Qcells begins solar cell production at 3.3GW vertically integrated US facility",
+    "summary_80w":"Solar manufacturer Qcells has started producing solar cells at its vertically integrated manufacturing facility in Cartersville, Georgia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/qcells-begins-solar-cell-production-at-3-3gw-vertically-integrated-us-facility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-10",
+    "headline":"How solar-plus-storage can answer Europe\u2019s renewable energy questions",
+    "summary_80w":"Despite technical challenges, co-locating solar PV and BESS could provide an answer to many of Europe's renewable energy challenges.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/how-solar-plus-storage-co-location-can-answer-europes-renewable-energy-questions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-10",
     "headline":"IEEFA identifies \u2018missing middle\u2019 as Australian businesses install fraction of rooftop solar potential",
     "summary_80w":"Australia leads the world in residential rooftop solar, but its commercial and industrial sector has deployed only 5.6GW.",
     "region":"Global",
@@ -28,6 +93,103 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/ieefa-identifies-missing-middle-as-australian-businesses-install-fraction-of-rooftop-solar-potential\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-10",
+    "headline":"Chile\u2019s president attends inauguration of 3.5GWh BESS at Grenergy\u2019s Oasis de Atacama solar-plus-storage complex",
+    "summary_80w":"The president of Chile, Jos\u00e9 Antonio Kast Rist, was in attendance as IPP Grenergy inaugurated a 3.5GWh battery energy storage system (BESS).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/chiles-president-attends-inauguration-of-3-5gwh-bess-at-grenergys-oasis-de-atacama-solar-plus-storage-complex\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-10",
+    "headline":"General Motors plots sodium-ion tech leapfrog into grid-scale energy storage market",
+    "summary_80w":"General Motors (GM) has partnered with sodium-ion (Na-ion) battery storage startup Peak Energy to target the grid-scale energy storage market.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/general-motors-plots-sodium-ion-tech-leapfrog-into-grid-scale-energy-storage-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-10",
+    "headline":"Germany Roundup: \u2018First fully merchant financing\u2019, 180MWh M&A, analytics deal on 282MWh project",
+    "summary_80w":"A trio of notable Germany announcements: Aquila Clean Energy EMEA has financed a merchant project, Chint Solar has sold a portfolio to Second Foundation while Twaice will provide analytics on behalf of BayWa r.e..",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/germany-roundup-first-fully-merchant-financing-180mwh-ma-analytics-deal-on-282mwh-project\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2707,72 +2869,6 @@
   },
   {
     "date_utc":"2026-06-02",
-    "headline":"Vesper Energy bags US$236 million for 201MW Texas PV plant",
-    "summary_80w":"US independent power producer (IPP) Vesper Energy has secured US$236 million in debt financing to back a 201MW solar PV project in Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/vesper-energy-bags-us236-million-for-201mw-texas-pv-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-02",
-    "headline":"EDP to spend \u20ac1.3 billion on renewables in France",
-    "summary_80w":"Portuguese energy utility EDP will spend \u20ac1.3 billion in France to build 1GW of solar, wind and energy storage assets over the next four years.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/edp-to-spend-e1-3-billion-on-renewables-in-france\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-02",
     "headline":"Why some US BESS developers are forgoing the investment tax credit",
     "summary_80w":"Energy-Storage.news Premium speaks with Ravi Manghani at Anza Renewables about why some BESS developers are forgoing the ITC altogether.",
     "region":"Global",
@@ -3120,102 +3216,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/catl-opens-worlds-largest-energy-storage-testing-platform-in-china\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-01",
-    "headline":"RES Australia\u2019s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
-    "summary_80w":"RES Australia's 2,400MWh Bunyip North BESS has cleared the federal environmental assessment process under Australia's EPBC Act.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-29",
-    "headline":"US ROUNDUP: BESS news from NeoVolta, Goshe, Frontier Power & Stella and Prevalon",
-    "summary_80w":"In this Energy-Storage.news roundup, a collection of battery energy storage system (BESS)-related announcements from NeoVolta, Goshe Energy Storage, Frontier Power USA and Stella Energy Solutions, and Prevalon Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-bess-news-from-neovolta-goshe-frontier-power-stella-and-prevalon\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-05-29",
-    "headline":"\u2018Time to prove its potential\u2019: Gresham House UK BESS fund at a crossroads",
-    "summary_80w":"Managers of the UK\u2019s largest BESS owner-operator Gresham House Energy Storage Fund (GRID) discussed recent investment news and future strategy this week.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-05-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads\/",
     "reliability":"trade",
     "notes":""
   }
