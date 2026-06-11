@@ -1,6 +1,68 @@
 [
   {
     "date_utc":"2026-06-11",
+    "headline":"Eskom launches new unit to deliver South Africa\u2019s renewables targets",
+    "summary_80w":"South African national utility Eskom has launched a new unit to focus on large-scale renewable energy projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/eskom-launches-new-unit-to-deliver-south-africas-renewables-targets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-11",
+    "headline":"GoldenPeaks Poland files for bankruptcy protection amid liquidity crisis",
+    "summary_80w":"GoldenPeaks Poland Holding has filed for Chapter 11 bankruptcy protection in the US after a severe liquidity crunch.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/goldenpeaks-poland-files-for-bankruptcy-protection-amid-liquidity-crisis\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-11",
     "headline":"Australia\u2019s Queensland commits AU$3.2 billion to CopperString transmission project",
     "summary_80w":"Australia\u2019s Queensland has allocated AU$3.2 billion to the CopperString transmission project in its 2026-27 State Budget.",
     "region":"Global",
@@ -27,6 +89,102 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-queensland-commits-au3-2-billion-to-copperstring-transmission-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-11",
+    "headline":"Europe is \u2018walking into new dependencies\u2019 in global battery supply chain",
+    "summary_80w":"'We are walking with open eyes into new dependencies,' said ReCharge's Ilka von Dalwigk at the Energy Storage Summit.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/europe-walking-into-new-dependencies-global-battery-supply-chain\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-11",
+    "headline":"Established manufacturing footprint, new technology: SK On\u2019s US BESS market strategy",
+    "summary_80w":"SK On's North America president tells ESN Premium about the battery company's vertically integrated push for market share across the US.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/established-manufacturing-footprint-new-technology-sk-ons-us-bess-market-strategy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-11",
+    "headline":"Spain\u2019s BESS pipeline is real: the PE models are wrong",
+    "summary_80w":"There is a big gap in the industry's understanding of the Spanish energy storage market, but that gap also creates opportunities for smart operators, writes Ignacio L\u00f3pez Mart\u00edn, chair of developer Capflex Energ\u00eda.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/spains-bess-pipeline-is-real-the-pe-models-are-wrong\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2766,70 +2924,6 @@
   },
   {
     "date_utc":"2026-06-03",
-    "headline":"Damp heat and UVID show highest \u2018red flag\u2019 rates in 2026 RETC module testing report",
-    "summary_80w":"Damp heat testing of solar PV modules yielded 11% 'red flag' results in RETC's latest PV Module Index Report.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/damp-heat-uvid-testing-return-highest-percentages-red-flag-results-2026-retc-module-testing-report\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-03",
-    "headline":"Insurance market must adapt to hybrid renewable energy projects, report finds",
-    "summary_80w":"The insurance market will need to evolve its underwriting approaches to keep pace with the rapid growth of co-located renewable energy projects, according to a new report.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/insurance-market-must-adapt-to-hybrid-renewable-energy-projects-report-finds\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-03",
     "headline":"How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
     "summary_80w":"We caught up with NeoVolta CEO Ardes Johnson about its US domestic BESS manufacturing partnership with Chinese firms Potis Edge and Longi, and how it has been structured to be FEOC compliant.",
     "region":"Global",
@@ -3024,38 +3118,6 @@
   },
   {
     "date_utc":"2026-06-02",
-    "headline":"EU approves Spain\u2019s \u20ac9 billion capacity market for generation, demand response and energy storage",
-    "summary_80w":"The European Commission has approved a \u20ac9 billion (US$10.5 billion) scheme to shore up its energy capacity, which will be open to new and existing projects including energy storage.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-02",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-02",
     "headline":"Why some US BESS developers are forgoing the investment tax credit",
     "summary_80w":"Energy-Storage.news Premium speaks with Ravi Manghani at Anza Renewables about why some BESS developers are forgoing the ITC altogether.",
     "region":"Global",
@@ -3148,69 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/us-bess-integrator-prevalon-becomes-nextpowers-latest-acquisition-for-us365-million\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-02",
-    "headline":"Fluence to integrate Smartstack into Siemens\u2019 Nvidia AI data centre reference architecture",
-    "summary_80w":"Engineering giant Siemens will develop a reference architecture purpose-built for Nvidia AI data centres, in collaboration with Fluence and incorporating nVent-aligned design considerations.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/fluence-to-integrate-smartstack-into-siemens-nvidia-ai-data-centre-reference-architecture\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-02",
-    "headline":"ROUNDUP: Japan\u2019s BESS market sees domestic and overseas players pursue larger-scale projects",
-    "summary_80w":"This special Japanese market roundup covers large-scale BESS project announcements from PowerX, Eku Energy and SMFL.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects\/",
     "reliability":"trade",
     "notes":""
   }
