@@ -1,6 +1,69 @@
 [
   {
     "date_utc":"2026-06-12",
+    "headline":"Masdar acquires stake in Repsol\u2019s 705MW operational renewables portfolio in Spain",
+    "summary_80w":"UAE state-owned renewables developer Masdar has acquired a 49.99% stake in a 705MW operational renewables portfolio in Spain from oil major Repsol.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-12",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/masdar-acquires-stake-in-repsols-705mw-operational-renewables-portfolio-in-spain\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-12",
+    "headline":"TOPCon and BC penetration unlikely to trigger a major industry reshuffle; full-stack integration is more than modular assembly",
+    "summary_80w":"Lu Chuan, chairman of CHINT and its subsidiary Astronergy, outlines his prudent approach to navigating the difficulties facing China's PV manufacturers.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-12",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/topcon-and-bc-penetration-unlikely-to-trigger-a-major-industry-reshuffle-full-stack-integration-is-more-than-modular-assembly\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-12",
     "headline":"Cypress Creek secures US$3.5 billion to fund 1.63GW\/1.9GWh solar-plus-storage project",
     "summary_80w":"US independent power producer (IPP) Cypress Creek Energy has secured US$3.5 billion in financing to support the development of a 1.63GW\/1.9GWh solar-plus-storage project in Arkansas.",
     "region":"Global",
@@ -2753,71 +2816,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/solar-recycling-cannot-wait-the-industry-must-act-now-on-the-pv-end-of-life-challenge\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-04",
-    "headline":"PHILIPPINES ROUND-UP: Levanta, ib vogt and ACWA Power advance solar-plus-storage projects",
-    "summary_80w":"Levanta and ib vogt have secured finance for projects and ACWA Power has leased 500 hectares for its own project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/philippines-round-up-levanta-ib-vogt-acwa-power-advance-solar-plus-storage-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-04",
-    "headline":"Gearing up for the coming wave of PV decommissioning",
-    "summary_80w":"The solar industry\u2019s readiness for an expected surge in end-of-life PV projects and equipment is the subject of a special report that leads issue 45 of PV Tech Power, out now.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/gearing-up-for-the-coming-wave-of-pv-decommissioning\/",
     "reliability":"trade",
     "notes":""
   },
