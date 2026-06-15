@@ -1,5 +1,230 @@
 [
   {
+    "date_utc":"2026-06-15",
+    "headline":"CPUC finalises community solar scheme, CLASS argues programme is \u2018destined for continued failure\u2019",
+    "summary_80w":"CPUC has finalised details of its community solar, which has been dismissed as 'unworkable and destined for continued failure' by CLASS.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/cpuc-finalises-community-solar-scheme-class-destined-for-continued-failure\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-15",
+    "headline":"SmartHelio bags investment to expand AI-powered solar analytics platform",
+    "summary_80w":"SmartHelio, the Swiss solar predictive analytics specialists, has secured new investment from the technology funder quantumEDGE Ventures to develop its technology and expand into new markets.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/smarthelio-bags-investment-to-expand-ai-powered-solar-analytics-platform\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-15",
+    "headline":"Contact Energy completes solar module installation at 150MW solar PV power plant in New Zealand",
+    "summary_80w":"New Zealand gentailer Contact Energy has completed installation of all solar modules at the 150MW K\u014dwhai Park solar PV power plant at Christchurch Airport.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/contact-energy-completes-solar-module-installation-at-150mw-solar-pv-power-plant-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-15",
+    "headline":"W\u00e4rtsil\u00e4 wraps energy storage business into joint venture with solar manufacturer RCT Solutions",
+    "summary_80w":"There has been another twist in the long-running saga of W\u00e4rtsil\u00e4\u2019s energy storage business and how the company aims to run it going forward.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/wartsila-wraps-energy-storage-business-into-joint-venture-with-solar-manufacturer-rct-solutions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-15",
+    "headline":"VIDEO: Germany\u2019s ramp constraints, grid limitations and their impact on the energy storage business case",
+    "summary_80w":"Energy-Storage.news presents this sponsored webinar with Clean Horizon, on how Germany\u2019s grid connection agreements can affect the business case for battery storage projects.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-germanys-ramp-constraints-grid-limitations-and-their-impact-on-the-energy-storage-business-case\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-15",
+    "headline":"Inside South Australia\u2019s FERM tender: Why a technology-neutral process produced an all-battery outcome",
+    "summary_80w":"ESN Premium speaks with ASL on the latest FERM tender results in South Australia and why batteries excelled.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-15",
+    "headline":"APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
+    "summary_80w":"APAC\u2019s AI data centres look set to lock in a decade of coal and gas dependency, but long-duration energy storage can break that cycle, says Pavina Adunratanasee of ArkTerra Partners.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-06-12",
     "headline":"Masdar acquires stake in Repsol\u2019s 705MW operational renewables portfolio in Spain",
     "summary_80w":"UAE state-owned renewables developer Masdar has acquired a 49.99% stake in a 705MW operational renewables portfolio in Spain from oil major Repsol.",
@@ -2469,38 +2694,6 @@
   },
   {
     "date_utc":"2026-06-05",
-    "headline":"Naturgy\u2019s GPG brings 360MW of new solar capacity online in Australia",
-    "summary_80w":"Naturgy's Global Power Generation (GPG) has commissioned two utility-scale solar PV power plants in Australia, totalling 360MW.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-05",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/naturgys-gpg-brings-360mw-of-new-solar-capacity-online-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-05",
     "headline":"Akaysha Energy\u2019s Waratah Super Battery in Australia returns to 700MW as Transformer 2 comes back online",
     "summary_80w":"Akaysha Energy's Waratah Super Battery is now operating at 700MW and 1,680MWh following the successful return to service of High Voltage Transformer 2 (HVT2), the BlackRock-backed developer confirmed in a market update today (4 June).",
     "region":"Global",
@@ -2751,72 +2944,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/domestic-content-compliance-drives-engineering-of-steel-module-frames\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-05",
-    "headline":"Western Australia commits AU$17.8 million to solar module and battery recycling",
-    "summary_80w":"The Western Australian government has allocated AU$17.8 million (US$12.7 million) in its 2026-27 State Budget to build the state's capacity to recycle solar modules and embedded batteries, under its Remade in WA programme.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/western-australia-commits-au17-8-million-to-solar-module-and-battery-recycling\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-05",
-    "headline":"Frontier Energy secures AU$110 million equity raise for 132MW solar-plus-storage project in Western Australia",
-    "summary_80w":"Frontier Energy has secured firm commitments for an AU$110 million equity raising for the 132MW first stage of its Waroona project in WA.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/frontier-energy-secures-au110-million-equity-raise-for-132mw-solar-plus-storage-project-in-western-australia\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3075,135 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-r-power-ox2-bruc-aukera-finance-bess-in-poland-spain-and-belgium-totalling-2-2gwh-for-2027-cod\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-04",
-    "headline":"Europe must support role of long-duration energy storage in electrification, security and competitiveness, trade groups say",
-    "summary_80w":"The European Commission must \u201cacknowledge the clear role of long-duration energy storage,\u201d organisations including Energy Storage Europe and the LDES Council have urged.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/europe-must-support-role-of-long-duration-energy-storage-in-electrification-security-and-competitiveness-trade-groups-say\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-04",
-    "headline":"Taiwan\u2019s Recharge Power partners with Energy Decarb for 292MWh battery storage pipeline in Australia",
-    "summary_80w":"Recharge Power, a Taiwanese battery energy storage system (BESS) developer and integrator, has signed a strategic cooperation agreement with Australian renewable energy developer Energy Decarb to establish a joint venture targeting the Australian solar PV and battery storage market.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-04",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/taiwans-recharge-power-partners-with-energy-decarb-for-292mwh-battery-storage-pipeline-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-03",
-    "headline":"How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
-    "summary_80w":"We caught up with NeoVolta CEO Ardes Johnson about its US domestic BESS manufacturing partnership with Chinese firms Potis Edge and Longi, and how it has been structured to be FEOC compliant.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-03",
-    "headline":"Alsym Energy partners with Re:Build Manufacturing to scale US Na-ion BESS",
-    "summary_80w":"US sodium-ion (Na-ion) battery startup Alsym Energy and domestic manufacturing company Re:Build Manufacturing are partnering to develop commercial-scale battery cell manufacturing capacity in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/alsym-energy-partners-with-rebuild-manufacturing-to-scale-us-na-ion-bess\/",
     "reliability":"trade",
     "notes":""
   }
