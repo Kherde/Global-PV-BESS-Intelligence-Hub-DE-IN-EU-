@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-06-15",
+    "headline":"Enphase launches IQ9N microinverter for European residential solar",
+    "summary_80w":"Enphase Energy has launched its IQ9N Microinverter, which uses gallium nitride (GaN) technology, for the European residential solar sector.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enphase-launches-iq9n-microinverter-european-residential-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-15",
     "headline":"CPUC finalises community solar scheme, CLASS argues programme is \u2018destined for continued failure\u2019",
     "summary_80w":"CPUC has finalised details of its community solar, which has been dismissed as 'unworkable and destined for continued failure' by CLASS.",
     "region":"Global",
@@ -2912,38 +2944,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/germanys-inheritance-tax-rules-could-slow-growth-of-ground-mounted-pv-on-agricultural-land\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-05",
-    "headline":"Domestic content compliance drives engineering of steel module frames",
-    "summary_80w":"PV Talk: Jenya Meydbray speaks with PV Tech about Nextpower's roadmap for its steel module frames and the advantages over aluminium frames.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/domestic-content-compliance-drives-engineering-of-steel-module-frames\/",
     "reliability":"trade",
     "notes":""
   },
