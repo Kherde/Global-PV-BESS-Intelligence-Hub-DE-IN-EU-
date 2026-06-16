@@ -101,6 +101,37 @@
   },
   {
     "date_utc":"2026-06-16",
+    "headline":"Ember: Spain\u2019s replacement of gas with renewable energy has delivered bill savings of 19%",
+    "summary_80w":"The deployment of renewable energy capacity in Spain has driven a decoupling from volatile global gas prices, resulting in a 19% reduction in consumer electricity bills.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ember-spains-replacement-gas-renewable-energy-delivered-bill-savings-19\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-16",
     "headline":"\u2018Everyone\u2019s too enamoured with low price to the detriment of what they\u2019re going to get for that\u2019",
     "summary_80w":"PV Talk: Todd Heffner explains what are the most common issues he's dealt in solar litigations, as well as the importance of finding the right experts.",
     "region":"Global",
@@ -3014,38 +3045,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-victoria-fast-tracks-1390mw-of-battery-storage-development-facilitation-program-approval-round\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-05",
-    "headline":"Engie to\u00a0build\u00a0155MW solar PV at gas plant in Spain",
-    "summary_80w":"French utility Engie will invest close to \u20ac100 million (US$114 million) in a 155MW solar PV project at its Castelnou power station.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/engie-to-build-155mw-solar-pv-at-gas-plant-in-spain\/",
     "reliability":"trade",
     "notes":""
   },
