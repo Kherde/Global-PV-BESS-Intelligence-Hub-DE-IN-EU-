@@ -96,6 +96,37 @@
   },
   {
     "date_utc":"2026-06-18",
+    "headline":"CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects",
+    "summary_80w":"Activity in Central and Eastern Europe (CEE) continues to accelerate, with two separate c.600MWh projects completed in Bulgaria by Solarpro &#038; CATL and Sunotec and Sungrow, plus around 800MWh of capacity progressed across Romania, Estonia, Lithuania, and Finland.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-18",
     "headline":"Fire and Rescue NSW mandates 240-minute fire resistance for lithium-ion battery storage rooms in data centres",
     "summary_80w":"Fire and Rescue NSW (FRNSW) in Australia has set out its requirements for lithium-ion battery storage rooms and diesel generator structures in data centres.",
     "region":"Global",
@@ -3170,39 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eku-energy-submits-10-hour-duration-griffith-bess-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-09",
-    "headline":"Ark Energy\u2019s 3.1GWh solar-plus-storage site in Australia bags AEMO grid connection",
-    "summary_80w":"Ark Energy has received approval from AEMO and Transgrid to connect its 3,148MWh Richmond Valley solar-plus-storage site to the NEM.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ark-energys-3-1gwh-solar-plus-storage-site-in-australia-bags-aemo-grid-connection\/",
     "reliability":"trade",
     "notes":""
   }
