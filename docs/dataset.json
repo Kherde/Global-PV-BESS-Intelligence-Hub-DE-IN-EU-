@@ -1,5 +1,165 @@
 [
   {
+    "date_utc":"2026-06-22",
+    "headline":"\u2018Policy certainty takes priority\u2019 in APAC battery storage investment decisions, says Banpu NEXT",
+    "summary_80w":"In this interview with Energy-Storage.news, Colin Koon Peng Ho of Banpu NEXT explains why policy certainty now outweighs cost in APAC battery storage investment decisions, and discusses regulatory barriers, supply chain localisation and the most attractive BESS opportunities.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-22",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/policy-certainty-takes-priority-in-apac-battery-storage-investment-decisions-says-banpu-next\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-22",
+    "headline":"Trina Solar secures commercial order for tandem perovskite solar PV modules in New Zealand",
+    "summary_80w":"Trina Solar has secured an order from a global distributed energy customer for its perovskite\/crystalline silicon tandem solar modules.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/trina-solar-secures-commercial-order-for-tandem-perovskite-solar-pv-modules-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-22",
+    "headline":"Nextpower expands in Europe with Zimmermann PV-Steel Group acquisition",
+    "summary_80w":"Solar PV solutions provider Nextpower has entered into a definitive agreement to acquire Germany-based solar provider Zimmermann PV-Steel Group.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextpower-expands-in-europe-with-zimmermann-pv-steel-group-acquisition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-22",
+    "headline":"Multi-day energy storage startup Ore Energy signs 1GWh iron-air battery deal with Dutch utility",
+    "summary_80w":"Startup Ore Energy has signed an agreement with a utility in the Netherlands to deploy up to 1,000MWh of multi-day-duration iron-air batteries.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-22",
+    "headline":"South Australia hits AU$20,300\/MWh price cap twice in one evening as battery storage fleet captures AU$324,000",
+    "summary_80w":"South Australia's SA1 trading region reached the NEM AU$20,300\/MWh price cap twice during the evening of 21 June.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/south-australia-hits-au20300-mwh-price-cap-twice-in-one-evening-as-battery-storage-fleet-captures-au324000\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-06-19",
     "headline":"BLT Energy bags development approval for 4.8GWh Red Gully BESS in Western Australia",
     "summary_80w":"Developer BLT Energy has received development approval for the 800MW\/4,800MWh Red Gully BESS in Western Australia.",
@@ -2624,68 +2784,6 @@
   },
   {
     "date_utc":"2026-06-11",
-    "headline":"EU launches \u20ac25 billion Mediterranean renewables investment scheme",
-    "summary_80w":"The European Union has launched an investment platform to expand renewable energy, clean technology manufacturing and electricity networks across the Mediterranean region.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/eu-launches-e25-billion-mediterranean-renewables-investment-scheme\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
-    "headline":"Eskom launches new unit to deliver South Africa\u2019s renewables targets",
-    "summary_80w":"South African national utility Eskom has launched a new unit to focus on large-scale renewable energy projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/eskom-launches-new-unit-to-deliver-south-africas-renewables-targets\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
     "headline":"VDA calls for \u2018staged approach\u2019 to implement EU Battery Passport",
     "summary_80w":"A 'staged approach' to implementing the EU Battery Passport could be essential if Europe is to improve its battery supply chain.",
     "region":"Europe",
@@ -3099,103 +3197,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/general-motors-plots-sodium-ion-tech-leapfrog-into-grid-scale-energy-storage-market\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-10",
-    "headline":"Germany Roundup: \u2018First fully merchant financing\u2019, 180MWh M&A, analytics deal on 282MWh project",
-    "summary_80w":"A trio of notable Germany announcements: Aquila Clean Energy EMEA has financed a merchant project, Chint Solar has sold a portfolio to Second Foundation while Twaice will provide analytics on behalf of BayWa r.e..",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/germany-roundup-first-fully-merchant-financing-180mwh-ma-analytics-deal-on-282mwh-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-10",
-    "headline":"Gamuda Renewables acquires interest in 1.8GWh solar-plus-storage site in Victoria, Australia",
-    "summary_80w":"Gamuda Renewables has secured an interest in the 1,800MWh Hazelwood North solar-plus-storage project in Victoria, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/gamuda-renewables-acquires-interest-in-1-8gwh-solar-plus-storage-site-in-victoria-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-09",
-    "headline":"German BESS market has moved beyond peak hype",
-    "summary_80w":"\u201cThe word tsunami describes very well the hype that was in Germany,\u201d said Cristina Yandiola at this week\u2019s Energy Storage Summit.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/german-bess-market-moved-beyond-peak-tsunami-hype\/",
     "reliability":"trade",
     "notes":""
   }
