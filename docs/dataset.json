@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-06-22",
+    "headline":"World adds 664GW of solar PV in 2025, exceeds 3TW of cumulative capacity",
+    "summary_80w":"The world added a record 664GW of new solar PV capacity in 2025, pushing cumulative global operational solar capacity above 3TW.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/world-adds-664gw-solar-pv-capacity-2025-exceeds-3tw-cumulative-capacity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-22",
     "headline":"Trina Solar secures commercial order for tandem perovskite solar PV modules in New Zealand",
     "summary_80w":"Trina Solar has secured an order from a global distributed energy customer for its perovskite\/crystalline silicon tandem solar modules.",
     "region":"Global",
@@ -92,6 +124,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/nextpower-expands-in-europe-with-zimmermann-pv-steel-group-acquisition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-22",
+    "headline":"There is now more installed energy storage capacity than nuclear in Europe, yet \u2018no country has reached its potential\u2019",
+    "summary_80w":"As of the second quarter of this year, installed energy storage capacity in Europe overtook nuclear, according to trade association Energy Storage Europe\u2019s new report.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2752,38 +2816,6 @@
   },
   {
     "date_utc":"2026-06-11",
-    "headline":"\u2018Crystalline silicon is the future\u2019",
-    "summary_80w":"T1 Energy's CEO Dan Barcelo explains his optimism about US solar manufacturing and how it can deliver on the power demand growth.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/crystalline-silicon-is-the-future-oil-is-last-century-says-t1-energy-ceo\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
     "headline":"VDA calls for \u2018staged approach\u2019 to implement EU Battery Passport",
     "summary_80w":"A 'staged approach' to implementing the EU Battery Passport could be essential if Europe is to improve its battery supply chain.",
     "region":"Europe",
@@ -3165,38 +3197,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/chiles-president-attends-inauguration-of-3-5gwh-bess-at-grenergys-oasis-de-atacama-solar-plus-storage-complex\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-10",
-    "headline":"General Motors plots sodium-ion tech leapfrog into grid-scale energy storage market",
-    "summary_80w":"General Motors (GM) has partnered with sodium-ion (Na-ion) battery storage startup Peak Energy to target the grid-scale energy storage market.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/general-motors-plots-sodium-ion-tech-leapfrog-into-grid-scale-energy-storage-market\/",
     "reliability":"trade",
     "notes":""
   }
