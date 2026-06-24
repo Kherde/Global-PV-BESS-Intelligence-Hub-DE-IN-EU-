@@ -1,5 +1,102 @@
 [
   {
+    "date_utc":"2026-06-24",
+    "headline":"Germany\u2019s battery energy storage market is entering a new phase of maturity",
+    "summary_80w":"Germany's policymakers, regulators and energy storage industry must carefully consider the issues of grid connections and grid fees, writes Thomas Antonioli of developer Terra One.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/germanys-battery-energy-storage-market-is-entering-a-new-phase-of-maturity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-24",
+    "headline":"Australia awards 4.2GW\/16.1GWh of battery storage under Capacity Investment Scheme Tender 8",
+    "summary_80w":"The Australian government has announced the results of Capacity Investment Scheme (CIS) Tender 8, selecting 15 battery energy storage projects across the National Electricity Market (NEM), totalling 4.2GW\/16.1GWh.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-awards-4-2gw-16-1gwh-of-battery-storage-under-capacity-investment-scheme-tender-8\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"rPlus Energies\u2019 1,600MWh Utah solar-plus-storage project begins commercial operation",
+    "summary_80w":"Renewables developer rPlus Energies has announced start of commercial operations for the 400MW\/1,600MWh Green River Energy Centre in Emery County, Utah, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rplus-energies-1600mwh-utah-solar-plus-storage-project-begins-commercial-operation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-06-23",
     "headline":"Meridian Energy\u2019s 622MW Waiinu hybrid project enters New Zealand fast-track consenting pathway",
     "summary_80w":"Meridian's Waiinu Energy Park has been referred for consideration under New Zealand's Fast-track Approvals Act.",
@@ -33,6 +130,199 @@
   },
   {
     "date_utc":"2026-06-23",
+    "headline":"Intersolar Europe 2026: SMA Solar launches grid-forming inverters and management software",
+    "summary_80w":"SMA Solar has launched a suite of products at Intersolar Europe 2026, including grid-forming inverters and power plant management software.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-sma-solar-launches-suite-of-products-mvps-grid-forming-inverters-management-software\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"I Squared Capital, GS E&C JV to develop 1.5GW solar PV, BESS in South Korea",
+    "summary_80w":"Infrastructure investment manager I Squared Capital has signed a memorandum of understanding (MoU) with Korean construction company GS E&#038;C to develop renewables in the country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/i-squared-capital-gs-ec-jv-to-develop-1-5gw-solar-pv-bess-in-south-korea\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"RENA Technologies to supply 6GW TOPCon solar cell equipment to India\u2019s Emmvee Energy",
+    "summary_80w":"German solar PV equipment manufacturer RENA Technologies has signed a supply agreement for solar cell production equipment with Indian manufacturer Emmvee Energy.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/rena-technologies-to-supply-6gw-topcon-solar-cell-equipment-to-indias-emmvee-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"Intersolar Europe 2026: Aiko launches ABC modules for utility-scale and residential sectors",
+    "summary_80w":"Aiko has launched the fourth generation of its Infinite Ultra ABC modules and the new Z series range of modules at Intersolar Europe 2026.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-aiko-launches-abc-modules-utility-scale-residential-sectors\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"Intersolar Europe 2026: Global Solar Council launches AgriPV Task Force",
+    "summary_80w":"Trade association the Global Solar Council (GSC) has launched an agrivoltaics (agriPV) task force aimed at accelerating solar PV\u2019s growth globally.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-global-solar-council-launches-agripv-task-force\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"Meta, Sabanci sign PPA for Texas PV portfolio",
+    "summary_80w":"Sabanci Renewables has signed a PPA with Meta for a portfolio of solar PV projects currently under development in the state of Texas.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/meta-sabanci-ppa-texas-solar-pv\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
     "headline":"Australian Centre for Advanced Photovoltaics ranked first globally for solar research",
     "summary_80w":"Australia's ACAP was ranked first globally for photovoltaics research quality in 2025 for the second consecutive year.",
     "region":"Global",
@@ -60,6 +350,134 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australian-centre-for-advanced-photovoltaics-ranked-first-globally-for-solar-research\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
+    "summary_80w":"The trend for mainland China-listed energy storage firms to seek secondary listings on the Hong Kong Stock Exchange shows no sign of abating, writes Carrie Xiao.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hong-kong-energy-storage-stock-rally-gains-new-contenders-cubenergy-files-for-ipo-anker-innovation-clears-listing-hearing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"ZincFive bets on revenue track record in US$752 million SPAC merger after 2021 cohort struggles",
+    "summary_80w":"ZincFive, a manufacturer of nickel-zinc battery systems for data centre and AI infrastructure applications, announced on 11 June that it will become publicly traded through a merger with special purpose acquisition company (SPAC) Spark I Acquisition Corporation.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/zincfive-bets-on-revenue-track-record-in-us752-million-spac-merger-after-2021-cohort-struggles\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"CATL: System- and cell-level advances driving sodium-ion energy density improvements",
+    "summary_80w":"Executives from lithium-ion battery and BESS manufacturer CATL discussed sodium-ion technology at Smarter E Europe today.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/catl-system-and-cell-level-advances-driving-sodium-ion-energy-density-improvements\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-23",
+    "headline":"REV Renewables and LS Power commission California\u2019s first 8-hour duration lithium-ion BESS",
+    "summary_80w":"LS Power-owned REV Renewables and US development and investment company LS Power have commissioned the Tumbleweed Energy Storage facility in Kern County, California, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/rev-renewables-and-ls-power-commission-californias-first-8-hour-duration-lithium-ion-bess\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2372,38 +2790,6 @@
   },
   {
     "date_utc":"2026-06-15",
-    "headline":"Contact Energy completes solar module installation at 150MW solar PV power plant in New Zealand",
-    "summary_80w":"New Zealand gentailer Contact Energy has completed installation of all solar modules at the 150MW K\u014dwhai Park solar PV power plant at Christchurch Airport.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/contact-energy-completes-solar-module-installation-at-150mw-solar-pv-power-plant-in-new-zealand\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-15",
     "headline":"W\u00e4rtsil\u00e4 wraps energy storage business into joint venture with solar manufacturer RCT Solutions",
     "summary_80w":"There has been another twist in the long-running saga of W\u00e4rtsil\u00e4\u2019s energy storage business and how the company aims to run it going forward.",
     "region":"Global",
@@ -2528,166 +2914,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-12",
-    "headline":"China\u2019s emerging wave of PV end-of-life: policies, technologies and market dynamics",
-    "summary_80w":"China, the world\u2019s largest PV market, is poised to lead sustainable solar module recycling and circular manufacturing, writes Huan Li.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chinas-emerging-wave-of-pv-end-of-life\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-12",
-    "headline":"Meta, RWE ink 298MW Texas solar PPA",
-    "summary_80w":"Silicon valley tech giant Meta has signed another power purchase agreement (PPA) with RWE for a solar project in Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/meta-rwe-ink-298mw-texas-solar-ppa\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-12",
-    "headline":"Rooftop solar momentum builds in India but growth remains uneven",
-    "summary_80w":"PV Talk: IEEFA\u2019s Gaurav Upadhyay says India\u2019s rooftop solar surged but conversion gaps and financing barriers persist despite strong momentum.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/rooftop-solar-momentum-builds-in-india-but-growth-remains-uneven\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-12",
-    "headline":"MN8 powers 260MW solar PV portfolio, inks PPA with Microsoft",
-    "summary_80w":"US independent power producer (IPP) MN8 Energy has reached commercial operations at two utility-scale solar PV plants totalling 260MW.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/mn8-powers-260mw-solar-pv-portfolio-inks-ppa-with-microsoft\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-12",
-    "headline":"Fraunhofer ISE raises III-V germanium module efficiency to 34.4%",
-    "summary_80w":"Fraunhofer ISE has increased the performance of its III-V germanium solar module from 34.2% to 34.4% using shingle-matrix technology.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/fraunhofer-ise-raises-iii-v-germanium-module-efficiency-to-34-4\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2975,231 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/greenvolt-inaugurates-hungarys-largest-bess-pipelines-progressed-and-financed-elsewhere-in-eu\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
-    "headline":"Europe is \u2018walking into new dependencies\u2019 in global battery supply chain",
-    "summary_80w":"'We are walking with open eyes into new dependencies,' said ReCharge's Ilka von Dalwigk at the Energy Storage Summit.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/europe-walking-into-new-dependencies-global-battery-supply-chain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
-    "headline":"Established manufacturing footprint, new technology: SK On\u2019s US BESS market strategy",
-    "summary_80w":"SK On's North America president tells ESN Premium about the battery company's vertically integrated push for market share across the US.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/established-manufacturing-footprint-new-technology-sk-ons-us-bess-market-strategy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
-    "headline":"Spain\u2019s BESS pipeline is real: the PE models are wrong",
-    "summary_80w":"There is a big gap in the industry's understanding of the Spanish energy storage market, but that gap also creates opportunities for smart operators, writes Ignacio L\u00f3pez Mart\u00edn, chair of developer Capflex Energ\u00eda.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/spains-bess-pipeline-is-real-the-pe-models-are-wrong\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
-    "headline":"SNEC 2026: BESS overtakes PV modules in expo floor space, more than 97GWh of deals signed",
-    "summary_80w":"Carrie Xiao reports back from this year's edition of SNEC in Shanghai, China, the world's biggest solar and energy storage expo.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/snec-2026-bess-overtakes-pv-modules-in-expo-floor-space-more-than-97gwh-of-deals-signed\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-11",
-    "headline":"DNV verifies 98.7% availability of Fluence\u2019s global battery energy storage fleet",
-    "summary_80w":"DNV has independently verified that Fluence's global fleet of battery energy storage systems (BESS) achieved 98.7% MW-weighted availability.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/dnv-verifies-98-7-availability-of-fluences-global-battery-energy-storage-fleet\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-10",
-    "headline":"Thermal energy storage tech analysis: Rondo, Antora, Malta Inc, MGA, 1414, EnergyNest, Polar Night and Brenmiller",
-    "summary_80w":"We go through the main movers and shakers commercialising large-scale thermal energy storage technologies today.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/thermal-energy-storage-tech-analysis-rondo-antora-malta-inc-mga-1414-energynest-polar-night-and-brenmiller\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-10",
-    "headline":"Challenges remain for inertia in Germany, but value to BESS \u2018will only go up\u2019",
-    "summary_80w":"The inertia market could be a significant contributor to the German energy mix, despite the challenges that remain.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/challenges-remain-inertia-german-bess-value-will-only-go-up\/",
     "reliability":"trade",
     "notes":""
   }
