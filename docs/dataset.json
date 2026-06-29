@@ -1,6 +1,134 @@
 [
   {
     "date_utc":"2026-06-29",
+    "headline":"Interest in innovation tender decreases as Germany awards 482MW solar-plus-storage",
+    "summary_80w":"The German Federal Network Agency, Bundesnetzagentur, has awarded 482MW of solar-plus-storage in its latest innovation tender.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/interest-in-innovation-tender-decreases-as-germany-awards-482mw-solar-plus-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"EDF agrees to sell North American renewables business to KKR",
+    "summary_80w":"French utility EDF has agreed to sell its renewable energy business in the US and Canada to private equity firm KKR.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/edf-agrees-to-sell-north-american-renewables-business-to-kkr\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"Pakistan added 27GW of distributed solar in 2023-25 as consumers move off-grid",
+    "summary_80w":"Pakistan installed 27GW of distributed solar in the last two years, prompting a 21% surge in electricity demand, according to a new report from UK-based energy think tank Ember.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/pakistan-added-27gw-of-distributed-solar-in-2023-25-as-consumers-move-off-grid\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"Runergy launches TOPCon module with 26.9% cell conversion efficiency",
+    "summary_80w":"Runergy has launched the third generation of its TOPCon solar modules, which have a conversion efficiency of 26.9%.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-runergy-launches-topcon-module-conversion-efficiency-26-9\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
     "headline":"Australia: AEMO\u2019s 2026 ISP calls for nearly 120GW of utility-scale wind and solar by 2050",
     "summary_80w":"Australia needs to build nearly 120GW of utility-scale wind and solar by 2050, approximately five times the current level, says AEMO.",
     "region":"Global",
@@ -29,6 +157,39 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australia-aemos-2026-isp-calls-for-nearly-120gw-of-utility-scale-wind-and-solar-by-2050\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"Flow batteries selected for microgrid deployments in Maldives, Paskenta Tribe lands in California",
+    "summary_80w":"Two recent microgrid projects highlight the expanding role of flow batteries, with Quino Energy deploying organic flow batteries in the Maldives and the Paskenta Band of Nomlaki Indians integrating zinc hybrid cathode storage in Northern California.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/flow-batteries-selected-for-microgrid-deployments-in-maldives-paskenta-tribe-lands-in-california\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2763,132 +2924,6 @@
   },
   {
     "date_utc":"2026-06-18",
-    "headline":"Array upgrades DuraTrack system to support dual-row format",
-    "summary_80w":"US tracker supplier Array Technologies has launched an enhanced version of its DuraTrack system that supports a two-row module format.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/array-upgrades-duratrack-system-to-support-dual-row-format\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"Sonnedix secures Spanish electricity supply licence",
-    "summary_80w":"Sonnedix has received authorisation from Spain\u2019s CNMC to operate as a licensed electricity trading and supply company in the country.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sonnedix-secures-spanish-electricity-supply-licence\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"Before you worry about voltage drops \u2013 worry about data drops",
-    "summary_80w":"Data loss in PV project design can lead to inaccurate energy modelling and underperforming solar projects. Maksim Markevich examines how the industry can avoid these blind spots.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/before-you-worry-about-voltage-drops-worry-about-data-drops\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"Scatec reaches financial close on 120MW Tunisian solar project",
-    "summary_80w":"Norwegian independent power producer (IPP) Scatec has reached financial close for the 120MW Sidi Bouzid II solar PV project in Tunisia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/scatec-reaches-financial-close-on-120mw-tunisian-solar-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
     "headline":"Enphase co-founder says solid-state transformer can ease data centre \u2018power problems\u2019",
     "summary_80w":"Energy-Storage.news Premium speaks with co-founder and chief products officer of microinverter and home energy storage system supplier Enphase Energy, Raghu Belur, about the company\u2019s recent focus on solid-state transformer technology.",
     "region":"Global",
@@ -3171,39 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-octopus-and-eco-stor-financing-deals-for-large-scale-bess-in-italy-and-germany-enable-1-6gwh-of-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-17",
-    "headline":"Solar Energy Corporation of India invites bids for 4.8GWh of energy storage-backed FDRE capacity",
-    "summary_80w":"SECI is inviting bids for 4,800MWh of firm and dispatchable renewable energy (FDRE) capacity supported by co-located energy storage.",
-    "region":"India",
-    "country":"IN",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/solar-energy-corporation-of-india-invites-bids-for-4-8gwh-of-energy-storage-backed-fdre-capacity\/",
     "reliability":"trade",
     "notes":""
   }
