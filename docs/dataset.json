@@ -1,5 +1,167 @@
 [
   {
+    "date_utc":"2026-06-29",
+    "headline":"Australia: AEMO\u2019s 2026 ISP calls for nearly 120GW of utility-scale wind and solar by 2050",
+    "summary_80w":"Australia needs to build nearly 120GW of utility-scale wind and solar by 2050, approximately five times the current level, says AEMO.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-aemos-2026-isp-calls-for-nearly-120gw-of-utility-scale-wind-and-solar-by-2050\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"EU tripartite agreement targets 30-35GW of storage deployments by 2028",
+    "summary_80w":"The European Union (EU) has announced a tripartite agreement to accelerate energy storage deployments in the next two years.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/eu-tripartite-agreement-targets-30-35gw-of-storage-deployments-by-2028\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"Envision to supply 660MWh of battery storage for South Africa\u2019s \u2018largest private hybrid power project\u2019",
+    "summary_80w":"Envision has signed a 660MWh BESS supply agreement with SOLA Group and construction company WBHO in South Africa's Free State.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/envision-to-supply-660mwh-of-battery-storage-for-south-africas-largest-private-hybrid-power-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"AGL submits 50MW\/100MWh Awaba BESS to Australia\u2019s EPBC Act",
+    "summary_80w":"Australian utility AGL Energy has submitted a 100MWh BESS in New South Wales for federal environmental assessment under the EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/agl-submits-50mw-100mwh-awaba-bess-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-29",
+    "headline":"\u2018Decisions look obvious after the event. They rarely are in real time\u2019: OptiGrid on South Australia\u2019s battery storage price cap event",
+    "summary_80w":"OptiGrid's Sahand Karimi examines why state of charge &#038; algorithm quality drove divergent outcomes during SA1's AU$20,300\/MWh price cap on 21 June.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/decisions-look-obvious-after-the-event-they-rarely-are-in-real-time-optigrid-on-south-australias-battery-storage-price-cap-event\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-06-26",
     "headline":"Waaree expands EPC footprint through US$129 million acquisition",
     "summary_80w":"Waaree Renewable Technologies has acquired a 55% stake in Associated Power Structures for INR12.25 billion (US$129 million).",
@@ -2727,38 +2889,6 @@
   },
   {
     "date_utc":"2026-06-18",
-    "headline":"Chrysalis acquires 357MWdc Atlas solar projects from Hanwha in US",
-    "summary_80w":"Renewable energy investment platform Chrysalis Renewables LP (Chrysalis) has acquired the Atlas V and Atlas VI solar projects in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chrysalis-acquires-357mwdc-atlas-solar-projects-from-hanwha-in-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
     "headline":"Enphase co-founder says solid-state transformer can ease data centre \u2018power problems\u2019",
     "summary_80w":"Energy-Storage.news Premium speaks with co-founder and chief products officer of microinverter and home energy storage system supplier Enphase Energy, Raghu Belur, about the company\u2019s recent focus on solid-state transformer technology.",
     "region":"Global",
@@ -3074,134 +3204,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/solar-energy-corporation-of-india-invites-bids-for-4-8gwh-of-energy-storage-backed-fdre-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-17",
-    "headline":"14.6GWh of BESS deployed globally in May; activity up 24% in 2026 so far",
-    "summary_80w":"Around 4.9GW\/14.6GWh of large-scale BESS came online in May, with a much more balanced regional breakdown than usual.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/14-6gwh-of-bess-deployed-globally-in-may-activity-up-24-in-2026-so-far\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-17",
-    "headline":"Southeast Asia\u2019s BESS developers must \u2018engage early with regulators, utilities and communities\u2019",
-    "summary_80w":"Developers of battery storage projects across Southeast Asia must heed lessons learned elsewhere and engage with key stakeholders as early as possible, Energy-Storage.news has heard.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/southeast-asias-bess-developers-must-engage-early-with-regulators-utilities-and-communities\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-16",
-    "headline":"Energy Dome, Invinity Energy Systems advance non-lithium LDES projects in the US",
-    "summary_80w":"Energy Dome is advancing a 10-hour CO2 Battery project in Arizona, with SRP and Google, while Invinity announces the sale of North America\u2019s largest VRFB, in California.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/energy-dome-invinity-energy-systems-advance-non-lithium-ldes-projects-in-the-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-16",
-    "headline":"AESC signs 10GWh US domestic content BESS cell and module deal with system integrator Prevalon",
-    "summary_80w":"AESC has announced a strategic supply partnership with BESS system integrator Prevalon Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/aesc-signs-10gwh-us-domestic-content-bess-cell-and-module-deal-with-system-integrator-prevalon\/",
     "reliability":"trade",
     "notes":""
   }
