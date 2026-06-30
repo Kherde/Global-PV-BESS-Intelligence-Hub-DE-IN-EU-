@@ -1,6 +1,133 @@
 [
   {
     "date_utc":"2026-06-30",
+    "headline":"EnBW, Elements Green and VPI launch construction, enlist suppliers for 2.5GWh of BESS in Germany",
+    "summary_80w":"EnBW and VPI have launched construction on large-scale BESS projects in Germany, while Elements Green and Eku Energy have agreed supply and acquisition deals respectively for separate 400MW\/1,600MWh projects.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/enbw-elements-green-and-vpi-launch-construction-enlist-suppliers-for-2-5gwh-of-bess-in-germany\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
+    "headline":"Maxeon, Hanwha file \u2018joint motion\u2019 to dismiss 2024 patent infringement lawsuit",
+    "summary_80w":"Maxeon and Hanwha have agreed to dismiss a court case in which Maxeon accused Hanwha of patent infringement pertaining to TOPCon technology.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/maxeon-hanwha-file-joint-motion-dismiss-2024-patent-infringement-lawsuit\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
+    "headline":"Mexico targets 12GW of new solar PV additions by 2030",
+    "summary_80w":"The government of Mexico has targeted to install 22GW of new renewables by 2030, of which 12GW will be from solar PV.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/mexico-targets-12gw-of-new-solar-pv-additions-by-2030\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
+    "headline":"EU Roundup: Axpo and e-Storage partner in Italy, RES secures Nordic asset management deal, R.Power sells Poland BESS to Engie",
+    "summary_80w":"Axpo and e-Storage have partnered on a BESS in southern Italy, RES Group has signed a full-scope battery asset management agreement in Sweden, while R.Power has agreed to sell a Poland BESS project to Engie.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-axpo-and-e-storage-partner-in-italy-res-secures-nordic-asset-management-deal-r-power-sells-poland-bess-to-engie\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
     "headline":"CATL, CALB among backers of new China BESS industry payment and contracting initiative",
     "summary_80w":"On 29 June, the China Energy Storage Alliance (CNESA) and the China Automotive Battery Industry Innovation Alliance jointly released the 'Initiative on Standardising Supplier Payment Practices for Power and Stationary Storage Battery Enterprises.'",
     "region":"Global",
@@ -2894,70 +3021,6 @@
   },
   {
     "date_utc":"2026-06-19",
-    "headline":"Origis raises US$900 million to fund 5GW of project development",
-    "summary_80w":"Origis has secured a US$900 million package, which consists of US$650 million in credit facilities and a US$250 million LoC facility.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/origis-raises-us900-million-to-fund-5gw-of-project-development\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-19",
-    "headline":"ABB launches Proteus portfolio, re-enters power electronics sector",
-    "summary_80w":"Swiss electrification company ABB has launched a new power conversion portfolio for the solar PV and BESS industries.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/abb-launches-proteus-portfolio-re-enters-power-electronics-sector\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-19",
     "headline":"US BESS integrator FlexGen, LDES tech provider Eos enter European market with first deals",
     "summary_80w":"FlexGen and Eos Energy Enterprises, two US energy storage sector companies with different specialisations, have entered the European market.",
     "region":"Europe",
@@ -3145,69 +3208,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"Energy trader Second Foundation on owning projects and the \u2018art\u2019 of trading batteries in Germany",
-    "summary_80w":"We chat to Stephan Lehrke, head of Germany at Second Foundation, a Czech Republic-headquartered energy asset trading firm which is becoming an owner-operator of BESS.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects",
-    "summary_80w":"Activity in Central and Eastern Europe (CEE) continues to accelerate, with two separate c.600MWh projects completed in Bulgaria by Solarpro &#038; CATL and Sunotec and Sungrow, plus around 800MWh of capacity progressed across Romania, Estonia, Lithuania, and Finland.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects\/",
     "reliability":"trade",
     "notes":""
   }
