@@ -1,5 +1,165 @@
 [
   {
+    "date_utc":"2026-07-01",
+    "headline":"Energy storage essential to ASEAN nations\u2019 knowledge-based economy transition and uncoupling from volatile fossil fuel costs",
+    "summary_80w":"The rising costs of coal and gas mean that the adoption of renewable energy is a \u201csurvival issue\u201d for countries in Southeast Asia, and energy storage is critical to the transition.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/energy-storage-essential-to-asean-nations-knowledge-based-economy-transition-and-uncoupling-from-volatile-fossil-fuel-costs\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"W\u00e4rtsil\u00e4 completes 300MWh Bungama BESS for Revera Energy in South Australia",
+    "summary_80w":"W\u00e4rtsil\u00e4 has brought the 150MW\/300MWh Bungama BESS online in South Australia, for owner and operator Revera Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/wartsila-completes-300mwh-bungama-bess-for-revera-energy-in-south-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Samsung C&T submits 600MWh Comet Park BESS to Australia\u2019s EPBC Act",
+    "summary_80w":"Samsung C&#038;T Renewable Energy Australia has submitted the 600MWh Comet Park BESS for federal environmental assessment under the EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/samsung-ct-submits-600mwh-comet-park-bess-to-australias-epbc-act\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Australian AI developer locks in 1.5GWh of battery energy storage under 12-year agreement",
+    "summary_80w":"Australian AI infrastructure developer Firmus Technologies has signed a 12-year wholesale energy supply agreement with Gunvor Group, including 1.5GWh of battery storage by 2032.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australian-ai-developer-locks-in-1-5gwh-of-battery-energy-storage-under-12-year-agreement\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
+    "headline":"First Solar faces lawsuit over \u2018misleading\u2019 claims about impact of US tariffs",
+    "summary_80w":"First Solar is facing a class action lawsuit from shareholders over its response to US tariff policy and alleged \u201cmisleading\u201d statements about its resilience to the shifting policy landscape.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/first-solar-faces-lawsuit-over-misleading-claims-about-impact-of-us-tariffs\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-06-30",
     "headline":"EnBW, Elements Green and VPI launch construction, enlist suppliers for 2.5GWh of BESS in Germany",
     "summary_80w":"EnBW and VPI have launched construction on large-scale BESS projects in Germany, while Elements Green and Eku Energy have agreed supply and acquisition deals respectively for separate 400MW\/1,600MWh projects.",
@@ -28,6 +188,70 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/enbw-elements-green-and-vpi-launch-construction-enlist-suppliers-for-2-5gwh-of-bess-in-germany\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
+    "headline":"Iberdrola commissions Italy\u2019s largest solar PV project",
+    "summary_80w":"Spanish utility Iberdrola has commissioned a 243MW solar PV plant in Italy, the country\u2019s largest in operation.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/iberdrola-commissions-italys-largest-solar-pv-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
+    "headline":"Decision-making delays remain an obstacle to C&I deployment",
+    "summary_80w":"The delays caused by the decision-making process required to deploy C&#038;I solar projects are a key obstacle to installing C&#038;I projects.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/decision-making-delays-remain-obstacle-c-i-deployment\/",
     "reliability":"trade",
     "notes":""
   },
@@ -91,6 +315,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/mexico-targets-12gw-of-new-solar-pv-additions-by-2030\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-06-30",
+    "headline":"Avangrid to build 82MWh Oregon BESS project",
+    "summary_80w":"Spanish utility Iberdrola's subsidiary Avangrid has announced plans to construct a 41MW\/82MWh BESS facility in Gilliam County, Oregon.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-06-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/avangrid-to-build-82mwh-oregon-bess-project\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2765,102 +3021,6 @@
   },
   {
     "date_utc":"2026-06-22",
-    "headline":"World adds 664GW of solar PV in 2025, exceeds 3TW of cumulative capacity",
-    "summary_80w":"The world added a record 664GW of new solar PV capacity in 2025, pushing cumulative global operational solar capacity above 3TW.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/world-adds-664gw-solar-pv-capacity-2025-exceeds-3tw-cumulative-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"Trina Solar secures commercial order for tandem perovskite solar PV modules in New Zealand",
-    "summary_80w":"Trina Solar has secured an order from a global distributed energy customer for its perovskite\/crystalline silicon tandem solar modules.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/trina-solar-secures-commercial-order-for-tandem-perovskite-solar-pv-modules-in-new-zealand\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"Nextpower expands in Europe with Zimmermann PV-Steel Group acquisition",
-    "summary_80w":"Solar PV solutions provider Nextpower has entered into a definitive agreement to acquire Germany-based solar provider Zimmermann PV-Steel Group.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nextpower-expands-in-europe-with-zimmermann-pv-steel-group-acquisition\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
     "headline":"There is now more installed energy storage capacity than nuclear in Europe, yet \u2018no country has reached its potential\u2019",
     "summary_80w":"As of the second quarter of this year, installed energy storage capacity in Europe overtook nuclear, according to trade association Energy Storage Europe\u2019s new report.",
     "region":"Europe",
@@ -2957,70 +3117,6 @@
   },
   {
     "date_utc":"2026-06-19",
-    "headline":"BLT Energy bags development approval for 4.8GWh Red Gully BESS in Western Australia",
-    "summary_80w":"Developer BLT Energy has received development approval for the 800MW\/4,800MWh Red Gully BESS in Western Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/blt-energy-bags-development-approval-for-4-8gwh-red-gully-bess-in-western-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-19",
-    "headline":"Eku Energy submits two 1,200MWh battery storage projects to Australia\u2019s EPBC Act",
-    "summary_80w":"Energy storage developer Eku Energy has submitted two BESS, each sized at 300MW and 1,200MWh, for assessment under Australia's EPBC Act.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eku-energy-submits-two-1200mwh-battery-storage-projects-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-19",
     "headline":"US BESS integrator FlexGen, LDES tech provider Eos enter European market with first deals",
     "summary_80w":"FlexGen and Eos Energy Enterprises, two US energy storage sector companies with different specialisations, have entered the European market.",
     "region":"Europe",
@@ -3112,102 +3208,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/investment-under-uncertainty-how-ai-volatility-and-real-options-thinking-are-reshaping-battery-storage-economics\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"Enphase co-founder says solid-state transformer can ease data centre \u2018power problems\u2019",
-    "summary_80w":"Energy-Storage.news Premium speaks with co-founder and chief products officer of microinverter and home energy storage system supplier Enphase Energy, Raghu Belur, about the company\u2019s recent focus on solid-state transformer technology.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/enphase-co-founder-says-solid-state-transformer-can-ease-data-centre-power-problems\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"US sodium-ion startups form coalition to challenge China\u2019s battery dominance",
-    "summary_80w":"A group of sodium-ion (Na-ion) battery-focused companies have launched a new industry coalition, the American Battery Leadership Coalition (ABLC).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-sodium-ion-startups-form-coalition-to-challenge-chinas-battery-dominance\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-18",
-    "headline":"Aypa Power brings 1,000MWh Arizona BESS online in utility Salt River Project\u2019s busy June",
-    "summary_80w":"Energy storage developer-operator Aypa Power and utility Salt River Project (SRP) have brought the 250MW\/1,000MWh Pediment energy storage project online in Mesa, Arizona.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june\/",
     "reliability":"trade",
     "notes":""
   }
