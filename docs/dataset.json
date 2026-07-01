@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2026-07-01",
+    "headline":"Record 25.5% efficiency for CIGS-perovskite tandem solar cell",
+    "summary_80w":"Researchers from HZB and Humboldt-Universit\u00e4t in Berlin have achieved a record 25.5% conversion efficiency in a CIGS-perovskite tandem PV cell.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/record-25-5-efficiency-for-cigs-perovskite-tandem-solar-cell\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Greenvolt and Giga Storage",
+    "summary_80w":"Three massive BESS projects have been launched in Europe: BW ESS has broken ground on a 1GW\/5.7GWh system in Germany, while Greenvolt and Giga Storage have enlisted suppliers (BYD and Tesla) for 2.4GWh and 2.8GWh projects in Poland and Belgium.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/europe-goes-big-bess-projects-totalling-11gwh-launched-by-ipps-bw-ess-greenvolt-and-giga-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
     "headline":"Energy storage essential to ASEAN nations\u2019 knowledge-based economy transition and uncoupling from volatile fossil fuel costs",
     "summary_80w":"The rising costs of coal and gas mean that the adoption of renewable energy is a \u201csurvival issue\u201d for countries in Southeast Asia, and energy storage is critical to the transition.",
     "region":"Global",
@@ -2989,38 +3053,6 @@
   },
   {
     "date_utc":"2026-06-22",
-    "headline":"Reigniting Europe\u2019s solar market",
-    "summary_80w":"Europe\u2019s post-2022 solar surge has slowed, prompting a closer look at the structural bottlenecks that must be addressed to sustain the continent\u2019s energy transition.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/reigniting-europes-solar-market\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
     "headline":"There is now more installed energy storage capacity than nuclear in Europe, yet \u2018no country has reached its potential\u2019",
     "summary_80w":"As of the second quarter of this year, installed energy storage capacity in Europe overtook nuclear, according to trade association Energy Storage Europe\u2019s new report.",
     "region":"Europe",
@@ -3176,38 +3208,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/european-utilities-association-eurelectric-long-duration-energy-storage-an-increasingly-viable-flexibility-option\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-19",
-    "headline":"Investment under uncertainty: How AI, volatility and real-options thinking are reshaping battery storage economics",
-    "summary_80w":"Battery storage is effectively a hardware-backed multi-strategy trading platform, writes Partha Sharma, president of BBNR Capital Management.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/investment-under-uncertainty-how-ai-volatility-and-real-options-thinking-are-reshaping-battery-storage-economics\/",
     "reliability":"trade",
     "notes":""
   }
