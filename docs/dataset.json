@@ -1,5 +1,260 @@
 [
   {
+    "date_utc":"2026-07-02",
+    "headline":"Vena Energy secures AU$1.4 billion to scale Australian platform with solar and battery storage infrastructure",
+    "summary_80w":"Singapore-headquartered clean energy developer Vena Energy has raised AU$1.4 billion (US$970 million) in green finance to support 614MW of solar PV capacity and 1,141MWh of battery energy storage systems (BESS) in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-02",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/vena-energy-secures-au1-4-billion-to-scale-australian-platform-with-solar-and-battery-storage-infrastructure\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Vena Energy raises US$970 million to support Australian solar-plus-storage portfolio",
+    "summary_80w":"Vena Energy has raised A$1.4 billion (US$970 million) to support 614MW of solar PV capacity and 1,141MWh of BESS in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/vena-energy-raises-us970-million-support-australian-solar-plus-storage-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Firmus secures 1.2GW of new renewables to power South Australian AI factory campuses",
+    "summary_80w":"Firmus Technologies has signed a 12-year wholesale energy supply agreement with Gunvor Group, including 1.2GW of renewables by 2032.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/firmus-secures-1-2gw-of-new-renewables-to-power-south-australian-ai-factory-campuses\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Waaree\u00a0responds after CBP flags potential AD\/CVD duty evasion",
+    "summary_80w":"Waaree Energies has issued a clarification in response to a US Customs investigation into possible evasion of AD\/CVD duties on crystalline silicon PV cells from Vietnam and Malaysia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/waaree-responds-after-cbp-flags-potential-ad-cvd-duty-evasion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"SK, KKR launch US$1.29 billion renewables platform in South Korea",
+    "summary_80w":"SK Inc and KKR have agreed to establish a KRW2 trillion (US$1.29 billion) renewable energy platform that will combine 1.7GW of operating generation assets.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sk-kkr-launch-us1-29-billion-renewables-platform-in-south-korea\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"China\u2019s largest PV-CSP hybrid project enters commercial operation",
+    "summary_80w":"A 1GW concentrated solar-PV hybrid complex built by China Three Gorges Corporation in Hami, Xinjiang has completed commissioning and entered commercial trial operation.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/chinas-largest-pv-csp-hybrid-project-enters-commercial-operation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Boralex secures US$1.65 billion to finance French renewables activities",
+    "summary_80w":"Canadian independent power producer (IPP) Boralex and its Swiss investor partner, Energy Infrastructure Partners, have secured \u20ac1.45 billion (US$1.65 billion) in financing to support Boralex's renewable energy business in France.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/boralex-secures-us1-65-billion-to-finance-french-renewables-activities\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"ITC final determination finds Voltage in violation of Shoals trunk bus patents",
+    "summary_80w":"The US ITC has found North Carolina-based Voltage Energy in violation of two patents owned by Tennessee-based eBOS manufacturer Shoals.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/itc-final-determination-voltage-violation-shoals-trunk-bus-patents\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-01",
     "headline":"Record 25.5% efficiency for CIGS-perovskite tandem solar cell",
     "summary_80w":"Researchers from HZB and Humboldt-Universit\u00e4t in Berlin have achieved a record 25.5% conversion efficiency in a CIGS-perovskite tandem PV cell.",
@@ -28,6 +283,135 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/record-25-5-efficiency-for-cigs-perovskite-tandem-solar-cell\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Co-location of solar and BESS still has a long way to go",
+    "summary_80w":"A lot of work and thought still needs to go into maximising the potential for co-location of solar and BESS technology, panellists at the Clean Power 2030 Summit said yesterday (30 June).",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/co-location-of-solar-and-bess-still-has-a-long-way-to-go\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Grenergy signs 1TWh night-time PPA for 3.5GWh Chile BESS",
+    "summary_80w":"Independent power producer (IPP) Grenergy has signed a 1TWh night-time power purchase agreement (PPA) for its 3.5GWh Elena BESS project in Chile.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/grenergy-signs-1twh-night-time-ppa-for-3-5gwh-chile-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"Neoen awarded capacity contract for 1,600MWh Ontario BESS through LT2 procurement",
+    "summary_80w":"French independent power producer (IPP) Neoen has been awarded a 20-year capacity services contract for its 200MW\/1,600MWh energy storage project in Ontario.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/neoen-awarded-capacity-contract-for-1600mwh-ontario-bess-through-lt2-procurement\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-01",
+    "headline":"2025 BESS cell and system shipments: BYD takes BESS crown, no Korean firms in top 10 cell suppliers",
+    "summary_80w":"In 2025, BESS installations surpassed 320GWh, a y-o-y increase of over 50%. While this tells one-side of the story, the growth in cell and system shipments tells an even more significant one, writes Benchmark's Iola Hughes.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/2025-bess-cell-and-system-shipments-byd-takes-bess-crown-no-korean-firms-in-top-10-cell-suppliers\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2603,102 +2987,6 @@
   },
   {
     "date_utc":"2026-06-23",
-    "headline":"Intersolar Europe 2026: Global Solar Council launches AgriPV Task Force",
-    "summary_80w":"Trade association the Global Solar Council (GSC) has launched an agrivoltaics (agriPV) task force aimed at accelerating solar PV\u2019s growth globally.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-global-solar-council-launches-agripv-task-force\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-23",
-    "headline":"Meta, Sabanci sign PPA for Texas PV portfolio",
-    "summary_80w":"Sabanci Renewables has signed a PPA with Meta for a portfolio of solar PV projects currently under development in the state of Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/meta-sabanci-ppa-texas-solar-pv\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-23",
-    "headline":"Australian Centre for Advanced Photovoltaics ranked first globally for solar research",
-    "summary_80w":"Australia's ACAP was ranked first globally for photovoltaics research quality in 2025 for the second consecutive year.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australian-centre-for-advanced-photovoltaics-ranked-first-globally-for-solar-research\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-23",
     "headline":"Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
     "summary_80w":"The trend for mainland China-listed energy storage firms to seek secondary listings on the Hong Kong Stock Exchange shows no sign of abating, writes Carrie Xiao.",
     "region":"Global",
@@ -2891,168 +3179,6 @@
   },
   {
     "date_utc":"2026-06-22",
-    "headline":"\u2018Policy certainty takes priority\u2019 in APAC battery storage investment decisions, says Banpu NEXT",
-    "summary_80w":"In this interview with Energy-Storage.news, Colin Koon Peng Ho of Banpu NEXT explains why policy certainty now outweighs cost in APAC battery storage investment decisions, and discusses regulatory barriers, supply chain localisation and the most attractive BESS opportunities.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/policy-certainty-takes-priority-in-apac-battery-storage-investment-decisions-says-banpu-next\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"Defying the PV industry downturn: how PV-storage companies survive and thrive globally",
-    "summary_80w":"PV Tech spoke with Hanersun's chairman about the company's PV-storage strategy, global expansion and the Chinese market outlook.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/defying-the-pv-industry-downturn-how-pv-storage-companies-survive-and-thrive-globally\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"Canadian Solar launches TOPCon 3.0 module with 24.8% conversion efficiency",
-    "summary_80w":"Canadian Solar has announced its TOPCon 3.0 module, which has a power output of 670W and a conversion efficiency of 24.8%.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/canadian-solar-announces-topcon-3-0-module-24-8-conversion-efficiency\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"Lego Group begins construction of 116MW solar park in Denmark",
-    "summary_80w":"The Lego Group has started construction of a 116MW solar park in Billund, which is expected to become its \u201clargest solar project to date.\u201d",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/lego-group-begins-construction-of-116mw-solar-park-in-denmark\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"CIM Group closes construction financing at California 250MW\/600MWh solar-plus-storage project",
-    "summary_80w":"Energy platform Permanent Power Company has secured US$600 million in construction financing for a solar-plus-storage project in California, US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/cim-group-closes-construction-financing-at-california-250mw-600mwh-solar-plus-storage-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
     "headline":"There is now more installed energy storage capacity than nuclear in Europe, yet \u2018no country has reached its potential\u2019",
     "summary_80w":"As of the second quarter of this year, installed energy storage capacity in Europe overtook nuclear, according to trade association Energy Storage Europe\u2019s new report.",
     "region":"Europe",
@@ -3080,134 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"Multi-day energy storage startup Ore Energy signs 1GWh iron-air battery deal with Dutch utility",
-    "summary_80w":"Startup Ore Energy has signed an agreement with a utility in the Netherlands to deploy up to 1,000MWh of multi-day-duration iron-air batteries.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"South Australia hits AU$20,300\/MWh price cap twice in one evening as battery storage fleet captures AU$324,000",
-    "summary_80w":"South Australia's SA1 trading region reached the NEM AU$20,300\/MWh price cap twice during the evening of 21 June.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/south-australia-hits-au20300-mwh-price-cap-twice-in-one-evening-as-battery-storage-fleet-captures-au324000\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-19",
-    "headline":"US BESS integrator FlexGen, LDES tech provider Eos enter European market with first deals",
-    "summary_80w":"FlexGen and Eos Energy Enterprises, two US energy storage sector companies with different specialisations, have entered the European market.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-bess-integrator-flexgen-ldes-tech-provider-eos-enter-european-market-with-first-deals\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-19",
-    "headline":"European utilities\u2019 association Eurelectric: Long-duration energy storage an increasingly viable flexibility option",
-    "summary_80w":"Long-duration energy storage (LDES) technologies are becoming increasingly viable options to add flexibility to the European electricity network, according to a new report.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/european-utilities-association-eurelectric-long-duration-energy-storage-an-increasingly-viable-flexibility-option\/",
     "reliability":"trade",
     "notes":""
   }
