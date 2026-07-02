@@ -33,6 +33,102 @@
     "notes":""
   },
   {
+    "date_utc":"2026-07-02",
+    "headline":"Australia launches Solar Sharer Offer, giving households three hours of free midday electricity",
+    "summary_80w":"The Australian government has officially launched the Solar Sharer Offer, a regulated energy initiative that gives eligible households three hours of free electricity every day during peak solar generation.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australia-launches-solar-sharer-offer-giving-households-three-hours-of-free-midday-electricity\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-02",
+    "headline":"Vopak takes FID on 800MWh Netherlands \u2018controllable congestion mitigator\u2019 BESS",
+    "summary_80w":"Tank storage company Vopak has marked its energy into the BESS sector with a final investment decision (FID) for a 200MW\/800MWh BESS in the Netherlands, which recently entered into a first-of-its-kind agreement with TSO TenneT.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/vopak-final-investment-decision-on-200mw-800mwh-netherlands-bess-battery-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-02",
+    "headline":"Alsym Energy signs 9GWh sodium-ion BESS agreement with consultancy for global mining operations",
+    "summary_80w":"US sodium-ion (Na-ion) battery startup Alsym Energy and consulting organisation for the mining and energy sectors, Erity, have signed a 9GWh strategic relationship agreement (SRA) for global mining use-cases.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/alsym-energy-signs-9gwh-sodium-ion-bess-agreement-with-consultancy-for-global-mining-operations\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-01",
     "headline":"Vena Energy raises US$970 million to support Australian solar-plus-storage portfolio",
     "summary_80w":"Vena Energy has raised A$1.4 billion (US$970 million) to support 614MW of solar PV capacity and 1,141MWh of BESS in Australia.",
@@ -2955,38 +3051,6 @@
   },
   {
     "date_utc":"2026-06-23",
-    "headline":"Intersolar Europe 2026: Aiko launches ABC modules for utility-scale and residential sectors",
-    "summary_80w":"Aiko has launched the fourth generation of its Infinite Ultra ABC modules and the new Z series range of modules at Intersolar Europe 2026.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-aiko-launches-abc-modules-utility-scale-residential-sectors\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-23",
     "headline":"Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
     "summary_80w":"The trend for mainland China-listed energy storage firms to seek secondary listings on the Hong Kong Stock Exchange shows no sign of abating, writes Carrie Xiao.",
     "region":"Global",
@@ -3142,70 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-optimisation-and-offtake-for-large-scale-bess-with-flower-and-engie-in-germany-entrix-and-dri-in-poland\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-23",
-    "headline":"CATL claims purpose-built sodium-ion BESS can help solve \u2018uncertainties\u2019 facing industry",
-    "summary_80w":"CATL held the global launch of its large-scale sodium-ion BESS yesterday, unveiling a 30MWh+ module which it will ship outside China from next year.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/catl-claims-purpose-built-sodium-ion-bess-can-help-solve-uncertainties-facing-industry\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-22",
-    "headline":"There is now more installed energy storage capacity than nuclear in Europe, yet \u2018no country has reached its potential\u2019",
-    "summary_80w":"As of the second quarter of this year, installed energy storage capacity in Europe overtook nuclear, according to trade association Energy Storage Europe\u2019s new report.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential\/",
     "reliability":"trade",
     "notes":""
   }
