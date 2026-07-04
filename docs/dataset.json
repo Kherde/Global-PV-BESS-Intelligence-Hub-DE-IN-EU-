@@ -1,6 +1,199 @@
 [
   {
     "date_utc":"2026-07-03",
+    "headline":"Bhutan secures US$160 million ADB loan for 310MW solar expansion",
+    "summary_80w":"The Asian Development Bank (ADB) has approved a US$160 million loan to support the deployment of at least 310MW of new solar capacity in Bhutan.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/bhutan-secures-us160-million-adb-loan-for-310mw-solar-expansion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-03",
+    "headline":"VIDEO: Fluence\u2019s Lars Stephan on what data centres and cybersecurity developments mean for BESS in Europe",
+    "summary_80w":"We sat down with Lars Stephan, EMEA director of marketing, policy and public affairs for system integrator Fluence, to discuss energy storage, data centres and cybersecurity at Intersolar last month.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-03",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-fluences-lars-stephan-on-what-data-centres-and-cybersecurity-developments-mean-for-bess-in-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-03",
+    "headline":"Researchers develop framework to optimise 2D perovskite solar cell design",
+    "summary_80w":"Researchers have developed a predictive framework for 2D perovskite design to enable more efficient, stable solar cells.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/researchers-develop-framework-to-optimise-2d-perovskite-solar-cell-design\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-03",
+    "headline":"US considers ban on Chinese solar inverters",
+    "summary_80w":"The US is reportedly drafting a ban on Chinese solar inverters over concerns that they pose a risk to the grid.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-considers-banning-chinese-solar-inverters\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-03",
+    "headline":"New York reaches 8GW of distributed solar PV ahead of schedule",
+    "summary_80w":"The state of New York has reached 8GW of cumulative installed distributed solar PV, putting the state ahead of its 10GW target by 2030.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/new-york-reaches-8gw-distributed-solar-pv\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-03",
+    "headline":"German solar PV generation up 10% year-on-year in the first half of 2026",
+    "summary_80w":"German solar PV generation has continued to grow in the first half of 2026, reaching a new all-time high of 43.2TWh.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/germany-solar-pv-generation-increases-h1-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-03",
     "headline":"Australia\u2019s utility-scale solar generation climbs 11% year-on-year as June output reaches 4.73TWh",
     "summary_80w":"Australia's utility-scale solar PV and wind assets generated a combined 4.73TWh in June, an 11% YoY increase, according to Rystad Energy.",
     "region":"Global",
@@ -60,6 +253,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/the-future-of-home-energy-is-intelligent-not-just-bigger-mova-lumegret-on-redefining-residential-power-management\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-03",
+    "headline":"\u2018It\u2019s really about flexibility\u2019: FERC issues \u2018show cause\u2019 orders to US grid operators on large load integration",
+    "summary_80w":"Energy-Storage.news Premium speaks with energy storage market experts Raafe Khan of Camelot Energy Group and Oliver Kerr of Aurora Energy Research on FERC\u2019s recently issued show cause orders.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/its-really-about-flexibility-ferc-issues-show-cause-orders-to-us-grid-operators-on-large-load-integration\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2506,37 +2731,6 @@
   },
   {
     "date_utc":"2026-06-25",
-    "headline":"Galileo advances 630MW French renewable energy pipeline",
-    "summary_80w":"Galileo is advancing a 630MW renewables pipeline in France, with permitting applications for 11 projects due in the coming months.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/galileo-advances-630mw-french-renewable-energy-pipeline\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
     "headline":"R.Power secures finance for 75MWp Romanian PV portfolio",
     "summary_80w":"R.Power has secured a \u20ac41.6 million (US$47.3 million) project finance facility for four solar projects in Romania with a combined capacity of approximately 75MWp.",
     "region":"Global",
@@ -2627,38 +2821,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/itrpv-2026-solar-industry-maintains-historic-learning-curve-despite-market-turbulence\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"US ROUND-UP: Vesper, rPlus and Matrix advance PV projects across the country",
-    "summary_80w":"US developers Vesper Energy, rPlus Energies and Matrix Renewables have announced a number of project advancements in the US this week.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-round-up-vesper-rplus-matrix-advance-solar-pv-projects-across-country\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2891,102 +3053,6 @@
   },
   {
     "date_utc":"2026-06-24",
-    "headline":"Toyo Solar sells shares to finance HJT cell manufacturing in the US",
-    "summary_80w":"Toyo Solar has raised around US$50 million to finance the expansion of the company\u2019s cell manufacturing work in Houston, Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/toyo-solar-sells-shares-raise-us50-million-finance-hjt-cell-manufacturing\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-24",
-    "headline":"Comstock Metals to establish solar panel recycling and logistics hub in Ohio",
-    "summary_80w":"Comstock Metals in collaboration with JobsOhio and OhioSE will establish an industrial-scale solar panel recycling plant in Cambridge, Ohio.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/comstock-metals-to-establish-solar-panel-recycling-and-logistics-hub-in-ohio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-24",
-    "headline":"Intersolar Europe 2026: Domestic solar manufacturing won\u2019t be a \u2018disruptor\u2019, Fronius pushes EU-made message",
-    "summary_80w":"Europe will not be able to produce a \u201cdisruption\u201d in the solar manufacturing industry, according to Peter Fath, CEO of RCT Solutions.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-domestic-solar-manufacturing-disruptor-fronius-pushes-eu\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-24",
     "headline":"Dominion Energy launches long-duration energy storage RFI in Virginia",
     "summary_80w":"US utility Dominion Energy Virginia (DEV) is issuing a request for information (RFI) for information on long-duration energy storage (LDES) technologies.",
     "region":"Global",
@@ -3143,70 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/natpower-tesla-sign-25gwh-megapack-supply-and-execution-agreement-for-italy-and-uk-bess-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-24",
-    "headline":"Australia awards 4.2GW\/16.1GWh of battery storage under Capacity Investment Scheme Tender 8",
-    "summary_80w":"The Australian government has announced the results of Capacity Investment Scheme (CIS) Tender 8, selecting 15 battery energy storage projects across the National Electricity Market (NEM), totalling 4.2GW\/16.1GWh.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australia-awards-4-2gw-16-1gwh-of-battery-storage-under-capacity-investment-scheme-tender-8\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-23",
-    "headline":"Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
-    "summary_80w":"The trend for mainland China-listed energy storage firms to seek secondary listings on the Hong Kong Stock Exchange shows no sign of abating, writes Carrie Xiao.",
-    "region":"Global",
-    "country":"",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hong-kong-energy-storage-stock-rally-gains-new-contenders-cubenergy-files-for-ipo-anker-innovation-clears-listing-hearing\/",
     "reliability":"trade",
     "notes":""
   }
