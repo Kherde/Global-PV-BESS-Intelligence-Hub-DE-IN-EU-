@@ -1,5 +1,102 @@
 [
   {
+    "date_utc":"2026-07-06",
+    "headline":"Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
+    "summary_80w":"Tech giant Amazon has signed a new power purchase agreement (PPA) to procure energy from IPP European Energy\u2019s 220MWh Winton North solar-plus-storage project in northeast Victoria, Australia.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/amazon-pens-battery-storage-ppa-for-220mwh-solar-plus-storage-site-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-06",
+    "headline":"Australia\u2019s Zen Energy appoints administrators with wholesale electricity volatility cited as main driver",
+    "summary_80w":"Zen Energy, a South Australian renewable energy company co-founded by economist Ross Garnaut, has appointed voluntary administrators after its retail business failed to secure a viable buyer.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-zen-energy-appoints-administrators-with-wholesale-electricity-volatility-cited-as-main-driver\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-05",
+    "headline":"AGL to deliver 9.2MWp solar microgrid in South Australia",
+    "summary_80w":"Australian retailer AGL Energy will deliver a 9.2MWp solar-plus-storage microgrid for Koompartu Farms in South Australia\u2019s Riverland.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/agl-to-deliver-9-2mwp-solar-microgrid-in-south-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-03",
     "headline":"Bhutan secures US$160 million ADB loan for 310MW solar expansion",
     "summary_80w":"The Asian Development Bank (ADB) has approved a US$160 million loan to support the deployment of at least 310MW of new solar capacity in Bhutan.",
@@ -2698,39 +2795,6 @@
   },
   {
     "date_utc":"2026-06-25",
-    "headline":"Pathfinder secures \u20ac100 million to finance 400MW solar, 200MW storage portfolio in the UK",
-    "summary_80w":"Pathfinder Clean Energy (PACE) has secured a \u20ac100 million investment to support its deployment of a solar and BESS portfolio in the UK.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pathfinder-secures-e100-million-finance-400mw-solar-200mw-storage-portfolio-uk\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
     "headline":"R.Power secures finance for 75MWp Romanian PV portfolio",
     "summary_80w":"R.Power has secured a \u20ac41.6 million (US$47.3 million) project finance facility for four solar projects in Romania with a combined capacity of approximately 75MWp.",
     "region":"Global",
@@ -3021,38 +3085,6 @@
   },
   {
     "date_utc":"2026-06-24",
-    "headline":"Germany\u2019s battery energy storage market is entering a new phase of maturity",
-    "summary_80w":"Germany's policymakers, regulators and energy storage industry must carefully consider the issues of grid connections and grid fees, writes Thomas Antonioli of developer Terra One.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-24",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/germanys-battery-energy-storage-market-is-entering-a-new-phase-of-maturity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-24",
     "headline":"Dominion Energy launches long-duration energy storage RFI in Virginia",
     "summary_80w":"US utility Dominion Energy Virginia (DEV) is issuing a request for information (RFI) for information on long-duration energy storage (LDES) technologies.",
     "region":"Global",
@@ -3177,38 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/grid-forming-technology-explored-and-explained-download-our-white-paper-with-kehua-digital-energy-tuv-rheinland\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-24",
-    "headline":"NatPower, Tesla sign 25GWh Megapack supply and execution agreement for Italy and UK BESS projects",
-    "summary_80w":"NatPower and Tesla have signed a multi-year supply and execution agreement covering more than 25GWh of BESS across Italy and the UK.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/natpower-tesla-sign-25gwh-megapack-supply-and-execution-agreement-for-italy-and-uk-bess-projects\/",
     "reliability":"trade",
     "notes":""
   }
