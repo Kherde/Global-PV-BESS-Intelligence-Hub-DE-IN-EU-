@@ -1,6 +1,134 @@
 [
   {
     "date_utc":"2026-07-06",
+    "headline":"Vikram Solar commissions Tamil Nadu TOPCon module plant",
+    "summary_80w":"Vikram Solar has commissioned its new solar module manufacturing facility at Gangaikondan in the southern state of Tamil Nadu.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/vikram-solar-commissions-tamil-nadu-topcon-module-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-06",
+    "headline":"NEM Data Spotlight: Combined solar generation falls 21% in June as end-of-month pricing spike pushes AU$120\/MWh",
+    "summary_80w":"Australia's National Electricity Market (NEM) recorded a combined 2,413GWh of solar generation in June 2026, comprising 1,092GWh from utility-scale assets and 1,321GWh from rooftop systems.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-combined-solar-generation-falls-21-in-june-as-end-of-month-pricing-spike-pushes-au120-mwh\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-06",
+    "headline":"Spain awards \u20ac162 million to clean energy manufacturing",
+    "summary_80w":"The Spanish Ministry of Ecological Transition (MITECO) has awarded more than \u20ac160 million (US$183 million) in funding to 40 clean energy manufacturing projects, three of which are for solar PV.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/spain-awards-e162-million-to-clean-energy-manufacturing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-06",
+    "headline":"FuturaSun launches \u2018anti-soiling\u2019 module line",
+    "summary_80w":"Italian solar manufacturer FuturaSun has launched a range of \u201canti-soiling\u201d PV modules which it claims can improve energy yield and reduce losses.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/futurasun-launches-anti-soiling-module-line\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-06",
     "headline":"Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
     "summary_80w":"Tech giant Amazon has signed a new power purchase agreement (PPA) to procure energy from IPP European Energy\u2019s 220MWh Winton North solar-plus-storage project in northeast Victoria, Australia.",
     "region":"Europe",
@@ -2569,38 +2697,6 @@
   },
   {
     "date_utc":"2026-06-26",
-    "headline":"Intersolar Europe 2026: Astronergy showcases ASTRO N7s 3.0 residential PV module",
-    "summary_80w":"Chinese solar manufacturer Astronergy has launched ASTRO N7s 3.0, its latest residential solar module, at Intersolar Europe 2026.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/intersolar-europe-2026-astronergy-showcases-astro-n7s-3-0-residential-pv-module\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-26",
     "headline":"Enlight secures financing for 1.2GW\/4GWh Arizona solar and storage \u2018Complex\u2019",
     "summary_80w":"IPP Enlight Renewable Energy has announced that its US subsidiary Cl\u0113nera Holdings has entered into a debt financing framework agreement for the CO Bar Complex in Arizona, US.",
     "region":"Global",
@@ -2790,101 +2886,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/trends-to-look-out-for-at-energy-storage-summit-asia-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"R.Power secures finance for 75MWp Romanian PV portfolio",
-    "summary_80w":"R.Power has secured a \u20ac41.6 million (US$47.3 million) project finance facility for four solar projects in Romania with a combined capacity of approximately 75MWp.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/r-power-secures-finance-for-75mwp-romanian-pv-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"NLC India, OREDA sign JV to develop 1GW of renewable energy in Odisha",
-    "summary_80w":"NLC India and OREDA have signed a joint venture agreement to develop 1,000MW of renewable energy capacity in Odisha.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nlc-india-oreda-sign-jv-to-develop-1gw-of-renewable-energy-in-odisha\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"ITRPV 2026: Solar industry maintains historic learning curve despite market turbulence",
-    "summary_80w":"The annual ITRPV report was published this week, offering a snapshot of the latest technological trends shaping the industry.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/itrpv-2026-solar-industry-maintains-historic-learning-curve-despite-market-turbulence\/",
     "reliability":"trade",
     "notes":""
   },
