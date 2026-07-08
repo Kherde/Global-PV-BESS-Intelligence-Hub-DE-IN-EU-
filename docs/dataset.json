@@ -33,6 +33,39 @@
   },
   {
     "date_utc":"2026-07-08",
+    "headline":"Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
+    "summary_80w":"Dutch long-duration energy storage (LDES) developer Elestor has partnered with Windpark Zeewolde to deploy a 20MW\/200-800MWh hydrogen-iron flow battery storage system at what is described as Europe's largest onshore wind farm.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-08",
     "headline":"Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
     "summary_80w":"Waratah Super Battery developer Akaysha Energy and partners have begun construction of a large-scale battery project in Fukuoka, Japan.",
     "region":"Global",
@@ -3179,39 +3212,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/asian-development-bank-supports-500mwh-grid-forming-battery-energy-storage-project-in-cambodia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-26",
-    "headline":"Goldwind Capital submits 1GWh wind-plus-storage site to Australia\u2019s EPBC Act",
-    "summary_80w":"Goldwind Capital has submitted the Milpulling Wind Farm, a 1GWh wind-plus-storage site for assessment under Australia's EPBC Act.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/goldwind-capital-submits-1gwh-wind-plus-storage-site-to-australias-epbc-act\/",
     "reliability":"trade",
     "notes":""
   }
