@@ -1,5 +1,230 @@
 [
   {
+    "date_utc":"2026-07-08",
+    "headline":"Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
+    "summary_80w":"The Australian government has introduced a dedicated First Nations Set Aside pilot into both Capacity Investment Scheme Tenders 9 and 10.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-08",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-08",
+    "headline":"Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
+    "summary_80w":"Waratah Super Battery developer Akaysha Energy and partners have begun construction of a large-scale battery project in Fukuoka, Japan.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-08",
+    "headline":"\u2018Battery storage may be important, but we also welcome long-duration storage\u2019: QIC on Queensland\u2019s North West Energy Fund",
+    "summary_80w":"Arash Shojaie of QIC Infrastructure outlines how Queensland's North West Energy Fund will approach cost reduction, technology selection and more.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-may-be-important-but-we-also-welcome-long-duration-storage-qic-on-queenslands-north-west-energy-fund\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-07",
+    "headline":"Australia\u2019s CleanPeak Energy inks 15-year supply deal to power Western Sydney International Airport with 100% renewables",
+    "summary_80w":"Australian renewables company CleanPeak Energy will develop a 9MWp rooftop solar PV system alongside 30MW\/120MWh of battery energy storage for Western Sydney International (WSI) Airport in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-cleanpeak-energy-inks-15-year-supply-deal-to-power-western-sydney-international-airport-with-100-renewables\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-07",
+    "headline":"ES Foundry completes 2GW solar cell expansion in South Carolina",
+    "summary_80w":"US solar cell manufacturer ES Foundry has completed the expansion of a 2GW solar cell production line at its Greenwood, South Carolina facility.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/es-foundry-completes-2gw-solar-cell-expansion-in-south-carolina\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-07",
+    "headline":"ISFH CalTec expands calibration services to large-area perovskite-silicon tandem solar cells",
+    "summary_80w":"The Institute for Solar Energy Research Hamelin (ISFH), has included the calibration of large-area perovskite-silicon tandem solar cells at its Calibration and Test Center (CalTeC).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/isfh-caltec-expands-calibration-services-large-area-perovskite-silicon-tandem-solar-cells\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-07",
+    "headline":"Opdenergy bags $227 million for Chile renewables, energy storage",
+    "summary_80w":"Spanish IPP Opdenergy has secured US$227 million to support its operating renewable energy portfolio in Chile.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/opdenergy-bags-227-million-for-chile-renewables-energy-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-07",
     "headline":"United Solar secures IFC financing for Oman polysilicon facility",
     "summary_80w":"Polysilicon producer United Solar has reached financial close on a US$50 million equity investment from the World Bank Group's International Finance Corporation (IFC) for its polysilicon facility in Oman.",
@@ -159,6 +384,70 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/ox2-acquires-230mwac-corop-solar-plus-storage-project-in-victoria-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-07",
+    "headline":"VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
+    "summary_80w":"System integrator HyperStrong will deploy sodium-ion BESS first in its home market of China, before bringing a product to the international markets, its president of technology said.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/video-hyperstrong-to-deploy-sodium-ion-bess-first-in-china-international-projects-could-follow-in-2027\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-07",
+    "headline":"European battery & BESS manufacturing gets boost with Eni Storage and Hithium gigafactory milestones in Italy, Spain",
+    "summary_80w":"Eni Storage Systems has broken ground on a gigafactory in Italy set to build LFP cells for energy storage applications, while Chinese firm Hithium has won an \u20ac80 million grant from the Spanish government for a battery and BESS plant there.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/european-battery-manufacturing-boost-eni-storage-hithium-lfp-gigafactory-milestones-italy-spain\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2604,133 +2893,6 @@
   },
   {
     "date_utc":"2026-06-29",
-    "headline":"Research points to \u2018recyclability of solar panel components\u2019 in Australia",
-    "summary_80w":"Developing more robust PV module recycling methods in Australia could be of economic benefit to the companies involved in recycling.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/research-points-recyclability-of-solar-panel-components-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-29",
-    "headline":"LONGi unveils mobile off-grid PV unit, seals 80MW Greece module order",
-    "summary_80w":"Chinese PV manufacturer LONGi has unveiled a new containerised solar solution designed for remote off-grid industrial-scale applications.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/longi-unveils-mobile-off-grid-pv-unit-seals-80mw-greece-module-order\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-29",
-    "headline":"EBOS steps into the spotlight",
-    "summary_80w":"eBOS hardware, long overlooked in PV design, is now central to solar project cost optimisation as technologies advance, writes Shreeyashi Ojha.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ebos-steps-into-the-spotlight\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-29",
-    "headline":"EDF agrees to sell North American renewables business to KKR",
-    "summary_80w":"French utility EDF has agreed to sell its renewable energy business in the US and Canada to private equity firm KKR.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/edf-agrees-to-sell-north-american-renewables-business-to-kkr\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-29",
     "headline":"Flow batteries selected for microgrid deployments in Maldives, Paskenta Tribe lands in California",
     "summary_80w":"Two recent microgrid projects highlight the expanding role of flow batteries, with Quino Energy deploying organic flow batteries in the Maldives and the Paskenta Band of Nomlaki Indians integrating zinc hybrid cathode storage in Northern California.",
     "region":"India",
@@ -3050,168 +3212,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/goldwind-capital-submits-1gwh-wind-plus-storage-site-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-26",
-    "headline":"Trends to look out for at Energy Storage Summit Asia 2026",
-    "summary_80w":"Energy Storage Summit Asia 2026 convenes in Bangkok as Vietnam's tariff reform, Cambodia's grid milestone, and AI demand reshape the region.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/trends-to-look-out-for-at-energy-storage-summit-asia-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"Tesla, Sunrun, Renew Home announce 16GW VPP framework, focus on PJM",
-    "summary_80w":"US residential solar and energy storage installer Sunrun, energy management platform Renew Home, and Tesla have announced an agreement to deliver more than 16GW of flexible energy capacity to US hyperscalers and utilities.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/tesla-sunrun-renew-home-announce-16gw-vpp-framework-focus-on-pjm\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"US ROUNDUP: e-Storage, Spearmint Energy, and OCI Energy advance BESS projects in Michigan and Texas",
-    "summary_80w":"In this US news roundup, e-Storage, Spearmint Energy, and OCI Energy advance battery energy storage system (BESS) projects and financing in Michigan and Texas.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-e-storage-spearmint-energy-and-oci-energy-advance-bess-projects-in-michigan-and-texas\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"Sodium-ion will reach cost parity with LFP \u2018in two to three years\u2019, BESS firm says",
-    "summary_80w":"Sodium-ion BESS startup Moonwatt expects the battery chemistry to reach price cost parity with lithium iron phosphate (LFP) in the next two or three years, according to its CCO, Valentin Rota.",
-    "region":"Global",
-    "country":"",
-    "category":"price",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sodium-ion-will-reach-lcos-parity-with-lfp-in-two-to-three-years-bess-firm-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-25",
-    "headline":"Nextpower and Prevalon CEOs discuss acquisition background and future strategy",
-    "summary_80w":"ESN Premium speaks with Nextpower CEO Dan Shugar and Prevalon\u2019s Tom Cornell about the solar PV solutions company\u2019s (re)entry into the energy storage space.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/nextpower-and-prevalon-ceos-discuss-acquisition-background-and-future-strategy\/",
     "reliability":"trade",
     "notes":""
   }
