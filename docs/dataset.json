@@ -63,6 +63,38 @@
   },
   {
     "date_utc":"2026-07-09",
+    "headline":"The State of BESS Analytics: Three Views from The Smarter E 2026",
+    "summary_80w":"Three companies across the BESS value chain, including PowerUp, describe how battery analytics has become a decision layer that the whole ecosystem acts upon.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/the-state-of-bess-analytics-three-views-from-the-smarter-e-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-09",
     "headline":"UK ROUNDUP: Field closes financing on 1GWh portfolio; Pulse Clean Energy selects Envision for 310MWh project",
     "summary_80w":"Field and Pulse Clean Energy have each advanced UK battery storage projects this week, with a combined capacity of over 1.3GWh.",
     "region":"Global",
@@ -3178,39 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/eu-tripartite-agreement-targets-30-35gw-of-storage-deployments-by-2028\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-06-29",
-    "headline":"Envision to supply 660MWh of battery storage for South Africa\u2019s \u2018largest private hybrid power project\u2019",
-    "summary_80w":"Envision has signed a 660MWh BESS supply agreement with SOLA Group and construction company WBHO in South Africa's Free State.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-06-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/envision-to-supply-660mwh-of-battery-storage-for-south-africas-largest-private-hybrid-power-project\/",
     "reliability":"trade",
     "notes":""
   }
