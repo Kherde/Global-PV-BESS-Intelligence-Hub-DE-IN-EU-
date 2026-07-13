@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-07-13",
+    "headline":"Battery storage investment at stake as Australia\u2019s AEMC consults on minimum system load market rules",
+    "summary_80w":"Australia's AEMC is consulting on minimum system load in the NEM, with battery energy storage investment at the heart of the debate.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-10",
     "headline":"World Bank commits US$890 million to support India\u2019s rooftop solar expansion",
     "summary_80w":"The financing will support the Government of India\u2019s PM Surya Ghar: Muft Bijli Yojana (PMSMGBY) initiative.",
@@ -3177,38 +3209,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/samsung-ct-submits-600mwh-comet-park-bess-to-australias-epbc-act\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-01",
-    "headline":"Australian AI developer locks in 1.5GWh of battery energy storage under 12-year agreement",
-    "summary_80w":"Australian AI infrastructure developer Firmus Technologies has signed a 12-year wholesale energy supply agreement with Gunvor Group, including 1.5GWh of battery storage by 2032.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australian-ai-developer-locks-in-1-5gwh-of-battery-energy-storage-under-12-year-agreement\/",
     "reliability":"trade",
     "notes":""
   }
