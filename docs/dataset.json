@@ -1,6 +1,71 @@
 [
   {
     "date_utc":"2026-07-15",
+    "headline":"Avantus, Clean Power Alliance sign PPA for 200MW solar PV, 800MWh BESS project",
+    "summary_80w":"Avantus has signed a 20-year PPA with the Clean Power Alliance (CPA) in California for the output of a 200MW solar-plus-storage project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/avantus-clean-power-alliance-ppa-200mw-solar-pv-800mwh-bess-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-15",
+    "headline":"What does a bankable route-to-market strategy for battery storage in Europe actually look like?",
+    "summary_80w":"With technology risk now largely removed from the equation, assessing how a battery storage project will perform across market opportunities is now the main object of financiers\u2019 scrutiny, writes Ryan Alexander of enspired.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-15",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/what-does-a-bankable-route-to-market-strategy-for-battery-storage-in-europe-actually-look-like\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-15",
     "headline":"Over 4GWh of battery storage added to Australia\u2019s updated National Renewable Energy Priority List",
     "summary_80w":"Australia's federal government has added 11 new generation and energy storage projects to its National Renewable Energy Priority List.",
     "region":"Global",
@@ -2664,39 +2729,6 @@
   },
   {
     "date_utc":"2026-07-07",
-    "headline":"OX2 acquires 230MWac Corop solar-plus-storage project in Victoria, Australia",
-    "summary_80w":"Swedish independent power producer (IPP) OX2 has acquired the Corop solar-plus-storage project in Victoria, Australia, adding a 230MWac solar PV power plant and up to 290MW\/1,160MWh of battery energy storage to its Australian portfolio.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-07",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ox2-acquires-230mwac-corop-solar-plus-storage-project-in-victoria-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-07",
     "headline":"VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
     "summary_80w":"System integrator HyperStrong will deploy sodium-ion BESS first in its home market of China, before bringing a product to the international markets, its president of technology said.",
     "region":"Global",
@@ -3173,39 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-grid-scale-battery-storage-fleet-generates-au17-98-million-in-the-nem-as-revenue-capture-reaches-32\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-03",
-    "headline":"AGL to deliver 10.2MWh battery storage microgrid for South Australia\u2019s largest almond orchard",
-    "summary_80w":"AGL has delivered a solar and battery microgrid described as \u201cone of the largest privately owned non-mining microgrids in Australia\u201d.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/agl-to-deliver-10-2mwh-battery-storage-microgrid-for-south-australias-largest-almond-orchard\/",
     "reliability":"trade",
     "notes":""
   }
