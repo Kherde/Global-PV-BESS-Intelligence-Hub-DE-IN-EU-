@@ -129,6 +129,38 @@
   },
   {
     "date_utc":"2026-07-16",
+    "headline":"Hithium\u00a0on the European C&I BESS market and its need for a 4-hour solution",
+    "summary_80w":"A shift is happening in Europe\u2019s commercial &#038; industrial (C&#038;I) energy storage market, and integrated energy storage solutions provider Hithium is addressing this demand with a purpose-built 4-hour solution.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-16",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hithium-on-the-european-ci-bess-market-and-its-need-for-a-4-hour-solution\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-16",
     "headline":"Australia\u2019s New South Wales grants planning consent for 3.6GWh pumped hydro project at former coal mine",
     "summary_80w":"Gloucester Coa has received planning approval from the New South Wales government for the 3.6GWh Stratford Pumped Hydro and Solar project.",
     "region":"Global",
@@ -1511,7 +1543,7 @@
   {
     "date_utc":"2026-07-13",
     "headline":"Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
-    "summary_80w":"According to a leaked draft of its Electrification Action Plan, the European Union (EU) must deploy 200GW of energy storage by 2030 to meet energy system flexibility needs.",
+    "summary_80w":"Update 16 July 2026: Energy Storage Europe sent a statement to Energy-Storage.news on the leaked plan.",
     "region":"Europe",
     "country":"EU",
     "category":"market",
@@ -3169,39 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/engie-agrees-offtake-deal-developer-625mwh-spain-bess-flexibility-floor-toll\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-06",
-    "headline":"Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
-    "summary_80w":"Tech giant Amazon has signed a new power purchase agreement (PPA) to procure energy from IPP European Energy\u2019s 220MWh Winton North solar-plus-storage project in northeast Victoria, Australia.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/amazon-pens-battery-storage-ppa-for-220mwh-solar-plus-storage-site-in-australia\/",
     "reliability":"trade",
     "notes":""
   }
