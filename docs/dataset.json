@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-07-17",
+    "headline":"Suntech: Building Trust Through 25 Years of Solar Innovation",
+    "summary_80w":"At Intersolar 2026, PV Tech sat down with Suntech's General Manager Mr. Yang Hao to discuss how a quarter-century of experience, combined with robust industrial backing, positions the company for the industry's next chapter.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/suntech-building-trust-through-25-years-of-solar-innovation\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-17",
     "headline":"ib vogt wins approval for 480MWh battery storage site in Australia\u2019s Wagga Wagga Special Activation Precinct",
     "summary_80w":"German solar and storage developer ib vogt has received state planning approval for the 120MW\/480MWh Wagga North battery energy storage system (BESS) in New South Wales, Australia.",
     "region":"Germany",
@@ -2658,38 +2690,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/premier-energies-moves-ahead-with-10gw-ingot-wafer-facility-in-andhra-pradesh-india\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-09",
-    "headline":"What solar asset owners need to know about cybersecurity and NIS2 compliance",
-    "summary_80w":"Uri Sadot provides an explanation of the cybsersecurity situation for European solar, and what action asset owners must take to comply with NIS2.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/what-solar-asset-owners-need-to-know-about-cybersecurity-and-nis2-compliance\/",
     "reliability":"trade",
     "notes":""
   },
