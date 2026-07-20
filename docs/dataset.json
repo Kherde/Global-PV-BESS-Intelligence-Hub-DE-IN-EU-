@@ -1,5 +1,163 @@
 [
   {
+    "date_utc":"2026-07-20",
+    "headline":"Lodestone Energy begins work on 31.5MWp solar PV plant in New Zealand",
+    "summary_80w":"Lodestone Energy and Centralines have started construction on the 31.5MWp Central Hawke's Bay solar PV power plant.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/lodestone-energy-begins-work-on-31-5mwp-solar-pv-plant-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-20",
+    "headline":"Hithium\u00a0looks to replicate residential solution ARKVOLT\u2019s Asian success into Europe",
+    "summary_80w":"Hithium, an integrated energy storage solutions provider known for its leadership in long-duration energy storage, is now seeing strong momentum across its residential businesses and C&#038;I. We discussed this with the company at the Smarter E Europe trade show in Germany last month.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/hithium-looks-to-replicate-residential-solution-arkvolts-asian-success-into-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-20",
+    "headline":"CHINT: Bridging AI infrastructure and energy transition through integrated power solutions",
+    "summary_80w":"CHINT Global's Beibei Zheng discusses how the company is responding to Europe's dual challenge of AI sovereignty and energy security.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/chint-bridging-ai-infrastructure-and-energy-transition-through-integrated-power-solutions\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-20",
+    "headline":"Australia adds 9.1GW of new generation and storage in FY26 with battery storage dominating",
+    "summary_80w":"Australia's NEM connected 9.1GW of new generation and energy storage to full output in FY26, more than double the result achieved in FY25.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-20",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-adds-9-1gw-of-new-generation-and-storage-in-fy26-with-battery-storage-dominating\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-19",
+    "headline":"Australia moves to legislate net-generator requirement for large-scale data centres",
+    "summary_80w":"Australian Prime Minister Anthony Albanese has said that large-scale data centres will be legally required to put at least as much energy into the grid as they draw from it, and that this supply must be renewable energy.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-19",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-17",
     "headline":"Zambia signs contracts for 312MW constituency solar programme",
     "summary_80w":"The Zambian government has signed five contractor groups to build 312MW of solar capacity, with a 2MW solar plant in each constituency.",
@@ -2630,40 +2788,6 @@
   },
   {
     "date_utc":"2026-07-10",
-    "headline":"Elawan Energy closes financing on 1.3GW renewables portfolio in Spain",
-    "summary_80w":"Renewables developer Elawan Energy has closed a \u20ac760 million financing on a 1.3GW solar PV, wind and battery energy storage system (BESS) portfolio in Spain.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/elawan-energy-closes-financing-on-1-3gw-renewables-portfolio-in-spain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-10",
     "headline":"US-based BESS companies Peak Energy, ESS Inc and Unigrid aim to commercialise sodium-ion in US, Europe",
     "summary_80w":"Peak Energy, ESS Tech Inc, and Unigrid have made recent announcements advancing sodium-ion energy storage technology in the US and Europe.",
     "region":"Europe",
@@ -3076,136 +3200,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/bess-developer-opts-for-california-energy-commission-fast-track-approval-after-facing-local-county-ordinance-obstacles\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-08",
-    "headline":"Honda-LG ES begin ESS cell production at retooled Ohio EV cell facility",
-    "summary_80w":"L-H Battery Company commenced lithium-ion (Li-ion) cell production at its Jeffersonville, Ohio, US plant this month, for automotive and stationary power applications.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/honda-lg-es-begin-ess-cell-production-at-retooled-ohio-ev-cell-facility\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-08",
-    "headline":"Hiconics discusses PowerNexus residential smart energy solution at Intersolar Europe",
-    "summary_80w":"Energy-storage.news spoke with Gerry Liu, GM of Hiconincs, at Intersolar Europe in Munich. We discussed the company\u2019s residential energy offerings and its plans for the European market.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hiconics-discusses-powernexus-residential-smart-energy-solution-at-intersolar-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-08",
-    "headline":"Europe ROUNDUP: Projects, supply deals and acquisitions spanning north to east by Green Flexibility, Jinko, OX2 and Baltic Storage Platform",
-    "summary_80w":"This edition of news in brief features portfolio acquisitions, project completions, a supply deal and investments across Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/europe-roundup-projects-supply-deals-and-acquisitions-spanning-north-to-east-by-green-flexibility-jinko-ox2-and-baltic-storage-platform\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-08",
-    "headline":"Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
-    "summary_80w":"Dutch long-duration energy storage (LDES) developer Elestor has partnered with Windpark Zeewolde to deploy a 20MW\/200-800MWh hydrogen-iron flow battery storage system at what is described as Europe's largest onshore wind farm.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-08",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands\/",
     "reliability":"trade",
     "notes":""
   }
