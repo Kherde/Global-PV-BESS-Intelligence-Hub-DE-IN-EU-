@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-07-21",
+    "headline":"Return and Engie, EnBW and Zelestra agree long-term BESS tolls in Spain, Italy",
+    "summary_80w":"Return and Engie have agreed a long-term BESS toll in Spain while EnBW and Zelestra have finalised one in Italy, totalling 55MW and 300MW of capacity respectively.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-21",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/return-and-engie-enbw-and-zelestra-agree-long-term-bess-tolls-in-spain-italy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-21",
     "headline":"India awards long-duration energy storage contracts for 1,344MW pumped hydro, utility-scale flow battery",
     "summary_80w":"Two big developments for India\u2019s emerging long-duration energy storage (LDES) sector, with contracts awarded for pumped hydro energy storage (PHES) and the country\u2019s first large-scale flow battery.",
     "region":"India",
@@ -28,6 +60,38 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/india-awards-long-duration-energy-storage-contracts-for-1344mw-pumped-hydro-utility-scale-flow-battery\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-21",
+    "headline":"Strong domestic market and Middle East demand drive growth in Indian solar EPC and O&M work",
+    "summary_80w":"'Home market strength plus Middle Eastern demand' has driven a surge in solar PV capacity in India, according to RenewAtlas and Wiki-Solar.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/strong-domestic-market-demand-middle-east-growth-indian-solar-epc\/",
     "reliability":"trade",
     "notes":""
   },
@@ -62,6 +126,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/ember-eu-hybridisation-could-unlock-25gw-solar-pv-and-wind-without-new-grids\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-21",
+    "headline":"Romania ROUNDUP: Aukera, ENEVO Group and Kraftfeld Energy, and PPC Renewables advance BESS projects",
+    "summary_80w":"Energy companies are accelerating battery storage deployment in Romania, with Aukera, ENEVO Group and Kraftfeld Energy, and PPC Renewables Romania announcing significant project developments.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/romania-roundup-aukera-enevo-group-and-kraftfeld-energy-and-ppc-renewables-advance-bess-projects\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2888,38 +2984,6 @@
   },
   {
     "date_utc":"2026-07-13",
-    "headline":"JinkoSolar vice chairman and co-founder Chen Kangping resigns",
-    "summary_80w":"JinkoSolar has announced a senior management change as the company continues to struggle with losses.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/jinko-vice-chair-chen-kangping-resigns\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-13",
     "headline":"CMBlu Energy advances US manufacturing plans and targets multiple market segments for organic flow battery technology",
     "summary_80w":"Energy-Storage.news Premium catches up with Giovanni Damato, US president of organic flow battery company CMBlu Energy about the company\u2019s recent activity.",
     "region":"Global",
@@ -3138,71 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/sec-and-energy-dome-to-deploy-20mw-240mwh-compressed-co2-energy-storage-system-in-victoria-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-10",
-    "headline":"Palau solar-plus-storage site to add 19.8MWh BESS in Australian-backed augmentation",
-    "summary_80w":"A 19.8MWh battery energy storage system (BESS) is to be added to an existing solar-plus-storage facility in the Republic of Palau, with Australian development finance backing the expansion of one of the Western Pacific's flagship hybrid renewable energy projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV+BESS",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/palau-solar-plus-storage-site-to-add-19-8mwh-bess-in-australian-backed-augmentation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-10",
-    "headline":"Australia\u2019s HMC Capital closes KKR investment, unifies energy platform under new Illuma Energy brand",
-    "summary_80w":"HMC Capital has launched Illuma Energy, a new identity that brings together the ASX-listed asset manager's energy investment, development and operating activities under a single platform.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-hmc-capital-closes-kkr-investment-unifies-energy-platform-under-new-illuma-energy-brand\/",
     "reliability":"trade",
     "notes":""
   }
