@@ -1,6 +1,39 @@
 [
   {
     "date_utc":"2026-07-24",
+    "headline":"When winter shuts down solar storage: how Ampace is solving Europe\u2019s cold-climate challenge",
+    "summary_80w":"As sub-zero temperatures force many residential battery systems offline or drain energy through auxiliary heating, Dr. Qingfeng Yuan explains how the CATL-ATL joint venture's thermal engineering is eliminating winter downtime across Northern and Alpine Europe",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/when-winter-shuts-down-solar-storage-how-ampace-is-solving-europes-cold-climate-challenge\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-24",
     "headline":"Australia\u2019s Ark Energy locks in AU$1.3 billion for Richmond Valley as 150MW Lansdown Solar West joins EPBC queue",
     "summary_80w":"Ark Energy has secured a financial investment decision (FID) for its AU$1.3 billion Richmond Valley solar-plus-storage project in Australia.",
     "region":"Global",
@@ -92,6 +125,102 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/halocell-energy-partners-with-south-koreas-msway-to-scale-roll-printed-perovskite-solar-modules\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-24",
+    "headline":"Sodium-ion BESS: CATL in 2GWh Eastern Europe collaboration, ESS Inc signs LOI for 500MWh of US deployments",
+    "summary_80w":"ESS Tech Inc is deploying sodium-ion BESS in the US with Juniper Energy, while CATL deploys its sodium-ion technology in Eastern Europe with Solarpro.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sodium-ion-bess-catl-in-2gwh-eastern-europe-collaboration-ess-inc-signs-loi-for-500mwh-of-us-deployments\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-24",
+    "headline":"Alpiq follows Harmony Energy acquisition with 1.2GWh project announcement",
+    "summary_80w":"Two weeks after announcing its acquisition of Harmony Energy, Swiss power firm Alpiq has unveiled its first large-scale battery project in its home country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/alpiq-follows-harmony-energy-acquisition-with-1-2gwh-project-announcement\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-24",
+    "headline":"AI data centres\u2019 battery dilemma: when mission-critical uptime meets thermal runaway risk",
+    "summary_80w":"Qingfeng Yuan, CTO of Ampace, explains how semi-solid state cell chemistry and high-frequency cycling validation are addressing the artificial intelligence infrastructure sector's zero-tolerance requirements for safety and reliability.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ai-data-centres-battery-dilemma-when-mission-critical-uptime-meets-thermal-runaway-risk\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2727,38 +2856,6 @@
   },
   {
     "date_utc":"2026-07-17",
-    "headline":"Suntech: Building Trust Through 25 Years of Solar Innovation",
-    "summary_80w":"At Intersolar 2026, PV Tech sat down with Suntech's General Manager Mr. Yang Hao to discuss how a quarter-century of experience, combined with robust industrial backing, positions the company for the industry's next chapter.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/suntech-building-trust-through-25-years-of-solar-innovation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-17",
     "headline":"California batteries missing out on revenue due to suboptimal bidding strategies, Gridmatic analysis finds",
     "summary_80w":"Battery energy storage systems (BESS) operating in California's grid left approximately US$98 million on the table due to suboptimal bidding strategies, according to a new analysis from Gridmatic.",
     "region":"Global",
@@ -2953,38 +3050,6 @@
   },
   {
     "date_utc":"2026-07-16",
-    "headline":"Australia\u2019s Transgrid opens pathway for 900MW of grid-forming battery storage as synchronous condenser costs surge 38%",
-    "summary_80w":"Australian transmission operator Transgrid has opened a pathway for 900MW of grid-forming inverter-equipped battery storage to contribute to New South Wales' minimum system strength requirements.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-16",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-transgrid-opens-pathway-for-900mw-of-grid-forming-battery-storage-as-synchronous-condenser-costs-surge-38\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-16",
     "headline":"Sunrun, FranklinWH expand BESS virtual power plant capacity in California, Texas",
     "summary_80w":"Distributed energy resource (DER)-focused companies Sunrun and FranklinWH are expanding in California and Texas, US, respectively.",
     "region":"Global",
@@ -3140,70 +3205,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/behind-catls-zero-degradation-bess-technology\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-16",
-    "headline":"Hithium\u00a0on the European C&I BESS market and its need for a 4-hour solution",
-    "summary_80w":"A shift is happening in Europe\u2019s commercial &#038; industrial (C&#038;I) energy storage market, and integrated energy storage solutions provider Hithium is addressing this demand with a purpose-built 4-hour solution.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hithium-on-the-european-ci-bess-market-and-its-need-for-a-4-hour-solution\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-16",
-    "headline":"Australia\u2019s New South Wales grants planning consent for 3.6GWh pumped hydro project at former coal mine",
-    "summary_80w":"Gloucester Coa has received planning approval from the New South Wales government for the 3.6GWh Stratford Pumped Hydro and Solar project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-new-south-wales-grants-planning-consent-for-3-6gwh-pumped-hydro-project-at-former-coal-mine\/",
     "reliability":"trade",
     "notes":""
   }
