@@ -1,5 +1,134 @@
 [
   {
+    "date_utc":"2026-07-27",
+    "headline":"Western Australia begins work on Clean Energy Link \u2013 North to unlock \u2018solar-rich\u2019 Mid West",
+    "summary_80w":"Construction has begun on two new transmission lines as part of Western Australia's Clean Energy Link - North project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/western-australia-begins-work-on-clean-energy-link-north-to-unlock-solar-rich-mid-west\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-27",
+    "headline":"Meridian Energy bags consent for 110MW solar PV plant in New Zealand",
+    "summary_80w":"Meridian Energy has received consent to build a 110MW solar PV power plant near Morrinsville in the Waikato region of New Zealand's North Island.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/meridian-energy-bags-consent-for-110mw-solar-pv-plant-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-27",
+    "headline":"Trinasolar begins mass production of 515W Vertex S+ G3 module for Australian rooftop market",
+    "summary_80w":"Trinasolar, a Chinese module manufacturer, has started mass production of a 515W solar module developed exclusively for the Australian residential and commercial rooftop market, with first deliveries expected this month.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/trinasolar-begins-mass-production-of-515w-vertex-s-g3-module-for-australian-rooftop-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-27",
+    "headline":"Ark Energy locks in AU$1.3 billion for 2.2GWh solar-plus-storage site in New South Wales, Australia",
+    "summary_80w":"Two Australian solar-plus-storage projects advance: Ark Energy secures AU$1.3 billion for 2.2GWh Richmond Valley project; Quinbrook submits 250MWp Queensland site.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ark-energy-locks-in-au1-3-billion-for-2-2gwh-solar-plus-storage-site-in-new-south-wales-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-24",
     "headline":"HOPS backs 500MW solar PV facility for Pantheon Atlas\u2019 AI data centre project",
     "summary_80w":"Croatia's HOPS approves transmission blueprint for Pantheon Atlas' planned 1GW Pantheon AI data centre in Topusko.",
@@ -897,7 +1026,7 @@
   },
   {
     "date_utc":"2026-07-23",
-    "headline":"ON.Energy and Crusoe partner on UPS technology for US data centres, Skeleton Tech in 800 VDC partnership with DG Matrix",
+    "headline":"ON.energy and Crusoe partner on UPS technology for US data centres, Skeleton Tech in 800 VDC partnership with DG Matrix",
     "summary_80w":"System integrator and project developer ON.Energy and AI data centre infrastructure developer Crusoe have partnered to deploy 5GW of uninterruptible power supply (UPS) technology across multiple US hyperscale campuses.",
     "region":"Global",
     "country":"",
@@ -2537,38 +2666,6 @@
   },
   {
     "date_utc":"2026-07-20",
-    "headline":"Lodestone Energy begins work on 31.5MWp solar PV plant in New Zealand",
-    "summary_80w":"Lodestone Energy and Centralines have started construction on the 31.5MWp Central Hawke's Bay solar PV power plant.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/lodestone-energy-begins-work-on-31-5mwp-solar-pv-plant-in-new-zealand\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-20",
     "headline":"Residential BESS \u2018access without upfront cash\u2019: Palmetto launches battery subscription in 25 US states",
     "summary_80w":"Residential renewable energy solutions company Palmetto recently launched its Palmetto Energy Backup Plan, a residential battery subscription aimed at making residential storage more accessible in 25 US states.",
     "region":"Global",
@@ -2820,70 +2917,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-17",
-    "headline":"Zambia signs contracts for 312MW constituency solar programme",
-    "summary_80w":"The Zambian government has signed five contractor groups to build 312MW of solar capacity, with a 2MW solar plant in each constituency.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-17",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/zambia-signs-contracts-for-312mw-constituency-solar-programme\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-17",
-    "headline":"Sol Systems reaches financial close on 123MW Illinois solar portfolio",
-    "summary_80w":"US solar developer Sol Systems has reached financial close on its 123MWac Peoria Solar Portfolio in Illinois.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/sol-systems-reaches-financial-close-on-123mw-illinois-solar-portfolio\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3174,38 +3207,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/thailand-needs-many-regulatory-reforms-of-electricity-sector-to-catch-up-with-asean-leaders-on-energy-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-16",
-    "headline":"EU ROUNDUP: Operators commission 682MWh of BESS in Germany, Estonia, Belgium, Denmark and Bulgaria",
-    "summary_80w":"There's been a flurry of project completions across Europe this past week, with projects completed in Germany, Estonia, Belgium, Denmark and Bulgaria by RheinEnergie\/SMA, BSP, BStor, European Energy and Sunotec respectively, totalling nearly 700MWh of capacity.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/eu-roundup-operators-commission-682mwh-of-bess-in-germany-estonia-belgium-denmark-and-bulgaria\/",
     "reliability":"trade",
     "notes":""
   }
