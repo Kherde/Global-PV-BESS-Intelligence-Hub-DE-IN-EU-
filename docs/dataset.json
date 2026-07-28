@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-07-28",
+    "headline":"Minister of Energy leads ceremony to commission Malawi\u2019s first grid-scale standalone BESS",
+    "summary_80w":"Malawi\u2019s energy minister was on hand last week as the southeast African country inaugurated its first large-scale standalone battery energy storage system (BESS).",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/minister-of-energy-leads-ceremony-to-commission-malawis-first-grid-scale-standalone-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-28",
     "headline":"Malaysia launches tender for 2.5GW of solar PV with co-located battery storage",
     "summary_80w":"The government of Malaysia has unveiled the next round of its Large-scale solar (LSS) program tender seeking 2.5GW of solar PV co-located with 1.25GW of battery energy storage system (BESS) capacity.",
     "region":"Global",
@@ -1566,39 +1598,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/waaree-indias-biggest-pv-module-supplier-opens-5-15gwh-battery-storage-assembly-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-17",
-    "headline":"ib vogt wins approval for 480MWh battery storage site in Australia\u2019s Wagga Wagga Special Activation Precinct",
-    "summary_80w":"German solar and storage developer ib vogt has received state planning approval for the 120MW\/480MWh Wagga North battery energy storage system (BESS) in New South Wales, Australia.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct\/",
     "reliability":"trade",
     "notes":""
   }
