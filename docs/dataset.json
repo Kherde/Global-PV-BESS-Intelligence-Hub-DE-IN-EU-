@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-07-30",
+    "headline":"EV demand in Europe, BESS in the US drive LG Energy Solution\u2019s return to profit in Q2",
+    "summary_80w":"LG Energy Solution (LG ES) posted a profitable second quarter this year, with investments in battery storage in the US and EV cell production in Europe paying off.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-07-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ev-demand-in-europe-bess-in-the-us-drive-lg-energy-solutions-return-to-profit-in-q2\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-07-30",
     "headline":"Australia should treat data centres as \u2018anchor tenants\u2019 for clean energy infrastructure, says AirTrunk",
     "summary_80w":"Large data centres should serve as \u201canchor tenants\u201d for new renewable energy generation, storage, and transmission investment, leveraging the scale and longevity of digital infrastructure commitments to advance energy projects rather than waiting for supply to arrive.",
     "region":"Global",
@@ -1563,39 +1595,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/romania-roundup-aukera-enevo-group-and-kraftfeld-energy-and-ppc-renewables-advance-bess-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-21",
-    "headline":"European Energy reaches financial close on 80MWh Mokoan solar-plus-storage site in Australia",
-    "summary_80w":"Danish developer European Energy has reached financial close on the 80MWh Mokoan solar-plus-storage project in Victoria, Australia.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/european-energy-reaches-financial-close-on-80mwh-mokoan-solar-plus-storage-site-in-australia\/",
     "reliability":"trade",
     "notes":""
   }
