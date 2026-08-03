@@ -1,5 +1,103 @@
 [
   {
+    "date_utc":"2026-08-03",
+    "headline":"Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
+    "summary_80w":"Samsung SDI is on track to begin production of lithium iron phosphate (LFP) battery cells in the US in the third quarter of this year.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-03",
+    "headline":"\u2018You cannot build a whole electricity system purely on solar hybrids\u2019: Squadron Energy CEO warns",
+    "summary_80w":"BESS and solar have driven Australia past the halfway mark in NEM renewable penetration, but the technology mix is not yet broad enough.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/you-cannot-build-a-whole-electricity-system-purely-on-solar-hybrids-squadron-energy-ceo-warns\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-03",
+    "headline":"Grid-forming BESS not yet confirmed for minimum system strength in Australia as AEMO launches fault current trial",
+    "summary_80w":"Grid-forming BESS have not yet been confirmed to meet the highest tier of system strength requirements in Australia's NEM, according to AEMO.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/grid-forming-bess-not-yet-confirmed-for-minimum-system-strength-in-australia-as-aemo-launches-fault-current-trial\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-07-31",
     "headline":"Veolia to operate 350MW microgrid for AI data centre in central Ohio",
     "summary_80w":"Environmental services company Veolia has been selected to operate and maintain a 350MW microgrid to power an AI data centre campus in New Albany, Ohio, US, which includes a 430MWh BESS.",
@@ -1437,38 +1535,6 @@
   },
   {
     "date_utc":"2026-07-22",
-    "headline":"Maine submits plans for first competitive energy storage solicitation, eyeing 360MW",
-    "summary_80w":"The Maine, US Department of Energy Resources (DOER) announced plans for the state's first competitive energy storage solicitation up to 360MW.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-22",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/maine-submits-plans-for-first-competitive-energy-storage-solicitation-eyeing-360mw\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-22",
     "headline":"VIDEO: Integrating solar, storage, grid-forming\u00a0and AI with Envision Energy",
     "summary_80w":"We caught up with Michael Koller, Solutions Director for Europe and the UK with Envision Energy, at this year\u2019s Smarter E Europe trade show in Munich.",
     "region":"Europe",
@@ -1529,70 +1595,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/1-5gwh-of-bess-deals-in-italy-sonnedix-strioga-buy-projects-bnz-rwe-order-from-sungrow-and-longi\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-22",
-    "headline":"British Columbia and BC Hydro advance first \u2018major\u2019 BESS in Canadian province",
-    "summary_80w":"Canadian electric utility BC Hydro and the province of British Columbia (BC) are advancing the first major battery energy storage system (BESS) project in the province.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/british-columbia-and-bc-hydro-advance-first-major-bess-in-canadian-province\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-22",
-    "headline":"SINEXCEL on engineering grid-forming PCS for European utility-scale BESS projects",
-    "summary_80w":"SINEXCEL\u2019s Luke Lu discusses grid-forming power conversion systems, noise constraints and O&#038;M as the company builds its presence in Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/sinexcel-on-engineering-grid-forming-pcs-for-european-utility-scale-bess-projects\/",
     "reliability":"trade",
     "notes":""
   }
