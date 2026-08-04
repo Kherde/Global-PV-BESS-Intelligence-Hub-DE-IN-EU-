@@ -1,5 +1,133 @@
 [
   {
+    "date_utc":"2026-08-04",
+    "headline":"Load smoothing, cold-start backup and speed-to-power: Fluence maps the battery storage opportunity for Australian data centres",
+    "summary_80w":"ESN Premium speaks with Fluence's Jeff Monday and Sam Markham on the opportunity battery energy storage could provide data centres in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-04",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/load-smoothing-cold-start-backup-and-speed-to-power-fluence-maps-the-battery-storage-opportunity-for-australian-data-centres\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-04",
+    "headline":"Habitat Energy appointed to optimise DC-coupled 614MWh solar-plus-storage portfolio for Octopus Australia",
+    "summary_80w":"Habitat Energy has been appointed by Octopus Australia to provide optimisation services for two DC-coupled solar-plus-storage sites.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-04",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/habitat-energy-appointed-to-optimise-dc-coupled-614mwh-solar-plus-storage-portfolio-for-octopus-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-03",
+    "headline":"Concerns over lack of clarity, transparency as US bans foreign power inverters",
+    "summary_80w":"The Public Safety and Homeland Security Bureau (PSHSB) of the US Federal Communications Commission (FCC) has classified foreign-produced power inverters and \"advanced robotic devices\" as national security threats.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/concerns-over-lack-of-clarity-transparency-as-us-bans-foreign-power-inverters\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-03",
+    "headline":"European Commission approves scheme to support 370MWh of battery storage in Slovenia",
+    "summary_80w":"The European Commission (EC) has approved a financial support scheme to accelerate the deployment of battery storage technologies in Slovenia.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/european-commission-approves-scheme-to-support-370mwh-of-battery-storage-in-slovenia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-08-03",
     "headline":"Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
     "summary_80w":"Samsung SDI is on track to begin production of lithium iron phosphate (LFP) battery cells in the US in the third quarter of this year.",
@@ -1467,134 +1595,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/spain-and-portugal-back-3-5gw-of-new-pumped-hydro-energy-storage-capacity\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-23",
-    "headline":"Tesla\u2019s energy division gross margin declines 19% despite battery storage deployment rebound",
-    "summary_80w":"Tesla\u2019s energy storage deployments rebounded in the second quarter of this year, but factors, including a decline in ASPs, had a significant impact on the company\u2019s energy division's gross margins.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/teslas-energy-division-gross-margin-declines-19-despite-battery-storage-deployment-rebound\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-23",
-    "headline":"Australia\u2019s Clean Energy Investor Group calls for faster, clearer EPBC Act implementation",
-    "summary_80w":"The Clean Energy Investor Group (CEIG) has published a report calling on the Australian government to prioritise consistent and timely implementation of the reformed Environment Protection and Biodiversity Conservation (EPBC) Act.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-clean-energy-investor-group-calls-for-faster-clearer-epbc-act-implementation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-22",
-    "headline":"VIDEO: Integrating solar, storage, grid-forming\u00a0and AI with Envision Energy",
-    "summary_80w":"We caught up with Michael Koller, Solutions Director for Europe and the UK with Envision Energy, at this year\u2019s Smarter E Europe trade show in Munich.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-integrating-solar-storage-grid-forming-and-ai-with-envision-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-22",
-    "headline":"1.5GWh+ of BESS deals in Italy: Sonnedix, Strioga buy projects; BNZ, RWE order from Sungrow and LONGi",
-    "summary_80w":"Activity in Italy's grid-scale market is accelerating, with Sonnedix and the Strioga Family Foundation acquiring projects totalling over 1GWh combined, while BNZ and RWE have ordered BESS from Sungrow and LONGi respectively totalling 540MWh.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/1-5gwh-of-bess-deals-in-italy-sonnedix-strioga-buy-projects-bnz-rwe-order-from-sungrow-and-longi\/",
     "reliability":"trade",
     "notes":""
   }
