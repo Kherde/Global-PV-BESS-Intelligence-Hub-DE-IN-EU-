@@ -63,6 +63,37 @@
   },
   {
     "date_utc":"2026-08-06",
+    "headline":"Fluence books first big data centre deals, but manufacturing ramp-up delays hit revenues",
+    "summary_80w":"Manufacturing delays have led Fluence to adjust its fiscal year 2026 guidance, even as the company has logged record quarterly orders and a US$6.4 billion backlog.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/fluence-books-first-big-data-centre-deals-but-manufacturing-ramp-up-delays-hit-revenues\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-06",
     "headline":"Australian Vanadium, Alcoa evaluate 50-80MW vanadium flow battery for WA alumina refineries",
     "summary_80w":"Australian Vanadium Limited has signed an MoU with Alcoa to evaluate the deployment of vanadium flow battery technology in Western Australia.",
     "region":"Global",
@@ -3168,38 +3199,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/malaysia-launches-tender-for-2-5gw-of-solar-pv-with-co-located-battery-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-28",
-    "headline":"Hanoi Power Corporation inaugurates the first 100MWh battery storage portfolio in Vietnamese capital",
-    "summary_80w":"Hanoi Power Corporation (EVNHANOI) has begun pilot operation of five battery energy storage systems at substations in Hanoi, Vietnam.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hanoi-power-corporation-inaugurates-the-first-100mwh-battery-storage-portfolio-in-vietnamese-capital\/",
     "reliability":"trade",
     "notes":""
   }
