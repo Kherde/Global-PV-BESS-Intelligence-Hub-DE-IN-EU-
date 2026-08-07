@@ -1,6 +1,37 @@
 [
   {
     "date_utc":"2026-08-07",
+    "headline":"Array surpasses 100GW of tracker deliveries as Q2 orders reach US$2.5 billion",
+    "summary_80w":"Array Technologies reported revenue of US$342.1 million, gross margin of 29.1% and adjusted gross margin of 30.8% for Q2 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/array-surpasses-100gw-pv-tracker-deliveries-orders-reach-us2-5-billion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-07",
     "headline":"Gentari Australia reaches mechanical completion at 243MWp solar-plus-storage project",
     "summary_80w":"Gentari Australia has reached mechanical completion at the 243MWp Maryvale Solar and Energy Storage Project near Dubbo in New South Wales.",
     "region":"Global",
@@ -60,6 +91,71 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-data-centre-energy-rules-take-shape-as-aemc-publishes-framework-and-nsw-moves-to-control-grid-access\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-07",
+    "headline":"Spanish government awards \u20ac360 million for co-located battery storage projects",
+    "summary_80w":"The Spanish Ministry of Ecological Transition (MITECO) has awarded \u20ac360 million (US$415 million) to 1.14GW of solar PV co-located with battery energy storage system (BESS) projects.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/spanish-government-awards-e360-million-for-co-located-battery-storage-projects\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-07",
+    "headline":"EV manufacturer Ola Electric brings cell-to-pack vertical integration into India\u2019s utility-scale BESS market with 20GWh MoU",
+    "summary_80w":"EV manufacturer Ola Electric has entered India\u2019s utility-scale battery storage market with a vertically integrated business model.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ev-manufacturer-ola-electric-brings-cell-to-pack-vertical-integration-into-indias-utility-scale-bess-market-with-20gwh-mou\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2694,38 +2790,6 @@
   },
   {
     "date_utc":"2026-07-30",
-    "headline":"Wacker\u2019s polysilicon earnings slashed due to solar market challenges",
-    "summary_80w":"German chemical producer Wacker Chemie has recorded a significant decline in its earnings from polysilicon, due to the adverse market conditions in the solar sector.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/wackers-polysilicon-earnings-slashed-due-to-solar-market-challenges\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-30",
     "headline":"Aecon executes energy storage agreement for 1,200MWh Ontario BESS",
     "summary_80w":"Infrastructure and construction company Aecon Group has executed an agreement with Ontario\u2019s Independent Electricity System Operator (IESO) for the 150MW\/1,200MWh Simcoe energy storage project in Norfolk County, Ontario.",
     "region":"Global",
@@ -3137,70 +3201,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/nem-battery-price-spreads-fall-85-in-a-year-as-australias-grid-scale-bess-fleet-passes-9000mw\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-29",
-    "headline":"Quinbrook\u2019s Supernode BESS becomes the largest in operation across Australia\u2019s NEM",
-    "summary_80w":"Quinbrook has completed construction and commenced commercial operations at Stage 2 of its Supernode BESS in Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/quinbrooks-supernode-bess-becomes-the-largest-in-operation-across-australias-nem\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-28",
-    "headline":"Slovakian battery and BESS manufacturer InoBat eyes SPAC merger for Nasdaq listing",
-    "summary_80w":"European battery manufacturer and energy storage system integrator InoBat plans to get a Nasdaq listing through a business combination with a special purpose acquisition company (SPAC).",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/slovakian-battery-and-bess-manufacturer-inobat-eyes-spac-merger-for-nasdaq-listing\/",
     "reliability":"trade",
     "notes":""
   }
