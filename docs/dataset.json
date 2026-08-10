@@ -1,5 +1,69 @@
 [
   {
+    "date_utc":"2026-08-10",
+    "headline":"\u2018Installers want to jam power into that storage device\u2019: Trinasolar on Australia\u2019s battery-driven solar shift",
+    "summary_80w":"Trinasolar's APAC leaders discuss how battery incentives, C&#038;I demand, and DC-coupled storage are reshaping Australia's rooftop solar market.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/installers-want-to-jam-power-into-that-storage-device-trinasolar-on-australias-battery-driven-solar-shift\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-10",
+    "headline":"Australia\u2019s AEMO needs governance overhaul as energy transition workload expands, review finds",
+    "summary_80w":"An independent review of the Australian Energy Market Operator (AEMO) has recommended 14 changes to the organisation's governance framework.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-aemo-needs-governance-overhaul-as-energy-transition-workload-expands-review-finds\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-08-07",
     "headline":"India plans PLI scheme for more than 10GW polysilicon capacity",
     "summary_80w":"India\u2019s Ministry of New and Renewable Energy (MNRE) plans to announce a scheme covering more than 10GW of polysilicon production capacity.",
@@ -2624,69 +2688,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/avaada-raises-us1-3-billion-for-2-15gw-renewables-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-31",
-    "headline":"First Solar reaffirms 2026 outlook as backlog reaches 45.1GW",
-    "summary_80w":"First Solar reported net sales of US$1.06 billion for Q2 2026, down 4% year-on-year, while reaffirming its full-year 2026 guidance.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-31",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/first-solar-reaffirms-2026-outlook-as-backlog-reaches-45-1gw\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-07-31",
-    "headline":"RWE sells US distributed generation arm to Goldman Sachs",
-    "summary_80w":"German energy company RWE has sold its US distributed clean energy generation business to Goldman Sachs.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-07-31",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/rwe-sells-us-distributed-generation-arm-to-goldman-sachs\/",
     "reliability":"trade",
     "notes":""
   },
