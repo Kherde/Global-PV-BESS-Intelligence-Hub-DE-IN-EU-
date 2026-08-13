@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-08-13",
+    "headline":"Copenhagen Infrastructure Partners reaches commercial operations on 500MW BESS in Scotland",
+    "summary_80w":"Denmark-headquartered investor Copenhagen Infrastructure Partners (CIP) has brought its 500MW, 2-hour duration Coalburn 1 battery energy storage system (BESS) into commercial operation.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-13",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/copenhagen-infrastructure-partners-commercial-operations-500mw-bess-scotland\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-08-12",
     "headline":"Scatec starts commercial operations at second and final phase of Obelisk solar-plus-storage project in Egypt",
     "summary_80w":"Scatec has started commercial operations at the second and final phase of its gigawatt-scale Obelisk solar-plus-storage project in Egypt.",
@@ -3174,38 +3206,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/european-commission-approves-scheme-to-support-370mwh-of-battery-storage-in-slovenia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-03",
-    "headline":"Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
-    "summary_80w":"Samsung SDI is on track to begin production of lithium iron phosphate (LFP) battery cells in the US in the third quarter of this year.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production\/",
     "reliability":"trade",
     "notes":""
   }
