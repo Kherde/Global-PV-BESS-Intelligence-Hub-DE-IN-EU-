@@ -1,5 +1,37 @@
 [
   {
+    "date_utc":"2026-08-24",
+    "headline":"Quinbrook taps GE Vernova and CATL for the third stage of Australia\u2019s largest battery storage system",
+    "summary_80w":"GE Vernova and CATL selected for 1,216MWh Supernode Stage 3 in Queensland, which will expand Australia's largest battery storage system.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/quinbrook-taps-ge-vernova-and-catl-for-the-third-stage-of-australias-largest-battery-storage-system\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-08-21",
     "headline":"India\u2019s BESS supply chain suffers a \u2018policy intent and operational capacity\u2019 gap, with battery cell self-sufficiency a decade or more away",
     "summary_80w":"India\u2019s battery storage sector will remain far from self-sufficient in cell supply for at least a decade, Wood Mackenzie says.",
@@ -3170,38 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/seven-trends-reshaping-battery-energy-storage-in-2026-and-beyond\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-13",
-    "headline":"ESS Inc highlights sodium-ion BESS deployment, reports net losses in Q2 2026 financials",
-    "summary_80w":"ESS Tech Inc highlighted the potential of its recent partnership with Alsym Energy and the advancement of its sodium-ion technology in its recent financial report.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ess-inc-q2-2026-financials-sodium-ion-bess-deployment-net-losses\/",
     "reliability":"trade",
     "notes":""
   }
