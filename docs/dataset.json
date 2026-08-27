@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-08-27",
+    "headline":"Heliene testing American-made solar glass",
+    "summary_80w":"US- and Canada-based PV module producer Heliene is among the companies trialling a new American-made solar glass currently being tested for sale in the US market.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/heliene-testing-american-made-solar-glass\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-27",
     "headline":"PV Chart of the Week: Wafers lag in 2027 US solar supply chain forecast",
     "summary_80w":"This week's PV Chart of the Week looks at forecast solar PV supply chain from polysilicon to modules until 2027.",
     "region":"Global",
@@ -2652,39 +2684,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/apa-to-build-104mwh-battery-storage-system-for-evolution-minings-ernest-henry-operations-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-19",
-    "headline":"EDF signs PPAs with NV Energy for 400MW solar-plus-storage project in Nevada",
-    "summary_80w":"EDF power solutions North America has signed two PPAs with NV Energy to sell power generated at a solar-plus-storage project in Nevada.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-19",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/edf-ppas-nv-energy-solar-plus-storage-project-nevada\/",
     "reliability":"trade",
     "notes":""
   },
