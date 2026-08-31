@@ -65,6 +65,70 @@
   },
   {
     "date_utc":"2026-08-31",
+    "headline":"Trump cites \u2018unusual and extraordinary threat\u2019 in executive order banning inverter, BESS & transformer imports",
+    "summary_80w":"US President Donald Trump has banned the import of inverters, transformers and other power equipment that pose a potential risk to US grid security.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/trump-cites-unusual-and-extraordinary-threat-in-executive-order-banning-inverter-bess-transformer-imports\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-31",
+    "headline":"As US grid reliability risks mount, distributed BESS offer localised solutions for resilient supply",
+    "summary_80w":"Rural and distributed battery energy storage system (BESS) projects could be emerging as critical infrastructure in the US as grid reliability risks intensify nationwide.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-08-31",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/as-us-grid-reliability-risks-mount-distributed-bess-offer-localised-solutions-for-resilient-supply\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-08-31",
     "headline":"CATL targets opportunities in Brazil\u2019s capacity reserve auction, as regulator receives nearly 300GW of bids",
     "summary_80w":"CATL has formed a partnership to work on projects awarded contracts through Brazil\u2019s first national energy storage auction programme, which received more than 6,000 bids.",
     "region":"Global",
@@ -3130,71 +3194,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/lg-energy-solution-begins-lfp-and-nmc-bess-and-ev-cell-production-at-michigan-factory\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-20",
-    "headline":"\u2018One market into many\u2019: AER says battery storage systems are reshaping Australia\u2019s NEM",
-    "summary_80w":"The AER has found that growth in renewable energy and battery storage eased pressure across Australia's wholesale electricity market in 2025.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/one-market-into-many-aer-says-battery-storage-systems-are-reshaping-australias-nem\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-20",
-    "headline":"APA to build 104MWh battery storage system for Evolution Mining\u2019s Ernest Henry operations in Australia",
-    "summary_80w":"APA Group has taken a final investment decision to construct, own and operate the 104MWh Sybella Creek solar-plus-storage site in Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/apa-to-build-104mwh-battery-storage-system-for-evolution-minings-ernest-henry-operations-in-australia\/",
     "reliability":"trade",
     "notes":""
   }
