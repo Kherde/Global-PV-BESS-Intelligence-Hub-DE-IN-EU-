@@ -1,5 +1,70 @@
 [
   {
+    "date_utc":"2026-09-01",
+    "headline":"Clean Energy Regulator: Australia\u2019s clean energy transition \u2018accelerating\u2019 as Q2 records tumble",
+    "summary_80w":"Australia recorded its strongest quarter yet for rooftop solar installations, household battery storage uptake and large-scale solar investment in Q2 2026, according to the Clean Energy Regulator's (CER) latest Quarterly Carbon Market Report.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/clean-energy-regulator-australias-clean-energy-transition-accelerating-as-q2-records-tumble\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-01",
+    "headline":"Return secures financial close, Vattenfall toll for 800MWh Dutch battery",
+    "summary_80w":"BESS owner-operator Return has signed a long-term toll with power firm Vattenfall for its 200MW\/800MWh Sirius BESS project in the Netherlands, concurrent with financial close.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/return-financial-close-vattenfall-toll-800mwh-dutch-netherlands-battery-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-08-31",
     "headline":"US PV manufacturing: how much capacity will actually be online by 2030?",
     "summary_80w":"Head of PV Tech Research, Moustafa Ramadan, kicks off a five-part series tracing the evolution and future of the US solar manufacturing supply chain.",
@@ -195,7 +260,7 @@
   {
     "date_utc":"2026-08-31",
     "headline":"\u2018You\u2019re buying a liability\u2019: panel warns developers on buying ageing battery storage assets in Australia",
-    "summary_80w":"Developers who buy or flip battery storage projects mid-life risk inheriting decommissioning liabilities they had not properly accounted for,",
+    "summary_80w":"Developers who buy or flip battery storage projects mid-life risk inheriting decommissioning liabilities they had not properly accounted for.",
     "region":"Global",
     "country":"",
     "category":"project",
@@ -2843,39 +2908,6 @@
   },
   {
     "date_utc":"2026-08-20",
-    "headline":"Windlab, Squadron Energy submit 500MW battery storage system for federal assessment in Queensland, Australia",
-    "summary_80w":"Windlab and Squadron Energy have referred a 500MW BESS at the Bungaban solar-plus-storage project in Queensland for approval.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-20",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/windlab-squadron-energy-submit-500mw-battery-storage-system-for-federal-assessment-in-queensland-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-20",
     "headline":"Renewables growth eases pressure in Australia\u2019s wholesale electricity market, AER finds",
     "summary_80w":"AER found that rising solar and wind generation, supported by BESS, eased pressure across Australia's wholesale electricity market in 2025.",
     "region":"Global",
@@ -2969,38 +3001,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/powerbank-acquires-13-9mw-new-york-community-solar-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-20",
-    "headline":"Erthos flat-mounted PV modules installed at California water treatment centre",
-    "summary_80w":"US commercial renewable energy developer ForeFront Power has begun operations at a solar PV installation in California, which is mounted flat directly onto the ground.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/erthos-flat-mounted-pv-modules-installed-at-california-water-treatment-centre\/",
     "reliability":"trade",
     "notes":""
   },
