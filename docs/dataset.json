@@ -1,6 +1,101 @@
 [
   {
     "date_utc":"2026-09-02",
+    "headline":"Part 3: Which announcements are becoming reality in the US PV manufacturing boom?",
+    "summary_80w":"In the third part of this week\u2019s series exploring the US solar supply chain, we track how quickly announced manufacturing capacity is translating into real production.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/which-announcements-becoming-reality-in-us-pv-manufacturing-boom\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-02",
+    "headline":"India\u2019s solar module overcapacity to persist through 2030 as capacity reaches 233GW",
+    "summary_80w":"India\u2019s solar module capacity has reached 233GW, with factories operating at 35\u201340% utilisation amid rising overcapacity.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/indias-solar-module-overcapacity-to-persist-through-2030-as-capacity-reaches-233gw\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-02",
+    "headline":"Array Technologies completes acquisition of Affordable Wire Management",
+    "summary_80w":"Array Technologies has completed its acquisition of Affordable Wire Management (AWM), following the announcement of the deal in July.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/array-technologies-completes-acquisition-affordable-wire-management\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-02",
     "headline":"Midsummer ditches plans for 200MW Swedish CIGS facility",
     "summary_80w":"Swedish thin-film PV manufacturer Midsummer has abandoned from plans to build a new 200MW cell manufacturing facility in its home country.",
     "region":"Global",
@@ -60,6 +155,39 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/eu-solar-delivers-savings-more-than-e30-billion-start-iran-conflict\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-02",
+    "headline":"Canadian Solar ships 3.7GWh of BESS in Q2 2026, company is \u2018actively validating\u2019 15,000+ cycle sodium-ion product",
+    "summary_80w":"Canadian Solar\u2019s quarterly battery storage shipments increased 73% year-on-year, with 3.7GWh delivered in the second quarter of 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/canadian-solar-ships-3-7gwh-of-bess-in-q2-2026-company-is-actively-validating-15000-cycle-sodium-ion-product\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3064,133 +3192,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/designing-for-water-why-flood-risk-must-move-to-the-front-of-utility-scale-solar-design\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-21",
-    "headline":"Swift Current Energy bags US$750 million for \u2018reliable\u2019 US clean energy projects",
-    "summary_80w":"US IPP Swift Current Energy has secured a US$750 million credit facility to support what it called \u201creliable, clean energy projects\u201d in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/swift-current-energy-bags-us750-million-for-reliable-us-clean-energy-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-21",
-    "headline":"Vikram Solar to add 9GW wafer\/ingot capacity at Tamil Nadu hub",
-    "summary_80w":"Vikram Solar plans a 9GW wafer and ingot plant at its recently inaugurated 6GW Tamil Nadu module facility.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/vikram-solar-to-add-9gw-wafer-ingot-capacity-at-tamil-nadu-hub\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-21",
-    "headline":"ES Foundry backs PERC amid US PV manufacturing shift to n-type",
-    "summary_80w":"ES Foundry's Alex Zhu outlines how the US cell maker is betting on PERC while navigating shifting regulations and supply-chain constraints.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/es-foundry-backs-perc-amid-us-pv-manufacturing-shift-to-n-type\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-21",
-    "headline":"\u2018Company wasn\u2019t ready in 2021\u2019: ESS Inc CEO on pivoting away from iron flow batteries to sodium-ion",
-    "summary_80w":"Why should people take ESS Inc and its pivot to sodium-ion BESS seriously, having failed to deliver on its iron flow battery promises since going public in 2021? We catch up with new CEO Drew Buckley about how he hopes to turn the ship around.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/company-wasnt-ready-in-2021-ess-inc-ceo-on-pivoting-away-from-iron-flow-batteries-to-sodium-ion\/",
     "reliability":"trade",
     "notes":""
   }
