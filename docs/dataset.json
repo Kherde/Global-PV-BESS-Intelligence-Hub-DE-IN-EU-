@@ -1,5 +1,165 @@
 [
   {
+    "date_utc":"2026-09-07",
+    "headline":"EDF Power Solutions Australia seeks EPBC Act approval for 4GWh pumped hydro plant",
+    "summary_80w":"EDF Power Solutions Australia has referred the Wala Wala Pumped Hydro Energy Storage project, a 300-400MW facility in NSW.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-07",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/edf-power-solutions-australia-seeks-epbc-act-approval-for-4gwh-pumped-hydro-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-07",
+    "headline":"OptiGrid to optimise Vena Energy\u2019s 408MW Bellambi Heights BESS in Australia",
+    "summary_80w":"OptiGrid has been selected by Vena Energy to provide trading optimisation services for the 408MW Bellambi Heights BESS in Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-07",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/optigrid-to-optimise-vena-energys-408mw-bellambi-heights-bess-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-07",
+    "headline":"NEM Data Spotlight: Utility-scale solar climbs 12% in August as rooftop hits highest total since April",
+    "summary_80w":"Australia's National Electricity Market (NEM) recorded a combined 3,893GWh of solar generation in August 2026, comprising 1,628GWh from utility-scale assets and 2,265GWh from rooftop systems.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-utility-scale-solar-climbs-12-in-august-as-rooftop-hits-highest-total-since-april\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-07",
+    "headline":"Macquarie-backed Blueleaf Energy and Universal Peak close financing on Malaysia tender-winning BESS project",
+    "summary_80w":"Blueleaf Energy and Universal Peak have closed financing for a 100MW\/400MWh battery storage project, which was one of four winning bids in a Malaysian government tender.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/macquarie-backed-blueleaf-energy-and-universal-peak-close-financing-on-malaysia-tender-winning-bess-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-07",
+    "headline":"\u2018I cannot afford to lose them\u2019: BW ESS warns on spare parts theft risk in Australia",
+    "summary_80w":"Copper theft has become a recurring security issue at Australian battery storage sites, with one regulator reporting multiple incidents.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-07",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/i-cannot-afford-to-lose-them-bw-ess-warns-on-spare-parts-theft-risk-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-09-04",
     "headline":"Inox Solar Americas signs 767MW US module supply agreement",
     "summary_80w":"Inox Solar Americas has signed a 767MW module supply agreement with a US renewable energy developer and independent power producer.",
@@ -2535,38 +2695,6 @@
   },
   {
     "date_utc":"2026-08-27",
-    "headline":"HMC Capital\u2019s KKR partnership funds 90% of first new-build battery storage site equity in Australia",
-    "summary_80w":"HMC said it has committed equity to develop its first new-build battery storage project in Australia, a 300MW\/1,200MWh facility in Victoria.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-27",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hmc-capitals-kkr-partnership-funds-90-of-first-new-build-battery-storage-site-equity-in-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-27",
     "headline":"Heliene testing American-made solar glass",
     "summary_80w":"US- and Canada-based PV module producer Heliene is among the companies trialling a new American-made solar glass currently being tested for sale in the US market.",
     "region":"Global",
@@ -2823,7 +2951,7 @@
   },
   {
     "date_utc":"2026-08-27",
-    "headline":"Shoals wins US$96 million in Voltage patent dispute, Voltage opens new case",
+    "headline":"Shoals wins US$96 million in Voltage patent dispute, Voltage seeks new trial",
     "summary_80w":"US eBOS manufacturer Shoals has been granted a successful verdict and US$96 million in damages by a court in North Carolina in its intellectual property dispute with fellow US manufacturer Voltage.",
     "region":"Global",
     "country":"",
@@ -2982,69 +3110,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-08-27",
-    "headline":"Reliability outlook improves, but Australia\u2019s NEM still needs system security investment, AEMO finds",
-    "summary_80w":"AEMO has published its 2026 ESOO, finding a clearer pathway to maintaining a reliable electricity supply across the NEM in the coming decade.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/reliability-outlook-improves-but-australias-nem-still-needs-system-security-investment-aemo-finds\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-27",
-    "headline":"\u2018Often too late\u2019: Insurers warn battery storage developers to bring cover in earlier",
-    "summary_80w":"A battery storage system can meet every contracted performance guarantee and still leave its owner watching day-to-day output fall short of expectations.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/often-too-late-insurers-warn-battery-storage-developers-to-bring-cover-in-earlier\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-08-26",
     "headline":"JinkoSolar ships 15.9GW of modules in Q2 2026, names Wei \u2018Dimi\u2019 Du new CEO",
     "summary_80w":"JinkoSolar shipped 15.9GW of modules in the second quarter of this year, which represents a 34.4% year-on-year decline.",
@@ -3137,69 +3202,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/tandem-pv-doe-grant-commercialisation-perovskite\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-26",
-    "headline":"California Assembly approves balcony solar bill, awaits Senate and Governor Newsom",
-    "summary_80w":"California\u2019s Assembly has unanimously voted in favour (73-0 and six no votes registered or NVR) of a balcony solar bill, Senate Bill 868.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/california-assembly-approves-balcony-solar-bill-awaits-senate-and-governor-newsom\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-08-26",
-    "headline":"US IPPs Swift Current, Avantus raise US$1 billion+ for clean energy projects",
-    "summary_80w":"US independent power producers (IPPs) Swift Current Energy and Avantus have secured financing for their pipelines and projects, respectively.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-08-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-ipps-swift-current-avantus-raise-us1-billion-for-clean-energy-projects\/",
     "reliability":"trade",
     "notes":""
   }
