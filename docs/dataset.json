@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-09-10",
+    "headline":"EU policymakers push to increase \u2018Made in Europe\u2019 requirement for solar under IAA",
+    "summary_80w":"The three EU Parliament rapporteurs on the proposed Industrial Accelerator Act are calling for increased European content in solar modules and other net-zero products.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-10",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/eu-policymakers-push-to-increase-made-in-europe-requirement-for-solar-under-iaa\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-10",
     "headline":"Australia: Akaysha Energy\u2019s Waratah Super Battery tests full SIPS obligation as 850MW output recorded",
     "summary_80w":"Akaysha Energy's Waratah Super Battery in Australia briefly reached its full rated output of 850MW on 7 September.",
     "region":"Global",
@@ -33,6 +65,38 @@
   },
   {
     "date_utc":"2026-09-10",
+    "headline":"Enerparc\u2019s sister company Pvwerk announces self-administered reconstruction",
+    "summary_80w":"Hamburg-based solar PV construction firm Pvwerk has filed for reconstruction just days after its sister company, Enerparc, announced insolvency.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enerparcs-sister-company-pvwerk-announces-self-administered-reconstruction\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-10",
     "headline":"ICC Sydney in Australia to host \u2018largest CBD solar array in the Southern Hemisphere\u2019",
     "summary_80w":"The ICC Sydney is set to host the largest rooftop solar installation of any central business district in the Southern Hemisphere.",
     "region":"Global",
@@ -60,6 +124,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/icc-sydney-in-australia-to-host-largest-cbd-solar-array-in-the-southern-hemisphere\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-10",
+    "headline":"Nordic ROUNDUP: Flower, Volvo and Delta Capacity launch BESS projects",
+    "summary_80w":"A roundup of large-scale BESS news from in and around the Nordic region, with Sweden-based Flower building a project in Germany, Volvo launching one in Sweden and Delta Capacity securing a toll for one in Finland.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nordic-roundup-flower-volvo-and-delta-capacity-launch-bess-projects\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2957,37 +3053,6 @@
   },
   {
     "date_utc":"2026-09-01",
-    "headline":"NERC\u2019s level 3 alert puts data centres on notice as grid faces gigawatt-scale load swings",
-    "summary_80w":"North American Electric Reliability Corporation (NERC) issued its most urgent grid reliability warning in response to artificial intelligence data centres causing massive, near-instantaneous power fluctuations.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-01",
-    "impact_score_1to5":5,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/nercs-level-3-alert-puts-data-centres-on-notice-as-grid-faces-gigawatt-scale-load-swings\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-01",
     "headline":"California advances bill enabling remote inspections of residential solar and storage systems",
     "summary_80w":"California has advanced a bill that would enable residents to request remote inspections for home energy systems.",
     "region":"Global",
@@ -3048,71 +3113,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/us-doe-launches-us12-million-r-d-fund-space-based-solar-power\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-01",
-    "headline":"Part 2: Mapping the gaps in the US solar supply chain \u2013 from polysilicon to modules",
-    "summary_80w":"US module production is at a near saturation point, but significant capacity gaps persist further up the supply chain, writes head of PV Tech Research, Moustafa Ramadan.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-pv-supply-chain-bottlenecks\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-01",
-    "headline":"Westbridge enters definitive agreement to sell 225MW solar-plus-storage project in Canada",
-    "summary_80w":"Canadian renewables development-stage developer Westbridge Renewable Energy has entered into a definitive share purchase agreement for the sale of its 225MWac Red Willow solar-plus-storage project in Canada.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/westbridge-enters-definitive-agreement-to-sell-225mw-solar-plus-storage-project-in-canada\/",
     "reliability":"trade",
     "notes":""
   },
