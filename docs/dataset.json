@@ -34,6 +34,38 @@
   },
   {
     "date_utc":"2026-09-11",
+    "headline":"Georgia Power receives approval for 1.14GW of solar PPAs",
+    "summary_80w":"Georgia Power has secured Georgia Public Service Commission (PSC) approval for seven solar PPAs totalling 1,137MW under its CARES programmes.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/georgia-power-receives-approval-for-1-14gw-of-solar-ppas\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-11",
     "headline":"Invenergy, HASI partner to develop 2.7GW solar PV and co-located BESS across the US",
     "summary_80w":"Independent power producer Invenergy has partnered with energy investment firm HA Sustainable Infrastructure Capital (HASI) to support 2.7GW of renewables across the US.",
     "region":"Global",
@@ -189,6 +221,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/solar-overtakes-coal-in-new-zealand-as-q2-generation-surges-56-to-record-242gwh\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-11",
+    "headline":"Vattenfall goes ahead with 1GWh battery storage project at former nuclear site in Germany",
+    "summary_80w":"Swedish multinational power company Vattenfall has taken a final investment decision (FID) to proceed with a 254MW\/1,000MWh battery storage project in Germany.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/vattenfall-goes-ahead-with-1gwh-battery-storage-project-at-former-nuclear-site-in-germany\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2764,38 +2828,6 @@
   },
   {
     "date_utc":"2026-09-03",
-    "headline":"Alight, Autoliv inaugurate 101MWp Eurajoki solar park in Finland",
-    "summary_80w":"Swedish independent power producer (IPP) Alight Energy and automotive safety company Autoliv have inaugurated the 101MWp Eurajoki Solar Park in Finland.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/alight-autoliv-inaugurate-101mwp-eurajoki-solar-park-in-finland\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-03",
     "headline":"Inertia in Germany is \u2018first bankable long-term revenue stream,\u2019 could boost battery storage IRR by 1-2pp",
     "summary_80w":"Inertia could provide a strong boost to BESS project returns in Germany, but operators are still waiting for the first prequalified inverters.",
     "region":"Germany",
@@ -3181,38 +3213,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/italy-gives-national-strategic-interest-designation-to-sardinia-data-centre-with-hybrid-energy-storage-hub\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-02",
-    "headline":"ARENA marks 100th community battery installed, funds three new projects across Australia",
-    "summary_80w":"The Australian Renewable Energy Agency (ARENA) has confirmed the installation of the 100th community battery storage system under its Community Batteries Funding Initiative.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/arena-marks-100th-community-battery-installed-funds-three-new-projects-across-australia\/",
     "reliability":"trade",
     "notes":""
   }
