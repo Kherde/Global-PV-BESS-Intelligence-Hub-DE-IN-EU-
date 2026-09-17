@@ -65,6 +65,39 @@
   },
   {
     "date_utc":"2026-09-17",
+    "headline":"Caelux signs 4GW hybrid-tandem module deal with India\u2019s GREW",
+    "summary_80w":"Caelux has signed a five-year agreement with GREW Solar to commercialise 4GW of hybrid-tandem solar modules.",
+    "region":"India",
+    "country":"IN",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/caelux-signs-4gw-hybrid-tandem-module-deal-with-indias-grew\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-17",
     "headline":"Zelestra signs 147MW solar-plus-storage PPA with German steelmaker Salzgitter Flachstahl",
     "summary_80w":"Zelestra has signed a PPA with German steel manufacturer Salzgitter Flachstahl for a new solar-plus-storage portfolio in Germany.",
     "region":"Germany",
@@ -3012,37 +3045,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/jinko-renames-drops-solar\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-09",
-    "headline":"US adds 17.1GW of clean power capacity in record Q2, ACP reports",
-    "summary_80w":"The US added 17.1GW of renewable energy in Q2 2026, while its project pipeline reached a record 204.6GW, according to the American Clean Power Association.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-09",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-adds-17-1gw-of-clean-power-capacity-in-record-q2-acp-reports\/",
     "reliability":"trade",
     "notes":""
   },
