@@ -1,5 +1,101 @@
 [
   {
+    "date_utc":"2026-09-23",
+    "headline":"Price of US solar module imports up more than 40% since Section 232 tariffs",
+    "summary_80w":"The median price for solar PV modules imported to the US has increased by more than 40% since the imposition of tariffs set under Section 232.",
+    "region":"Global",
+    "country":"",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/price-solar-modules-imported-us-up-more-than-40-section-232\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-23",
+    "headline":"NSW consults on Australia\u2019s first mandatory solar module recycling scheme",
+    "summary_80w":"The NSW government has opened a consultation on what it describes as Australia's first mandatory solar module recycling scheme.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nsw-consults-on-australias-first-mandatory-solar-module-recycling-scheme\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-23",
+    "headline":"Australia\u2019s Victoria requires new data centres to bring their own renewable energy and storage",
+    "summary_80w":"Australia's Victoria mandates new data centres match demand with own renewable energy and battery storage under new rules.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-victoria-requires-new-data-centres-to-bring-their-own-renewable-energy-and-storage\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-09-22",
     "headline":"RWE and Giga Storage move to construction on gigawatt-hour Netherlands and Belgium batteries",
     "summary_80w":"RWE has taken a final investment decision (FID) on 400MW\/1.1GWh BESS in the Netherlands with construction to start in due course, while Giga Storage has started building its 2.8GWh Green Turtle project in Belgium.",
@@ -92,6 +188,101 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-22",
+    "headline":"NorthStar Clean Energy completes construction of 120MW Michigan solar plant",
+    "summary_80w":"US renewable energy developer NorthStar Clean Energy has completed construction of a 120MW solar PV project in Oceana County, Michigan.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/northstar-clean-energy-completes-construction-of-120mw-michigan-solar-plant\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-22",
+    "headline":"Kelag International buys 64.4MW Italian agrivoltaics portfolio",
+    "summary_80w":"Austrian renewable energy company Kelag International has acquired a 64.4MWp portfolio of agrivoltaics projects in Italy.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/kelag-international-buys-64-4mw-italian-agrivoltaics-portfolio\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-22",
+    "headline":"Ingka starts commercial operations at 74.9MW South Carolina solar PV project",
+    "summary_80w":"Ingka Investments has started commercial operations at a 74.9MWac solar PV project in the US state of South Carolina.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ingka-starts-commercial-operations-74-9mw-south-carolina-solar-pv-project\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2913,38 +3104,6 @@
   },
   {
     "date_utc":"2026-09-14",
-    "headline":"Spanish government seeks 937MW renewables and energy storage in Teruel",
-    "summary_80w":"The Spanish Ministry of Ecological Transition (MITECO) has launched a procedure to award 937MW of grid access capacity for renewables and energy storage projects.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-14",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/spanish-government-seeks-937mw-renewables-and-energy-storage-in-teruel\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-14",
     "headline":"Raana Semiconductors to launch 12-inch CZ ingot machine for Indian solar market",
     "summary_80w":"Raana Semiconductors is targeting the launch of a commercial-grade 12-inch CZ ingot growth machine within the next 10\u201312 months.",
     "region":"India",
@@ -3036,170 +3195,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/us-finalises-ad-cvd-duties-on-solar-cell-imports-from-india-indonesia-and-laos\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-14",
-    "headline":"Chilean utility Copec acquires Tamarico II solar-plus-storage project from Metlen",
-    "summary_80w":"Chilean utility Copec has acquired the Tamarico II solar-plus-storage project from Greek renewables developer Metlen Energy &#038; Metals.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chilean-utility-copec-acquires-tamarico-ii-solar-plus-storage-project-metle\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-14",
-    "headline":"UGL to provide EPC services at APA Group\u2019s Queensland solar-plus-storage project",
-    "summary_80w":"UGL has received a contract to provide EPC services for the APA Group\u2019s Sybella solar-plus-storage project in Queensland, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ugl-provide-epc-services-apa-groups-queensland-solar-plus-storage-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-14",
-    "headline":"CrossBoundary Energy powers up 233MW solar-plus-storage site at DRC copper mine",
-    "summary_80w":"African renewables financier CrossBoundary Energy has begun commercial operations at a 233MW\/526MWh solar-plus-storage project in the Democratic Republic of the Congo (DRC).",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/crossboundary-energy-powers-up-233mw-solar-plus-storage-site-at-drc-copper-mine\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-14",
-    "headline":"Anker SOLIX XE: Energy freedom made simple",
-    "summary_80w":"Anker SOLIX, a global leader in smart energy, introduces the XE system, the next-generation true all-in-one home energy storage system.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/anker-solix-xe-energy-freedom-made-simple\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-11",
-    "headline":"Why Enerparc insolvency is a warning sign for European solar\u2019s new reality",
-    "summary_80w":"The financial difficulties of one of Europe\u2019s best-known downstream solar companies highlight the faultlines running through the continent\u2019s PV and energy storage business.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-11",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/enerparc-insolvency-faultlines-european-downstream-solar-business\/",
     "reliability":"trade",
     "notes":""
   }
