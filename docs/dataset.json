@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-09-24",
+    "headline":"NYSERDA picks eight projects for New York utility-scale energy storage programme",
+    "summary_80w":"Results are in for New York\u2019s first solicitations for large-scale energy storage resources, with 950MW of bids selected by NYSERDA.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-24",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nyserda-picks-eight-projects-for-new-york-utility-scale-energy-storage-programme\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-24",
     "headline":"Developers Valent, Akaysha advance 550MW of NEM-connected BESS in Victoria, Australia",
     "summary_80w":"Two Victorian battery storage projects have reached new construction and commissioning milestones this week, both connecting to the National Electricity Market (NEM) in Australia.",
     "region":"Global",
@@ -60,6 +92,71 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/developers-valent-akaysha-advance-550mw-of-nem-connected-bess-in-victoria-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-24",
+    "headline":"LONGi unveils HIBC solar cell with 28.29% conversion efficiency",
+    "summary_80w":"LONGi has unveiled a hybrid interdigitated back contact (HIBC) solar cell with a conversion efficiency of 28.29%, a record for the company.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/longi-unveils-hibc-solar-cell-28-29-conversion-efficiency\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-24",
+    "headline":"Waaree Energies to acquire subsidiary Indosolar for US$99 million",
+    "summary_80w":"Waaree Energies will merge group company Indosolar with itself in a transaction valued at about INR 9.5 billion (US$ 99 million).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-24",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/waaree-energies-acquire-subsidiary-indosolar-us99-million\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3007,38 +3104,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-09-16",
-    "headline":"Palisade acquires 3.2GWh of battery storage in Australia through two development-stage projects",
-    "summary_80w":"Palisade Investment Partners has acquired 100% interests in two development-stage renewable energy projects through Intera Renewables.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/palisade-acquires-3-2gwh-of-battery-storage-in-australia-through-two-development-stage-projects\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-09-15",
     "headline":"DYCM bets on integrated US solar manufacturing as demand and policy shift",
     "summary_80w":"DYCM\u2019s co-founder Sriram Das talks about US solar manufacturing, domestic supply chains and navigating shifting policy.",
@@ -3131,69 +3196,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/more-data-required-solar-project-developers-refine-site-selection\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-15",
-    "headline":"NZIA \u2018too slow\u2019 to revive European solar manufacturing, says SolarPower Europe",
-    "summary_80w":"Europe\u2019s Net Zero Industry Act (NZIA) has been implemented \u201ctoo slowly\u201d to revive the continent\u2019s solar PV manufacturing industry, according to a report by the industry group SolarPower Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nzia-too-slow-to-revive-european-solar-manufacturing-says-solarpower-europe\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-15",
-    "headline":"REPowerEU is \u2018faltering\u2019 with less than 20% of investment realised, says Brussels court",
-    "summary_80w":"The EU\u2019s REPowerEU plan to shift away from Russian gas is \u201cfaltering\u201d despite ongoing turmoil in global fossil fuel markets, according to analysis by the European Court of Auditors (ECA).",
-    "region":"Europe",
-    "country":"EU",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-15",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/repowereu-is-faltering-with-less-than-20-of-investment-realised-says-brussels-court\/",
     "reliability":"trade",
     "notes":""
   }
