@@ -99,6 +99,37 @@
   },
   {
     "date_utc":"2026-09-29",
+    "headline":"Linton sues Jingsheng in the US over alleged crystal growth patent infringement",
+    "summary_80w":"Linton Crystal Technologies has filed a lawsuit accusing Jingsheng of infringing two of its Czochralski (Cz) crystal growth equipment patents.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/linton-sues-jinsheng-us-alleged-crystal-growth-patent-infringement\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-29",
     "headline":"Neoen starts construction on 122MW solar PV portfolio in France, including agriPV and FPV",
     "summary_80w":"French independent power producer (IPP) Neoen has started construction on a 122MW solar PV portfolio in France.",
     "region":"Global",
@@ -191,6 +222,39 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/pv-storage-giants-debate-how-to-break-out-of-cutthroat-competition-technology-breakthroughs-ai-monetisation-and-compliant-global-expansion\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-29",
+    "headline":"SMA battery inverter first to win grid-forming certification for German inertia market",
+    "summary_80w":"Inverter manufacturer SMA Solar Technology has become the first to be certified as capable of providing inertia to the German grid.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sma-battery-inverter-first-to-win-grid-forming-certification-for-german-inertia-market\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3108,38 +3172,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-09-21",
-    "headline":"Flow Power breaks ground on 223MWh Bennetts Creek BESS in Victoria, Australia",
-    "summary_80w":"Flow Power has broken ground on its 100MW\/223MWh Bennetts Creek BESS in Victoria, its first large-scale standalone BESS project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/flow-power-breaks-ground-on-223mwh-bennetts-creek-bess-in-victoria-australia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-09-18",
     "headline":"To track or not to track",
     "summary_80w":"GameChange\u2019s CEO Phillip Vyhanek explores the key factors shaping the fixed-tilt versus tracker debate across global markets.",
@@ -3167,38 +3199,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/to-track-or-not-to-track\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-18",
-    "headline":"GameChange commissions 283MWp tracker system at South Africa solar project",
-    "summary_80w":"GameChange commissioned trackers at a 283MWp South Africa project, while Gonvarri secured a 389MWp Chile contract.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/gamechange-commissions-283mwp-tracker-system-at-south-africa-solar-project\/",
     "reliability":"trade",
     "notes":""
   }
