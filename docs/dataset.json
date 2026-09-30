@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2026-09-30",
+    "headline":"US policy landscape has driven domestic manufacturing, but requires a more \u2018holistic\u2019 approach",
+    "summary_80w":"US policy changes have reduced the country\u2019s reliance on solar module imports from a number of Southeast Asian countries, writes Crux.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-30",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-policy-landscape-driven-domestic-manufacturing-holistic-approach\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-30",
+    "headline":"Exus acquires 715MWp solar portfolio from ibV Energy Partners in the US",
+    "summary_80w":"Exus Renewables North America has acquired a four-project solar portfolio totalling 715MWp from ibV Energy Partners.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-09-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/exus-acquires-715mwp-solar-portfolio-from-ibv-energy-partners-in-the-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-09-30",
     "headline":"Rezolv Energy secures \u20ac561 million financing for Europe\u2019s largest solar PV plant",
     "summary_80w":"Independent power producer Rezolv Energy has secured a \u20ac561 million (US$637 million) financing for its 1.3GWp Dama Solar project in Romania.",
     "region":"Europe",
@@ -3136,70 +3200,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/uk-neso-looks-to-tackle-bess-repetitive-re-trading\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-21",
-    "headline":"US judge overturns EPA cancellation of US$7 billion Solar for All programme",
-    "summary_80w":"A Rhode Island judge ruled the EPA unlawfully terminated the US$7 billion Solar for All programme, designed to expand solar access.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-judge-overturns-epa-cancellation-of-us7-billion-solar-for-all-programme\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-21",
-    "headline":"Dilip Buildcon divests stake in 1.36GW solar PV portfolio to Alpha Alternatives",
-    "summary_80w":"Dilip Buildcon agrees to divest its stake in 10 SPVs developing a 1.36GWac solar portfolio in Madhya Pradesh.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/dilip-buildcon-divests-stake-in-1-36gw-solar-pv-portfolio\/",
     "reliability":"trade",
     "notes":""
   }
