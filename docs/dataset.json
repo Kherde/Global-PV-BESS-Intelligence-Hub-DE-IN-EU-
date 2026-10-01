@@ -1,6 +1,101 @@
 [
   {
     "date_utc":"2026-10-01",
+    "headline":"X-Elio starts commercial operations at 368MW Spanish solar PV project",
+    "summary_80w":"X-Elio has started commercial operations at the 368MW Lorca Solar project in Spain, its largest in the country.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-01",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/x-elio-starts-commercial-operations-368mw-spanish-solar-pv-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-01",
+    "headline":"US planning reform bill gets mixed response from clean energy groups",
+    "summary_80w":"A US Senate bill proposing to speed up the permitting process for energy projects has received a mixed response from clean energy industry and advocacy groups.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/us-planning-reform-bill-gets-mixed-response-from-clean-energy-groups\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-01",
+    "headline":"Cox secures financing for 75.2MW solar project in Guatemala",
+    "summary_80w":"Spanish energy and water infrastructure group Cox has secured financing for a 75.2MWp solar project in Guatemala.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/cox-secures-financing-for-75-2mw-solar-project-in-guatemala\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-01",
     "headline":"Tongwei unveils TNC 2.0 FULLX G12R-48 module targeting premium residential solar market",
     "summary_80w":"To explore the technology, design philosophy, and real-world implications of this latest innovation, we spoke with Zander Yuan, Director of Product &#038; Technology at Tongwei Solar.",
     "region":"Global",
@@ -33,7 +128,71 @@
   },
   {
     "date_utc":"2026-10-01",
-    "headline":"W\u00e4rtsil\u00e4\u2019s energy storage division rebrands through RCT Solar joint venture",
+    "headline":"Major US partnerships may signal battery storage\u2019s infrastructure era",
+    "summary_80w":"Battery energy storage systems (BESS) are increasingly being positioned as essential infrastructure investments rather than purely financial assets, as seen in a series of strategic partnerships announced in late September that integrate storage with broader energy and digital infrastructure strategies.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/major-us-partnerships-may-signal-battery-storages-infrastructure-era\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-01",
+    "headline":"Maharashtra\u2019s regulator proposes mandatory BESS for renewable projects seeking grid connectivity in Indian state",
+    "summary_80w":"Maharashtra's electricity regulator has proposed mandatory BESS for renewable projects seeking grid connectivity.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-01",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-01",
+    "headline":"W\u00e4rtsil\u00e4\u2019s energy storage division rebrands through RCT Solutions joint venture",
     "summary_80w":"W\u00e4rtsil\u00e4\u2019s energy storage business will now operate under the new brand name Varo, following the close of the company\u2019s joint venture (JV) with RCT Solar.",
     "region":"Global",
     "country":"",
@@ -3018,102 +3177,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-09-23",
-    "headline":"CATL to supply 918MWh Romania BESS, another 500MWh of projects progress elsewhere in CEE",
-    "summary_80w":"A flurry of project completions, financings and supplier deals for large-scale BESS across the Central and Eastern Europe (CEE) region, from Greenvolt, Renovatio &#038; CATL, Eurowind, Renalfa, MOL Group, Tavion, MetaWealth and Enexus &#038; Longi.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/catl-supply-918mwh-romania-bess-another-500mwh-projects-progress-elsewhere-in-cee\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-23",
-    "headline":"Australia\u2019s Victoria requires new data centres to bring their own renewable energy and storage",
-    "summary_80w":"Australia's Victoria mandates new data centres match demand with own renewable energy and battery storage under new rules.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-victoria-requires-new-data-centres-to-bring-their-own-renewable-energy-and-storage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-22",
-    "headline":"Patria Investments sells 360MW solar PV plant in Colombia",
-    "summary_80w":"Asset manager firm Patria Investments has sold 100% of its stake in a 360MW solar PV plant in Colombia to Isagen.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-22",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/patria-investments-sells-360mw-solar-pv-plant-in-colombia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-09-22",
     "headline":"NorthStar Clean Energy completes construction of 120MW Michigan solar plant",
     "summary_80w":"US renewable energy developer NorthStar Clean Energy has completed construction of a 120MW solar PV project in Oceana County, Michigan.",
@@ -3142,69 +3205,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/northstar-clean-energy-completes-construction-of-120mw-michigan-solar-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-22",
-    "headline":"Kelag International buys 64.4MW Italian agrivoltaics portfolio",
-    "summary_80w":"Austrian renewable energy company Kelag International has acquired a 64.4MWp portfolio of agrivoltaics projects in Italy.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/kelag-international-buys-64-4mw-italian-agrivoltaics-portfolio\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-22",
-    "headline":"Ingka starts commercial operations at 74.9MW South Carolina solar PV project",
-    "summary_80w":"Ingka Investments has started commercial operations at a 74.9MWac solar PV project in the US state of South Carolina.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-22",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/ingka-starts-commercial-operations-74-9mw-south-carolina-solar-pv-project\/",
     "reliability":"trade",
     "notes":""
   }
