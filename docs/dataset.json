@@ -1,6 +1,70 @@
 [
   {
     "date_utc":"2026-10-02",
+    "headline":"Best of the Week: US policy drives manufacturing, why PV DC connector failures are a challenge and Linton sues Jingsheng",
+    "summary_80w":"Welcome to the PV Tech Best of the Week roundup, covering the week\u2019s biggest stories from the global solar PV industry.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-02",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/best-of-the-week-us-policy-drives-manufacturing-dc-connector-failures-linton-sues-jingsheng\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-02",
+    "headline":"ContourGlobal completes construction at 324MW solar PV complex in Colorado",
+    "summary_80w":"Independent power producer (IPP) ContourGlobal and community-owned public power utility Platte River Power Authority have completed construction of a 324MW solar PV complex in the US state of Colorado.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-02",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/contourglobal-completes-construction-at-324mw-solar-pv-complex-in-colorado\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-02",
     "headline":"New South Wales grants approval to BayWa r.e.\u2019s Bullawah hybrid wind and battery project in Australia",
     "summary_80w":"NSW's IPC has approved BayWa r.e.'s Bullawah Wind Farm, pairing 804MW of wind with a 718MWh battery in the South West REZ.",
     "region":"Global",
@@ -30,6 +94,38 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/bullawah-wind-farm-approved-718mwh-battery-nsw\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-02",
+    "headline":"Navigating the quality challenges of US module procurement",
+    "summary_80w":"The US solar industry is contending with variable module quality as new suppliers jostle to serve this lucrative market.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-02",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/navigating-the-quality-challenges-us-module-procurement\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3027,39 +3123,6 @@
   },
   {
     "date_utc":"2026-09-24",
-    "headline":"Australia\u2019s ARENA backs AU$25 million Lightspeed trial to cut construction costs at solar sites",
-    "summary_80w":"ARENA has committed AU$25 million to Equans Solar &#038; Storage for a three-year programme testing construction and operations technologies.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-arena-backs-au25-million-lightspeed-trial-to-cut-construction-costs-at-solar-sites\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-24",
     "headline":"\u2018FCAs convinced regulators to compromise on grid fees in Germany\u2019: Eco Stor\u2019s Georg Gallmetzer on cementing the industry\u2019s future",
     "summary_80w":"We recently caught up with Georg Gallmetzer, managing director of German BESS platform Eco Stor, about the firm\u2019s role in formulating flexible connection agreements (FCAs) and how this was intimately tied to the debate on grid fees.",
     "region":"Germany",
@@ -3151,69 +3214,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/greenvolt-starts-building-2-4gwh-byd-supplied-poland-bess-900mwh-progressed-elsewhere-in-cee-baltics\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-23",
-    "headline":"Nadara starts commercial operations at 227MW Italian agriPV project",
-    "summary_80w":"Nadara has started commercial operations at the Big Fish agrivoltaics (agriPV) project in Italy, the largest agriPV project in the country.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nadara-starts-commercial-operations-227mw-italian-agripv-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-23",
-    "headline":"Abu Dhabi targets 35GW of PV by 2035",
-    "summary_80w":"Abu Dhabi\u2019s utility, Emirates Water and Electricity (EWEC), is targeting more than 35GW of solar capacity by 2035.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-23",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/abu-dhabi-35gw-solar-pv-2035\/",
     "reliability":"trade",
     "notes":""
   }
