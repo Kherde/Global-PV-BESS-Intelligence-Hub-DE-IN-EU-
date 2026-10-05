@@ -1,6 +1,40 @@
 [
   {
     "date_utc":"2026-10-05",
+    "headline":"Sumitomo invests in 500MW\/200MWh solar-wind-storage project in India",
+    "summary_80w":"Japanese trading company Sumitomo has invested in a utility-scale renewable energy park combining solar PV, wind and energy storage in India.",
+    "region":"India",
+    "country":"IN",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-05",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/sumitomo-invests-in-500mw-200mwh-solar-wind-storage-project-in-india\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-05",
     "headline":"Maryland conditionally approves 440MW of BESS for state \u2018Capacity Credit\u2019 awards",
     "summary_80w":"Maryland has conditionally selected two transmission-connected energy storage projects to receive Energy Storage Capacity Credit awards in the US state.",
     "region":"Global",
@@ -60,6 +94,38 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/statkraft-and-greenvolt-sign-largest-eu-battery-energy-storage-tolling-agreement-for-projects-in-poland\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-05",
+    "headline":"Enel finalises 270MW US solar PV portfolio acquisition",
+    "summary_80w":"Enel has completed the acquisition of seven PV sites in the Southern US, via its wholly-owned subsidiary, Enel Green Power North America.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enel-finalises-270mw-us-solar-pv-portfolio-acquisition\/",
     "reliability":"trade",
     "notes":""
   },
@@ -188,6 +254,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/dte-energy-completes-construction-at-100mw-solar-pv-plant-in-michigan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-05",
+    "headline":"Regulation remains Latin America\u2019s main challenge for BESS\u2019 growth",
+    "summary_80w":"Energy-storage.news spoke with Valentina Meneses at Americas Market Intelligence about emerging markets in Latin America and BESS challenge.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/regulation-remains-latin-americas-main-challenge-for-bess-growth\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3088,38 +3186,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-09-25",
-    "headline":"ESR to acquire Aquila Clean Energy APAC in Asia-Pacific renewables and energy storage consolidation",
-    "summary_80w":"ESR, a Singapore-headquartered real asset owner and manager focused on logistics real estate and data centres, has signed an agreement to acquire 100% of Aquila Clean Energy APAC.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/esr-to-acquire-aquila-clean-energy-apac-in-asia-pacific-renewables-and-energy-storage-consolidation\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-09-24",
     "headline":"To track or not to track: Part II",
     "summary_80w":"Henner Jahnke of Jurchen Technology examines whether high-density east-west systems can outperform trackers under today\u2019s solar economics.",
@@ -3148,70 +3214,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/to-track-or-not-to-track-2\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-24",
-    "headline":"PV Chart of the Week: European inverter manufacturers to ship 90GW globally in 2026",
-    "summary_80w":"This week's PV Chart of the Week looks at the breakdown in forecast global inverter shipments from European-headquartered manufacturers.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pv-chart-of-the-week-european-inverter-manufacturers-to-ship-90gw-globally-in-2026\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-24",
-    "headline":"Spain launches 11GW renewable and storage grid capacity allocation process",
-    "summary_80w":"MITECO has launched consultations to allocate up to 11GW of grid capacity to renewable energy and storage projects.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/spain-launches-11gw-renewable-and-storage-grid-capacity-allocation-process\/",
     "reliability":"trade",
     "notes":""
   }
