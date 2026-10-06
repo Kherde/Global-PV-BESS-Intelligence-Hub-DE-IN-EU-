@@ -1,5 +1,395 @@
 [
   {
+    "date_utc":"2026-10-06",
+    "headline":"Vertical bifacial PV specialist Next2Sun files for insolvency for two subsidiaries",
+    "summary_80w":"Germany\u2019s vertical bifacial PV specialist Next2Sun has filed for the initiation of insolvency proceedings under self-administration for parts of the company.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/vertical-bifacial-pv-specialist-next2sun-files-for-insolvency-for-two-subsidiaries\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Australia\u2019s utility PV curtailment drops to 22% in September as renewables output hits 5.44TWh",
+    "summary_80w":"Australia's utility-scale solar and wind assets generated a combined 5.44TWh across the NEM in September 2026.",
+    "region":"Global",
+    "country":"",
+    "category":"grid",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "wind",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/australias-utility-pv-curtailment-drops-to-22-in-september-as-renewables-output-hits-5-44twh\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"NEM Data Spotlight: Solar output hits 4,780GWh in September with rooftop generation up 31%",
+    "summary_80w":"Australia's NEM recorded a combined 4,780GWh of solar generation in September 2026: 1,805GWh from utility-scale and 2,975GWh from rooftop.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-solar-output-hits-4780gwh-in-september-with-rooftop-generation-up-31\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Linea Energy closes financing for 500MWh Texas BESS project",
+    "summary_80w":"IPP Linea Energy has closed a debt financing and preferred equity commitment for its 250MW\/500MWh Mesa View energy storage project in Upton County, Texas, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/linea-energy-closes-financing-for-500mwh-texas-bess-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Antora Energy announces 5.8GWh \u2018multi-day\u2019 thermal energy storage project in Kansas, US",
+    "summary_80w":"Thermal energy storage (TES) technology provider Antora Energy has announced a 5.8GWh \u201cmulti-day\u201d TES project at Pratt Energy\u2019s biorefinery in Pratt, Kansas, US.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/antora-energy-announces-5-8gwh-multi-day-thermal-energy-storage-project-in-kansas-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Valo\u2019s Steve Merrick on why accurate state of charge estimation remains energy storage\u2019s \u2018unsolved problem\u2019",
+    "summary_80w":"Inaccurate state of charge (SOC) measurements can cost battery energy storage system (BESS) operators up to 15% in lost revenue, a persistent issue despite advances in monitoring technology.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/valos-steve-merrick-on-why-accurate-state-of-charge-estimation-remains-energy-storages-unsolved-problem\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Build your BESS against future energy scenarios, not today\u2019s price curves \u2013 IPP",
+    "summary_80w":"BESS operators should be planning their projects against different locational price and charging regimes of the future rather than solely against the current revenue opportunities.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/build-your-bess-against-future-energy-scenarios-not-todays-price-curves-ipp\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Mixed stock market listing fortunes for energy storage technology firms ESS Inc, ZincFive and InoBat",
+    "summary_80w":"Share listing news from three energy storage startups with different areas of specialisation speaks to the ups and downs of going public.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/mixed-stock-market-listing-fortunes-for-energy-storage-technology-firms-ess-inc-zincfive-and-inobat\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Zelestra and EDP expand solar-plus-storage PPA partnership with another 462MWh of batteries in Spain",
+    "summary_80w":"IPP Zelestra and power firm and utility EDP have agreed two new hybrid PPAs in Spain, adding 181MWdc of solar and 462MWh BESS to their existing co-operation.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/zelestra-and-edp-expand-solar-plus-storage-ppa-partnership-with-another-462mwh-of-batteries-in-spain\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Sumitomo Corporation invests in Hero Future Energies\u2019 solar-wind-storage hybrid in Karnataka, India",
+    "summary_80w":"Japanese trading company Sumitomo Corporation has invested in a utility-scale renewable energy park combining solar PV, wind and energy storage in India.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV+BESS",
+      "wind",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sumitomo-corporation-invests-in-hero-future-energies-solar-wind-storage-hybrid-in-karnataka-india\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Australia\u2019s NEM battery storage fleet earns AU$88.91 million in Q3, with five days delivering 15% of revenue",
+    "summary_80w":"Australia's 59 grid-scale BESS earned a combined AU$88.91 million in estimated gross energy and FCAS market revenue in the NEM.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-nem-battery-storage-fleet-earns-au88-91-million-in-q3-with-five-days-delivering-15-of-revenue\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
+    "headline":"Australia\u2019s Origin Energy targets building \u2018Southern Hemisphere\u2019s largest battery storage complex\u2019",
+    "summary_80w":"Origin Energy has referred a new BESS project, Eraring BESS North, for assessment under Australia's EPBC Act.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/australias-origin-energy-targets-building-southern-hemispheres-largest-battery-storage-complex\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-10-05",
     "headline":"Sumitomo invests in 500MW\/200MWh solar-wind-storage project in India",
     "summary_80w":"Japanese trading company Sumitomo has invested in a utility-scale renewable energy park combining solar PV, wind and energy storage in India.",
@@ -2611,199 +3001,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-09-28",
-    "headline":"EnerVenue opens factory, secures first multi-MWh order for 30,000-cycle nickel-hydrogen batteries at Chinese oilfield",
-    "summary_80w":"Nickel-hydrogen battery company EnerVenue has secured its first commercial order at multi-MWh scale.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/enervenue-opens-factory-secures-first-multi-mwh-order-for-30000-cycle-nickel-hydrogen-batteries-at-chinese-oilfield\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-28",
-    "headline":"Urgent need for cybersecurity overhaul as BESS deployment accelerates, Energy Storage Europe says",
-    "summary_80w":"Trade body Energy Storage Europe has called for significant reforms to the European Union's (EU\u2019s) cybersecurity framework for battery energy storage systems (BESS).",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/urgent-need-for-cybersecurity-overhaul-as-bess-deployment-accelerates-energy-storage-europe-says\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-28",
-    "headline":"VIDEO: How a global IPP uses analytics to find and act on hidden BESS losses",
-    "summary_80w":"Energy-Storage.news proudly presents our sponsored webinar with PowerUp, into the practical application of battery analytics by global IPP, Neoen.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/video-how-a-global-ipp-uses-analytics-to-find-and-act-on-hidden-bess-losses\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-28",
-    "headline":"Australia\u2019s NSW trials property-level and community battery models to extend solar benefits",
-    "summary_80w":"Two publicly funded pilots have launched in NSW, testing ways to extend the benefits of distributed solar and battery storage to households.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-nsw-trials-property-level-and-community-battery-models-to-extend-solar-benefits\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-28",
-    "headline":"Australia\u2019s most powerful battery storage system officially completed",
-    "summary_80w":"Akaysha Energy has reached final commercial operations at its Waratah Super Battery in New South Wales, Australia.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-most-powerful-battery-storage-system-officially-completed\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-28",
-    "headline":"Australia\u2019s NSW grants development consent for 200MWh battery storage system",
-    "summary_80w":"The New South Wales (NSW) government has granted development consent for the 200MWh Deniliquin East battery energy storage system.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-28",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/australias-nsw-grants-development-consent-for-200mwh-battery-storage-system\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-09-27",
     "headline":"Australia connects record 9.1GW of renewables and storage as NEM pipeline reaches 75.4GW",
     "summary_80w":"AEMO said a record 9.1GW of new renewable energy and storage capacity connected to the National Electricity Market (NEM) in FY26.",
@@ -2832,39 +3029,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australia-connects-record-9-1gw-of-renewables-and-storage-as-nem-pipeline-reaches-75-4gw\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-25",
-    "headline":"Energiequelle sells French subsidiary, including 500MW solar PV, wind pipeline",
-    "summary_80w":"German renewables developer Energiequelle has sold its French subsidiary to French independent power producer H2air.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-25",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/energiequelle-sells-french-subsidiary-including-500mw-solar-pv-wind-pipeline\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3055,165 +3219,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/us-doe-puts-us5-25-billion-towards-23gw-of-grid-improvements\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-25",
-    "headline":"Solar PV repowering to account for 23% of new capacity additions by the 2040s",
-    "summary_80w":"The replacement of decommissioned solar projects will account for 23% of new capacity additions by the 2040s, according to Wood Mackenzie.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-repowering-account-23-new-capacity-additions-2040s\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-25",
-    "headline":"BESS Industry Buzz: Owner vs trader returns, market saturation, more Northvolt M&A, alt technologies\u2019 differing fortunes",
-    "summary_80w":"Another roundup of user-posted hot takes and analysis from the energy storage industry recently.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bess-industry-buzz-owner-vs-trader-returns-market-saturation-more-northvolt-ma-alt-technologies-differing-fortunes\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-25",
-    "headline":"US ROUNDUP: BESS portfolio deals, investment and partnerships for Energy Vault, SMT Energy, NeoVolta and SK On",
-    "summary_80w":"Recently, US BESS companies Energy Vault and Goshe, SMT Energy and Climate Adaptive Infrastructure, and NeoVolta and SK On have made major deals and secured strategic partnerships.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-bess-portfolio-deals-investment-and-partnerships-for-energy-vault-smt-energy-neovolta-and-sk-on\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-25",
-    "headline":"US power conversion manufacturers in spotlight: Power Electronics builds Houston factory, Heron Power lands RWE pilot",
-    "summary_80w":"Spain-headquartered Power Electronics has opened a new factory in Houston, Texas, as the US market increasingly looks to build domestic content supply chains.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-power-conversion-manufacturers-in-spotlight-power-electronics-builds-houston-factory-heron-power-lands-rwe-pilot\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-24",
-    "headline":"To track or not to track: Part II",
-    "summary_80w":"Henner Jahnke of Jurchen Technology examines whether high-density east-west systems can outperform trackers under today\u2019s solar economics.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-24",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/to-track-or-not-to-track-2\/",
     "reliability":"trade",
     "notes":""
   }
