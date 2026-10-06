@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-10-06",
+    "headline":"Quality issues raise PV systems\u2019 LCOE more than 20% \u2013 HelioVolta",
+    "summary_80w":"Poor solar PV project quality can increase the levelised cost of energy of a PV system by more than 20%, according to a report by HelioVolta.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-06",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/quality-issues-raise-pv-systems-lcoe-more-than-20-heliovolta\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-06",
     "headline":"Vertical bifacial PV specialist Next2Sun files for insolvency for two subsidiaries",
     "summary_80w":"Germany\u2019s vertical bifacial PV specialist Next2Sun has filed for the initiation of insolvency proceedings under self-administration for parts of the company.",
     "region":"Germany",
@@ -3188,37 +3220,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/websol-secures-land-for-4gw-solar-cell-module-manufacturing-plant-in-west-bengal\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-25",
-    "headline":"US DOE puts US$5.25 billion towards 23GW of grid improvements",
-    "summary_80w":"The US Department of Energy\u2019s (DOE) Office of Electricity (OE) will funnel US$5.25 billion into 31 \u201cgrid-improvement\u201d projects across the US, which it claims will allow for 23GW of additional electricity capacity.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-25",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-doe-puts-us5-25-billion-towards-23gw-of-grid-improvements\/",
     "reliability":"trade",
     "notes":""
   }
