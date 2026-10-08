@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-10-08",
+    "headline":"Researchers find almost 8,000 European solar energy systems exposed to internet cyberattacks",
+    "summary_80w":"A joint Dutch team of researchers shows commercial solar power assets are internet-accessible, creating a dangerous threat to infrastructure.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-08",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/researchers-almost-8000-european-solar-energy-systems-exposed-cyberattacks\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-08",
     "headline":"Tata Power, Ocean Sun to pilot membrane-based floating solar technology in India",
     "summary_80w":"Tata Power has partnered with Norway\u2019s Ocean Sun to test membrane-based floating solar technology at its Maharashtra reservoir.",
     "region":"India",
@@ -3059,38 +3091,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/solar-markt-group-starts-commercial-operations-hungarys-largest-solar-plus-storage-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-09-30",
-    "headline":"The illusion of simplicity: Why PV DC connector failures remain a persistent challenge",
-    "summary_80w":"In this contributed blog for PV Tech, Dr KT Tan, CTO of Viridian Solar, argues that DC connectors, though among the cheapest components in a PV installation, sit in the same dangerous blind spot as the low-cost parts blamed for catastrophic engineering failures like the Challenger and Columbia disasters.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-09-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/the-illusion-of-simplicity-why-pv-dc-connector-failures-remain-a-persistent-challenge\/",
     "reliability":"trade",
     "notes":""
   },
