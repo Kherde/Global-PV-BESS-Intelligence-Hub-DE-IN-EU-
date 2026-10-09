@@ -100,6 +100,70 @@
   },
   {
     "date_utc":"2026-10-09",
+    "headline":"India\u2019s MNRE issues 12th solar cell ALMM revision, capacity reaches 37.8GW",
+    "summary_80w":"India\u2019s MNRE issued the 12th revision of its Approved List of Models and Manufacturers (ALMM) List-II for solar PV cells on 8 October 2026.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/indias-mnre-issues-12th-solar-cell-almm-revision-capacity-reaches-37-8gw\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-09",
+    "headline":"Institutional equity funds community solar projects for Pivot Energy and Generate Capital",
+    "summary_80w":"Funds have been raised from private equity providers for two community solar developers that benefit several US states, in separate deals.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-09",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/institutional-equity-funds-community-solar-projects-for-pivot-energy-and-generate-capital\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-09",
     "headline":"Australia backs goal to double global residential rooftop solar installations by 2030",
     "summary_80w":"Australia has endorsed a global plan to double the number of homes with rooftop solar PV by 2030, becoming the first country to do so.",
     "region":"Global",
@@ -3024,69 +3088,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/pv-chart-of-the-week-european-inverter-manufacturing-forecast-to-increase-in-2027-as-utilisation-rate-drops\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-01",
-    "headline":"US planning reform bill gets mixed response from clean energy groups",
-    "summary_80w":"A US Senate bill proposing to speed up the permitting process for energy projects has received a mixed response from clean energy industry and advocacy groups.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-planning-reform-bill-gets-mixed-response-from-clean-energy-groups\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-01",
-    "headline":"Cox secures financing for 75.2MW solar project in Guatemala",
-    "summary_80w":"Spanish energy and water infrastructure group Cox has secured financing for a 75.2MWp solar project in Guatemala.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-01",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/cox-secures-financing-for-75-2mw-solar-project-in-guatemala\/",
     "reliability":"trade",
     "notes":""
   },
