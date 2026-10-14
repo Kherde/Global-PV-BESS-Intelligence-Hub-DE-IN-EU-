@@ -1,6 +1,102 @@
 [
   {
     "date_utc":"2026-10-14",
+    "headline":"Pexapark: September 2026 PPA prices rise 5% across Europe",
+    "summary_80w":"The prices of European renewable energy power purchase agreements (PPAs) rose by 5.0% in September, according to figures from Pexapark.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-14",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/pexapark-september-2026-ppa-prices-rise-5-across-europe\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-14",
+    "headline":"Arevon signs three 20-year REC contracts for 200MW Illinois solar project",
+    "summary_80w":"Arevon Energy signed three 20-year Indexed REC contracts with Illinois utilities for its 200MWac\/275MWdc Panther Energy solar project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-14",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/arevon-signs-three-20-year-rec-contracts-for-200mw-illinois-solar-project\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-14",
+    "headline":"From higher efficiency to higher asset value: LONGi\u2019s strategy to lead Europe\u2019s clean energy transition",
+    "summary_80w":"Leon Zhang, President of Utility Europe, LONGi, discusses the changing economics of European solar and the strategic role of storage.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-14",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/from-higher-efficiency-to-higher-asset-value-longis-strategy-to-lead-europes-clean-energy-transition\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-14",
     "headline":"India\u2019s solar generation rises 39% in Q2\u2014CREA",
     "summary_80w":"India\u2019s solar generation rose 39% year-on-year to a record 705MU on 30 September, CREA\u2019s latest snapshot reported.",
     "region":"India",
@@ -28,6 +124,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/indias-solar-generation-rises-39-in-q2-crea\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-14",
+    "headline":"LTSAs under scrutiny: what BESS owners really need from their contracts",
+    "summary_80w":"A panel of BESS industry experts discussed the ins and outs of long-term service agreements (LTSAs) at the Battery Asset Management Summit UK &#038; Ireland 2026 yesterday.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-14",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/ltsas-under-scrutiny-what-bess-owners-really-need-from-their-contracts\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2726,103 +2854,6 @@
   },
   {
     "date_utc":"2026-10-06",
-    "headline":"Vertical bifacial PV specialist Next2Sun files for insolvency for two subsidiaries",
-    "summary_80w":"Germany\u2019s vertical bifacial PV specialist Next2Sun has filed for the initiation of insolvency proceedings under self-administration for parts of the company.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/vertical-bifacial-pv-specialist-next2sun-files-for-insolvency-for-two-subsidiaries\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-06",
-    "headline":"Australia\u2019s utility PV curtailment drops to 22% in September as renewables output hits 5.44TWh",
-    "summary_80w":"Australia's utility-scale solar and wind assets generated a combined 5.44TWh across the NEM in September 2026.",
-    "region":"Global",
-    "country":"",
-    "category":"grid",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "wind",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australias-utility-pv-curtailment-drops-to-22-in-september-as-renewables-output-hits-5-44twh\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-06",
-    "headline":"NEM Data Spotlight: Solar output hits 4,780GWh in September with rooftop generation up 31%",
-    "summary_80w":"Australia's NEM recorded a combined 4,780GWh of solar generation in September 2026: 1,805GWh from utility-scale and 2,975GWh from rooftop.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/nem-data-spotlight-solar-output-hits-4780gwh-in-september-with-rooftop-generation-up-31\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-06",
     "headline":"Canadian Solar\u2019s e-STORAGE to deliver 200MWh BESS for Australian solar-plus-storage site",
     "summary_80w":"e-STORAGE has signed an agreement to supply and commission a 100MW\/200MWh BESS for OX2's Muswellbrook solar-plus-storage site in Australia.",
     "region":"Global",
@@ -3144,38 +3175,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-origin-energy-targets-building-southern-hemispheres-largest-battery-storage-complex\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-05",
-    "headline":"Maryland conditionally approves 440MW of BESS for state \u2018Capacity Credit\u2019 awards",
-    "summary_80w":"Maryland has conditionally selected two transmission-connected energy storage projects to receive Energy Storage Capacity Credit awards in the US state.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-05",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/maryland-conditionally-approves-440mw-of-bess-for-state-capacity-credit-awards\/",
     "reliability":"trade",
     "notes":""
   },
