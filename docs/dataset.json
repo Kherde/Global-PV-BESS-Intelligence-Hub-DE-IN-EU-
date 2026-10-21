@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-10-21",
+    "headline":"China proposes export controls on polysilicon, wafers and other PV technologies",
+    "summary_80w":"China\u2019s Ministry of Commerce is proposing to introduce export controls on key PV components, including polysilicon, wafers and cells.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-21",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/china-proposes-export-controls-on-polysilicon-wafers-and-other-pv-technologies\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-21",
     "headline":"Enertrag and Axpo reach FID, order equipment on French BESS projects totalling 239MWh",
     "summary_80w":"German IPP Enertrag and Swiss utility Axpo have launched BESS projects in France, including what could be the country\u2019s first 3-hour project.",
     "region":"Germany",
@@ -3108,38 +3140,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/premier-energies-secures-us-419-million-in-orders-in-q2-fy2027\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-12",
-    "headline":"India adds 35.2GW of solar capacity in nine months\u2014report",
-    "summary_80w":"India added 35.2GW of solar capacity in January\u2013September 2026, led by utility-scale installations, according to a new report.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-12",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/india-adds-35-2gw-of-solar-capacity-in-nine-months-report\/",
     "reliability":"trade",
     "notes":""
   },
