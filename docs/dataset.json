@@ -131,6 +131,70 @@
   },
   {
     "date_utc":"2026-10-22",
+    "headline":"France\u2019s storage market moves to higher durations with secondary reserve saturation \u2018cliff-edge\u2019 approaching",
+    "summary_80w":"BESS investments in the French market are moving to longer durations with saturation expected to hit the secondary reserve market, currently the main way operational projects make their money.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/frances-storage-market-moves-to-higher-durations-with-secondary-reserve-saturation-cliff-edge-approaching\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-22",
+    "headline":"Faria Renewables inaugurates 134MWh, Huawei-supplied Greece BESS",
+    "summary_80w":"IPP and EPC Faria Renewables has inaugurated its 49.9MW\/134.16MWh Galani BESS project in Elassona, Greece.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/faria-renewables-inaugurates-134mwh-huawei-supplied-greece-bess\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-22",
     "headline":"UL Solutions launches certification pathway for modular DC BESS",
     "summary_80w":"Science safety leader UL Solutions has announced a new certification pathway intended to help manufacturers of modular direct current (DC) battery energy storage systems (BESS).",
     "region":"Global",
@@ -3143,70 +3207,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/neoen-bw-ess-and-mn8-back-efforts-to-standardise-bess-procurement-through-new-energy-storage-contract-alliance\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"W\u00e4rtsil\u00e4 energy storage JV Valo in US domestic content manufacturing discussions with \u2018strong players\u2019",
-    "summary_80w":"Valo, the new joint venture formed as a continuation of W\u00e4rtsil\u00e4\u2019s energy storage business, is weighing up investing in the US supply chain, including factories.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/wartsila-energy-storage-jv-valo-us-domestic-content-manufacturing-discussions-strong-players\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Samsung C&T refers 800MWh Darnum BESS in Victoria\u2019s Gippsland region to Australia\u2019s EPBC Act",
-    "summary_80w":"Samsung C&#038;T\u2019s Australian renewables arm has referred an 800MWh battery energy storage system (BESS) in Victoria\u2019s Gippsland region to the federal government under Australia\u2019s Environment Protection and Biodiversity Conservation (EPBC) Act.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/samsung-ct-refers-800mwh-darnum-bess-in-victorias-gippsland-region-to-australias-epbc-act\/",
     "reliability":"trade",
     "notes":""
   }
