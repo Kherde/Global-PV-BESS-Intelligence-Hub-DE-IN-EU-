@@ -66,6 +66,38 @@
   },
   {
     "date_utc":"2026-10-23",
+    "headline":"Socket Full of Sunshine Act calls for first federal-level support for US plug-in solar",
+    "summary_80w":"New Jersey representative Rob Menendez has introduced the Socket Full of Sunshine Act, the first federal-level bill to support plug-in solar.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/socket-full-of-sunshine-act-federal-level-support-us-plug-in-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
     "headline":"European solar PPA prices up 0.4% in Europe and 4.9% in the US",
     "summary_80w":"The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
     "region":"Europe",
@@ -93,6 +125,69 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/european-solar-ppa-prices-up-0-4-europe-4-9-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
+    "headline":"Tesla Q3 2026 energy storage revenues fall despite second-highest quarterly deployments",
+    "summary_80w":"Tesla\u2019s energy storage business deployed 13.7GWh in Q3 2026, its second-highest quarterly figure to date, but saw a 16% year-on-year decline in revenues for the division.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/tesla-q3-2026-energy-storage-revenues-fall-despite-second-highest-quarterly-deployments\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
+    "headline":"Google and Voltus expand PJM virtual power plant agreement to 1GW",
+    "summary_80w":"Tech giant Google and distributed energy resource (DER) platform Voltus have announced an expanded agreement to build a 1GW virtual power plant (VPP) in the US.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/google-and-voltus-expand-pjm-virtual-power-plant-agreement-to-1gw\/",
     "reliability":"trade",
     "notes":""
   },
@@ -3082,102 +3177,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ltsas-under-scrutiny-what-bess-owners-really-need-from-their-contracts\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-14",
-    "headline":"South Africa\u2019s state utility Eskom opens selection process for 1.5GW\/21GWh pumped hydro plant",
-    "summary_80w":"South Africa continues its push for energy storage capacity, with utility and grid operator Eskom issuing a call to work on a 21GWh pumped hydro energy storage (PHES) project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-14",
-    "headline":"Europe\u2019s battery market isn\u2019t ready for second-life BESS business models yet",
-    "summary_80w":"Europe is no longer betting on second-life repurposing of EV batteries for stationary BESS applications, and that is not a bad thing, argues David Oudsandji, CEO of Voltfang.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/europes-battery-market-isnt-ready-for-second-life-bess-business-models-yet\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Developer energyRe closes US$815 million financing for 360MW solar PV portfolio",
-    "summary_80w":"US renewables developer energyRe has secured US$815 million to finance five South Carolina solar projects totalling 360MW.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/developer-energyre-closes-us815-million-financing-for-360mw-solar-pv-portfolio\/",
     "reliability":"trade",
     "notes":""
   },
