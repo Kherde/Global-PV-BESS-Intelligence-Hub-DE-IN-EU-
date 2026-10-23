@@ -1,5 +1,197 @@
 [
   {
+    "date_utc":"2026-10-23",
+    "headline":"Deriva secures US$540 million for largest solar PV project to date",
+    "summary_80w":"Deriva Energy has announced the close of approximately US$540 million in financing for its 350MW Sullivan County Power Project.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/deriva-secures-us540-million-largest-solar-pv-project-to-date\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
+    "headline":"ACME Solar signs 1.2GWh PPA with SECI for clean energy supply during non-solar hours from Indian renewables assets",
+    "summary_80w":"ACME Solar has signed a 300MW\/1,200MWh PPA with the Solar Energy Corporation of India (SECI) for a solar-plus-storage portfolio.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/acme-solar-ppa-seci-clean-energy-solar-india-renewables-assets\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
+    "headline":"European solar PPA prices up 0.4% in Europe and 4.9% in the US",
+    "summary_80w":"The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/european-solar-ppa-prices-up-0-4-europe-4-9-us\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
+    "headline":"Sonnen files for insolvency in Germany two months after Shell offloading",
+    "summary_80w":"German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sonnen-files-for-insolvency-in-germany-two-months-after-shell-offloading\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
+    "headline":"Alinta Energy abandons \u2018critical\u2019 pumped hydro energy storage project in Australia",
+    "summary_80w":"Alinta Energy has discontinued work on the 7.2GWh Oven Mountain pumped hydro energy storage (PHES) project in New South Wales (NSW), Australia.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/alinta-energy-abandons-critical-pumped-hydro-energy-storage-project-in-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-22",
+    "headline":"NextEra Q3 2026 earnings rise 9.7% as shareholders approve Dominion merger",
+    "summary_80w":"NextEra Energy recorded a 9.7% increase in its net earnings in Q3 2026, with earnings up 9.5% in the nine months to date this year.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/nextera-q3-2026-earnings-rise-9-7-shareholders-approve-dominion-merger\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-10-22",
     "headline":"Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon",
     "summary_80w":"Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
@@ -126,6 +318,103 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/lodestone-energy-completes-nzxs-first-listing-built-entirely-around-utility-scale-solar-in-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-22",
+    "headline":"Global energy storage deployments will see 45% year-on-year \u2018growth surge\u2019 in 2026: BloombergNEF",
+    "summary_80w":"The global energy storage market will see a decade of sustained, rapid growth and reach 3.1TW cumulative capacity by 2036, according to BloombergNEF (BNEF).",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/global-energy-storage-deployments-will-see-45-year-on-year-growth-surge-in-2026-bloombergnef\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-22",
+    "headline":"Sodium-ion BESS: Hithium enters Canadian market, Peak Energy closes Series B with GM-led funding",
+    "summary_80w":"In recent North American sodium-ion news, Hithium is entering the Canadian market with two BESS solutions, while Peak Energy has closed a Series B financing round led by GM.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/sodium-ion-bess-hithium-enters-canadian-market-peak-energy-closes-series-b-with-gm-led-funding\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-22",
+    "headline":"European Union battery supply chain policies show mixed results so far",
+    "summary_80w":"As demand for battery storage soars, the European Union (EU) has tried to grow its local battery supply chain with mixed success so far, writes PV ESS analyst Charlotte Gisbourne.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-22",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/european-union-battery-supply-chain-policies-show-mixed-results-so-far\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2861,70 +3150,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-10-14",
-    "headline":"\u2018Mexico\u2019s mixed investment scheme provides clean energy investors with certainty\u2019",
-    "summary_80w":"Alberto Valenzuela discusses ahead of Energy Storage Summit Latin America about Mexico's growing interest in renewables and energy storage, and the factors driving this growth.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/mexicos-mixed-investment-scheme-provides-clean-energy-investors-with-certainty\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-14",
-    "headline":"Merchant exposure divides BESS investors in Japan, Singapore and Australia, DLA Piper finds",
-    "summary_80w":"DLA Piper finds merchant BESS appeal splits Japan, Singapore and Australia, with regulatory certainty, grid access and returns shaping investor views.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/merchant-exposure-divides-bess-investors-in-japan-singapore-and-australia-dla-piper-finds\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-10-13",
     "headline":"Developer energyRe closes US$815 million financing for 360MW solar PV portfolio",
     "summary_80w":"US renewables developer energyRe has secured US$815 million to finance five South Carolina solar projects totalling 360MW.",
@@ -2958,38 +3183,6 @@
   },
   {
     "date_utc":"2026-10-13",
-    "headline":"ESMC calls for EU policy support to \u2018rebuild the full PV value chain\u2019",
-    "summary_80w":"The ESMC has called on European policymakers and individual member states to rebuild the European PV industry across its entire value chain.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/esmc-calls-for-eu-policy-support-rebuild-full-pv-value-chain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
     "headline":"Heliene completes third consecutive annual 45X tax credit transfer",
     "summary_80w":"Heliene has announced the sale of Section 45X PTCs, facilitated by U.S. Bank's community development and infrastructure finance subsidiary.",
     "region":"Global",
@@ -3016,197 +3209,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/heliene-completes-third-consecutive-annual-45x-tax-credit-transfer\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Tongwei negotiations ongoing for acquisition of Qinghai Lihao",
-    "summary_80w":"Tongwei has noted that negotiations to acquire Qinghai Liaho remain ongoing with key terms still under negotiation.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/tongwei-negotiations-ongoing-acquisition-qinghai-lihao\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Briscoe Group and Farro ink supply deals with New Zealand solar generator Lodestone Energy",
-    "summary_80w":"New Zealand retailers Briscoe Group and Farro have signed electricity supply agreements with solar generator Lodestone Energy.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/briscoe-group-and-farro-ink-supply-deals-with-new-zealand-solar-generator-lodestone-energy\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"\u2018You need to get comfortable with regulatory reform as a known risk\u2019: Battery Asset Management Summit UK & Ireland kicks off",
-    "summary_80w":"Bankability &#038; offtake and regulatory &#038; system reform were the key talking points on the opening panel of the Battery Asset Management Summit UK &#038; Ireland 2026 which runs today and tomorrow (13-14 October).",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/you-need-to-get-comfortable-with-regulatory-reform-as-a-known-risk-battery-asset-management-summit-uk-ireland-kicks-off\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Foss & Company closes US$58 million tax equity deal for GridStor\u2019s Texas BESS project",
-    "summary_80w":"US tax equity syndicator Foss &#038; Company has closed a US$58 million partnership flip transaction to finance an energy storage project in Hidalgo County, Texas, developed by GridStor.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/foss-company-closes-us58-million-tax-equity-deal-for-gridstors-texas-bess-project\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Clearway Energy increases Utah \u2018Energy Centre\u2019 capacity to 2,120MWh",
-    "summary_80w":"Independent power producer (IPP) Clearway Energy has added 210MW of energy storage capacity to its Honeycomb Energy Centre fleet in Southern Utah, US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/clearway-energy-increases-utah-energy-centre-capacity-to-2120mwh\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Neoen, BW ESS and MN8 back efforts to standardise BESS procurement through new Energy Storage Contract Alliance",
-    "summary_80w":"Big names in the downstream battery storage market have signed up to join an initiative aimed at simplifying BESS procurement.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/neoen-bw-ess-and-mn8-back-efforts-to-standardise-bess-procurement-through-new-energy-storage-contract-alliance\/",
     "reliability":"trade",
     "notes":""
   }
