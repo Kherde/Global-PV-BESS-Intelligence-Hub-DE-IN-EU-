@@ -66,6 +66,68 @@
   },
   {
     "date_utc":"2026-10-23",
+    "headline":"Scatec and EBRD establish US$221 million renewable energy investment platform for Egypt",
+    "summary_80w":"Scatec and the EBRD have signed a share purchase agreement establishing a renewable energy investment platform for Egypt.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/scatec-ebrd-establish-us221-million-renewable-energy-investment-platform-egypt\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
+    "headline":"Voltalia Q3 results show strong growth, improvements in curtailment metrics",
+    "summary_80w":"Voltalia's latest results include a turnover of \u20ac177.4 million (US$198.6 million) and a 29% increase in electricity generation to 4.1TWh.",
+    "region":"Global",
+    "country":"",
+    "category":"grid",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-23",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/voltalia-q3-results-strong-growth-improvement-curtailment-metrics\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-23",
     "headline":"Socket Full of Sunshine Act calls for first federal-level support for US plug-in solar",
     "summary_80w":"New Jersey representative Rob Menendez has introduced the Socket Full of Sunshine Act, the first federal-level bill to support plug-in solar.",
     "region":"Global",
@@ -3086,38 +3148,6 @@
   },
   {
     "date_utc":"2026-10-14",
-    "headline":"India\u2019s solar generation rises 39% in Q2\u2014CREA",
-    "summary_80w":"India\u2019s solar generation rose 39% year-on-year to a record 705MU on 30 September, CREA\u2019s latest snapshot reported.",
-    "region":"India",
-    "country":"IN",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-14",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/indias-solar-generation-rises-39-in-q2-crea\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-14",
     "headline":"Energy Storage Awards 2026: Shortlist reveal kicks off countdown to the industry\u2019s big night out",
     "summary_80w":"The expert judges\u2019 difficult decisions to select winners from hundreds of worthy entries for the Energy Storage Awards 2026 are almost finalised.",
     "region":"Global",
@@ -3177,37 +3207,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/ltsas-under-scrutiny-what-bess-owners-really-need-from-their-contracts\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-13",
-    "headline":"Heliene completes third consecutive annual 45X tax credit transfer",
-    "summary_80w":"Heliene has announced the sale of Section 45X PTCs, facilitated by U.S. Bank's community development and infrastructure finance subsidiary.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-13",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/heliene-completes-third-consecutive-annual-45x-tax-credit-transfer\/",
     "reliability":"trade",
     "notes":""
   }
