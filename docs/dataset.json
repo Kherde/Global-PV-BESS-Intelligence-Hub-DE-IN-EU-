@@ -1,5 +1,229 @@
 [
   {
+    "date_utc":"2026-10-29",
+    "headline":"First Solar inaugurates 1.7GW initial phase of South Carolina module manufacturing facility",
+    "summary_80w":"First Solar has inaugurated the first 1.7GW phase of its US$330 million manufacturing facility in Gaffney, Cherokee County, South Carolina.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/first-solar-inaugurates-1-7gw-initial-phase-south-carolina-module-manufacturing-facility\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-29",
+    "headline":"ILLINOIS ROUND-UP: Arevon finances Big Muddy project, developers advance community solar projects",
+    "summary_80w":"Illinois solar sector has seen developments involving Arevon, Standard Solar, Generate Capital and TurningPoint Energy.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/illinois-round-up-arevon-big-muddy-project-developers-advance-community-solar\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-29",
+    "headline":"Western Australia targets 75% renewable energy by 2030-31 under affordability plan",
+    "summary_80w":"Western Australian government has set a target for renewables to supply 75% of SWIS electricity generation by 2030-31.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/western-australia-targets-75-renewable-energy-by-2030-31-under-affordability-plan\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-29",
+    "headline":"Portugal makes grid-forming mandatory for large-scale BESS and launches 1GW tender",
+    "summary_80w":"IPP Sonnedix has put two solar-plus-storage projects into commercial operation in Portugal, coinciding with the government moving to use BESS to strengthen the reliability of its electricity grid.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/portugal-makes-grid-forming-mandatory-for-large-scale-bess-and-launches-1gw-tender\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-29",
+    "headline":"Nordics roundup: Delta Capacity closes Finland financings, Ingrid-Alpiq offtake framework, Monsson\u2019s first investment",
+    "summary_80w":"A trio of battery storage news announcements from the buoyant Nordic market, including projects in Finland and Sweden.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/nordics-roundup-delta-capacity-closes-finland-financings-ingrid-alpiq-offtake-framework-monssons-first-investment\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-29",
+    "headline":"Algorithmic bidding not the NEM\u2019s \u2018boogeyman,\u2019 says Fluence at All-Energy Australia 2026",
+    "summary_80w":"Algorithmic bidding systems used to trade battery storage do not threaten competition in Australia's NEM, according to Fluence.",
+    "region":"Global",
+    "country":"",
+    "category":"tender",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-29",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/algorithmic-bidding-not-the-nems-boogeyman-says-fluence-at-all-energy-australia-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-28",
+    "headline":"Enphase reports stable revenue in Q3 2026, identifies storage as a \u2018key growth driver\u2019",
+    "summary_80w":"Enphase Energy has reported Q3 revenue of US$293.3 million, up less than 1% from US$291.9 million in the previous quarter.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-28",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/enphase-reports-stable-revenue-q3-2026-identifies-storage-key-growth-driver\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
     "date_utc":"2026-10-28",
     "headline":"Singapore targets 4GWp of cumulative solar PV by 2035, up from 2.3GWp today",
     "summary_80w":"Singapore\u2019s EMA has launched a five-year \u2018Energy Infrastructure Plan\u2019 that includes a target of deploying 4GW of cumulative solar capacity.",
@@ -383,7 +607,7 @@
   },
   {
     "date_utc":"2026-10-27",
-    "headline":"Thai government greenlights US$1.48 million rooftop solar programme, aims to deploy 5GW of capacity",
+    "headline":"Thai government greenlights US$1.48 billion rooftop solar programme, aims to deploy 5GW of capacity",
     "summary_80w":"Thailand's cabinet has \u200capproved a THB50 billion (US$1.48 billion) rooftop solar PV installation scheme, termed the People's Solar programme.",
     "region":"Global",
     "country":"",
@@ -409,7 +633,7 @@
       "PV"
     ],
     "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/thai-government-greenlights-us1-48-million-rooftop-solar-programme-deploy-5gw-capacity\/",
+    "source_url":"https:\/\/www.pv-tech.org\/thai-government-greenlights-us1-48-billion-rooftop-solar-programme-deploy-5gw-capacity\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2723,102 +2947,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-10-20",
-    "headline":"India must align battery storage and transmission to cut renewable curtailment",
-    "summary_80w":"Hartek Power CEO discusses India\u2019s BESS expansion, transmission infrastructure and strategies to reduce renewable energy curtailment.",
-    "region":"India",
-    "country":"IN",
-    "category":"grid",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/india-must-align-battery-storage-and-transmission-to-cut-renewable-curtailment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-20",
-    "headline":"Hazelwood BESS expansion in Australia set to double storage capacity at former coal site",
-    "summary_80w":"ENGIE's Hazelwood battery energy storage system (BESS) expansion in Australia has moved closer to financial close after a state transmission declaration.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/hazelwood-bess-expansion-in-australia-set-to-double-storage-capacity-at-former-coal-site\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-20",
-    "headline":"Akaysha Energy secures AU$1.75 billion portfolio financing for Australian BESS expansion",
-    "summary_80w":"Australian battery energy storage system (BESS) developer Akaysha Energy has refinanced its project debt into an AU$1.75 billion (US$1.22 billion) portfolio-level facility.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-20",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/akaysha-energy-secures-au1-75-billion-portfolio-financing-for-australian-bess-expansion\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-10-19",
     "headline":"ACME Solar signs 300MW\/1,200MWh PPA in latest SECI FDRE tender",
     "summary_80w":"ACME Solar has signed a 300MW\/1,200MWh PPA with the Solar Energy Corporation of India (SECI) for a solar-plus-storage portfolio.",
@@ -3047,38 +3175,6 @@
   },
   {
     "date_utc":"2026-10-16",
-    "headline":"US policy, workforce challenges and space-based solar lead PV CellTech USA discussions",
-    "summary_80w":"Industry experts from all fields of the solar PV industry gathered this week at PV CellTech USA to discuss the US solar manufacturing sector.",
-    "region":"Global",
-    "country":"",
-    "category":"policy",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-16",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/us-policy-workforce-challenges-space-based-solar-pv-celltech-usas-discussions\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-16",
     "headline":"Recurrent Energy begins commercial operations at 200MW Villameca solar project in Spain",
     "summary_80w":"Recurrent Energy has announced the start of commercial operations at the 200MWp Villameca Project in Castilla y Le\u00f3n, Spain.",
     "region":"Global",
@@ -3106,102 +3202,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/recurrent-energy-begins-commercial-operations-200mw-villameca-solar-project-spain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-16",
-    "headline":"More than module assembly: building a resilient solar ecosystem in the US",
-    "summary_80w":"Markus Beck of RCT Solutions discusses how the US PV manufacturing can be sustained beyond the current boom.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/more-than-module-assembly-building-a-resilient-solar-ecosystem-in-the-us\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-16",
-    "headline":"Norfund, Impact Fund Denmark acquire 49% stake in Vena solar project in the Philippines",
-    "summary_80w":"Norfund and Impact Fund Denmark have signed agreements to take a 49% interest in the 500MWp Ixus Bugallon Solar Power Project.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/norfund-impact-fund-denmark-acquire-49-stake-vena-solar-project-philippines\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-16",
-    "headline":"German industry groups oppose proposed solar prosumer grid surcharge",
-    "summary_80w":"Eleven German associations oppose proposed solar prosumer grid fees, warning they could deter investment and slow expansion.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-16",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/german-industry-groups-oppose-proposed-solar-prosumer-grid-surcharge\/",
     "reliability":"trade",
     "notes":""
   }
