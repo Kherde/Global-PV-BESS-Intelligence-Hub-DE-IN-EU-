@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-10-30",
+    "headline":"TOYO secures CBP release of solar cell shipments from Ethiopia",
+    "summary_80w":"US CBP has released solar cell shipments from Japanese manufacturer TOYO\u2019s Ethiopian facility after reviewing its supply chain documentation.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/toyo-secures-cbp-release-of-solar-cell-shipments-from-ethiopia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-30",
     "headline":"DTE Energy starts commercial operations at 132MW Fish Creek Solar Park in Michigan",
     "summary_80w":"Michigan utility DTE Energy has announced the operational status of its 132MW Fish Creek Solar Park near Sheridan, Michigan.",
     "region":"Global",
@@ -159,6 +191,69 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/australias-energy-minister-seeks-aemc-rule-change-forcing-data-centres-to-contract-new-firmed-energy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-30",
+    "headline":"BESS augmentation: what owner-operators need to know",
+    "summary_80w":"How should BESS owner-operators be thinking about augmentation of their projects further down the line?",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/bess-augmentation-what-owner-operators-need-to-know\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-10-30",
+    "headline":"FERC\u2019s rulings on PJM, home of \u2018Data Centre Alley,\u2019 put the spotlight on states",
+    "summary_80w":"Few grids illustrate the strain of America's data centre boom more starkly than the PJM Interconnection.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-10-30",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/fercs-rulings-on-pjm-home-of-data-centre-alley-put-the-spotlight-on-states\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2948,70 +3043,6 @@
     "notes":""
   },
   {
-    "date_utc":"2026-10-21",
-    "headline":"India\u2019s energy storage market: Bridging the gap between tenders and execution",
-    "summary_80w":"India\u2019s BESS pipeline exceeds 100GW, but financing, execution and tariff pressures threaten delivery of 411.4GWh of storage by FY2032.",
-    "region":"India",
-    "country":"IN",
-    "category":"tender",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/indias-energy-storage-market-bridging-the-gap-between-tenders-and-execution\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-21",
-    "headline":"Deye, EVE and Ganfeng Lithium: Strong Q3 results for trio of players across Chinese energy storage industry value chain",
-    "summary_80w":"Deye, EVE Energy and Ganfeng Lithium are among Chinese energy storage players to recently release Q3 2026 financial results, with all three reporting robust growth.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-21",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/deye-eve-and-ganfeng-lithium-strong-q3-results-for-trio-of-players-across-chinese-energy-storage-industry-value-chain\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
     "date_utc":"2026-10-20",
     "headline":"Italy awards over US$860 million to deploy 505MW of rooftop agriPV capacity",
     "summary_80w":"Italy\u2019s GSE has awarded US$863.6 million in grant funding to 505MW of new rooftop solar capacity, to be deployed on agricultural projects.",
@@ -3169,38 +3200,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/south-australia-advances-almost-13gw-of-solar-and-wind-in-whyalla-west-tender\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-19",
-    "headline":"Swift Current sues First Solar over alleged module defects",
-    "summary_80w":"Independent power producer (IPP) Swift Current Energy has filed a lawsuit against thin-film cadmium telluride (CdTe) solar module manufacturer First Solar in the New York County Supreme Court.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-19",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/swift-current-sues-first-solar-over-alleged-module-defects\/",
     "reliability":"trade",
     "notes":""
   }
