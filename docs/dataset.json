@@ -65,6 +65,38 @@
   },
   {
     "date_utc":"2026-11-03",
+    "headline":"Rayzon\u2019s 5.1GW TOPCon cell plant on track for December 2026 opening",
+    "summary_80w":"Indian solar manufacturer Rayzon Solar has said its 5.1GW TOPCon solar cell manufacturing facility remains on schedule.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-03",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/rayzons-5-1gw-topcon-cell-plant-on-track-for-december-2026-opening\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-03",
     "headline":"Mach unveils autonomous mower technology for utility solar sites",
     "summary_80w":"Mach, a manufacturer of autonomy technology for off-road machines, has launched a commercial solar mowing solution for utility solar assets.",
     "region":"Global",
@@ -2944,38 +2976,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/array-and-aeeris-bring-automated-hail-stow-to-australian-solar-pv-plants\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-26",
-    "headline":"Aiko Solar returns to profit in Q3, unveils PERC to ABC upgrade",
-    "summary_80w":"Aiko Solar has revealed a return to profitability in the third quarter of this year and released details of a major technology upgrade to its PERC production line.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-26",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/aiko-solar-profitability-q3-perc-to-abc-upgrade\/",
     "reliability":"trade",
     "notes":""
   },
