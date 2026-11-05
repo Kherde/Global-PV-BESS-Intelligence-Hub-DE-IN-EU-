@@ -32,6 +32,38 @@
   },
   {
     "date_utc":"2026-11-05",
+    "headline":"IB Solar signs MoU with German firms for 2GW TOPCon cell manufacturing line and R&D centre",
+    "summary_80w":"IB Solar has signed an MoU with three German companies to develop a 2GW TOPCon solar cell manufacturing line at its facility in India.",
+    "region":"Germany",
+    "country":"DE",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/ib-solar-signs-mou-with-german-firms-for-2gw-topcon-cell-manufacturing-line-and-rd-centre\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-05",
     "headline":"Energix begins commercial operations at 152MW solar PV plant in Ohio",
     "summary_80w":"Independent power producer (IPP) Energix Renewables has brought its 152MWdc Border Basin solar project online in Hancock County, Ohio, with the facility now delivering power to the PJM Interconnection market.",
     "region":"Global",
@@ -187,6 +219,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/ftc-solar-four-australian-steel-companies-sign-mou-on-pv-tracker-supply\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-05",
+    "headline":"\u2018It\u2019s a no-brainer\u2019: Alfen CEO on sodium-ion BESS plans with CATL",
+    "summary_80w":"We catch up with the CEO of Netherlands-headquartered system integrator Alfen to discuss its sodium-ion BESS partnership with CATL and plans for the technology in Europe.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-05",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/alfen-ceo-sodium-ion-bess-plans-catl\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2569,37 +2633,6 @@
   },
   {
     "date_utc":"2026-10-29",
-    "headline":"Western Australia targets 75% renewable energy by 2030-31 under affordability plan",
-    "summary_80w":"Western Australian government has set a target for renewables to supply 75% of SWIS electricity generation by 2030-31.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/western-australia-targets-75-renewable-energy-by-2030-31-under-affordability-plan\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-29",
     "headline":"Scatec\u2019s US$650 million solar-plus-storage project for Egypt Aluminium gets EBRD, EIB and AfD financing commitment",
     "summary_80w":"Scatec, the European Investment Bank (EIB), the European Bank for Reconstruction and Development (EBRD) and the African Development Bank (AfDB) have signed an investment agreement for Dandara solar-plus-storage project in Egypt.",
     "region":"Europe",
@@ -3171,38 +3204,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/poland-greenvolt-sells-1-6gwh-of-projects-to-ar-pge-building-800mwh-with-fluence-tech\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-27",
-    "headline":"Let\u2019s keep things practical: contracting in battery energy storage systems (BESS)",
-    "summary_80w":"As BESS projects grow more complex, so does the question of what 'purpose' even means in a construction contract, writes contracts lawyer Suriya Ashok of Clyde &#038; Co.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-27",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/lets-keep-things-practical-contracting-in-battery-energy-storage-systems-bess\/",
     "reliability":"trade",
     "notes":""
   }
