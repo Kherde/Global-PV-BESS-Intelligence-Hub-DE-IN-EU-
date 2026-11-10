@@ -33,8 +33,40 @@
   },
   {
     "date_utc":"2026-11-10",
+    "headline":"Qcells US modules first to pass all reliability tests from Kiwa PVEL and RETC",
+    "summary_80w":"Qcells has passed all evaluation categories in module reliability tests conducted by Kiwa PVEL and the Renewable Energy Test Center (RETC) for US-made solar modules.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/qcells-us-modules-first-to-pass-all-reliability-tests-from-kiwa-pvel-and-retc\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-10",
     "headline":"US permitting bill moves forward as opposition grows",
-    "summary_80w":"Proposed legislation that could unlock gigawatts of solar has moved forward but faces increased resistance from campaign groups concerned it undermines environmental protections.",
+    "summary_80w":"Proposed legislation that could unlock gigawatts of solar is progressing through the US Congress but faces increased resistance from campaign groups concerned it undermines environmental protections.",
     "region":"Global",
     "country":"",
     "category":"market",
@@ -188,6 +220,38 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/solaredge-ends-direct-solar-sales-in-australia-and-new-zealand\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-10",
+    "headline":"BAAJA: US legislation to speed up permitting carries hidden political risk, \u2018won\u2019t solve interconnection queue wait\u2019",
+    "summary_80w":"The energy storage industry is abuzz with discussion of passing BAAJA following Democrats\u2019 taking of the House and Senate in the 2026 US midterm elections.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-10",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2726,38 +2790,6 @@
   },
   {
     "date_utc":"2026-11-02",
-    "headline":"Yingfa Ruineng launches 7.5GW TOPCon solar cell manufacturing plant in Indonesia",
-    "summary_80w":"Yingfa Ruineng has launched its first overseas plant, a 7.5GW TOPCon cell manufacturing facility in Indonesia.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-02",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/yingfa-ruineng-launches-7-5gw-topcon-solar-cell-manufacturing-plant-in-indonesia\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-02",
     "headline":"Gresham House Energy Storage Fund launches sales process",
     "summary_80w":"The UK BESS-owning Gresham House Energy Storage Fund has launched a formal sales process, a decision which has seen its share price jump 10%.",
     "region":"Global",
@@ -3170,37 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/scatecs-us650-million-solar-plus-storage-project-for-egypt-aluminium-gets-ebrd-eib-and-afd-financing-commitment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-29",
-    "headline":"California Energy Commission releases US$46 million for DERS supporting grid reliability",
-    "summary_80w":"The California Energy Commission (CEC) has released over US$46 million for the state\u2019s Distributed Electricity Backup Assets (DEBA) Programme.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-29",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/california-energy-commission-releases-us46-million-for-ders-supporting-grid-reliability\/",
     "reliability":"trade",
     "notes":""
   }
