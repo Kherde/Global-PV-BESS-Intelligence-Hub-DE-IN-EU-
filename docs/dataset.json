@@ -1,6 +1,71 @@
 [
   {
     "date_utc":"2026-11-11",
+    "headline":"\u2018One of the most valuable markets\u2019: LONGi brings BC solar modules and LONGi ONE strategy to Australia",
+    "summary_80w":"LONGi launches two BC solar modules in Australia, aiming to outvalue TOPCon and push integrated PV-plus-storage systems in its top market.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/one-of-the-most-valuable-markets-longi-brings-bc-solar-modules-and-longi-one-strategy-to-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-11",
+    "headline":"Swelect places order for Indian-made ingot equipment for 1GW wafer line",
+    "summary_80w":"Raana Semiconductors has signed a pre-order deal to supply domestically produced ingot-growing equipment to Indian PV manufacturer Swelect HHV Solar Photovoltaics.",
+    "region":"India",
+    "country":"IN",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/swelect-preorder-czochralski-ingot-growing-equipment-raana-semiconductor\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-11",
     "headline":"SpaceX orders HJT solar cell manufacturing equipment from Singulus Technologies",
     "summary_80w":"German solar cell production equipment company Singulus Technologies has secured a supply contract with SpaceX.",
     "region":"Germany",
@@ -60,6 +125,71 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/from-megawatts-to-gigawatts-how-space-is-pulling-silicon-pv-off-the-ground\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-11",
+    "headline":"Lydian\u2019s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
+    "summary_80w":"Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW\/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-11",
+    "headline":"Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
+    "summary_80w":"Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-11",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2692,70 +2822,6 @@
   },
   {
     "date_utc":"2026-11-03",
-    "headline":"PNE sells 250MW solar PV plant in South Africa",
-    "summary_80w":"German renewables developer Pure New Energy (PNE) has sold a 250MW solar PV project in South Africa to an undisclosed independent power producer.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/pne-sells-250mw-solar-pv-plant-in-south-africa\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-03",
-    "headline":"Chinese cell producer Solarspace seeks controlling share of Eging PV",
-    "summary_80w":"Chinese cell manufacturer Solarspace is positioning itself as the prospective controlling shareholder of the veteran PV module producer, Eging PV.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-03",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/chinese-cell-producer-solarspace-seeks-controlling-share-eging-pv\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-03",
     "headline":"BESS for EV charging: why sites need it, how it works and when to install",
     "summary_80w":"Grid connections are now the biggest brake on rapid EV charging. Here's how battery storage lets charging sites deliver more power from a smaller connection, and when it pays to add it.",
     "region":"Global",
@@ -3136,69 +3202,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/bess-augmentation-what-owner-operators-need-to-know\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-30",
-    "headline":"FERC\u2019s rulings on PJM, home of \u2018Data Centre Alley,\u2019 put the spotlight on states",
-    "summary_80w":"Few grids illustrate the strain of America's data centre boom more starkly than the PJM Interconnection.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/fercs-rulings-on-pjm-home-of-data-centre-alley-put-the-spotlight-on-states\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-10-30",
-    "headline":"BESS Industry Buzz: Sonnen\u2019s collapse, BESS contracts, new market entrants and over-reporting availability",
-    "summary_80w":"We're back with another BESS Industry Buzz after a short period off, tracking interesting hot takes and analysis from across the energy storage industry.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-10-30",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bess-industry-buzz-sonnens-collapse-bess-contracts-new-market-entrants-and-over-reporting-availability\/",
     "reliability":"trade",
     "notes":""
   }
