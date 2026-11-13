@@ -194,6 +194,38 @@
   },
   {
     "date_utc":"2026-11-13",
+    "headline":"The next phase of ESS: LG Energy Solution\u2019s strategy for an evolving energy market",
+    "summary_80w":"Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-13",
     "headline":"Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
     "summary_80w":"Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said.",
     "region":"Global",
@@ -3142,38 +3174,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/vastly-different-fortunes-for-bess-in-belgium-and-germanys-capacity-market-auctions\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-03",
-    "headline":"BW ESS puts Europe\u2019s largest BESS into commercial operation in the UK",
-    "summary_80w":"BW ESS has put its 350MW\/1,240MWh Hams Hall BESS project in the UK into operation, the largest in Europe.",
-    "region":"Europe",
-    "country":"EU",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-03",
-    "impact_score_1to5":4,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/bw-ess-puts-europes-largest-bess-commercial-operation-uk-gb\/",
     "reliability":"trade",
     "notes":""
   },
