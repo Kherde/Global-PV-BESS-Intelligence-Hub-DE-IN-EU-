@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-11-13",
+    "headline":"China\u2019s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman",
+    "summary_80w":"Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-13",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/drinda-jietai-scraps-5gw-topcon-cell-manufacturing-facility-oman\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-13",
     "headline":"Metlen starts construction at 252MW\/375MWh solar-plus-storage plant in Greece",
     "summary_80w":"Greek developer Metlen Energy and Metals and Greek maritime company Tsakos Group have started construction at a 251.9MW solar-plus-storage project in Greece.",
     "region":"Global",
@@ -517,7 +549,7 @@
   },
   {
     "date_utc":"2026-11-12",
-    "headline":"Nearly 2GW of PV on offer in Saudi Arabia\u2019s renewables latest tender",
+    "headline":"Nearly 2GW of PV on offer in Saudi Arabia\u2019s latest renewables tender",
     "summary_80w":"Almost 2GW of PV capacity is to be put out to tender in the latest phase of Saudi Arabia\u2019s renewable energy procurement programme.",
     "region":"Global",
     "country":"",
@@ -2724,38 +2756,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/ib-solar-signs-mou-with-german-firms-for-2gw-topcon-cell-manufacturing-line-and-rd-centre\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-05",
-    "headline":"Energix begins commercial operations at 152MW solar PV plant in Ohio",
-    "summary_80w":"Independent power producer (IPP) Energix Renewables has brought its 152MWdc Border Basin solar project online in Hancock County, Ohio, with the facility now delivering power to the PJM Interconnection market.",
-    "region":"Global",
-    "country":"",
-    "category":"project",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/energix-begins-commercial-operations-at-152mw-solar-pv-plant-in-ohio\/",
     "reliability":"trade",
     "notes":""
   },
