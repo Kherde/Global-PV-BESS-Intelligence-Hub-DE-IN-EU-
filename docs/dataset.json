@@ -33,6 +33,38 @@
   },
   {
     "date_utc":"2026-11-17",
+    "headline":"New PV manufacturers, old quality problems",
+    "summary_80w":"Cherif Kedir, CEO of the Renewable Energy Test Center, discusses how a new generation of PV module manufacturers is making basic production errors the industry solved over a decade ago.",
+    "region":"Global",
+    "country":"",
+    "category":"tech",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/retc-solar-testing-old-quality-reliability-problems-resurfacing\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-17",
     "headline":"Nextnova inaugurates 2GW solar cell manufacturing facility",
     "summary_80w":"Nextnova has inaugurated a 2GW solar cell manufacturing facility in Oklahoma, with plans to begin full commercial operations in March 2027.",
     "region":"Global",
@@ -252,6 +284,39 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/longi-176mw-bc-modules-ox2-muswellbrook-solar-storage-australia\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-17",
+    "headline":"US solar\u2019s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!",
+    "summary_80w":"The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-17",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2573,38 +2638,6 @@
   },
   {
     "date_utc":"2026-11-10",
-    "headline":"SolarEdge ends direct solar sales in Australia and New Zealand",
-    "summary_80w":"SolarEdge is ending its direct local sales and operations in Australia and New Zealand, according to an email sent to customers and seen by PV Tech.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solaredge-ends-direct-solar-sales-in-australia-and-new-zealand\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-10",
     "headline":"BAAJA: US legislation to speed up permitting carries hidden political risk, \u2018won\u2019t solve interconnection queue wait\u2019",
     "summary_80w":"The energy storage industry is abuzz with discussion of passing BAAJA following Democrats\u2019 taking of the House and Senate in the 2026 US midterm elections.",
     "region":"Global",
@@ -3175,38 +3208,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/alfen-ceo-sodium-ion-bess-plans-catl\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-05",
-    "headline":"US distributed energy storage updates from Base Power and Sunrun",
-    "summary_80w":"US retail giant Walmart has made a strategic investment in home battery storage firm Base Power, while Sunrun has doubled the size of its home battery VPP in Puerto Rico.",
-    "region":"Global",
-    "country":"",
-    "category":"tech",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-05",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/us-distributed-energy-storage-updates-from-base-power-and-sunrun\/",
     "reliability":"trade",
     "notes":""
   }
