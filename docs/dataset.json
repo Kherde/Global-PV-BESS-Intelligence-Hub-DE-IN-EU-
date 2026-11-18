@@ -67,6 +67,39 @@
   },
   {
     "date_utc":"2026-11-18",
+    "headline":"Tesla enters solid-state transformer market with Powercore launch at RE+ 2026",
+    "summary_80w":"Tesla has unveiled Powercore, a medium-voltage platform for solar, storage and data centres, with first units expected in 2027.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/tesla-solid-state-transformer-market-powercore-launch-re-plus-2026\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-18",
     "headline":"China seeks to strengthen PV recycling system by 2030",
     "summary_80w":"Chinese authorities have set 2030 as the target date for establishing a more coherent system to manage the country\u2019s growing volumes of PV waste.",
     "region":"Global",
@@ -227,6 +260,38 @@
   },
   {
     "date_utc":"2026-11-18",
+    "headline":"US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
+    "summary_80w":"Deals and acquisitions were announced this week as RE+, the biggest clean energy trade show in the US, takes place in Las Vegas, Nevada.",
+    "region":"Global",
+    "country":"",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-18",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"Energy Storage News",
+    "source_url":"https:\/\/www.energy-storage.news\/us-roundup-samsung-sdi-eqt-canadian-solar-deals-re-plus\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-18",
     "headline":"\u2018Using every ounce of value from the assets\u2019: LG Energy Solution Vertech CPO talks data centres, BESS and software integration at RE+ 2026",
     "summary_80w":"Energy-Storage.news speaks with LG Energy Solution Vertech chief product officer Tristan Doherty at RE+ 2026.",
     "region":"Global",
@@ -292,7 +357,7 @@
   {
     "date_utc":"2026-11-18",
     "headline":"ESS Inc files for Chapter 7 bankruptcy; Stem Inc flags \u2018going concern\u2019 doubts amidst Athena optimisation platform sale",
-    "summary_80w":"US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term \u2018ability to continue as a going concern\u2019 and just sold its core software platform Athena sale.",
+    "summary_80w":"US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term \u2018ability to continue as a going concern\u2019 and just sold its core software platform Athena.",
     "region":"India",
     "country":"IN",
     "category":"tech",
@@ -2767,37 +2832,6 @@
   },
   {
     "date_utc":"2026-11-10",
-    "headline":"Turkish electricity exports generate US$500 million in revenue following strong renewable energy deployment",
-    "summary_80w":"Electricity exports have generated US$500 million in revenue for T\u00fcrkiye since the beginning of 2025, according to think tank Ember.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-10",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/turkish-electricty-exports-us500-million-revenue-strong-renewable-energy-deployment\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-10",
     "headline":"BAAJA: US legislation to speed up permitting carries hidden political risk, \u2018won\u2019t solve interconnection queue wait\u2019",
     "summary_80w":"The energy storage industry is abuzz with discussion of passing BAAJA following Democrats\u2019 taking of the House and Senate in the 2026 US midterm elections.",
     "region":"Global",
@@ -3176,38 +3210,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/australias-nem-bess-stored-energy-hits-record-20-17gwh-up-203-in-a-year\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-06",
-    "headline":"Ford Energy partners with DESRI to deploy US BESS",
-    "summary_80w":"Renewables developer D. E. Shaw Renewable Investments (DESRI) and Ford Motor Company\u2019s energy storage subsidiary, Ford Energy, will partner to deploy energy storage in the US.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-06",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "storage"
-    ],
-    "source_name":"Energy Storage News",
-    "source_url":"https:\/\/www.energy-storage.news\/ford-energy-partners-with-desri-to-deploy-us-bess\/",
     "reliability":"trade",
     "notes":""
   }
