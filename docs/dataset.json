@@ -1,6 +1,38 @@
 [
   {
     "date_utc":"2026-11-25",
+    "headline":"Policy reforms could accelerate Indonesia\u2019s 100GW deployment target \u2013 Ember",
+    "summary_80w":"A report from think tank Ember has highlighted six policy reforms in Indonesia that would accelerate the country\u2019s 100GW solar PV target.",
+    "region":"Global",
+    "country":"",
+    "category":"policy",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-25",
+    "impact_score_1to5":4,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/indonesia-100gw-solar-deployment-target-policies-ember\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-25",
     "headline":"Grenergy inks Peru\u2019s largest PPA for 450MW solar PV plants, launches hybrid platform",
     "summary_80w":"Spanish independent power producer Grenergy has signed a 15-year solar PV power purchase agreement in Peru with an investment-grade utility.",
     "region":"Global",
@@ -2854,38 +2886,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/nextnova-inaugurates-2gw-solar-cell-manufacturing-facility-commercial-operation-march-2027\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-17",
-    "headline":"ISC Konstanz starts TOPCon solar cell production at German research lab",
-    "summary_80w":"German solar energy research institute ISC Konstanz has manufactured its first TOPCon solar cell at its new research laboratory.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-17",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/isc-konstanz-topcon-solar-cell-production-german-research-lab\/",
     "reliability":"trade",
     "notes":""
   },
