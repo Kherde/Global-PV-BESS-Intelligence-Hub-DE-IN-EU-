@@ -33,6 +33,70 @@
   },
   {
     "date_utc":"2026-11-26",
+    "headline":"Solar under scrutiny in latest US trade tariff salvo",
+    "summary_80w":"Solar manufacturing has been singled out in US government proposals for new tariffs on EU member states and 13 other countries allegedly engaging in unfair trade practices against the US.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"price",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-26",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/solar-under-scrutiny-latest-us-trade-tariff-salvo\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-26",
+    "headline":"PROJECT ROUNDUP: Scatec withdraws 288MW solar project from REIPPPP, construction operations in US, Italy",
+    "summary_80w":"Scatec has withdrawn a 288MW PV project from South Africa's Renewable Energy REIPPPP scheme, plus updates from Greenvolt Power and GreenIT.",
+    "region":"Global",
+    "country":"",
+    "category":"project",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-26",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/project-roundup-scatec-withdraws-288mw-solar-project-from-reipppp-construction-operations-in-us-italy\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-26",
     "headline":"Beyond climate forecasting: AI\u2019s growing role in distributed energy flexibility",
     "summary_80w":"At the recent COP31 climate talks, Tuya Smart demonstrated how its AI Energy platform enables renewable energy assets to respond to extreme weather and electricity price fluctuations.",
     "region":"Global",
@@ -64,8 +128,8 @@
   },
   {
     "date_utc":"2026-11-26",
-    "headline":"EU Chinese inverter ban could cut Eastern European PV deployments by 5%, says Woodmac",
-    "summary_80w":"The European Union\u2019s restrictions on Chinese power inverter supply could cut solar deployments for half of the continent by 5%, according to analysis by Wood Mackenzie.",
+    "headline":"EU Chinese inverter ban could cut Eastern European PV deployments by 6%, says Woodmac",
+    "summary_80w":"The European Union\u2019s restrictions on Chinese power inverter supply could cut solar deployments for half of the continent by 6%, according to analysis by Wood Mackenzie.",
     "region":"Europe",
     "country":"EU",
     "category":"tech",
@@ -90,7 +154,7 @@
       "PV"
     ],
     "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/eu-chinese-inverter-ban-could-cut-eastern-european-pv-deployments-by-5-says-woodmac\/",
+    "source_url":"https:\/\/www.pv-tech.org\/eu-chinese-inverter-ban-could-cut-eastern-european-pv-deployments-by-6-says-woodmac\/",
     "reliability":"trade",
     "notes":""
   },
@@ -2759,69 +2823,6 @@
     ],
     "source_name":"PV-Tech",
     "source_url":"https:\/\/www.pv-tech.org\/re-product-launches-2026-solaredge-terabase-voltage\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-18",
-    "headline":"Solar Materials doubles PV recycling capacity with second Germany line",
-    "summary_80w":"Solar Materials has opened its second recycling line in Magdeburg, doubling its annual processing capacity to up to 28,000 metric tons.",
-    "region":"Germany",
-    "country":"DE",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/solar-materials-doubles-pv-recycling-capacity-germany\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-18",
-    "headline":"Australia and South Korea sign COP31 MoU to link renewable energy supply with Korean industry",
-    "summary_80w":"Australia and South Korea have signed an MoU on a bilateral decarbonisation pathway at COP31, to connect with Korean industrial demand.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/australia-south-korea-cop31-mou-renewable-energy-korean-industry\/",
     "reliability":"trade",
     "notes":""
   },
