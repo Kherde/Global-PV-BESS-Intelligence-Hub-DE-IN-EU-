@@ -65,6 +65,39 @@
   },
   {
     "date_utc":"2026-11-27",
+    "headline":"Co-locating solar and storage integral to minimise \u2018disruptive\u2019 impacts on Central and Eastern European grids",
+    "summary_80w":"The co-location of solar PV and BESS was the key talking point at the 2026 SolarPlus Central Eastern Europe event.",
+    "region":"Europe",
+    "country":"EU",
+    "category":"market",
+    "subtopic":"",
+    "capacity_MW":0,
+    "storage_MWh":0,
+    "project_stage":"NA",
+    "tariff_or_price_local":"",
+    "tariff_or_price_usd":"",
+    "entities":[
+
+    ],
+    "location":{
+      "state_or_l\u00e4nder":"",
+      "city":"",
+      "grid_zone":""
+    },
+    "effective_date":"2026-11-27",
+    "impact_score_1to5":3,
+    "tags":[
+      "utility-scale",
+      "PV",
+      "storage"
+    ],
+    "source_name":"PV-Tech",
+    "source_url":"https:\/\/www.pv-tech.org\/co-locating-solar-storage-integral-minimise-disruptive-impacts-central-eastern-european-grids\/",
+    "reliability":"trade",
+    "notes":""
+  },
+  {
+    "date_utc":"2026-11-27",
     "headline":"France targeting termination of 3.5GW solar PV contracts",
     "summary_80w":"The French government has proposed terminating 3.5GW of solar PV contracts next year, deeming them disproportionately costly.",
     "region":"Global",
@@ -1740,7 +1773,7 @@
   },
   {
     "date_utc":"2026-11-23",
-    "headline":"India\u2019s launches pilot to help discoms manage distributed solar resources",
+    "headline":"India launches pilot to help discoms manage distributed solar resources",
     "summary_80w":"As rooftop solar in India surges, the country's energy ministry is offering grants of up to INR300 million to 15 discoms to deploy distributed energy management systems.",
     "region":"India",
     "country":"IN",
@@ -2918,38 +2951,6 @@
     ],
     "source_name":"Energy Storage News",
     "source_url":"https:\/\/www.energy-storage.news\/nz-regulator-corrects-bess-price-band-rule-date\/",
-    "reliability":"trade",
-    "notes":""
-  },
-  {
-    "date_utc":"2026-11-18",
-    "headline":"Creepage distance defects have increased significantly since M10R cell introduction \u2013 Kiwa PI Berlin",
-    "summary_80w":"The number of defects related to so-called creepage distance has increased significantly in recent years following the introduction of M10R solar cells, according to Kiwa PI Berlin.",
-    "region":"Global",
-    "country":"",
-    "category":"market",
-    "subtopic":"",
-    "capacity_MW":0,
-    "storage_MWh":0,
-    "project_stage":"NA",
-    "tariff_or_price_local":"",
-    "tariff_or_price_usd":"",
-    "entities":[
-
-    ],
-    "location":{
-      "state_or_l\u00e4nder":"",
-      "city":"",
-      "grid_zone":""
-    },
-    "effective_date":"2026-11-18",
-    "impact_score_1to5":3,
-    "tags":[
-      "utility-scale",
-      "PV"
-    ],
-    "source_name":"PV-Tech",
-    "source_url":"https:\/\/www.pv-tech.org\/creepage-distance-defects-increased-m10r-cells-kiwa-pi-berlin\/",
     "reliability":"trade",
     "notes":""
   },
